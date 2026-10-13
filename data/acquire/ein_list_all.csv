@@ -1,0 +1,2386 @@
+ein,hospital_count,hospital_names,states,medicare_provider_numbers
+010130427,1,Bridgton Hospital,ME,201310
+010179500,1,Henrietta D Goodall Hospital,ME,200040
+010198331,1,Maine Coast Memorial Hospital,ME,200050
+010211494,1,Central Maine Medical Center,ME,200024
+010211501,1,Eastern Maine Medical Center,ME,200033
+010211534,1,Mercy Hospital,ME,200008
+010211551,1,St Marys Regional Medical Center,ME,200034
+010211796,1,Miles Memorial Hospital Inc (Lincoln County Hc),ME,200002
+010211797,1,Mount Desert Island Hospital,ME,201304
+010212435,1,St Joseph Hospital,ME,200001
+010212444,1,York Hospital,ME,200020
+010215227,1,Rumford Hospital,ME,201306
+010217211,1,Inland Hospital,ME,200041
+010223482,1,Millinocket Regional Hospital,ME,201307
+010227195,1,Blue Hill Memorial Hospital,ME,201300
+010234189,1,Northern Maine Medical Center,ME,200052
+010238552,8,Franklin Memorial Hospital | Lincolnhealth | Maine Medical Center | Mid Coast Hospital | Penobscot Bay Medical Center | Southern Maine Health Care | Stephens Memorial Hospital - Cah | Waldo County General Hospital,ME,200009 | 200019 | 200021 | 200037 | 200063 | 201302 | 201312 | 201315
+010244035,1,Parkview Adventist Medical Center,ME,200025
+010263198,1,Down East Community Hospital,ME,201311
+010263628,1,Sebasticook Valley Hospital,ME,201313
+010284446,1,Redington-Fairview General Hospital,ME,201314
+010372148,1,The Aroostook Medical Center,ME,200018
+010545327,1,Penobscot Valley Hospital,ME,201303
+010603214,1,Saint Francis Hospital South,OK,370218
+010646166,1,Iu Health Blackford Hospital,IN,151302
+010649794,11,Bayshore Medical Center | Hackensack Umc At Pascack Valley | Hackensack University Medical Center | Hmh -Ocean University Medical Center | Jersey Shore University Med Ctr | Jfk University Medical Center | Mountainside Hospital | Palisades Medical Center | Raritan Bay Medical Center | Riverview Medical Center | Southern Ocean Medical Center,NJ,310001 | 310003 | 310034 | 310039 | 310052 | 310054 | 310073 | 310108 | 310112 | 310113 | 310130
+010782751,2,Nationwide Childrens Hosp Toledo Llc | Nationwide Childrens Hospital,OH,363305 | 363309
+010829282,1,Good Shephard Medical Center-Linden,TX,451302
+020222118,1,Valley Regional Hospital,NH,301308
+020222131,1,Frisbie Memorial Hospital,NH,300014
+020222140,1,Mary Hitchcock Memorial Hosp,NH,300003
+020222152,1,Littleton Regional Healthcare,NH,301302
+020222156,1,Memorial Hospital,NH,301307
+020222157,1,Monadnock Community Hospital,NH,301309
+020222171,1,New London Hospital,NH,301304
+020222215,1,St Joseph Hospital,NH,300011
+020222242,1,Weeks Medical Center,NH,301303
+020222791,1,Alice Peck Day Memorial Hospital,NH,301305
+020223321,1,Cottage Hospital,NH,301301
+020223332,1,Huggins Hospital,NH,301312
+020226774,1,Speare Memorial Hospital,NH,301311
+020232673,1,Elliot Hospital,NH,300012
+020276210,1,Upper Connecticut Valley Hospital,NH,301300
+020280367,1,Androscoggin Valley Hospital,NH,301310
+020315693,1,Catholic Medical Center,NH,300034
+020354549,1,Cheshire Medical Center,NH,300019
+020483054,1,Southern Nh Medical Center,NH,300020
+030107300,1,Brattleboro Memorial Hospital,VT,470011
+030177161,1,Grace Cottage Hospital,VT,471300
+030179418,1,Gifford Medical Center,VT,471301
+030179423,1,Copley Hospital  Inc,VT,471305
+030179437,1,Springfield Hospital,VT,471306
+030181058,1,Porter Hospital,VT,471307
+030183483,1,Rutland Regional Medical Center,VT,470005
+030183721,1,Mt Ascutney Hospital And Health Cent,VT,471302
+030185556,1,North Country Hospital & Health Ctr,VT,471304
+030219309,1,University Of Vermont Medical Center,VT,470003
+030266986,1,Northwestern Medical Center,VT,470024
+036013761,1,Northeastern Vt Regional Hopsital,VT,471303
+041676720,1,North Adams Regional Hospital,MA,220051
+042103565,1,Emerson Hospital,MA,220084
+042103575,1,Baystate Franklin Medical Center,MA,220016
+042103577,1,Hubbard Regional Hospital,MA,220025
+042103581,1,Henry Heywood Memorial Hospital,MA,220095
+042103584,1,Baystate Mary Lane Hospital Corporat,MA,220050
+042103586,1,Lawrence General Hospital,MA,220010
+042103590,2,Lowell General Hospital | Saints  Medical Center Inc,MA,220063 | 220082
+042103602,1,Milford Regional Medical Center  Inc,MA,220090
+042103604,1,Bidmc-Milton Hospital  Inc,MA,220108
+042103606,1,Mount Auburn Hospital,MA,220002
+042103612,1,New England Baptist Hospital,MA,220088
+042103622,1,"St Elizabeths Medical Center, A Caritas Family Ho",MA,220036
+042103881,1,Beth Israel Deaconess Medical Center,MA,220086
+042104338,1,Anna Jaques Hospital,MA,220029
+042104434,1,Winchester Hospital,MA,220105
+042104868,1,"Saint Annes Hospital, A Caritas Family Hospital",MA,220020
+042121317,2,Addison Gilbert Hospital | Beverly Hospital,MA,220033 | 220128
+042121377,2,The Shriners Hospital For Children,MA,223303 | 223304
+042126583,1,Athol Memorial Hospital,MA,221303
+042133860,1,Fairview Hospital,MA,221302
+042156082,1,Franciscan Hospital For Children,MA,223300
+042263040,1,Dana-Farber Cancer Institute,MA,220162
+042704686,1,Lahey Clinic Hospital  Inc,MA,220171
+042767880,2,Lawrence Memorial Hospital | Melrose-Wakefield Hospital,MA,220070 | 220106
+042768252,1,Sturdy Memorial Hospital,MA,220008
+042769210,1,South Shore Hospital,MA,220100
+042774441,1,Childrens Hospital Corporation,MA,223302
+042780816,1,Morton Hospital & Medical Center,MA,220073
+042790311,1,Baystate Medical Center,MA,220077
+042791396,1,Berkshire Medical Center,MA,220046
+043207333,1,"Good Samaritan Medical Center, A Caritas Family Ho",MA,220111
+043229679,1,Beth Israel Deaconess Hospital- Need,MA,220083
+043314093,1,Boston Medical Center,MA,220031
+043339664,1,"Carney Hospital, A Caritas Family Hospital",MA,220017
+043341666,1,Charles A Dean Memorial Hospital,ME,201301
+043397716,1,"Norwood Hospital, A Caritas Family Hospital",MA,220126
+043398280,1,The Mercy Hospital,MA,220066
+043477239,1,Quincy Medical Center,MA,220067
+043633263,1,Waccamaw Community Hospital,SC,420098
+043651340,1,Tuba City Reg Health Care Corp,AZ,030073
+043730045,1,Medical Center Of The Rockies,CO,060119
+043775926,1,Doctors Hospital,FL,100296
+050258896,1,Kent County Memorial Hospital,RI,410009
+050258905,1,The Miriam Hospital,RI,410012
+050258914,1,Newport Hospital,RI,410006
+050258937,1,Women & Infants Hospital,RI,410010
+050258954,1,Rhode Island Hospital,RI,410007
+050258959,1,Roger Williams Medical Center,RI,410004
+050259004,1,Memorial Hospital Of Rhode Island,RI,410001
+050259026,1,St Joseph Health Services Of Ri,RI,410005
+050445136,1,South County Hospital,RI,410008
+060250773,1,The William W Backus Hospital,CT,070024
+060646554,1,Bridgeport Hospital,CT,070010
+060646559,1,Bristol Hospital  Inc,CT,070029
+060646597,2,Danbury Hospital | New Milford Hospital,CT,070015 | 070033
+060646599,1,Day Kimball Hospital,CT,070003
+060646652,1,Yale-New Haven Hospital,CT,070022
+060646659,1,Greenwich Hospital,CT,070018
+060646668,1,Hartford Hospital,CT,070025
+060646672,1,Hebrew Home & Hospital,CT,070040
+060646678,1,Charlotte Hungerford Hospital,CT,070011
+060646704,1,Lawrence & Memorial Hospital,CT,070007
+060646710,1,Manchester Memorial Hospital,CT,070027
+060646715,1,Midstate Medical Center,CT,070017
+060646718,1,Middlesex Hospital,CT,070020
+060646741,1,Milford Hospital  Inc,CT,070019
+060646755,1,Connecticut Childrens Medical Center,CT,073300
+060646768,2,Bradley Memorial Hospital & Health Ctr | The Hospital Of Central Connecticut,CT,070009 | 070035
+060646813,1,Saint Francis Hospital,CT,070002
+060646844,1,St Marys Hospital,CT,070016
+060646917,1,The Stamford Hospital,CT,070006
+060646966,1,Windham Community Memorial Hospital,CT,070021
+060647014,1,The Griffin Hospital,CT,070031
+060653151,1,Rockville General Hospital,CT,070012
+060653171,1,Hospital Of St Raphael,CT,070001
+060655131,1,Masonicare Health Center,CT,070039
+060665979,1,Waterbury Hospital,CT,070005
+060878822,1,The Connecticut Hospice  Inc,CT,070038
+061562701,1,St Catherine Of Siena Medical Cente,NY,330401
+061705652,1,Casey County Hospital,KY,181309
+061745397,1,Oconto Hospital & Medical Center,WI,521356
+066068853,1,Norwalk Hospital,CT,070034
+111018985,1,Long Island College Hospital,NY,330152
+111352310,1,South Nassau Communities Hospital,NY,330198
+111562701,2,North Shore Univ Hosp Syosset | North Shore University Hospital,NY,330106 | 330398
+111630755,1,The Brooklyn Hospital Center,NY,330056
+111630914,1,Huntington Hospital,NY,330045
+111631746,1,Brookdale Hospital Medical Center,NY,330233
+111631759,1,Kingsbrook Jewish Medical Center,NY,330201
+111631781,1,Flushing Hospital Medical Center,NY,330193
+111631788,1,Jamaica Hospital Medical Center,NY,330014
+111631796,1,New York-Presbyterian/Brooklyn Metho,NY,330236
+111631837,1,Wyckoff Heights Medical Center,NY,330221
+111633486,1,Nyu Winthrop Hospital,NY,330167
+111633487,1,Glen Cove Hospital,NY,330181
+111633563,1,Eastern Long Island Hospital,NY,330088
+111635081,1,Maimonides Medical Center,NY,330194
+111635084,1,Long Beach Medical Center,NY,330225
+111635088,1,Mercy Medical Center,NY,330259
+111639818,1,Mather Hospital,NY,330185
+111661359,1,Peconic Bay Medical Center,NY,330107
+111665825,1,Episcopal Health Services,NY,330395
+111667761,1,South Shore University Hospital,NY,330043
+111667765,1,Southampton Hospital,NY,330340
+111704595,1,Long Island Community Hospital,NY,330141
+111839362,1,Newyork-Presbyterian/Queens,NY,330055
+111839567,1,Lutheran Medical Center,NY,330306
+111871039,1,St Charles Hospital,NY,330246
+111888924,1,Good Samaritan Hospital,NY,330286
+111986351,1,Ny Community Hospital Of Brooklyn (D,NY,330019
+112050523,1,St Francis Hospital,NY,330182
+112241326,3,Forest Hills Hospital | Franklin Hospital | Long Island Jewish Medical Center,NY,330195 | 330353 | 330372
+112626155,1,Interfaith Medical Center,NY,330397
+112868878,2,Staten Island University Hospital | Staten Island University Hospital-South,NY,330076 | 330160
+113241243,1,Plainview Hospital,NY,330331
+113438973,1,St Joseph Hospital,NY,330332
+116037195,1,Peninsula Hospital Center,NY,330002
+131624070,1,Lenox Hill Hospital,NY,330119
+131624096,2,Mount Sinai Hospital | Mount Sinai Hospital At Mount Sinai Hospital Of Qu,NY,330024 | 330258
+131624135,1,Hospital For Special Surgery,NY,330270
+131624158,1,Rockefeller University Hospital,NY,330387
+131725076,1,Phelps Memorial Hospital Center,NY,330261
+131739922,1,Blythedale Childrens Hospital,NY,333301
+131740110,1,New York Presbyterian Lawrence Hospi,NY,330061
+131740114,1,Montefiore Medical Center,NY,330059
+131740118,1,Northern Westchester Hospital,NY,330162
+131740119,1,Montefiore Nyack Hospital,NY,330104
+131740120,1,New York Presbyterian Hudson Valley,NY,330267
+131740122,1,Sbh Health System,NY,330399
+131740126,3,Community Hospital At Dobbs Ferry | St Johns Riverside Hospital | Yonkers General Hospital,NY,330036 | 330122 | 330208
+131740127,1,St Josephs Medical Center,NY,330006
+131740130,1,White Plains Hospital,NY,330304
+131974191,1,Bronxcare Health System,NY,330009
+132996345,1,North General Hospital,NY,330390
+132997301,1,Mount Sinai St Lukes Roosevelt Hos,NY,330046
+133049852,1,New York Downtown Hospital,NY,330064
+133957095,2,New York Presbyterian Hospital | Presbyterian Hospital,NY,330012 | 330101
+133971298,1,Nyu Langone Hospitals,NY,330214
+134077996,1,Svcmc-St Vincents Ctrs  Ny & West Branches,NY,330290
+134111638,1,Ellenville Regional Hospital,NY,331310
+135562304,1,New York Eye And Ear Infirmary,NY,330100
+135564934,2,Beth Israel - King Highway Division | Mount Sinai Health System-Beth Israe,NY,330169 | 330315
+135596796,1,Mary Imogene Bassett Hospital,NY,330136
+141338307,1,Albany Medical Center / South Clinical Campus,NY,330189
+141338386,1,Sunnyview Hospital And Rehabilitatio,NY,330406
+141338428,1,Ellis Hospital,NY,330153
+141338457,1,Albany Memorial Hospital,NY,330003
+141338465,1,Nathan Littauer Hospital & Nursing H,NY,330276
+141338467,1,Northern Dutchess Hospital,NY,330049
+141338470,1,Benedictine Hospital,NY,330224
+141338471,1,Champlain Valley Physicians Hospital,NY,330250
+141338503,1,Saint Francis Hospital,NY,330067
+141338544,1,Samaritan Hospital,NY,330180
+141338586,1,Vassar Brothers Medical Center,NY,330023
+141340054,1,St Lukes Cornwall Hospital,NY,330264
+141347719,1,St Marys Healthcare,NY,330047
+141348692,1,St Peters Hospital,NY,330057
+141349558,1,The Kingston Hospital,NY,330004
+141364513,1,Elizabethtown Community Hospital,NY,331302
+141364536,2,Garnet Health Medical Center | Horton Memorial Hospital,NY,330001 | 330126
+141372647,1,Moses-Ludington Hospital,NY,331306
+141731786,1,Adirondack Medical Center,NY,330079
+141772971,2,Bassett Hospital Of Schoharie County,NY,330268 | 331320
+141776186,1,Seton Health,NY,330232
+146019179,1,Putnam Hospital Center,NY,330273
+146049030,2,Garnet Health Medical Center - Catsk,NY,330386 | 331303
+150346515,1,Alice Hyde Medical Center,NY,330084
+150524324,1,Delaware Valley Hospital,NY,331312
+150532054,1,Auburn Memorial Hospital,NY,330235
+150532079,1,Guthrie Cortland Medical Center,NY,330175
+150532180,1,Chenango Memorial Hospital,NY,330033
+150532220,1,Oswego Hospital,NY,330218
+150532221,1,Our Lady Of Lourdes Memorial Hosp,NY,330011
+150532245,1,St Elizabeth Medical Center,NY,330245
+150532254,1,St Josephs Hospital Health Center,NY,330140
+150533564,1,Schuyler Hospital,NY,331313
+150533577,1,Samaritan Medical Center,NY,330157
+150533578,1,Little Falls Hospital,NY,331311
+150539039,1,Aurelia Osborn Fox Memorial Hospital,NY,330085
+150548010,2,"Community Memorial Hospital | Community Memorial Hospital, Inc",NY,330249 | 331316
+150552726,1,Margaretville Hospital,NY,331304
+150559686,1,Claxton Hepburn Medical Center,NY,330211
+150584188,1,Newark Wayne Community Hospital,NY,330030
+150622079,2,"Carthage Area Hospital | Carthage Area Hospital, Inc",NY,330263 | 331318
+150622506,1,Upstate Univ Hosp At Comm General,NY,330159
+160393490,1,Corning Hospital,NY,330277
+160743024,1,Fredrick Ferris Thompson Hospital,NY,330074
+160743029,1,United Memorial Medical Center,NY,330073
+160743032,1,Geneva General Hospital,NY,330058
+160743037,1,Highland Hospital,NY,330164
+160743068,1,Lakeside Memorial Hospital,NY,330037
+160743094,1,Niagara Falls Memorial Medical Cente,NY,330065
+160743102,2,Bradford Regional Medical Center | Upper Allegheny Health System,NY | PA,330103 | 390118
+160743134,1,Rochester General Hospital,NY,330125
+160743187,2,Sisters Of Charity Hospital | St Joseph Hospital Of Cheektowaga New York,NY,330078 | 330091
+160743192,1,Soldiers & Sailors Memorial Hospital,NY,331314
+160743209,1,Strong Memorial Hospital,NY,330285
+160743226,1,Upmc Chautauqua At Wca,NY,330239
+160743301,1,Brooks-Tlc Hospital System  Inc,NY,330229
+160743310,1,St James Hospital,NY,330151
+160743905,2,Arnot-Ogden Medical Center | St Josephs Hospital,NY,330090 | 330108
+160743921,1,Bertrand Chaffee Hospital,NY,330111
+160743966,1,Clifton Springs Hospital & Clinic,NY,330265
+160743979,1,Nicholas H Noyes Memorial Hospital,NY,330238
+160755761,1,Cuba Memorial Hospital Inc,NY,331301
+160755799,2,Medina Memorial Hospital,NY,330053 | 331319
+160756336,1,Mercy Hospital Of Buffalo,NY,330279
+160762843,1,Kenmore Mercy Hospital,NY,330102
+160772474,1,Tlc Health Network,NY,330132
+160835446,1,Ira Davenport Memorial Hospital  Inc,NY,330144
+160839363,1,Sheehan Memorial Hospital,NY,330029
+160960470,1,Crouse Hospital,NY,330203
+161012691,1,Canton-Potsdam Hospital,NY,330197
+161137084,2,"Eastern Niagara Hospital | Inter-Community Memorial Hospital At Newfane, Inc",NY,330025 | 330163
+161165049,1,Binghamton General Hospital,NY,330394
+161471634,1,Rome Memorial Hospital  Inc,NY,330215
+161492011,1,Oneida Health,NY,330115
+161523353,1,Mount St Marys Hospital,NY,330188
+161533232,4,Childrens Hosp | Degraff Memorial Hospital | Kaleida Health | Millard Fillmore Hospital,NY,330005 | 330007 | 330118 | 333300
+161540394,1,Oconnor Hospital,NY,331305
+161576637,1,Faxton-St Lukes Healthcare,NY,330044
+200479568,1,Bridges Medical Center,MN,241313
+200494719,1,Glenn Medical Center,CA,051306
+200743054,1,Blue Mountain Hospital,UT,461310
+201106426,2,Mary Washington Hospital | Stafford Hospital,VA,490022 | 490140
+201244058,1,Ferrell Hospital,IL,141324
+201645949,1,Cedars-Sinai Marina Del Rey Hospital,CA,050740
+201649466,1,Karmanos Cancer Hospital,MI,230297
+201835779,1,Laird Hospital,MS,251322
+201890414,1,Fayette County Hospital,IL,141346
+202401676,1,Parkview Lagrange Hospital,IN,151323
+203700131,1,St John Owasso,OK,370227
+203713023,1,Infirmary West,AL,010152
+203749695,2,Round Rock Hospital | Scott & White Cedar Park,TX,670034 | 670087
+204474637,1,Jane Todd Crawford Hospital,KY,181325
+204560540,1,Midwest Medical Center,IL,141302
+205077249,1,Piedmont Newnan Hospital Inc,GA,110229
+205126945,3,Bingham Memorial Hospital | Grove Creek Medical Center | Idaho Doctors Hospital,ID,130067 | 130073 | 131325
+205497506,1,West Georgia Medical Center,GA,110016
+208065139,11,Coshocton Regional Medical Center | East Valley Glendora Hospital | Encino Hospital | Huntington Beach Hospital | La Palma Intercommunity Hospital | Landmark Medical Center | Montclair Hospital Medical Center | Pampa Regional Medical Center | Sherman Oaks Hospital-Hlth | Southern Regional Medical Center | Suburban Community Hospital,CA | GA | OH | PA | RI | TX,050158 | 050205 | 050526 | 050580 | 050755 | 050758 | 110165 | 360109 | 390116 | 410011 | 450099
+208072234,1,Mercyone Oakland Medical Center,NE,281321
+208295721,24,Altoona Regional Health System | Charles Cole Memorial Hospital | Lock Haven Hospital | Muncy Valley Hospital | Somerset Hospital | Sunbury Community Hospital | Upmc - Presbyterian Shadyside | Upmc Bedford | Upmc Childrens Hospital Of Pgh | Upmc Cranberry | Upmc East Hospital | Upmc Hamot | Upmc Horizon Hospital | Upmc Jameson | Upmc Kane | Upmc Magee-Womens Hospital | Upmc Mckeesport | Upmc Mercy Hospital | Upmc Northwest Hospital | Upmc Passavant | Upmc Shadyside | Upmc St Margaret | Wellsboro | Williamsport Hospital & Medical Ctr,PA,390002 | 390016 | 390028 | 390039 | 390045 | 390055 | 390063 | 390071 | 390073 | 390084 | 390091 | 390102 | 390104 | 390107 | 390114 | 390117 | 390164 | 390178 | 390291 | 390328 | 391301 | 391313 | 391316 | 393302
+208316475,1,Maple Grove Hospital,MN,240214
+208488713,1,Adventhealth Wesley Chapel,FL,100319
+208756459,1,Mackinac Straits Health System  Inc,MI,231306
+210634462,1,Cooper University Hospital,NJ,310014
+210634484,2,Inspira Medical Center Elmer | Inspira Medical Center Vineland,NJ,310032 | 310069
+210634532,2,Virtua - Marlton | West Jersey Health System,NJ,310022 | 310117
+210634562,1,Virtua Mount Holly Hospital,NJ,310057
+210635001,1,Virtua Our Lady Of Lourdes Hospital,NJ,310029
+210635009,1,Princeton Healthcare System,NJ,310010
+210660835,1,Shore Memorial Hospital,NJ,310047
+210662542,1,Cape Regional Medical Center,NJ,310011
+220820545,1,Christ Hospital,NJ,310016
+221487166,1,East Orange General Hospital,NJ,310083
+221487173,1,Englewood Hospital & Med Ctr,NJ,310045
+221487307,1,The Valley Hospital,NJ,310012
+221487322,1,Holy Name Hospital,NJ,310008
+221487330,1,St Peters University Hospital,NJ,310070
+221494446,1,St Marys General Hospital,NJ,310006
+221494454,1,St Lukes Warren Hospital,NJ,310060
+221537688,1,Hunterdon Medical Center,NJ,310005
+221750190,1,Centrastate Medical Center,NJ,310111
+221773439,1,Kennedy University Hospital,NJ,310086
+221820210,1,Inspira Medical Center Woodbury  Inc,NJ,310081
+222325405,1,Cayuga Medical Center At Ithaca,NY,330307
+222472997,1,Brockton Hospital  Inc,MA,220052
+222519813,1,Baystate Wing Hospital & Medical Ctr,MA,220030
+222520073,1,Holyoke Medical Center,MA,220024
+222537423,1,Baystate Noble Hospital,MA,220065
+222547186,1,Central Vermont Hospital,VT,470001
+222547376,1,"Holy Family Hospital, A Caritas Family Hospital",MA,220080
+222563241,1,Southwestern Vermont Medical Center,VT,470012
+222592333,2,"Southcoast Hospitals Group  Inc | St Lukes Hospital Of New Bedford, Inc",MA,220021 | 220074
+222594672,1,Concord Hospital  Inc,NH,300001
+222667354,1,Beth Israel Deaconess - Plymouth,MA,220060
+222674014,1,Exeter Hospital  Inc,NH,300023
+222807681,1,Jones Memorial Hospital,NY,330096
+223284894,1,Meadowlands Hospital Medical Center,NJ,310118
+223319886,2,Saint Clares Hospital | St Clares Hospital - Sussex,NJ,310050 | 310120
+223431049,1,St Francis - Trenton,NJ,310021
+223548695,2,Capital Health Med Center - Hopewell | Helene Fuld Medical Center,NJ,310044 | 310092
+223612265,1,Virtua Willingboro Hospital,NJ,310061
+230465970,1,The Chambersburg Hospital,PA,390151
+230469150,1,The Chester County Hospital,PA,390179
+230517130,1,Delaware County Memorial Hospital,PA,390081
+230596940,1,Aria Health,PA,390115
+230794160,1,The Good Samaritan Hospital,PA,390066
+230880420,1,Lehigh Valley Hospital Schuylkill Ea,PA,390031
+230906220,1,Nason Hospital,PA,390062
+231352115,1,Eagleville Hospital,PA,390278
+231352152,1,Abington Memorial Hospital,PA,390231
+231352156,1,American Oncologic Hospial,PA,390196
+231352159,1,Penn Highlands Huntingdon,PA,390056
+231352160,4,Bryn Mawr Hospital | Lankenau Medical Center | Paoli Hospital | Physicians Care Surgical Hospital,PA,390139 | 390153 | 390195 | 390324
+231352166,1,The Childrens Hospital Of Philadelp,PA,393303
+231352174,1,Doylestown Hospital,PA,390203
+231352181,1,Grand View Hospital,PA,390057
+231352187,1,Geisinger Lewistown Hospital,PA,390048
+231352191,1,Mercy Catholic Medical Center,PA,390156
+231352193,1,Montgomery Hospital,PA,390108
+231352202,1,Lehigh Valley Hospital - Schuylkill,PA,390030
+231352203,1,Quakertown Community Hospital,PA,390035
+231352204,1,Reading Hospital And Medical Center,PA,390044
+231352211,1,St Joseph Medical Center,PA,390096
+231352213,3,St Lukes Hospital | St Lukes Hospital - Allentown Campus | St Lukes Hospital - Sacred Heart Campus,PA,390049 | 390197 | 390242
+231352220,1,The Gettysburg Hospital,PA,390065
+231352222,1,York Hospital,PA,390046
+231352685,1,Hospital Of The Univ Of Penna,PA,390111
+231360851,1,Upmc Hanover,PA,390233
+231360854,1,Waynesboro Hospital,PA,390138
+231365353,1,Lancaster General Hospital,PA,390100
+231370484,1,Ephrata Community Hospital,PA,390225
+231381447,1,Kensington Hospital,PA,390025
+231401561,1,Fulton County Medical Center,PA,391303
+231440116,1,Tyrone Hospital,PA,391307
+231512747,1,Holy Spirit Hospital,PA,390004
+231529076,1,Riddle Hospital,PA,390222
+231534300,1,Holy Redeemer Hospital,PA,390097
+231550955,1,Deborah Heart And Lung Center,NJ,310031
+231637191,2,Crozer Chester Medical Center | Taylor Hospital,PA,390167 | 390180
+231689692,1,Lehigh Valley,PA,390133
+231913910,1,St Mary Medical Center,PA,390258
+231996150,1,Geisinger Wyoming Valley Med Ctr,PA,390270
+232176963,1,Soldiers And Sailors Memorial Hospital,PA,390043
+232193572,1,Geisinger Bloomsburg Hospital,PA,390003
+232201344,5,Brandywine Hospital | Chestnut Hill Hospital | Jennersville Hospital | Phoenixville Hospital | Pottstown Memorial Medical Center,PA,390026 | 390076 | 390123 | 390127 | 390220
+232367707,1,Muhlenberg Hospital Center,PA,390263
+232421970,1,Lehigh Valley Hospital-Hazleton,PA,390185
+232610538,1,St Josephs Hospital,PA,390132
+232647930,1,Shamokin Area Community Hospital,PA,390189
+232720289,1,Endless Mountains Health Systems,PA,391306
+232794121,1,Nazareth Hospital-Phila  Pa,PA,390204
+232810852,1,Presbyterian Medical Center,PA,390223
+232825878,3,Jeanes Hospital | Temple Univ Hosp Episcopal Hospital | Temple University Hospital,PA,390027 | 390080 | 390235
+232829095,3,Methodist Hospital | Rothman Orthopaedic Specialty Hospit | Thomas Jefferson Univ Hospital,PA,390174 | 390205 | 390322
+232879667,1,Lower Bucks Hospital,PA,390070
+232899911,1,Wellspan Surgery And Rehab Hospital,PA,390327
+232935278,1,The Childrens Institute,PA,393308
+236000204,1,Wills Eye Hospital,PA,390331
+237013497,1,Memorial Medical Center  Inc,WI,521359
+237042323,1,Indiana University Health Bedford,IN,151328
+237067206,1,Mississippi Methodist Rehab Center,MS,250152
+237094247,2,Mt Graham Regional Medical Center,AZ,030068 | 031319
+237098532,1,Sarah Bush Lincoln Health Center,IL,140189
+237134386,1,Houlton Regional Hospital,ME,201308
+237161473,1,Osmond General Hospital,NE,281347
+237169043,1,Central Montana Medical Center,MT,271345
+237169376,1,Pawhuska Hospital  Inc,OK,371309
+237204872,1,Edward John  Noble Hospital Of Gouverneur,NY,330177
+237218917,1,Monongahela Valley Hospital  Inc,PA,390147
+237221763,1,The Unity Hospital Of Rochester,NY,330226
+237246265,1,Saint Francis Medical Center,MO,260183
+237293874,1,Logan Health Medical Center,MT,270051
+237314364,1,Sage Memorial Hospital,AZ,031309
+237339737,1,Lake Regional Health System,MO,260186
+237424835,1,Rappahannock General Hospital,VA,490123
+237426289,1,Harrisburg Medical Center  Inc,IL,140210
+237429117,1,Madera Community Hospital,CA,050568
+237433467,1,Beacham Memorial Hospital,MS,250049
+237441353,1,Monongalia General Hospital,WV,510024
+237456301,5,Integris Blackwell Regional Hospital | Integris Clinton Regional Hospital | Integris Marshall County Medical Center | Integris Mayes County Medical Center | Integris Seminole Medical Center,OK,370015 | 370029 | 370030 | 370229 | 371326
+240701920,1,Bucktail Medical Center,PA,391304
+240711230,1,Marian Community Hospital,PA,390095
+240779665,1,Tyler Memorial Hospital,PA,390192
+240792115,1,Jersey Shore Hospital,PA,391300
+240795411,1,Evangelical Community Hospital,PA,390013
+240795436,2,Blue Mountain Hospital | Palmerton Hospital,PA,390019 | 390194
+240795456,1,Regional Hospital Of Scranton,PA,390237
+240795458,1,Mid-Valley Hospital,PA,391311
+240795461,1,Moses Taylor Hospital,PA,390119
+240795463,2,Guthrie Towanda Memorial Hospital | Robert Packer Hospital,PA,390079 | 390236
+240795623,2,Pocono Medical Center | Pocono Medical Center Dickson City,PA,390201 | 390338
+240795682,1,Mount Nittany Medical Center,PA,390268
+240795959,1,Geisinger Medical Center,PA,390006
+240798681,1,Barnes-Kasson County Hospital,PA,391309
+240798839,1,Wayne Memorial Hospital,PA,390125
+240800337,1,Troy Community Hospital,PA,391305
+240862246,1,Community Medical Center,PA,390001
+250461835,1,Ellwood City Hospital,PA,390008
+250585280,2,Penn Highlands Elk,PA,390154 | 391315
+250965210,1,Punxsutawney Area Hospital,PA,390199
+250965237,1,Armstrong County Memorial,PA,390163
+250965274,1,Butler Memorial Hospital,PA,390168
+250965292,1,The Childrens Home Of Pittsburgh,PA,393304
+250965307,2,Memorial Medical Center | Upmc Lee Regional,PA,390011 | 390110
+250965404,1,Indiana Regional Medical Center,PA,390173
+250965406,1,St Francis Hospital Of New Castle,PA,390017
+250965579,2,Titusville Area Hospital | Titusville Hospital,PA,390122 | 391314
+250965588,1,Uniontown Hospital,PA,390041
+250965598,1,Warren General Hospital,PA,390146
+250965600,1,The Washington Hospital,PA,390042
+250977902,1,Miners Medical Center,PA,390130
+250979346,1,Penn Highlands Clearfield,PA,390052
+250979377,1,Sharon Regional Health System,PA,390211
+250984595,1,Brookville Hospital,PA,391312
+250987222,1,Corry Memorial Hospital,PA,391308
+251002937,1,Millcreek Community Hospital,PA,390198
+251002946,1,Meyersdale Medical Center,PA,391302
+251010039,1,Clarion Hospital,PA,390093
+251244202,1,Windber Hospital  Inc,PA,390112
+251490707,1,Dubois Regional Medical Center,PA,390086
+251494705,1,Highlands Hospital,PA,390184
+251512436,2,Meadville Medical Center | Meadville Medical Center - Grove Street,PA,390099 | 390113
+251550350,1,Miners Memorial Medical Center,PA,390183
+251778644,2,Community Gen Osteopathic Hospital | Upmc Pinnacle Hospitals,PA,390067 | 390206
+251801532,3,Heritage Valley Beaver | Heritage Valley Kennedy | Heritage Valley Sewickley,PA,390036 | 390037 | 390157
+251854772,1,Milton S Hershey Medical Center,PA,390256
+251925187,1,University Medical Ctr At New Orlea,LA,190005
+260169584,1,Tri Town Regional Healthcare,NY,330408
+260194016,1,Baylor Scott & White Mc- Lake Pointe,TX,450742
+260335902,1,St Lukes Lakeside Hospital,TX,670059
+260479484,1,Ascension St Vincents Southside Ho,FL,100307
+260532528,1,Physicians Hospital At Anadarko,OK,371314
+260532635,1,Stroud Regional Medical Center,OK,371316
+260792328,1,Scott Regional Hospital,MS,251323
+260806477,1,Aspirus Ontonagon Hospital,MI,231309
+261150091,1,Warm Springs Medical Center,GA,111316
+261175213,1,Innovis Health,ND,350070
+261214372,1,Nea Baptist Memorial Hospital,AR,040118
+261535503,1,St Mary S Medical Center Of Scott C,TN,441317
+261720984,1,St Marys Good Samaritan,GA,111329
+261739383,1,Doctors Specialty Hospital,GA,110186
+261861676,1,Ascension St Thomas Three Rivers,TN,441303
+261938641,1,North Canyon Medical Center,ID,131302
+261947374,1,St Lukes Sugar Land Hospital,TX,670053
+262037695,1,Grady Memorial Hospital,GA,110079
+262525968,1,Condell Medical Center,IL,140202
+262616046,1,St Michaels Medical Center,NJ,310096
+262772226,1,Iu Health Tipton Hospital,IN,151311
+263075429,1,El Paso Childrens Hospital,TX,453313
+263091251,2,Dimmit Regional Hospital District,TX,450620 | 451390
+263162145,1,Iu Health Arnett Hospital,IN,150173
+263173902,1,Mercy Hospital Healdton  Inc,OK,371310
+263359979,1,Lansdale Hospital,PA,390012
+263710229,1,Roper St Francis Hospital-Berkeley,SC,420110
+263734606,1,St Lukes Hospital At The Vintage,TX,670075
+263778478,1,Cleveland Area Hospital,OK,371320
+263975185,1,Phoebe Sumter Medical Center  Inc,GA,110044
+264019868,1,Viera Hospital Inc,FL,100315
+264021016,1,Grace Medical Center,TX,450162
+264230898,1,Barrett Hospital And Healthcare,MT,271318
+264572436,1,"Southeastern Regional Medical Center, Inc",GA,110233
+264626264,1,St Martin Hospital,LA,191302
+270016388,1,Doctors Hospital,TX,670052
+270440772,1,Tufts Medical Center,MA,220116
+270712680,1,Soin Medical Center,OH,360360
+270814858,1,Mercy Hospital Joplin,MO,260001
+270842031,1,Mercy Hospital Columbus,KS,171308
+270847538,1,Ascension St Vincent Salem,IN,151314
+271344467,2,St Josephs University Medical Cent | St Josephs Wayne Hospital,NJ,310019 | 310116
+271757642,1,John C Stennis Memorial Hospital,MS,251335
+271789847,1,Saint Alphonsus Medical Center - Ont,OR,380052
+271790052,1,Saint Alphonsus Medical Center Baker,OR,381315
+271965272,1,Via Christi Hosp Wichita St Teresa,KS,170200
+272153849,1,Burdet Care Center,NY,330409
+272192831,1,Ascension St Vincent Dunn,IN,151335
+272305304,1,Swedish Edmonds,WA,500026
+272716065,1,Mercy Hospital El Reno,OK,370011
+273026151,1,Llano Memorial Hospital,TX,450219
+273208969,1,Sentara Princess Anne Hospital,VA,490119
+273311774,1,St Lukes Mccall,ID,131312
+273532963,1,Iu Health White Hospital,IN,151312
+273533027,1,Morgan County Hospital,IN,150038
+273850988,2,Univerof Cincinnati Med Center Llc | West Chester Hospital  Llc,OH,360003 | 360354
+273868479,1,Southeasthealth Center Of Ripley Cou,MO,260080
+273970823,1,Five Rivers Medical Center,AR,040047
+273993262,1,Comanche County Medical Center,TX,451382
+274005511,1,Bellville Medical Center,TX,450253
+274433830,1,Mercy Hospital Tishomingo,OK,371304
+274434451,1,College Station Hospital,TX,670088
+274658935,1,Martin Luther King Community Hosp,CA,050779
+275401105,1,Twin City Hospital,OH,361302
+300047074,1,University Pointe Surgical Hospital,OH,360271
+300078435,1,Greeley County Health Services,KS,171359
+300752920,1,Trinity Hospital Holding Company,OH,360211
+300975387,1,Ivinson Memorial Hospital,WY,530025
+300999841,1,Piedmont Rockdale Hospital,GA,110091
+310536662,1,Fort Hamilton Hospital,OH,360132
+310536981,1,Good Samaritan Hospital,OH,360052
+310537095,1,Upper Valley Medical Center,OH,360174
+310537109,1,Deaconess Hospital,OH,360038
+310537122,2,Bethesda Hospital | Butler County Medical Center,OH,360179 | 360269
+310537486,1,Good Samaritan Hospital,OH,360134
+310537504,1,Miami Valley Hospital,OH,360051
+310538525,1,The Christ Hospital,OH,360163
+310564121,1,Kettering Health Dayton,OH,360133
+310621866,3,Kettering Health Main Campus | Kettering Health Miamisburg | Kettering Health Troy,OH,360079 | 360239 | 360368
+310645626,1,Fairfield Medical Center,OH,360072
+310650283,1,Mccullough-Hyde Memorial Hospital,OH,360046
+310672132,1,Dayton Childrens Hospital,OH,363306
+310678022,1,Southern Ohio Medical Center,OH,360008
+310785684,2,Mercy Health - Urbana Hospital | Springfield Regional Medical Center,OH,360086 | 361312
+310809436,1,Greene Memorial Hospital  Inc,OH,360026
+310833936,1,Childrens Hospital Medical Center,OH,363300
+310929576,1,Knox Community Hospital,OH,360040
+310949874,1,Monroe County Medical Center,KY,180105
+310993422,1,Greenfield Area Medical Center,OH,361304
+311072406,1,Pike Community Hospital,OH,361334
+311079309,1,Atrium Medical Center,OH,360076
+311091597,1,Mercy Franciscan Western Hills,OH,360113
+311097818,1,Preston Memorial Hospital,WV,511312
+311126469,1,Memorial Health Univ Med Center,GA,110036
+311131099,1,Ohio County Hospital,KY,181323
+311156960,1,Fairmont Regional Medical Center,WV,510047
+311373080,6,Mercy Medical Center - New Hampton | Mercyone Dubuque Medical Center | Mercyone Dyersville Medical Center | Mercyone North Iowa Medical Center | Mercyone Siouxland Medical Center | Siouxland Surgery Center,IA | SD,160064 | 160069 | 160153 | 161331 | 161378 | 430089
+311439334,3,Mount Carmel Health | Mount Carmel New Albany Hospital | St Anns Hospital,OH,360012 | 360035 | 360266
+311480941,1,Genesis Healthcare System,OH,360039
+311518658,1,Pomerene Hospital,OH,360148
+311524546,1,Camden-Clark Memorial Hospital,WV,510058
+311538725,1,Pennsylvania Hospital Of Uphs,PA,390226
+311551871,1,Harvard Memorial Hospital,IL,141335
+311626179,1,University Of Tennessee Medical Cent,TN,440015
+311657206,1,Madison Health,OH,360189
+311658282,1,Nye Regional Medical Center,NV,290020
+311667875,1,Ridgeview Medical Center,MN,240056
+311724085,1,Holzer Medical Center Jackson,OH,361320
+311730177,1,New York Westchester Square M C,NY,330316
+311750849,1,Colusa Regional Medical Center,CA,050434
+314379443,1,Adena Regional Medical Center,OH,360159
+314379491,1,Holzer,OH,360054
+314379509,1,Marietta Memorial Hospital,OH,360147
+314379519,1,Licking Memorial Hospital,OH,360218
+314391798,1,Southeastern Ohio Reg Med Ctr,OH,360203
+314394942,5,Berger Hospital | Doctors Hospital | Dublin Methodist Hospital | Grant Medical Center | Riverside Methodist Hospital,OH,360006 | 360017 | 360152 | 360170 | 360348
+314413259,1,Selby General Hospital,OH,361319
+320007056,7,Doctors Hospital Of Nelsonville | Grady Memorial Hospital | Hardin Memorial Hospital | Marion General Hospital | Medcentral Health System | Obleness Memorial Hospital | Shelby Memorial Hospital,OH,360011 | 360014 | 360118 | 360210 | 361305 | 361315 | 361324
+320197974,1,Western Regional Medical Center,AZ,030138
+320265031,1,Mainegeneral Medical Center,ME,200039
+320326595,1,Heart Of Texas Healthcare System,TX,451348
+320453405,1,Northwest Medical Center,AL,010086
+320483994,3,Alliance Community Hospital | Aultman Hospital | Aultman Orrville Hospital,OH,360084 | 360131 | 361323
+320583236,1,Monroe Health Services  Inc,MS,250025
+330420041,1,San Gorgonio Memorial,CA,050054
+330449527,1,Grossmont Hospital,CA,050026
+330528802,1,Childrens Hospital At Mission,CA,053306
+330738307,1,Tri-City Regional Medical Center,CA,050575
+331007002,2,Kenmare Community Hospital | Trinity Hospitals/St Joes,ND,350006 | 351305
+331065485,1,Legacy Salmon Creek Hospital,WA,500150
+331216751,1,Piedmont Columbus Regional Northside,GA,110200
+340067060,1,Amherst Hospital,OH,360130
+340714357,1,Childrens Hospital Medical Center,OH,363303
+340714457,1,East Ohio Regional Hospital,OH,360080
+340714583,1,East Liverpool City Hospital,OH,360096
+340714643,1,Belmont Community Hospital,OH,360153
+340714756,1,St Vincent Charity Medical Center,OH,360037
+340719172,1,Barnesville Hospital,OH,361321
+340726081,1,Ashtabula County Medical Center,OH,360125
+340753531,1,Southwest General Health Center,OH,360155
+340898745,1,Fostoria Community Hospital,OH,361318
+341041385,1,Salem Community Hospital,OH,360185
+341048666,2,Chwc-Montpelier | Community Hospital Of Williams City,OH,360121 | 361327
+341369963,2,Blanchard Valley Reg Health Center | Bluffton Hospital,OH,360095 | 361322
+341407259,1,Mary Rutan Hospital,OH,360197
+341454933,1,Northside Medical Center,OH,360141
+341461049,1,Trumbull Memorial Hospital,OH,360055
+341571750,1,Harrison Community Hospital,OH,361311
+341623770,1,Joint Township District Memorial Hos,OH,360032
+341883132,1,Bay Park Community Hospital,OH,360259
+341883284,1,Lima Memorial Hospital,OH,360009
+342032340,1,Diley Ridge Medical Center,OH,360358
+344427944,1,Wilson Memorial Hospital,OH,360013
+344428205,1,The Bellevue Hospital,OH,360107
+344428214,1,Fulton County Health Center,OH,361333
+344428218,1,Firelands Regional Medical Center,OH,360025
+344428232,1,St Lukes Hospital,OH,360090
+344428256,2,Flower Hospital | The Toledo Hospital,OH,360068 | 360074
+344428598,1,Wayne Hospital Company,OH,360044
+344429514,1,Van Wert County Hospital,OH,360071
+344430716,1,Fisher-Titus Medical Center,OH,360065
+344430849,1,Memorial Hospital,OH,360156
+344440884,1,Wood County Hospital,OH,360029
+344441792,1,H B Magruder Memorial Hospital,OH,361314
+344446484,1,Defiance Hospital Inc,OH,361328
+344451872,3,Avita Ontario Hospital | Bucyrus Community Hospital | Galion Community Hospital,OH,360365 | 361316 | 361325
+344477047,1,Henry County Hospital (Cah),OH,361309
+350211370,1,Cameron Memorial Community Hospital,IN,151315
+350593390,2,Deaconess Hospital | The Heart Hospital At Deaconess Gateway Llc,IN,150082 | 150175
+350784551,1,Ascension St Vincent Williamsport,IN,151307
+350811197,1,Fairbanks,IN,150179
+350835006,1,Community Hospital Of Bremen  Inc,IN,151300
+350867958,1,Ball Memorial Hospital,IN,150089
+350868085,1,Parkview Hospital,IN,150021
+350868130,1,Marion General Hospital,IN,150011
+350868132,1,Memorial Hospital Of South Bend  Inc,IN,150058
+350868133,2,Methodist Hospital Southlake | Methodist Hospitals  Inc,IN,150002 | 150132
+350868157,1,St Josephs Reg Med Center S Bend,IN,150012
+350869065,1,Ascension St Vincent Evansville,IN,150100
+350869066,2,Ascension St Vincent Hospital | St Vincent Womens Hospital,IN,150084 | 150136
+350876389,1,Ascension St Vincent Mercy,IN,151308
+350876396,2,Union Hospital  Inc | Union Hospital Clinton,IN,150023 | 151326
+350877574,1,Elkhart General Hospital,IN,150018
+350877575,1,Deaconess Gibson,IN,151319
+350892672,1,Reid Hospital & Health Care Services,IN,150048
+350895832,1,Kings Daughters Hospital,IN,150069
+350900741,1,Fayette Regional Health System,IN,150064
+350983617,3,Community Health Network  Inc | Community Hospital Of Indiana  Inc | Indiana Heart Hospital The,IN,150074 | 150154 | 150169
+350985964,1,Memorial Hosp & Health Care Ctr,IN,150115
+350992717,1,Ascension St Vincent Kokomo,IN,150010
+351064295,1,Parkview - Dekalb Health,IN,150045
+351069822,1,Community Hospital Anderson,IN,150113
+351088640,1,Community Hospital South,IN,150128
+351094734,1,Community Westview Hospital,IN,150129
+351107009,1,Community Hospital,IN,150125
+351125434,2,Iu Health Starke Memorial Hospital | Laporte Hospital,IN,150006 | 150102
+351142669,1,St Josephs Reg Med Center Plymouth,IN,150076
+351330472,14,Franciscan Health Crawfordsville | Franciscan Health Crown Point | Franciscan Health Hammond | Franciscan Health Indianapolis | Franciscan Health Lafayette | Franciscan Health Michigan City | Franciscan Health Mooresville | Franciscan Health Munster | Franciscan Health- Dyer | Franciscan St Elizabeth Health - Lafayette Central | Franciscan St Francis Health - Beech Grove | Franciscan St James Health | St Francis Carmel | St James Hospital & Health Centers,IL | IN,140079 | 140172 | 150003 | 150004 | 150015 | 150022 | 150033 | 150057 | 150090 | 150109 | 150126 | 150162 | 150165 | 150182
+351343019,1,Ascension St Vincent Warrick,IN,151325
+351720796,1,Iu Health Bloomington Hospital,IN,150051
+351738708,1,St Catherine Hospital,IN,150008
+351814660,1,Iu Health West Hospital,IN,150158
+351841606,1,Ascension St Vincent Jennings,IN,151303
+351865344,1,Community Howard Regional Health,IN,150007
+351869951,1,St Vincent Heart Center,IN,150153
+351932442,1,Iu Health North Hospital,IN,150161
+351955872,2,Indiana University Health Methodist Hospital | Indiana University Medical Center,IN,150032 | 150056
+351967665,1,Whitley Memorial Hospital,IN,150101
+351970706,1,Huntington Memorial Hospital,IN,150091
+351972384,1,Orthopaedic Hosptat Parkview,IN,150167
+352007327,1,St Mary Medical Center  Inc,IN,150034
+352087092,1,Community Hospital Of Noble Cty  Inc,IN,150146
+352090919,1,Iu Health Paoli Hospital,IN,151306
+352103153,1,Ascension St Vincent Randolph,IN,151301
+352112529,1,Ascension St Vincent Clay,IN,151309
+352228583,1,Piedmont Mountainside Hospital  Inc,GA,110225
+352339114,1,Elmhurst Memorial Hospital,IL,140200
+352362438,1,Sturgis Hospital  Inc,MI,230096
+352391110,6,Community Hospital Long Beach | Memorialcare Long Beach Med Ctr | Memorialcare Mcwhlb | Memorialcare Orange Coast Med Ctr | Memorialcare Saddleback Med Ctr | Saddleback Memorial Medical Center - San Clemente,CA,050485 | 050585 | 050603 | 050678 | 050727 | 053309
+352410801,7,Houston Methodist St Catherine Hospital | Houston Methodist St John Hospital | Houston Methodist The Woodlands | Methodist Sugar Land Hospital | Methodist West Houston Hospital | Methodist Willowbrook Hospital | San Jacinto Methodist Hospital,TX,450424 | 450709 | 450820 | 450832 | 450844 | 670077 | 670122
+352414105,1,Drew Memorial Hospital Inc,AR,040051
+352528741,4,Vanderbilt Bedford County Hospital | Vanderbilt Tullahoma-Harton Hospital | Vanderbilt University Medical Center | Vanderbilt Wilson County Hospital,TN,440039 | 440137 | 440144 | 440193
+352621082,1,Grand Island Regional Medical Center,NE,280139
+356001540,1,Goshen Hospital,IN,150026
+356067049,1,Margaret Mary Community Hospital,IN,151329
+361000540,1,Katherine Shaw Bethea Hospital,IL,140012
+361509000,1,Mount Sinai Hospital Medical Center,IL,140018
+361564290,1,Norwegian American Hospital,IL,140206
+361703630,1,Roseland Community Hospital,IL,140068
+361799520,1,South Shore Hospital Corporation,IL,140181
+362167060,3,Highland Park Hospital | Northshore University Healthsystem | Skokie Hospital,IL,140010 | 140051 | 140108
+362167785,1,Mendota Community Hospital,IL,141310
+362167847,1,Javon Bea Hospital,IL,140239
+362167884,1,St Margarets Health - Spring Valley,IL,140143
+362167920,1,Advocate Sherman Hospital,IL,140030
+362169147,6,Advocate Christ Hospital | Advocate Good Samaritan Hospital | Advocate Lutheran General Hospital | Advocate South Suburban Hospital | Advocate Southland Hospital | Good Shepherd Hospital,IL,140048 | 140208 | 140223 | 140250 | 140288 | 140291
+362169181,1,St Marys Hospital,IL,140026
+362170133,1,Holy Cross Hospital,IL,140133
+362170143,1,Larabida Childrens Hospital,IL,143301
+362170155,1,Morris Hospital,IL,140101
+362170833,1,Ann & Robert H Lurie Childrens Hos,IL,143300
+362170840,1,Copley Memorial Hospital,IL,140029
+362170866,1,Ingalls Memorial Hospital,IL,140191
+362174823,1,Rush University Medical Center,IL,140119
+362174832,1,Silver Cross Hospital,IL,140213
+362179764,1,Centegra Health System - Woodstock Hospital,IL,140176
+362179813,1,Swedish Covenant Health,IL,140114
+362181997,1,Fhn Memorial Hospital,IL,140160
+362183812,1,Oak Park Hospital,IL,140063
+362193608,17,Shriners Hosp For Children- Houston | Shriners Hospital For Children | Shriners Hospital For Children - Phi | Shriners Hospital For Children North | Shriners Hospital For Children Tampa | Shriners Hospitals Chldrn | Shriners Hospitals For Children | Shriners Hospitals For Children - Salt Lake City | Shriners Hostpitals For Children,CA | FL | HI | IL | KY | LA | MN | MO | OH | OR | PA | SC | TX | UT | WA,053310 | 053311 | 103303 | 123301 | 143302 | 183300 | 193301 | 243303 | 263304 | 363308 | 383300 | 393309 | 423300 | 453311 | 453312 | 463302 | 503302
+362200248,1,Loretto Hospital,IL,140083
+362222696,2,Swedish American Med Ctr Belvidere | Swedishamerican Hospital,IL,140205 | 140228
+362235165,5,Presence Resurrection Medical Center | Presence Saint Francis Hospital | Presence Saint Joseph Hosp-Chicago | Presence Saints Mary & Elizabeth Med | St Mary & Elizabeth Med Ctr-Claremont Campus,IL,140080 | 140094 | 140117 | 140180 | 140224
+362264414,1,St Bernard Hospital,IL,140103
+362276984,2,Adventist Hinsdale Hospital | Adventist Lagrange Memorial Hospital,IL,140065 | 140122
+362340313,1,Northwest Community Hospital,IL,140252
+362379649,1,Gottlieb Memorial Hospital,IL,140008
+362414944,1,Riverside Medical Center,IL,140186
+362448028,1,Jackson Park Hospital,IL,140177
+362510771,1,"Midwestern Region Med Center, Inc",IL,140100
+362548549,1,Rochelle Community Hospital,IL,141312
+362596381,1,Alexian Brothers Medical Center,IL,140258
+362604009,1,Ottawa Regional Hospital & Healthcar,IL,140110
+362644178,1,Presence Our Lady Of The Resurrection Med Ctr,IL,140251
+362739299,2,Trinity Bettendorf | Trinity Rock Island,IA | IL,140280 | 160104
+362852553,1,St Margarets Health - Peru,IL,140234
+363196629,1,Advocate Northside Health System,IL,140182
+363208390,1,Adventist Glenoaks Hospital,IL,140292
+363261413,12,Abbott Northwestern Hospital | Allina Health Faribault Medical Ctr | Buffalo Hospital | Cambridge Medical Center | Mercy Hospital | New Ulm Medical Center | Owatonna Hospital | Phillips Eye Institute | Regina Hospital | River Falls Area Hospital | United Hospital | Unity Hospital,MN | WI,240020 | 240038 | 240057 | 240059 | 240069 | 240071 | 240076 | 240115 | 240132 | 240196 | 241378 | 521349
+363297173,1,Edward Hospital,IL,140231
+363311936,1,Stevens Community Medical Center,MN,241363
+363317416,1,Faulkton Area Medical Center,SD,431301
+363332852,1,Macneal Hospital,IL,140054
+363379150,1,Gillette Childrens Specialty Health,MN,243300
+363488183,1,University Of Chicago Hospitals,IL,140088
+363616314,1,Genesis Medical Center - Silvis,IL,140275
+363637465,1,Hoopeston Community Memorial Hospita,IL,141316
+363808993,1,Fallon Medical Complex,MT,271301
+364015560,1,Loyola University Medical Center,IL,140276
+364195126,4,Presence Mercy Medical Center | Presence Saint Joseph Hospital Elgin | Presence St Joseph Medical Center | Presence St Marys Hospital,IL,140007 | 140155 | 140174 | 140217
+364251846,1,St Alexius Medical Center,IL,140290
+364664248,1,Mcgehee Hospital,AR,041308
+364724966,8,Central Dupage Hospital | Delnor-Community Hospital | Kishwaukee Community Hospital | Northern Illinois Medical Center | Northwestern Lake Forest Hospital | Northwestern Memorial Hospital | Palos Community Hospital | Valley West Community Hospital,IL,140062 | 140116 | 140130 | 140211 | 140242 | 140281 | 140286 | 141340
+366000085,2,Methodist Hospital Of Chicago | Thorek Memorial Hospital,IL,140115 | 140197
+370512290,1,Hshs Good Shepherd Hospital,IL,140019
+370618939,3,Herrin Hospital | Memorial Hospital Of Carbondale | Saint Joseph Memorial Hospital,IL,140011 | 140164 | 141334
+370624255,1,Community Hospital Of Staunton,IL,141306
+370645239,1,Carlinville Area Hospital,IL,141347
+370647938,1,Gibson Area Hospital And Health Svcs,IL,141317
+370661183,1,Blessing Hospital,IL,140015
+370661202,1,Fairfield Memorial Hospital,IL,141311
+370661208,1,Hillsboro Area Hospital,IL,141332
+370661215,1,Kirby Hospital,IL,141301
+370661218,1,Marshall Browning Hospital,IL,141331
+370661223,1,Methodist Medical Ctr Of Illinois,IL,140209
+370661233,1,St Anthonys Memorial Hospital,IL,140032
+370661234,1,St Josephs Hospital,IL,140023
+370661236,1,St Francis Hospital,IL,141350
+370661238,1,St Johns Hospital,IL,140053
+370661244,1,St Marys Hospital,IL,140166
+370662561,1,Anderson Hospital,IL,140289
+370662580,1,Ssm Health St Marys Hospital,IL,140034
+370663567,1,St Elizabeth Hospital,IL,140187
+370663568,1,St Josephs Hospital-Highland Il,IL,141336
+370673461,1,Thomas H Boyd Critical Acc Hospital,IL,141300
+370673506,1,Graham Hospital Association,IL,140001
+370673512,1,Iroquois Memorial Hospital,IL,140167
+370681540,1,Proctor Hospital,IL,140013
+370684691,1,Memorial Hospital Association,IL,141305
+370692351,1,Pekin Memorial Hospital,IL,140120
+370702309,1,Hardin County General Hospital,IL,141328
+370792770,1,Greenville Regional Hospital,IL,140137
+370793762,1,Crawford Memorial Hospital,IL,141343
+370808925,1,Hopedale Medical Complex,IL,141330
+370813229,14,Little Company Of Mary | Osf Heart Of Mary Medical Center | Osf Holy Family Med Ctr | Osf Sacred Heart Medical Center | Osf Saint Anthonys Health Center | Osf Saint Clare Medical Center | Osf Saint Luke Medical Center | Saint Anthony Medical Center | Saint Francis Medical Center | Saint James Hospital | St Francis Hospital | St Joseph Medical Center | St Mary Medical Center,IL | MI,140052 | 140064 | 140067 | 140093 | 140113 | 140161 | 140162 | 140179 | 140233 | 141318 | 141325 | 141337 | 230101 | 231337
+370860281,1,Paris Community Hospital,IL,141320
+371119538,1,Carle Foundation Hospital,IL,140091
+371208459,1,St Josephs Hospital,IL,140145
+371305510,1,Touchette Regional Hospital,IL,140077
+371363001,1,Richland Memorial Hospital,IL,140147
+371396010,1,Bcc Dba Illini Community Hospital,IL,141315
+371623919,13,East Texas Medical Center - Gilmer | East Texas Medical Center Crockett | East Texas Medical Center Mount Vernon | Etmc Athens | Etmc Carthage | Etmc Clarksville | Etmc Fairfield | Etmc Henderson | Etmc Jacksonville | Etmc Pittsburg | Etmc Quitman | Etmc Trinity | Etmc- Tyler,TX,450083 | 450188 | 450194 | 450210 | 450373 | 450389 | 450475 | 450580 | 450658 | 450749 | 450884 | 451367 | 451380
+371705906,1,Llumc Murrieta,CA,050770
+376062326,1,Pana Community Hospital,IL,141341
+380350304,1,Munson Healthcare Manistee Hospital,MI,230303
+380593405,1,Metropolitan Hospital,MI,230236
+380833014,1,Mymichigan Medical Center Midland,MI,230222
+380997730,1,St Marys Of Michigan,MI,230077
+381218516,1,Mclaren Macomb,MI,230227
+381303843,1,Otsego Memorial Hospital,MI,230133
+381357020,2,Henry Ford Hospital | Henry Ford West Bloomfield Hospital,MI,230053 | 230302
+381357994,1,Childrens Hospital Of Michigan,MI,233300
+381358036,1,Marquette General Hospital,MI,230054
+381358172,1,Sparrow Clinton Hospital,MI,231326
+381358208,1,Memorial Healthcare,MI,230121
+381358212,1,Ascension Providence Hospital,MI,230019
+381358390,1,Garden City Hospital,MI,230244
+381359063,2,Ascension St John Hospital | St John North Shores Hospital,MI,230165 | 230257
+381359087,1,Bronson Methodist Hospital,MI,230017
+381359180,1,Ascension Allegan Hospital,MI,231328
+381359218,1,Bronson Lakeview Hospital,MI,231332
+381359247,1,Ascension Providence Rochester Hospi,MI,230254
+381360526,1,Ascension Borgess Hospital,MI,230117
+381360584,1,Edward W Sparrow Hospital,MI,230230
+381362830,1,Munson Medical Center,MI,230097
+381368347,1,Oaklawn Hospital,MI,230217
+381369611,1,Mclaren Port Huron,MI,230216
+381369796,1,Sheridan Community Hospital,MI,231312
+381381288,1,Portage Health Hospital,MI,230108
+381394903,1,Bell Memorial Hospital,MI,231321
+381398825,1,Cheboygan Memorial Hospital,MI,231336
+381415390,1,Deckerville Community Hospital,MI,231311
+381415623,1,Paul Oliver Memorial Hospital,MI,231300
+381416522,1,Sinai-Grace Hospital,MI,230024
+381420304,1,Mclaren Central Michigan,MI,230080
+381428164,1,Mclaren Oakland,MI,230207
+381434090,1,Mclaren Greater Lansing,MI,230167
+381437919,1,Mymichigan Medical Center Alma,MI,230030
+381443361,1,Aspirus Keweenaw Hospital,MI,231319
+381443395,1,Ascension St Joseph Hospital,MI,230100
+381455020,1,Straith Hospital For Special Surgery,MI,230071
+381456056,1,Scheurer Hospital,MI,231310
+381459366,1,Munson Healthcare Charlevoix Hospita,MI,231322
+381474929,2,Mclaren Thumb Region,MI,230118 | 231340
+381490180,1,Carson City Hospital,MI,230208
+381490190,1,Ascension Borgess-Lee Hospital,MI,231315
+381507046,1,Munising Memorial Hospital,MI,231308
+381507302,1,Marlette Regional Hospital,MI,231330
+381518643,1,Mymichigan Medical Center-Clare,MI,230180
+381559180,1,Eaton Rapids Medical Center,MI,231324
+381565380,1,Harbor Beach Community Hospital,MI,231313
+381576680,1,St John Brighton,MI,230279
+381619577,1,Hills & Dales General Hospital,MI,231316
+381671120,1,Ascension Standish Hospital,MI,231305
+381676780,1,Bronson South Haven Hospital,MI,230085
+381738615,1,Mckenzie Health System,MI,231314
+381976271,1,Bay Regional Medical Center,MI,230041
+381984289,1,Monroe Regional Hospital,MI,230099
+382007629,1,Sparrow Eaton,MI,231327
+382027689,1,Wa Foote Memorial Hospital,MI,230092
+382113393,7,Lake Huron Medical Center | St Joseph Mercy Saline Hospital | Trinity Health - Livonia | Trinity Health Ann Arbor | Trinity Health Grand Rapids | Trinity Health Livingston | Trinity Health Oakland,MI,230002 | 230029 | 230031 | 230059 | 230069 | 230156 | 230212
+382146751,1,Mclaren Northern Michigan,MI,230105
+382155995,1,Huron Valley-Sinai Hospital,MI,230277
+382320476,1,Detroit Receiving Hospital & Univ Health Center,MI,230273
+382377821,1,Genesys Regional Medical Ctr,MI,230197
+382383119,1,Mclaren Flint,MI,230141
+382391907,1,Harper University Hospital,MI,230104
+382589966,4,Mercy Health Muskegon | Mh-Lakeshore Campus | Muskegon General Hospital | Trinity Health Muskegon,MI,230004 | 230066 | 230159 | 231320
+382602147,1,Mymichigan Medical Center Sault,MI,230239
+382610349,1,Bronson Vicksburg Hospital,MI,230190
+382689033,1,Mclaren Lapeer Region,MI,230193
+382776791,1,Bronson Battle Creek,MI,230075
+382780429,1,Dickinson County Healthcare System,MI,230055
+382791823,1,Henry Ford Health Wyandotte Hospital,MI,230146
+382796005,1,Promedica Hickman Hospital,MI,230005
+382800065,1,Holland Hospital,MI,230072
+382908586,1,Aspirus Ironwood Hospital,MI,231333
+382947657,2,Henry Ford Health Macomb Hospital | Henry Ford Macomb Hospital-Warren Campus,MI,230047 | 230204
+383049015,1,Herrick Medical Center,MI,231334
+383160564,1,Ascension River District Hospital,MI,230241
+383218134,1,Sparrow Ionia Hospital,MI,231331
+383236977,1,Aspirus Iron River Hopsital & Clinic,MI,231318
+383322109,2,Ascension Macomb-Oakland Hospital | St John Macomb-Oakland Hospital-Oakland Center,MI,230195 | 230223
+383330803,1,Trinity Health Grand Haven Hospital,MI,230174
+383369438,1,Covenant Medical Center,MI,230070
+383426063,1,Caro Community Hospital,MI,231329
+383452303,1,Berrien General Hospital,MI,230125
+383646817,1,Ochsner American Legion Hospital,LA,190053
+383647394,1,Phoebe Worth Medical Center,GA,111328
+383807713,1,Chicot Memorial Medical Center,AR,041328
+383833117,1,St John Broken Arrow,OK,370235
+383835105,4,Kapiolani Med Ctr For Women & Childr | Pali Momi Medical Center | Straub Clinic & Hospital | Wilcox Memorial Hospital,HI,120014 | 120022 | 120026 | 123300
+383952644,21,Cannon Falls Medical Center - Mayo | Mayo Clinic Florida | Mayo Clinic Health Sys - New Prague | Mayo Clinic Health Sys - St James | Mayo Clinic Health System - Austin | Mayo Clinic Health System - Red Wing | Mayo Clinic Health System - Waseca | Mayo Clinic Health System-Fairmont | Mayo Clinic Hlth Sys - Springfield | Mayo Clinic Hospital | Mayo Clinic Hospital Rochester | Mayo Clnic Health System - Lake City | Mayo Clnic Hlth Sys-Albrt Lea Austin | Mchs - Southwest Minnesota Region | Mchs Eau Claire Hospital | Mchs Franciscan Healthcare  Inc | Mchs Northland | Mchs Oakridge | Mchs-Chippewa Valley | Mchs-Franciscan Sparta | Mchs-Red Cedar,AZ | FL | MN | WI,030103 | 100151 | 240010 | 240018 | 240043 | 240093 | 240117 | 240166 | 241333 | 241338 | 241345 | 241346 | 241352 | 241361 | 520004 | 520070 | 521302 | 521305 | 521314 | 521315 | 521340
+383975135,1,Glenbeigh Health Sources,OH,360245
+386000029,1,Mymichigan Medical Center Alpena,MI,230036
+386005550,1,Hillsdale Hospital,MI,230037
+386020434,1,Mymichigan Medical Center Gladwin,MI,231325
+386108110,1,Community Health Center Branch,MI,230022
+390286215,1,Fort Atkinson Memorial Hospital,WI,520071
+390704510,1,Tri-County Memorial Hospital  Inc,WI,521316
+390773970,1,Ladd Memorial Hospital,WI,521318
+390794174,1,Oconomowoc Memorial Hospital,WI,520062
+390799566,1,Tomah Memorial Hospital,WI,521320
+390804125,1,Hudson Hospital,WI,521335
+390806250,1,Divine Savior Hospital,WI,520041
+390806265,1,Waupun Memorial Hospital,WI,521327
+390806302,1,St Josephs Comm Hospt,WI,520063
+390806315,3,Ascension Columbia St Marys Hospital Ozaukee | Ascension Columbia St Marys Milwauke | Columbia  St Marys-Columbia Campus,WI,520027 | 520051 | 520140
+390806324,1,Door County Memorial Hospital,WI,521358
+390806359,1,Thedacare-Berlin,WI,521355
+390806367,1,Meriter Hospital  Inc,WI,520089
+390806374,1,Franciscan Skemp Arcadia,WI,521306
+390806395,1,Holy Family Memorial Inc,WI,520107
+390806404,1,Vernon Memorial Hospital,WI,521348
+390806429,1,Aspirus Langlade Hospital,WI,521350
+390806828,1,Marshfield Medical Center Neillsvill,WI,521323
+390807060,1,Sacred Heart Hospital,WI,520013
+390807065,1,Aspirus Stanley Hospital,WI,521311
+390807068,1,Thedacare Medical Center - Shawano,WI,521346
+390807236,1,St Agnes Hospital,WI,520088
+390808442,1,Westfields Hospital,WI,521345
+390808443,1,Aspirus Stevens Point Hospital,WI,520002
+390808480,1,St Nicholas Hospital,WI,520044
+390808498,1,The Richland Hospital  Inc,WI,521341
+390808503,1,Aspirus Merrill Hospital,WI,521339
+390808509,1,Monroe Clinic,WI,520028
+390808526,1,Western Wisconsin Health,WI,521347
+390810545,1,St Josephs Hospital,WI,520017
+390812532,2,Childrens Hospital Of Wi-Fox Valley | Childrens Hospital Of Wisconsin,WI,523300 | 523302
+390813416,1,Gundersen Lutheran Medical Center  I,WI,520087
+390816818,2,Ascension Ne Wisconsin Mercy Campus | Ascension Ne Wisconsin-St Elizabeth,WI,520009 | 520048
+390816845,2,Froedtert South | St Catherines Hospital Inc,WI,520021 | 520069
+390816848,2,Mercy Health System Corporation | Mercy Walworth Hospital,WI,520066 | 521357
+390816857,4,Ascension Se Wisconsin Hospital  Inc | The Wisconsin Heart Hospital | Wheaton Franciscan Healthcare Franklin | Wheaton Franciscan Inc - Elmbrook Memorial,WI,520136 | 520170 | 520199 | 520204
+390817529,1,St Vincent Hospital,WI,520075
+390818682,1,St Marys Hospital Medical Center,WI,520097
+390819992,1,Edgerton Hospital & Health Services,WI,521319
+390824015,1,Thedacare Regional Medical Center Ap,WI,520160
+390830664,1,Thedacare Regional Medical Center -,WI,520045
+390831153,1,Cumberland Memorial Hospital,WI,521353
+390832914,1,Stoughton Hospital Association,WI,521343
+390837206,1,Lakeview Medical Center Of Rice Lake,WI,520011
+390845590,1,Memorial Hospital Of Boscobel,WI,521344
+390848401,1,St Clare Memorial Hospital  Inc,WI,521310
+390868982,1,Aspirus Riverview Hospital & Clinics,WI,520033
+390869788,1,Thedacare Medical Center-New London,WI,521326
+390871113,1,Thedacare Medical Center - Waupaca,WI,521334
+390872080,1,Sauk Prairie Memorial Hospital,WI,520095
+390873606,1,Howard Young Medical Center,WI,520091
+390884478,1,Bellin Memorial Hospital,WI,520049
+390890676,1,St Croix Regional Medical Center,WI,521337
+390892183,1,Spooner Health System,WI,521332
+390905385,1,Ascension Calumet Hospital,WI,521317
+390907740,1,Ascension St Francis Hospital,WI,520078
+390908320,1,Amery Regional Medical Center,WI,521308
+390910727,1,Waukesha Memorial Hospital,WI,520008
+390926284,1,Prairie Du Chien Memorial Hospital,WI,521330
+390929538,1,St Josephs Health Services,WI,521304
+390938661,1,Burnett Medical Center  Inc,WI,521331
+390944012,1,Moundview Memorial Hospital,WI,521309
+390964813,1,Aspirus Medford Hospital And Clinics,WI,521324
+390973724,1,Flambeau Hospital Mchs,WI,521325
+390985690,1,Aspirus Eagle River Hospital,WI,521300
+390987025,1,Community Memorial Hospital,WI,520103
+390992883,1,Mile Bluff Medical Center  Inc,WI,520109
+391027536,1,Black River Memorial Hospital,WI,521333
+391028081,1,Beloit Memorial Hospital  Inc,WI,520100
+391030310,1,Watertown Regional Medical Center,WI,520116
+391091432,1,Reedsburg Area Medical Center,WI,521351
+391101287,1,Ripon Medical Center,WI,521321
+391138241,1,Aspirus Wausau Hospital,WI,520030
+391140373,1,Prairie Ridge Health  Inc,WI,521338
+391157876,1,Beaver Dam Community Hospitals,WI,520076
+391264986,2,Wheaton Franciscan Healthcare - All | Wheaton Franciscan Healthcare-All Saints-Wi Ave Campus,WI,520094 | 520096
+391365168,1,Adventhealth Durand,WI,521307
+391370626,1,Southwest Health Center,WI,521354
+391390638,2,Aspirus Rhinelander Hospital | Aspirus Tomahawk Hospital,WI,520019 | 521313
+391528430,1,Aurora Medical Center - Bay Area,WI,520113
+391536207,1,Hayward Area Memorial Hospital,WI,521336
+391568865,1,Mosh,WI,520205
+391834639,2,Ascension Wisconsin Emerus Menomonee | Orthopaedic Hospital Of Wisconsin,WI,520194 | 520214
+391834962,1,Grant Regional Health Center  Inc,WI,521322
+391902797,1,Manning Regional Healthcare Center,IA,161332
+391904975,1,Regional West Garden County Hospital,NE,281310
+392014409,1,Froedtert Hlth Neighorhood Hosp Llc,WI,520213
+392016396,1,Columbia Center  Inc,WI,520195
+392031968,1,Chi Health Nebraska Heart,NE,280128
+396089134,1,Thedacare Med Ctr - Wild Rose,WI,521303
+396105970,1,Froedtert Mem Lutheran Hospt,WI,520177
+410307617,1,Hendricks Community Hospital Assoc,MN,241339
+410693877,1,St Elizabeth Hosp Of Wabasha  Inc,MN,241335
+410693880,1,Healtheast St Josephs Hospital,MN,240063
+410695596,1,St Cloud Hospital,MN,240036
+410695598,1,St Francis Medical Center,MN,241377
+410695602,1,St Josephs Medical Center,MN,240075
+410695603,1,St Josephs Area Health Services,MN,241380
+410695604,1,St Marys Medical Center,MN,240002
+410706115,1,Madison Healthcare Services,MN,241372
+410706143,1,First Care Medical Services,MN,241357
+410713913,1,Astera Health,MN,241354
+410713914,1,Winona Health Services,MN,240044
+410714079,1,St Lukes Hospital Of Duluth,MN,240047
+410721642,2,Albany Area Hospital | St Gabriels Hospital,MN,241331 | 241370
+410724029,1,Riverview Healthcare Association,MN,241320
+410724034,1,Kittson Memorial Hospital,MN,241336
+410726171,1,Intl Falls Memorial Hospital,MN,241322
+410726173,1,Graceville Health Center,MN,241321
+410729979,1,North Memorial Health Hospital,MN,240001
+410730602,1,Lake Region Healthcare,MN,240052
+410739106,1,Mayo Clinic Methodist Hospital,MN,240061
+410743546,1,Community Memorial Hospital,MN,241364
+410745522,1,Riverwood Healthcare Center,MN,241305
+410758434,1,Lakewood Health Center,MN,241301
+410758512,1,Madelia Health,MN,241323
+410785161,1,Mille Lacs Hospital,MN,241356
+410786046,1,Lake View Memorial Hospital,MN,241308
+410808719,1,Ely-Bloomenson Community Hospital,MN,241318
+410811697,1,Lakeview Memorial,MN,240066
+410837659,1,Minnesota Valley Health Center  Inc,MN,241375
+410841441,1,Northern Pines Medical Center,MN,241340
+410844574,1,Deer River Healthcare Center  Inc,MN,241360
+410853163,1,Tyler Healthcare Center,MN,241348
+410855367,1,Olmsted Medical Center,MN,240006
+410907986,1,St Francis Regional Medical Center,MN,240104
+410919153,1,Avera Marshall Regional Medical Ctr,MN,241359
+410956618,1,Regions Hospital,MN,240106
+410991680,5,Fairview Lakes Regional Medical Ctr | Fairview Northland Reg | Fairview Ridges Hospital | Fairview Southdale Hospital | University Of Minnesota Medical Ctr,MN,240050 | 240078 | 240080 | 240141 | 240207
+411293970,1,Range Regional Health Services,MN,240040
+411384358,1,North Valley Health Center,MN,241337
+411456897,1,Healtheast  St Johns Hospital,MN,240210
+411592761,1,Healtheast Woodwinds Hospital,MN,240213
+411620386,1,St Marys Regional Health Center,MN,240101
+411724637,1,Cuyuna Regional Medical Center,MN,241353
+411754276,2,Childrens Health Care | Childrens Hospital/Clinic St Paul,MN,243301 | 243302
+411763968,1,Prairie Ridge Hospital,MN,241379
+411801967,1,Sibley Medical Center,MN,241311
+411804205,1,Lifecare Medical Center,MN,241344
+411811073,1,St Marys Hospital Superior,WI,521329
+411813221,5,Carris Health | Carris Health-Redwood Llc | Cch-Monticello | Paynesville Area Hospital | Swift County - Benson,MN,240088 | 241349 | 241351 | 241362 | 241365
+411842965,1,Lakewood Health System,MN,241329
+411865315,1,Melrose Area Hospital Centracare,MN,241330
+411865874,1,Grand Itasca Clinic And Hospital,MN,240064
+411878730,2,Essentia Health Virginia | Smdc Medical Center,MN,240019 | 240084
+411884597,1,Pine Medical Center,MN,241309
+411924645,1,Long Prairie Memorial Hospital,MN,241326
+411949230,1,Glencoe Regional Health Services,MN,241355
+420504780,1,St Lukes Methodist Hospital,IA,160045
+420670596,1,Community Memorial Hospital,IA,161320
+420680308,1,Mercy Medical Center-Centerville,IA,161377
+420680337,1,Trinity Muscatine,IA,160013
+420680354,1,The Finley Hospital,IA,160117
+420680355,1,Jennie Edmundson Memorial,IA,160047
+420680370,1,Avera Holy Family Health,IA,161351
+420680391,1,Mercy Hospital Iowa City,IA,160029
+420680407,1,Southeast Iowa Regional Medical Ctr,IA,160057
+420680448,1,Mercy Medical Center-Des Moines,IA,160083
+420680452,2,Iowa Methodist Medical Center | Unitypoint Health - Des Moines Iowa Lutheran,IA,160024 | 160082
+420698265,1,Allen Memorial Hospital,IA,160110
+420698295,1,Mercy Medical Center,IA,160079
+420707096,1,Cherokee Regional Medical Center,IA,161362
+420710268,1,Keokuk Area Hospital,IA,160008
+420733472,1,St Anthony Regional Hospital,IA,160005
+420738969,1,Grape Community Hospital - Hamburg,IA,161324
+420758901,1,Mercyone Cedar Falls Medical Center,IA,160040
+420776568,1,Chi Health - Missouri Valley,IA,161309
+420782518,1,Chi Health Mercy Corning,IA,161304
+420796764,1,Sioux Center Health,IA,161346
+420818642,1,Mercyone Elkader Medical Center,IA,161319
+420842204,1,Pella Regional Health Center,IA,161367
+420843389,1,Horn Memorial Hospital,IA,161354
+420859940,1,Burgess Health Center,IA,161359
+420860039,1,Stewart Memorial Hospital,IA,161350
+420890973,1,Osceola Regional Health Center,IA,161345
+420932564,1,Hegg Memorial Health Center,IA,161336
+420933383,1,Grinnell Regional Medical Center,IA,160147
+421009175,1,Trinity Regional Medical Center,IA,160016
+421017512,1,Upland Hills Health,WI,521352
+421019872,1,St Lukes Regl Medical Center,IA,160146
+421081055,1,Fort Madison Community Hospital,IA,160122
+421087612,1,Knoxville Community Hospital Inc,IA,161355
+421101835,1,Shenandoah Medical Center,IA,161366
+421178403,1,Mercyone Oelwein Medical Center,IA,161338
+421231996,1,Virginia Gay Hospital,IA,161349
+421264647,1,Mercyone Waterloo Medical Center,IA,160067
+421320763,1,Palmer Lutheran Health Center,IA,161316
+421336618,1,Mercyone Clinton Medical Center,IA,160080
+421418132,1,Loring Hospital,IA,161370
+421418847,2,Genesis Medical Center - Davenport | Genesis Medical Center - Dewitt,IA,160033 | 161313
+421470935,1,Mercyone - Newton Medical Center,IA,160032
+421487967,1,Jones Regional Medical Ctr,IA,161306
+421500277,1,Mercyone Primghar Medical Center,IA,161300
+421707837,1,Hennepin County Medical Center,MN,240004
+430633449,1,Missouri Delta Medical Center,MO,260113
+430652680,1,St Lukes Hospital,MO,260179
+430653493,2,Mercy Hospital - St Louis | Mercy Hospital - Washington,MO,260020 | 260052
+430653587,1,Ssm Health Good Samaritan Hospital,IL,140046
+430654874,4,Southeast Health Center Of Reynolds | Southeast Health Center Of Reynolds County | Southeasthealth | Southeasthealth Center Of Stoddard C,MO,260110 | 260160 | 260229 | 261339
+430662495,1,Hannibal Regional Hospital,MO,260025
+430666765,1,Ranken Jordan,MO,263303
+430687077,1,Mercy Hospital Jefferson,MO,260023
+430688874,3,St Clare Hospital | St Marys Hospital | St Marys Janesville Hospital,WI,520057 | 520083 | 520208
+430715842,1,Pershing Memorial Hospital,MO,261307
+430738490,1,Ssm Cardinal Glennon Childrens Hospit,MO,263300
+430980256,1,Mercy Hospital South,MO,260077
+431240629,1,Freeman Neosho Hospital,MO,261331
+431276738,1,Healthbridge Childrens Hospital,CA,053308
+431279063,1,Boone Hospital Center,MO,260068
+431284526,1,St Marys Medical Center,MO,260193
+431343281,6,Ssm Health Depaul Hospital | Ssm Health St Clare Hospital | Ssm Health St Joseph Hospital - Lsl | Ssm Health St Joseph Hospital - Sc | Ssm Health St Marys Hospital - Stl | Ssm St Joseph Health Center - Wentzville,MO,260005 | 260081 | 260091 | 260104 | 260198 | 260200
+431550298,1,Ssm Health-St Marys Audrain,MO,260064
+431656689,1,Cox-Monett Hospital,MO,261329
+431704371,1,Freeman Oak Hill Health System,MO,260137
+431707306,1,Wright Memorial Hospital,MO,261309
+431735565,1,Hedrick Medical Center,MO,261321
+431741457,1,Perry County Memorial Hospital,MO,261311
+431767432,1,Mercy Hospital Lebanon,MO,260059
+431933950,1,Saint Lukes Cancer Institute,MO,260211
+431936696,1,Mercy Hospital Aurora,MO,261316
+431936699,1,Mercy Hospital Cassville,MO,261317
+431960221,1,Salem Health West Valley,OR,381308
+431977757,1,Trinity Regional Hospital Sachse,TX,670319
+432007492,1,Northridge Medical Center,GA,110040
+432008974,1,Texas Health Denton,TX,450743
+432040599,1,Bennett County Hospital,SD,431314
+436004544,1,Pemiscot County Memorial Hospital,MO,260070
+440537826,1,Community Hospital Association  Inc,MO,261303
+440545289,1,Heartland Regional Medical Center,MO,260006
+440545297,2,Kansas City Orthopaedic Institute | Saint Lukes Hospital Of Kansas City,KS | MO,170188 | 260138
+440546292,1,St Joseph Medical Center,MO,260085
+440546366,1,Capital Region Medical Center,MO,260047
+440552485,1,Mercy Hospital Springfield,MO,260065
+440565393,2,St Lukes Northland Hospital - Barry Road | St Lukes Northland Hospital - Smithville,MO,260062 | 260202
+440577118,1,Coxhealth,MO,260040
+440579850,1,Ssm Health-St Marys-Jefferson City,MO,260011
+440580870,1,Northwest Medical Center,MO,261328
+440584290,1,Cox Medical Center Branson,MO,260094
+440605373,2,Childrens Mercy Hospital | Childrens Mercy Hospital Kansas,KS | MO,173300 | 263302
+440607149,1,Mercy St Francis Hospital,MO,261335
+440629397,1,Carroll County Hospital,MO,261332
+440655986,1,John Fitzgibbon Memorial Hospital,MO,260142
+440661018,2,University Health Lakewood Med Ctr | University Health Truman Med Center,MO,260048 | 260102
+440668347,1,Cameron Regional Medical Center,MO,260057
+446005758,1,Ozarks Medical Center,MO,260078
+450119890,1,Nelson County Health System-Hospital,ND,351308
+450222079,1,Jacobson Memorial Hospital,ND,351314
+450226419,1,Heart Of America Medical Center,ND,351332
+450226426,1,St Andrews Health Center,ND,351307
+450226429,1,St Josephs Hospital & Health Ctr,ND,351336
+450226472,1,Northwood Deaconess Health Center,ND,351312
+450226553,1,Mercy Hospital Of Valley City,ND,351324
+450226711,2,St Alexius Medical Center | Turtle Lake Community Hospital,ND,350002 | 351304
+450226729,1,St Aloisius Medical Center,ND,351327
+450227012,1,Mercy Hospital,ND,351333
+450227311,1,Carrington Health Center,ND,351318
+450227391,1,Presentation Medical Center,ND,351316
+450227752,1,Garrison Memorial Hospital,ND,351303
+450227753,1,Cooperstown Medical Center,ND,351306
+450231181,1,Jamestown Regional Medical Center,ND,351335
+450231183,1,Mercy Medical Center,ND,351334
+450231675,1,Oakes Community Hospital,ND,351315
+450232743,1,First Care Health Center,ND,351326
+450233470,30,Banner Baywood Medical Center | Banner Boswell Medical Center | Banner Casa Grande Medical Center | Banner Churchill Community Hospital | Banner Del E Webb Medical Center | Banner Desert Medical Center | Banner Estrella Medical Center | Banner Fort Collins Medical Center | Banner Gateway Medical Center | Banner Goldfield Medical Center | Banner Heart Hospital | Banner Ironwood Medical Center | Banner Lassen Medical Center | Banner Ocotillo Medical Center | Banner Payson Medical Center | Banner Thunderbird Medical Center | Banner University Med Center South | Banner University Med Center Tucson | Banner University Medical Center Phx | Community Hospital | East Morgan County Hospital | Mckee Medical Center | North Colorado Medical Center | Ogallala Community Hospital | Page Hospital | Platte County Memorial Hospital | Sterling Regional Medcenter | Washakie Medical Center,AZ | CA | CO | NE | NV | WY,030002 | 030016 | 030033 | 030061 | 030064 | 030065 | 030088 | 030089 | 030093 | 030105 | 030111 | 030115 | 030122 | 030130 | 030134 | 030147 | 031304 | 031318 | 051320 | 060001 | 060030 | 060076 | 060126 | 061303 | 281355 | 290006 | 291313 | 531305 | 531306 | 531307
+450253272,1,Linton Hospital,ND,351328
+450254692,1,St Lukes Hospital,ND,351325
+450255914,1,Ashley Medical Center,ND,351322
+450306787,1,Cavalier County Memorial Hospital,ND,351323
+450308379,1,Sakakawea Medical Center,ND,351310
+450308484,1,Tioga Medical Center,ND,351300
+450310159,1,Unity Medical Center,ND,351320
+450310462,1,Altru Health System-Altru Hospital,ND,350019
+450340688,1,West River Regional Medical Center,ND,351330
+450358986,1,Wishek Community Hospital,ND,351321
+450425948,1,Towner County Medical Center,ND,351331
+450447670,1,Mountrail County Medical Center,ND,351301
+450458242,1,Southwest Healthcare Services,ND,351313
+451027361,1,Integris Health Edmond,OK,370236
+451257972,1,Three Rivers Health,MI,230015
+451502252,1,Texas Health Alliance,TX,670085
+452230827,1,Swisher Memorial Healthcare System,TX,451349
+452438973,1,Cch - Sauk Centre,MN,241368
+452694620,1,Texas Health Huguley,TX,450677
+452696517,3,Barbourville Arh Hospital | Mary Breckinridge Hospital | Our Lady Of The Way,KY,181305 | 181316 | 181328
+452750258,1,El Campo Memorial Hospital,TX,450694
+452896080,1,Baptist Medical Center - Leake  Inc,MS,251315
+452964467,3,Bon Secours Community Hospital | Good Samaritan Hospital | St Anthonys Community Hospital,NY,330135 | 330158 | 330205
+452998842,1,Mercy Hospital Logan County,OK,371317
+453072990,1,Tift Regional Medical Center,GA,110095
+453215312,1,Kings Daughters Med Center Ohio,OH,360361
+453220509,1,Adventist Health Reedley,CA,050192
+453576100,1,Mcleod Loris Seacoast Hospital,SC,420105
+453765471,1,Atrium Health Navicent Peach,GA,111310
+453791176,23,Sanford Aberdeen Medical Center | Sanford Bagley Medical Center | Sanford Bemidji | Sanford Bismarck | Sanford Chamberlain Medical Center | Sanford Hillsboro | Sanford Hospital Canby | Sanford Hospital Luverne | Sanford Hospital Tracy | Sanford Hospital Webster | Sanford Mayville | Sanford Medical Center - Fargo | Sanford Medical Center Canton | Sanford Medical Center Clear Lake | Sanford Medical Center Jackson | Sanford Medical Center Sheldon | Sanford Medical Center South University | Sanford Medical Center Vermillion | Sanford Medical Center Westbrook | Sanford Medical Center Wheaton | Sanford Regional Hospital Worthingto | Sanford Thief River Falls | Sanford Usd Medical Center,IA | MN | ND | SD,161381 | 240022 | 240100 | 241302 | 241303 | 241304 | 241315 | 241328 | 241347 | 241371 | 241381 | 350004 | 350011 | 350015 | 351309 | 351329 | 430027 | 430097 | 431307 | 431311 | 431329 | 431333 | 431336
+453808607,3,Mccune - Brooks Hospital | Mercy Hospital Carthage | Mercy Mccune Brooks Hospital,MO,260228 | 261326 | 261338
+453957368,1,Polk Medical Center,GA,111330
+454165628,1,United Hospital District,MN,241369
+454166209,1,University Hospital Mcduffie,GA,110111
+454171900,2,Healdsburg Hospital | Petaluma Valley Hospital,CA,050136 | 051321
+454243702,1,Ascension St Vincent Fishers,IN,150181
+454364243,2,Cedar Park Regional Medical Center | Seton Medical Center Harker Heights,TX,670043 | 670080
+454394739,1,St Luke Hospital Anderson Campus,PA,390326
+454475683,1,Genesis Medical Center - Aledo,IL,141304
+454510252,1,Baylor Medical Center At Carrollton,TX,450730
+454551946,1,Teton Valley Hospital,ID,131313
+455023260,1,Park Nicollet Methodist Hospital,MN,240053
+455055149,1,St Anthony Shawnee Hospital,OK,370149
+455199762,1,Mercy Hospital Watonga,OK,371302
+455563741,1,Wenatchee Valley Hospital,WA,500148
+456013474,1,Pembina County Memorial Hospital,ND,351319
+460219795,1,Community Memorial Hospital,SD,431309
+460224598,1,Avera St Lukes,SD,430014
+460224604,3,Avera Queen Of Peace | Avera Weskota Memorial Medical Cente | De Smet Memorial Hospital,SD,430013 | 431324 | 431332
+460224743,8,Avera Dells Area Hospital | Avera Flandreau Hospital | Avera Gregory Hospital | Avera Hand County Memorial Hospital | Avera Heart Hospital Of South Dakota | Avera Mckennan | Avera Merrill Pioneer Hospital | Milbank Area Hospital/Avera Health,IA | SD,161321 | 430016 | 430095 | 431310 | 431326 | 431331 | 431337 | 431338
+460225414,1,St Michaels Hospital  Inc,SD,431327
+460225483,2,Avera Creighton Hospital | Avera Sacred Heart Hospital,NE | SD,281331 | 430012
+460226283,1,Wagner Community Memorial Hospital,SD,431315
+460226738,1,Avera St Benedict Health Center,SD,431330
+460228038,1,Madison Regional Health System,SD,431300
+460230199,1,Avera St Marys,SD,430015
+460232450,1,Freeman Regional Health Services,SD,431313
+460233030,1,Lifescape,SD,433300
+460234354,1,Avera Gettysburg Hospital,SD,431302
+460239781,1,Platte Health Center  Inc,SD,431306
+460246437,1,Eureka Community Health Services,SD,431308
+460255944,1,Mobridge Regional Hospital,SD,431325
+460260288,1,Pioneer Memorial Hospital And Health,SD,431328
+460274380,1,Winner Regional Healthcare Center,SD,431334
+460278210,1,Coteau Des Prairies,SD,431339
+460308990,1,Holy Infant Hospital,SD,430060
+460319070,2,Monument Health Rapid City Hospital | Same Day Surgery Center,SD,430077 | 430093
+460345312,1,Huron Regional Medical Center,SD,431335
+460360899,4,Monument Health Custer Hospital | Monument Health Lead-Deadwood Hospit | Monument Health Spearfish Hospital | Monument Health Sturgis Regional,SD,430048 | 431320 | 431321 | 431323
+460361016,1,Philip Health Services Inc,SD,431319
+460372454,1,Spearfish Regional Surgery Center,SD,430094
+460380552,1,Marshall County Healthcare Center,SD,431312
+460391067,1,Prairie Lakes Health Care Center,SD,430005
+460400557,1,Douglas County Memorial Hospital,SD,431305
+460450523,1,Fall River Hospital,SD,431322
+460517825,1,Renown South Meadows Med Ctr,NV,290049
+460543230,1,The Westerly Hospital,RI,410013
+460726303,1,Medstar Southern Maryland Hospital C,MD,210062
+460796114,1,University Colo Health Memorial Hospital Central,CO,060022
+460877261,1,Ascension St Vincent Anderson,IN,150088
+461285811,1,Stamford Memorial Hospital,TX,450306
+461393755,1,Trihealth Hospital  Inc,OH,360362
+461523194,1,Ascension St Vincents Clay County,FL,100321
+461629800,1,Bhmc-Conway,AR,040154
+462097818,1,St Joseph Medical Center,MD,210063
+462288155,1,Mercy Hospital Ada,OK,370020
+462605366,1,University Hospital & Clinics,LA,190006
+462916938,1,The Mount Vernon Hospital,NY,330086
+462931956,1,Montefiore New Rochelle Hospital,NY,330184
+463123178,1,Our Lady Of The Angels Hospital Mc,LA,190312
+463214504,1,Loma Linda University Childrens Hosp,CA,050778
+463433074,1,Mercy Hospital Kingfisher,OK,371313
+463851119,1,Mercy Hospital Booneville,AR,041318
+464007700,1,Baylor Scott & White - Marble Falls,TX,670108
+464088182,1,Mymichigan Medical Ctr - West Bran,MI,230095
+464249555,1,Gouverneur Hospital,NY,331315
+464420358,1,Claiborne Medical Center,TN,440057
+464958152,1,Acadia General Hospital,LA,190044
+465143606,1,St Lukes Hospital - Monroe Campus,PA,390330
+465322209,1,St Josephs Medical Center,CA,050084
+465338502,2,Albert Einstein Medical Center | Einstein Medical Center Montgomery,PA,390142 | 390329
+466015787,1,Landmann-Jungman Memorial Hospital,SD,431317
+470366569,1,Henderson Health Care Services,NE,281308
+470375220,1,Memorial Health Care Systems,NE,281339
+470376552,2,Bryan Medical Center | Bryan Medical Center West,NE,280003 | 280005
+470376601,1,Chi Health St Francis,NE,280023
+470376604,1,Nebraska Methodist Hospital,NE,280040
+470376606,1,Boys Town National Research Hospital,NE,283300
+470376615,1,Chi Health Immanuel,NE,280081
+470378779,1,Mary Lanning Memorial Hospital Assoc,NE,280032
+470379039,1,York General Hospital Inc,NE,281336
+470379754,1,Childrens Hospital & Medical Center,NE,283301
+470379755,1,Chi Health Good Samaritan,NE,280009
+470379834,1,Beatrice Community Hospital,NE,281364
+470379836,1,Chi Health St Elizabeth,NE,280020
+470385129,1,Regional West Medical Center,NE,280061
+470388012,1,Brodstone Memorial Hospital,NE,281315
+470393176,1,Antelope Memorial Hospital,NE,281326
+470399853,1,Chi Health Schuyler,NE,281323
+470408242,1,Sidney Regional Medical Center,NE,281357
+470421272,1,Community Medical Center  Inc,NE,281352
+470426285,1,Memorial Community Hospital,NE,281359
+470426530,1,Jennie M Melham Memorial Med Center,NE,281365
+470443636,1,Saint Marys Hospital,NE,281342
+470461859,1,Memorial Community Health  Inc,NE,281320
+470463911,1,Avera St Anthonys Hospital,NE,281329
+470468078,1,Jefferson Community Health Center,NE,281319
+470481628,1,Phelps Memorial Health Center,NE,281362
+470482234,1,Chadron Community Hospital,NE,281341
+470484764,3,Chi Health Creighton University Berg | Chi Health Mercy Council Bluffs | Chi Health-Creighton Univ Med Center,IA | NE,160028 | 280030 | 280060
+470486026,1,Saint Francis Memorial Hospital,NE,281322
+470533373,1,Community Hospital Assocociation,NE,281363
+470537192,1,Niobrara Valley Hospital,NE,281303
+470542043,1,Columbus Community Hospital,NE,280111
+470544098,1,West Holt Memorial Hospital,NE,281343
+470566524,1,Providence Medical Center,NE,281345
+470662290,1,Great Plains Health,NE,280065
+470757164,3,Chi Health Lakeside | Chi Health Midlands | Chi Health Plainview,NE,280105 | 280130 | 281346
+470796875,1,Faith Regional Health Services,NE,280125
+470841285,1,Crete Area Medical Center,NE,281354
+471156297,1,Munson Healthcare Cadillac Hospital,MI,230081
+471161992,1,Munson Healthcare Grayling Hospital,MI,230058
+471753440,1,Parkview Wabash Hospital  Inc,IN,151310
+472189738,1,Sonoma West Medical Center,CA,050781
+472219204,1,Mercy Hospital Lincoln,MO,261319
+472367677,1,Lakeland Community Hospital,AL,010125
+472378825,1,Russellville Hospital,AL,010158
+472540179,1,Ochsner - Abrom Kaplan Mh,LA,191322
+473035370,1,Hacienda Childrens Hospital Inc,AZ,033303
+473448483,1,Benefis Teton Medical Center,MT,271307
+473712858,1,Mcleod Health Cheraw,SC,420107
+473752176,1,St Marys Sacred Heart Hospital,GA,110027
+473793197,1,Adventhealth New Smyrna Beach,FL,100014
+473825106,1,Franciscan Health Rensselaer,IN,151324
+473869194,4,Albany Medical Center Hospital | Columbia Memorial Hospital | Glens Falls Hospital | Saratoga Hospital,NY,330013 | 330094 | 330191 | 330222
+473884840,1,Whs - Greene,PA,390150
+474063046,4,Ascension St Thomas River Park | Saint Thomas Highland Hospital | Saint Thomas Stones River Hospital | St Thomas Dekalb Hospital,TN,440148 | 440151 | 440192 | 440200
+474196634,1,Ssm Saint Louis University Hospital,MO,260105
+474393589,1,Effingham Hospital,GA,111306
+474717998,1,Bozeman Deaconess Health Services,MT,270057
+474837308,1,Our Childrens House,TX,453308
+474914917,1,Prisma Health Tuomey Hospital,SC,420070
+475348597,2,Tanner Medical Center Alabama  Inc | Tanner Medical Center-East Alabama,AL,010032 | 011306
+475387418,1,Bartow Regional Medical Center,FL,100121
+475437700,1,Pioneer Medical Center,MT,271313
+475676956,1,Johnson Memorial Hospital  Inc,CT,070008
+476028103,1,Tri Valley Health System,NE,281348
+480543721,3,Centura Bob Wilson Memorial Hospital | Centura St Catherine - Dodge City | Centura St Catherine - Garden City,KS,170023 | 170110 | 170175
+480543724,1,Central Kansas Medical Center,KS,170033
+480543768,1,Saint John Hospital,KS,170009
+480543778,1,Via Christi Hospital Pittsburg  Inc,KS,170006
+480543789,2,Geary Community Hospital | Stormont-Vail Regional Health Center,KS,170074 | 170086
+480543792,1,St Lukes Cushing Hospital,KS,170133
+480545183,1,Lindsborg Community Hospital,KS,171358
+480545923,1,Cloud County Health Center,KS,171349
+480547719,1,Stfrancis Health Center,KS,170016
+480559088,1,Hays Medical Center  Inc,KS,170013
+480561974,1,Atchison Hospital Association,KS,171382
+480576039,1,Clara Barton Hospital Association,KS,171333
+480576046,1,Fw Huston Memorial Hospital,KS,171314
+480577658,1,Hiawatha Community Hospital,KS,171341
+480577664,1,Olathe Medical Center,KS,170049
+480581968,1,Susan B Allen Memorial Hospital,KS,170017
+480630224,1,Community Memorial Healthcare  Inc,KS,171363
+480637331,1,Adventhealth Shawnee Mission,KS,170104
+480663711,1,Mercy Hospital  Inc,KS,170075
+480684878,1,Southwest Medical Center,KS,170068
+480761700,1,Ninnescah Valley Health Systems,KS,171378
+480764456,1,Nemaha Valley Community Hospital,KS,171315
+480774005,1,Hutchinson Regional Medical Center,KS,170020
+480784446,1,Providence Medical Center,KS,170146
+480799105,1,Mcpherson Hospital  Inc,KS,170105
+480892178,1,Citizens Medical Center,KS,171362
+480956045,2,Mercy Hospital - Independence | Mercy Hospital-Fort Scott,KS,170010 | 170058
+480958974,1,Kansas Surgery & Recovery Center,KS,170183
+481020227,1,Community Healthcare System,KS,171354
+481040759,1,Newton Medical Center,KS,170103
+481058737,1,Pratt Regional Medical Center,KS,170027
+481155548,1,Miami County Medical Center,KS,170109
+481169103,2,Salina Regional Health Center | Salina Surgical Hospital,KS,170012 | 170187
+481172106,3,Rock Regional Hospital | Via Christi Hospital Saint Francis | Via Christi Hospital Wichita Saint Joseph,KS,170087 | 170122 | 170204
+481178846,1,Coffeyville Reg Medical Center  Inc,KS,170145
+481186704,1,Mercy Regional Health Center,KS,170142
+481203262,1,St Lukes South,KS,170185
+481226829,1,Phillips County Hospital,KS,171353
+481226830,1,Great Plains Of Smith Co  Inc,KS,171377
+481226831,1,Great Plains Of Cheyenne County  Inc,KS,171310
+481226833,1,Great Plains Of Kiowa County  Inc,KS,171332
+481226856,1,Great Plains Of Ottawa County  Inc,KS,171328
+481226976,1,Great Plains Of Ellinwood  Inc,KS,171301
+481226977,1,Great Plains Of Republic Co  Inc,KS,171361
+481236156,1,Great Plains Of Sabetha  Inc,KS,171338
+481253246,1,Pawnee Valley Community Hospital,KS,171345
+486005089,1,William Newton Memorial Hospital,KS,171383
+486099245,1,Labette County Medical Center,KS,170120
+510064318,2,Bayhealth Hospital  Kent Campus | Bayhealth Hospital  Sussex Campus,DE,080004 | 080009
+510064326,1,St Francis Hospital  Wilmington,DE,080003
+510067938,1,Beebe Medical Center,DE,080007
+510069243,1,Nanticoke Memorial Hospital,DE,080006
+510103684,1,Christiana Care Health System,DE,080001
+510142144,1,Mission Community Hospital - Panorama,CA,050704
+510216586,12,Prov Kodiak Island Medical Center | Prov Regl Med Center Everett | Prov Sacred Heart Medical Center | Prov St Mary Medical Center | Providence Alaska Medical Center | Providence Centralia Hospital | Providence Holy Family Hospital | Providence Mount Carmel Hospital | Providence Seward Medical & Care Cen | Providence St Josephs Hospital | Providence St Peter Hospital | Providence Valdez Medical Center,AK | WA,020001 | 021301 | 021302 | 021306 | 500002 | 500014 | 500019 | 500024 | 500054 | 500077 | 501309 | 501326
+510216587,8,Hood River Memorial Hospital | Providence Medford Medical Center | Providence Milwaukie Hospital | Providence Newberg Medical Center | Providence Portland Medical Center | Providence Seaside Hospital | Providence St Vincent Medical Ctr | Providence Willamette Falls Med Ctr,OR,380004 | 380037 | 380038 | 380061 | 380075 | 380082 | 381303 | 381318
+510216589,4,Providence Holy Cross Med Center | Providence Lttl Co Mary Mc San Pedro | Providence Lttl Co Mary Mc Torrance | Providence St Joseph Medical Center,CA,050078 | 050235 | 050278 | 050353
+510217097,1,Saint Anthony Hospital,IL,140095
+510473471,1,Mcleod Medical Center - Dillon,SC,420005
+510603966,2,"Greeneville Community Hospital | Laughlin Memorial Hospital, Inc",TN,440025 | 440050
+520445374,1,Civista Medical Center,MD,210035
+520486540,1,Sinai Hospital Of Baltimore  Inc,MD,210012
+520491660,1,Medstar Harbor Hospital,MD,210034
+520591461,1,Saint Joseph Medical Center,MD,210007
+520591483,1,Mt Washington Pediatric Hospital  In,MD,213300
+520591484,1,Harford Memorial Hospital,MD,210006
+520591531,1,Upmc-Western Maryland Corp,MD,210027
+520591555,1,Bon Secours Hospital,MD,210013
+520591607,1,Good Samaritan Hospital,MD,210056
+520591612,1,Frederick Memorial Hospital,MD,210005
+520591628,1,Tidalhealth Peninsula Regional Inc,MD,210019
+520591639,1,James Lawrence Kernan Hospital,MD,210058
+520591656,1,The Johns Hopkins Hospital,MD,210009
+520591657,1,St Agnes Hospital,MD,210011
+520591658,1,Mercy Medical Center,MD,210008
+520591667,1,Maryland General Hospital,MD,210038
+520591685,1,Medstar Union Memorial Hospital,MD,210024
+520607913,1,Levindal Hebrew Ger Ctr & Hospt,MD,210064
+520607921,1,Mccready Memorial Hospital,MD,210045
+520607945,1,Union Hospital Of Cecil County,MD,210032
+520607949,1,Meritus Medical Center,MD,210001
+520607971,1,Kennedy Krieger,MD,213301
+520608007,1,Medstar Franklin Square Medical Ctr,MD,210015
+520610538,2,Dorchester Genl Hosp | Memorial Easton,MD,210010 | 210037
+520610545,1,Suburban Hospital,MD,210022
+520619000,1,Calvert Memorial Hospital,MD,210039
+520619006,1,St Marys Hospital,MD,210028
+520646893,1,Medstar Montgomery Medical Center,MD,210018
+520679694,1,Chester River Hospital Center,MD,210030
+520689917,1,Baltimore Washington Medical Center,MD,210043
+520738041,2,Holy Cross Germantown Hospital | Holy Cross Hospital,MD,210004 | 210065
+520795508,9,Beckley Arh | Harlan Arh | Hazard Arh | Mcdowell Arh | Middlesboro Arh | Morgan Co Arh | Summers County Arh | Tug Valley Arh | Whitesburg Arh,KY | WV,180002 | 180020 | 180029 | 180050 | 180069 | 181307 | 181331 | 510062 | 511310
+521169362,1,Anne Arundel Medical Center Inc,MD,210023
+521253920,1,Upper Chesapeake Medical Center,MD,210049
+521272129,1,Washington Hospital Center,DC,090011
+521289729,2,Laurel Regional Hospital | Univ Of Md Capital Region Med Ctr,MD,210003 | 210055
+521301088,27,Bon Secours Depaul Medical Center | Bon Secours Southside Medical Center | Clermont Mercy Hospital | Institute For Orthopaedic Surgery | Jewish Hospital Of Cincinnati | Marcum & Wallace Memorial Hospital | Mary Immaculate Hospital | Maryview Hospital | Mercy Allen Hospital | Mercy Health - Fairfield Hospital | Mercy Health Lourdes Hospital Llc | Mercy Health West Hospital | Mercy Health-Tiffin  Hospital Llc | Mercy Health-Willard Hospital Llc | Mercy Hospital Anderson | Mercy Hospital Of Defiance  Llc | Mercy Regional Medical Center | Mercy St Anne Hospital | Our Lady Of Bellefonte Hospital | Southampton Memorial Hospital | Southern Virginia Regional Med Ctr | St Charles Hospital | St Elizabeth Boardman Health Ctr | St Elizabeth Health Center | St Joseph Health Center | St Ritas Medical Center Llc | St Vincent Medical Center,KY | OH | VA,180036 | 180102 | 181301 | 360001 | 360016 | 360056 | 360064 | 360066 | 360081 | 360089 | 360112 | 360161 | 360172 | 360234 | 360236 | 360262 | 360263 | 360270 | 360276 | 361306 | 361310 | 490011 | 490017 | 490041 | 490067 | 490092 | 490097
+521341890,1,Johns Hopkins Bayview Med Ctr,MD,210029
+521362793,1,University Of Maryland Med Sys,MD,210002
+521372665,1,Northwest Hospital Center,MD,210040
+521452024,1,Carroll County General Hospital,MD,210033
+521532556,2,Ahc Shady Grove Medical Center | Ahc White Oak Medical Center,MD,210016 | 210057
+521638026,1,Doctors Community Hospital,MD,210051
+521656507,1,Atlantic General Hospital,MD,210061
+521988421,5,Memorial Regional Medical Center | Rappahannock General Hospital | Richmond Community Hospital | St Francis Medical Center | St Marys Hospital,VA,490059 | 490069 | 490094 | 490136 | 491308
+522093120,1,Howard County,MD,210048
+522218584,1,Georgetown University Hospital,DC,090004
+522438452,1,West Kendall Baptist Hospital,FL,100314
+526049658,1,Greater Baltimore Medical Center,MD,210044
+530196580,1,Childrens Hospital,DC,093300
+530196602,1,Sibley Memorial Hospital,DC,090005
+530196636,1,Providence Hospital,DC,090006
+530204707,1,Howard University Hospital,DC,090003
+540261840,1,Sentara Martha Jefferson Hospital,VA,490077
+540480606,1,Carilion Franklin Memorial Hospital,VA,490089
+540505913,1,Bath County Community Hospital,VA,491300
+540505989,1,Virginia Hospital Center Arlington,VA,490050
+540506309,1,Childrens Hosp Of Richmond Of The Vcu Health Sys,VA,493302
+540506321,1,Childrens Hospital Of The Kings Da,VA,493301
+540506331,1,Sentara Rmh Medical Center,VA,490004
+540506332,1,Carilion Medical Center,VA,490024
+540544705,1,Johnston Memorial Hospital,VA,490053
+540549603,1,Carilion Giles Community Hospital,VA,491302
+540551711,1,Community Memorial Hospital,VA,490098
+540553805,1,Carilion New River Valley Med Center,VA,490042
+540555201,1,Southside Community Hospital,VA,490090
+540560500,1,Shore Memorial Hospital,VA,490037
+540566100,1,Bedford Memorial Hospital,VA,490088
+540568001,1,Carilion Stonewall Jackson Hospital,VA,491304
+540573701,1,Fauquier Hospital,VA,490023
+540620889,5,Inova Alexandria Hospital | Inova Fair Oaks Hospital | Inova Fairfax Hospital | Inova Loudoun Hospital Center | Inova Mount Vernon Hospital,VA,490040 | 490043 | 490063 | 490101 | 490122
+540622371,1,Culpeper Memorial Hospital,VA,490019
+540648699,1,Halifax Regional Hospital,VA,490013
+540696355,2,Uva Health Haymarket Medical Center | Uva Health Prince William Medical,VA,490045 | 490144
+540715569,1,Centra Health,VA,490021
+540794913,1,Smyth County Community Hospital,VA,490038
+540853898,1,Sentara Northern Virginia Med Ctr,VA,490113
+540895648,1,Buchanan General Hospital,VA,490127
+541453954,1,Augusta Medical Center,VA,490018
+541489410,1,Vcu Health Tappahannock Hospital,VA,490084
+541547408,7,Sentara Albemarle Regl Med Ctr Llc | Sentara Careplex Hospital | Sentara Leigh Hospital | Sentara Norfolk General Hospital | Sentara Obici Hospital | Sentara Va Beach General Hospital | Sentara Williamsburg Regional Medica,NC | VA,340109 | 490007 | 490044 | 490046 | 490057 | 490066 | 490093
+541920770,1,Capital Hospice,VA,490129
+546074580,1,Carilion Tazewell Community Hospital,VA,490117
+546075662,1,Twin County Regional Hospital,VA,490115
+550356996,2,St Joseph Hospital | St Josephs Hospital Of Buckhannon,WV,510053 | 511321
+550357045,1,Reynolds Memorial Hospital,WV,510013
+550357050,1,St Marys Medical Center  Inc,WV,510007
+550357057,1,Wheeling Hospital,WV,510050
+550359755,1,Jefferson Memorial Hospital,WV,511319
+550372580,1,Montgomery General Hospital,WV,511318
+550375433,1,Davis Memorial Hospital,WV,510030
+550379108,1,Broaddus Hospital Association,WV,511300
+550383321,1,City Hospital Inc,WV,510008
+550387249,1,Weirton Medical Center,WV,510023
+550404900,1,Thomas Memorial Hospital,WV,510029
+550420956,1,Potomac Valley Hospital,WV,511315
+550422958,1,Stonewall Jackson Memorial Hospital,WV,510038
+550440086,1,Pleasant Valley Hospital,WV,510012
+550462730,2,Jackson General Hospital,WV,510018 | 511320
+550477361,1,Boone Memorial Hospital,WV,511313
+550484469,1,Roane General Hospital,WV,511306
+550491651,1,Summersville Regional Med Center,WV,510082
+550525724,1,United Hospital Center,WV,510006
+550526150,3,Camc Teays Valley Hospital | Camc Women And Childrens Hospital | Charleston Area Medical Center  Inc,WV,510022 | 510052 | 510085
+550562976,1,Grant Memorial Hospital,WV,511316
+550611919,1,Braxton County Memorial Hospital,WV,511308
+550614866,1,Ohio Valley General Hospital,WV,510039
+550629032,1,Minnie Hamilton Health Care Center,WV,511303
+550643304,1,West Virginia University Hospitals,WV,510001
+550650441,1,Summersville Regional Med Center,WV,511322
+550675666,1,Cabell Huntington Hospital,WV,510055
+556000526,1,Grafton City Hospital,WV,511307
+560509400,1,Highlands Cashiers Hospital,NC,341316
+560513181,1,Blowing Rock Hospital,NC,341321
+560525657,1,Alleghany Memorial Hospital,NC,341320
+560529974,1,Charles A Cannon Memorial Hospital,NC,341323
+560529976,1,Blue Ridge Healthcare Hospitals,NC,340075
+560529994,1,Alamance Regional Medical Center,NC,340070
+560530233,1,Se Regl Medical Center,NC,340050
+560530234,1,Randolph Hospital,NC,340123
+560532141,2,Mission Hospital  Inc | Mission St Joseph Campus,NC,340002 | 340105
+560532309,1,High Point Medical Center,NC,340004
+560538020,1,Columbus Regional Healthcare System,NC,340068
+560543238,1,Lexington Memorial Hospital  Inc,NC,340096
+560543246,1,Adventhealth Hendersonville,NC,340023
+560543247,1,Person Memorial Hospital,NC,340159
+560552787,1,North Carolina Baptist Hospital,NC,340047
+560554202,1,Caldwell Memorial Hospital,NC,340041
+560554222,1,St Lukes Hospital,NC,341322
+560554230,3,Novant Health Charlotte Orthopedic Hospital | Presbyterian Hospital | Presbyterian Hospital Huntersville,NC,340053 | 340153 | 340183
+560556760,1,Stanly Regional Medical Center,NC,340119
+560562293,1,Transylvania Community Hospital,NC,341319
+560583151,1,Scotland Memorial Hospital,NC,340008
+560585243,2,Pitt County Memorial Hospital | Vidant Beaufort Hospital,NC,340040 | 340186
+560600035,1,Our Community Hospital,NC,341302
+560603898,1,Harnett Health System,NC,340071
+560603900,1,Ashe Memorial Hospital,NC,341325
+560603925,1,Maria Parham Medical Center,NC,340132
+560611546,1,Chatham Hospital  Inc,NC,341311
+560619359,1,Gaston Memorial Hospital,NC,340032
+560619367,1,Rutherford Regional Medical Center,NC,340013
+560623938,1,The Mcdowell Hospital,NC,340087
+560629325,1,Medwest Swain,NC,341305
+560642846,1,Hugh Chatham Memorial Hospital,NC,340097
+560653348,1,Pender Memorial Hospital,NC,341307
+560714394,1,Medwest Harris,NC,340016
+560845796,3,Bladen County Hospital | Cape Fear Valley Hoke Hospital | Cape Fear Valley Medical Center,NC,340028 | 340188 | 341315
+560928089,1,Forsyth Memorial Hospital  Inc,NC,340014
+561025032,2,Blue Ridge Regional Hospital | Spruce Pine Community Hospital,NC,340011 | 341329
+561340424,1,Medical Park Hospital,NC,340148
+561373175,3,Franklin Regional Medical Center | Lake Norman Regional Medical Center | Novant Health Gaffney Medical Center,NC | SC,340036 | 340129 | 420043
+561376368,1,Presbyterian Hospital Matthews,NC,340171
+561376950,5,Brunswick Community Hospital | New Hanover Regional Medical Center | Novant Health Mint Hill Medical Ctr | Rowan Regional Hospital | Thomasville Medical Center,NC,340015 | 340085 | 340141 | 340158 | 340190
+561484844,1,Wayne Memorial Hospital,NC,340010
+561509260,1,Rex Hospital,NC,340114
+561793620,1,Pioneer Commuinity Hospital Of Stokes,NC,341317
+561844262,2,Murphy Medical Center | Murphy Medical Center Inc,NC,340160 | 341328
+561936354,4,Firsthealth Montgomery Memorial Cah | Firsthealth Moore Regional Hospital | Firsthealth Richmond Memorial Hospital | Sandhills Regional Medical Center,NC,340035 | 340106 | 340115 | 341303
+561943271,1,Carondelet Heart And Vascular Instit,AZ,030100
+562070036,3,Duke Raleigh Hospital | Duke Regional Hospital | Duke University Hospital,NC,340030 | 340073 | 340155
+562112733,1,The Outer Banks Hospital,NC,341324
+562276994,2,Davie County Hospital | Davie Medical Center,NC,340187 | 341313
+562488077,1,St Lukes East - Lees Summit,MO,260216
+562570686,2,St Lukes Jerome Ltd | St Lukes Magic Valley Reg Med Ctr,ID,130002 | 131310
+566000064,1,Angel Medical Center,NC,341326
+566000674,1,Lenoir Memorial Hospital,NC,340027
+566017737,2,Wake Med Cary Hospital | Wakemed Raleigh Campus,NC,340069 | 340173
+566024172,1,Wilson Medical Center,NC,340126
+570314381,1,Conway Hospital,SC,420049
+570314409,1,Providence Hospital,SC,420026
+570341194,1,Georgetown Memorial Hospital,SC,420020
+570342027,1,Cannon Memorial Hospital,SC,420011
+570359174,1,Anmed Health,SC,420027
+570360499,1,Roper St Francis Mt Pleasant Hospit,SC,420104
+570370242,2,Mcleod Med Ctr - Darlington | Mcleod Regional Medical Center,SC,420051 | 420057
+570468486,1,Williamsburg Regional Hospital,SC,421303
+570828733,1,Roper Hospital  Inc,SC,420087
+571017988,1,Hampton Regional Medical Center,SC,420072
+571067254,1,Bon Secours St Francis Xavier Hospi,SC,420065
+576005963,1,Kershaw Health,SC,420048
+580566121,4,Brooks County Hospital | Grady General Hospital | John D Archbold Memorial Hospital | Mitchell County Hospital,GA,110038 | 110121 | 111331 | 111332
+580566213,1,Piedmont Hospital Inc,GA,110083
+580566223,1,St Marys Health Care System  Inc,GA,110006
+580566256,3,Emory University Hospital | Emory University Hospital Midtown | Emory-Adventist Hospital,GA,110010 | 110078 | 110183
+580568702,1,St Josephs Hospital  Inc,GA,110043
+580593388,1,Candler Hospital  Inc,GA,110024
+580641240,1,"St Francis Hospital, Inc",GA,110129
+580655369,1,Taylor Regional Hospital,GA,110135
+580968382,1,Cobb Hospital And Medical Center,GA,110143
+580973772,1,Donalsonville Hospital,GA,110194
+581123037,1,Adventhealth Redmond,GA,110168
+581425000,2,Adventhealth Gordon | Adventhealth Murray,GA,110023 | 110050
+581509251,1,The Center For Spinal Surgery,TN,440218
+581519911,1,Hamilton Medical Center,GA,110001
+581581103,1,University Health Services  Inc,GA,110028
+581588823,4,Annie Penn Memorial Hospital | The Moses H Cone Memorial Hospital | Wesley Long Community Hospital | Womens Hospital Of Greensboro,NC,340007 | 340091 | 340125 | 340157
+581634125,1,Hart County Hospital,GA,110059
+581667166,1,Memorial Satilla Health,GA,110003
+581685139,1,Piedmont Columbus Regional Midtown,GA,110064
+581694090,2,Ngmc Barrow | Ngmc Lumpkin  Llc,GA,110045 | 110237
+581694098,1,Northeast Georgia Medical Center,GA,110029
+581734026,1,Upson Regional Medical Center,GA,110002
+581737573,1,St Thomas Hickman Hospital,TN,441300
+581790149,1,Tanner Medical Center,GA,110011
+581897274,1,Parkwest Medical Center,TN,440173
+581911751,2,Sghs - Brunswick Campus | Sghs - Camden Campus,GA,110025 | 110146
+581928247,1,Phoebe Putney Memorial Hospital,GA,110007
+581954432,5,Northside Hospital | Northside Hospital - Duluth | Northside Hospital - Gwinnett | Northside Hospital Forsyth | Northside Hospital-Cherokee  Inc,GA,110005 | 110008 | 110087 | 110161 | 110252
+581973570,2,Cherokee Medical Center | Floyd Medical Center,AL | GA,010022 | 110054
+582018658,1,Louis Smith Memorial Hospital,GA,111326
+582026750,1,Douglas Hospital,GA,110184
+582032904,1,Kennestone Hospital,GA,110035
+582044503,1,Meadows Regional Medical Center,GA,110128
+582095884,1,Paulding Medical Center,GA,110042
+582149128,1,Ahn The Medical Center,GA,110107
+582155150,1,Piedmont Newton Hospital,GA,110018
+582175978,1,Crisp Regional Hospital  Inc,GA,110104
+582176794,1,Hutcheson Medical Center,GA,110004
+582179986,1,Piedmont Athens Regional Medical Ce,GA,110074
+582200195,1,Piedmont Henry Hospital  Inc,GA,110191
+582224545,1,Bacon County Hospital,GA,111327
+582257925,1,Evans Memorial Hospital,GA,110142
+582296052,3,Ph Baptist Parkridge Hospital | Prisma Health Baptist Hospital | Prisma Health Richland Hospital,SC,420018 | 420086 | 420106
+582322328,1,Piedmont Fayette Hospital Inc,GA,110215
+582504530,1,St Francis Hospital Inc,SC,420023
+582510435,1,Jasper Memorial Hospital,GA,111303
+582513901,1,Chatuge Regional Hospital,GA,111324
+586001667,1,Stephens County Hospital,GA,110032
+586025393,1,Union General Hospital,GA,110051
+590594631,1,South Florida Baptist Hospital,FL,100132
+590624371,2,Holmes Regl Medical Center | Palm Bay Hospital,FL,100019 | 100316
+590624414,1,Miami Jewish Health Systems  Inc,FL,100277
+590624424,1,Mount Sinai Medical Center Of Florid,FL,100034
+590624449,1,Ascension St Vincents Riverside,FL,100040
+590624458,3,Anne Bates Leach Eye Hospital | University Of Miami Hosp & Clinics | University Of Miami Hospital,FL,100009 | 100079 | 100240
+590624462,2,Morton Plant Hospital | Morton Plant North Bay Hospital,FL,100063 | 100127
+590634433,2,Alfred I Dupont Hosp For Children | Nemours Childrens Hospital,DE | FL,083300 | 103304
+590634434,4,Ascension Sacred Heart Bay | Ascension Sacred Heart Emerald Coast | Ascension Sacred Heart Gulf | Ascension Sacred Heart Pensacola,FL,100025 | 100026 | 100292 | 100313
+590638499,1,Nicklaus Childrens Hospital,FL,103301
+590657322,2,Baptist Hospital | Gulf Breeze Hospital,FL,100093 | 100266
+590675143,1,Flagler Hospital,FL,100090
+590683252,1,Johns Hopkins All Childrens Hospita,FL,103300
+590694358,1,Naples Community Hospital,FL,100018
+590724462,1,Winter Haven Hospital,FL,100052
+590747311,1,Baptist Medical Center,FL,100088
+590774199,1,St Josephs Hospital,FL,100075
+590791028,1,Holy Cross Hospital,FL,100073
+590791034,1,Mercy Hospital Inc,FL,100061
+590855412,2,Mease Hospital And Clinic | Mease Hospital Countryside,FL,100043 | 100265
+590872594,1,South Miami Hospital,FL,100154
+590878982,1,Leesburg Regional Medical Center Inc,FL,100084
+590898901,1,Adventhealth - North Pinellas,FL,100055
+590910342,1,Baptist Hospital,FL,100008
+590973502,2,Adventhealth Daytona Beach | Florida Hospital Oceanside,FL,100068 | 100169
+591006663,1,Boca Raton Regional Hospital,FL,100168
+591113901,2,Adventhealth Carrollwood | Adventhealth Tampa,FL,100069 | 100173
+591460239,1,Jupiter Medical Center,FL,100253
+591479658,4,Adventhealth Orlando | Adventhealth Sebring | Adventhealth Wauchula | Winter Park Memorial Hospital,FL,100007 | 100109 | 100162 | 101300
+591726273,2,Orlando Health | St Cloud Regional Medical Center,FL,100006 | 100302
+591917016,1,Tallahassee Memorial Hospital,FL,100135
+591943502,1,Uf Health Shands,FL,100113
+591987355,1,Mariners Hospital,FL,101313
+592043026,1,St Anthonys Hospital,FL,100067
+592108057,1,Adventhealth Zephyrhills,FL,100046
+592142859,1,Shands Jacksonville Medical Center,FL,100001
+592319288,1,Madison Memorial Hospital,FL,101311
+592425149,1,Jay Hospital,FL,100048
+592447554,1,Bethesda Hospital,FL,100002
+592477479,1,Cape Canaveral Hospital Inc,FL,100177
+592650456,1,Lakeland Regional Med Ctr,FL,100157
+592890430,1,Citrus Memorial Hospital,FL,100023
+592951990,1,Adventhealth Palm Coast,FL,100118
+592980620,1,Baptist Medical Center-Beaches,FL,100117
+593051173,1,Calhoun-Liberty Hospital Assn,FL,101304
+593122517,1,Doctors Memorial,FL,100106
+593140669,1,Adventhealth Waterman,FL,100057
+593149293,1,Adventhealth Fish Memorial,FL,100072
+593202547,1,Ed Fraser Memorial Hospital,FL,100134
+593234721,1,Baptist Medical Ctr-Nassau,FL,100140
+593238634,1,Moffitt Cancer Center,FL,100271
+593256803,1,Adventhealth Deland,FL,100045
+593322533,1,Orlando Health South Lake Hospital,FL,100051
+593458145,1,Tampa General Hospital,FL,100128
+593527036,1,The Villages Regional Hospital,FL,100290
+593650609,1,Ascension St Vincents St Johns Cou,FL,100361
+596031176,1,Doctors Memorial Hospital,FL,101307
+610391376,1,Crittenden County Hospital  Inc,KY,180095
+610420440,1,Harrison Memorial Hospital,KY,180079
+610432526,1,Caldwell County Hospital,KY,181322
+610444707,8,Baptist Health Corbin | Baptist Health Floyd | Baptist Health Hardin | Baptist Health Lagrange | Baptist Health Lexington | Baptist Health Louisville | Baptist Health Paducah | Baptist Health Richmond,IN | KY,150044 | 180012 | 180049 | 180080 | 180103 | 180104 | 180130 | 180138
+610444716,1,Kings Daughters Medical Center,KY,180009
+610445850,5,St Elizabeth - Grant County | St Elizabeth Dearborn | St Elizabeth Florence | St Elizabeth Ft Thomas | St Elizabeth Healthcare,IN | KY,150086 | 180001 | 180035 | 180045 | 181311
+610458376,1,Pikeville Medical Center,KY,180044
+610461753,1,Deaconess Henderson Hospital,KY,180056
+610461767,1,Tj Samson Community Hospital,KY,180017
+610471581,1,Trigg County Hospital,KY,181304
+610482973,1,Jennie Stuart Medical Center,KY,180051
+610492356,1,Ephraim Mcdowell Reg Med Ctr,KY,180048
+610510934,1,James B Haggin Memorial Hospital,KY,181302
+610518022,1,Livingston Hospital,KY,181320
+610523304,1,Rockcastle Hospt & Respir Care Ctr,KY,180115
+610525158,1,Breckinridge Health  Inc,KY,181319
+610541901,1,Pineville Community Hospital,KY,180021
+610594620,1,Adventhealth Manchester,KY,180043
+610601267,1,Marshall County Hospital,KY,181327
+610605336,1,St Claire Medical Center,KY,180018
+610624096,1,Cumberland County Hospital,KY,181317
+610646583,1,Nicholas County Hospital,KY,181303
+610654587,1,Baptist Health Madisonville,KY,180093
+610703799,3,Norton Audubon Hospital | Norton Hospitals  Inc | Norton Suburban Hospital,KY,180014 | 180088 | 180123
+610847215,1,Wayne County Hospital,KY,181321
+610920842,3,The Medical Center | The Medical Center At Caverna | The Medical Center At Scottsville,KY,180013 | 181314 | 181324
+610965365,1,Russell County Hospital,KY,181330
+611272692,1,St Francis Hospital,WV,510031
+611286361,2,Muhlenberg Community Hospital | Owensboro Health Regional Hospital,KY,180004 | 180038
+611293786,1,University Of Louisville Hospital,KY,180141
+611297707,1,Carroll County Memorial Hosp,KY,181310
+611334601,5,Saint Joseph Berea | Saint Joseph East | Saint Joseph Hospital | Saint Joseph London | Saint Joseph Mount Sterling,KY,180010 | 180011 | 180064 | 180143 | 181329
+611345363,1,Flaget Memorial Hospital,KY,180025
+611362001,1,The Medical Center At Franklin,KY,181318
+611370196,1,St Elizabeth Owen,KY,181312
+611388556,1,Fort Logan Hospital,KY,181315
+611570855,1,Bhmc- Stuttgart,AR,040072
+611649250,14,Aurora Baycare Medical Center | Aurora Health Care Metro  Inc | Aurora Lakeland Medical Center | Aurora Med Ctr Of Manitowoc County | Aurora Medical Center - Hartford | Aurora Medical Center - Summit | Aurora Medical Center Grafton | Aurora Medical Center Kenosha | Aurora Medical Center Of Oshkosh | Aurora Medical Ctr Sheboygan County | Aurora Sinai Medical Ctr | Memorial Hospital Of Burlington | St Lukes Medical Ctr Inc | West Allis Memorial Hospital,WI,520034 | 520035 | 520038 | 520056 | 520059 | 520064 | 520102 | 520138 | 520139 | 520189 | 520193 | 520198 | 520206 | 520207
+611663540,1,St Clair Memorial Hospital,PA,390228
+611740292,23,"Beaumont Health - Grosse Pointe | Beaumont Health - Trenton | Beaumont Health Wayne | Beaumont Hospital - Dearborn | Beaumont Hospital - Taylor | Beaumont Hospital- Farmington Hills | Kelsey Memorial Hospital | Lakeland Community Hosp Watervliet | Lakeland Medical Center  St Joseph | Lakeland Medical Center, Niles | Spectrum Health  Hospitals | Spectrum Health Big Rapids | Spectrum Health Gerber | Spectrum Health Gerber Memorial | Spectrum Health Ludington | Spectrum Health Pennock | Spectrum Health Pennock Hospital | Spectrum Health Reed City | Spectrum Health United Memorial | Spectrum Health Zeeland | Spectrum Health-East Campus | William Beaumont Hospital - Troy | William Beaumont Hospital- Royal Oak",MI,230003 | 230020 | 230021 | 230032 | 230035 | 230038 | 230040 | 230078 | 230089 | 230093 | 230106 | 230110 | 230130 | 230137 | 230142 | 230151 | 230176 | 230269 | 230270 | 231317 | 231323 | 231338 | 231339
+620123940,3,Baptist Mem Hospital Memphis | Baptist Memorial Hospital For Women | Baptist Memorial Hospital-Collierville,TN,440048 | 440217 | 440222
+620347580,2,Saint Thomas Midtown Hospital | Saint Thomas West Hospital,TN,440082 | 440133
+620475842,1,Saint Thomas Rutherford Hospital,TN,440053
+620476282,8,Franklin Woods Community Hospital | Indian Path Community Hospital | Johnson City Medical Center | Johnson County Community Hospital | Lee County Community Hospital | Russell County Hospital | Sycamore Shoals Hospital | Unicoi County Hospital,TN | VA,440001 | 440018 | 440063 | 440176 | 440184 | 441304 | 490002 | 491309
+620479367,3,Le Bonheur Childrens Hospital | Methodist H/C Memphis Hospt | Methodist Le Bonheur Germantown Hospital,TN,440049 | 440170 | 443301
+620480068,2,Baptist Hospital West | Mercy Medical Center,TN,440120 | 440226
+620528340,1,Fort Sanders Regional Medical Center,TN,440125
+620532345,2,Chi Memorial Hospital Hixson | Memorial Health Care System Inc,TN,440091 | 440103
+620544855,1,Sweetwater Hospital Association,TN,440084
+620545814,1,Morristown-Hamblen Hospital,TN,440030
+620636239,1,Methodist Medical Center,TN,440034
+620646012,1,St Jude Childrens Research Hospital,TN,443302
+620790132,1,Cumberland Medical Center,TN,440009
+620862334,1,Methodist H/C Fayette Hospt,TN,440168
+620924706,1,Jellico Community Hospital,TN,440180
+620988604,1,Macon County General Hospital,TN,441305
+621046595,1,Northcrest Medical Center,TN,440065
+621088703,1,Baptist Memorial Hospital Lauderdale,TN,441314
+621113167,1,Baptist Mem Hospital Tipton County,TN,440131
+621113169,1,Regional One Health,TN,440152
+621114867,1,Leconte Medical Center,TN,440081
+621133149,1,Baptist Hospital Of Cocke County,TN,440153
+621138045,1,Baptist Mem Hospital Union City,TN,440130
+621166050,1,Baptist Mem Hospital Huntingdon,TN,440016
+621373691,1,Fort Loudoun Medical Center,TN,440110
+621448752,1,Copper Basin Medical Center,TN,441315
+621519754,1,Baptist Mem Hospital Golden Triangle,MS,250100
+621636465,7,Bristol Regional Medical Center | Hancock County Hospital | Holston Valley Hosp & Med Ctr | Lee Regional Medical Center | Lonesome Pine Hospital | Norton Community Hospital | Wellmont Mountain View Regional Medical Center,TN | VA,440012 | 440017 | 441313 | 490001 | 490012 | 490027 | 490114
+621660663,1,St Marys Jefferson Memorial Hospital,TN,440056
+621816368,1,Hawkins County Memorial Hospital,TN,440032
+621817376,1,St Marys Medical Center Of Campbell County,TN,440033
+626002428,1,Hardin Medical Center,TN,440109
+626002604,1,East Tennessee Childrens Hospital,TN,443303
+626002623,1,Wayne Medical Center,TN,440010
+630047680,1,Community Hospital Inc,AL,010034
+630288852,1,George H Lanier Memorial Hospital,AL,010025
+630288856,1,Mobile Infirmary Medical Center,AL,010113
+630288861,1,Providence Hospital,AL,010090
+630288864,1,St Vincents Birmingham,AL,010056
+630307306,1,The Childrens Hospital Of Alabama,AL,013300
+630307951,1,Mizell Memorial Hospital,AL,010007
+630312913,5,Brookwood Baptist Medical Center | Citizens Baptist Medical Center | Princeton Baptist Medical Center | Shelby Baptist Medical Center | Walker Baptist Medical Center,AL,010016 | 010089 | 010101 | 010103 | 010139
+630385130,1,Russell Medical Center,AL,010065
+630459034,1,Callahan Eye Foundation Hosp,AL,010018
+630578923,1,St Vincents East,AL,010011
+630891904,2,North Baldwin Infirmary | Thomas Hospital,AL,010100 | 010129
+630909073,2,St Vincents Blount,AL,010050 | 011305
+630920915,1,Pickens County Medical Center,AL,010109
+630931008,2,St Vincents Chilton | St Vincents St Clair,AL,010130 | 010173
+630997281,1,Baptist Mem Hospital Union County,MS,250006
+631058174,1,Cullman Regional,AL,010035
+631143638,1,Atmore Community Hospital,AL,010169
+636000090,3,Jacksonville Medical Center | Northeast Alabama Regional Med Ctr | Stringfellow Campus Of Northeast Rmc,AL,010038 | 010078 | 010146
+636001820,1,Jackson Hospital And Clinic  Inc,AL,010024
+640303091,1,St Dominic-Jackson Memorial Hosp,MS,250048
+640306253,1,Baptist Medical Center - Attala,MS,251336
+640324402,1,Magee General Hospital,MS,250124
+640333594,1,Kings Daughters Medical Center,MS,250057
+640345119,2,Hc Watkins Memorial Hospital | Rush Foundation Hospital,MS,250069 | 251316
+640362400,2,Anderson Regional Med Ctr-South Camp | Jeff Anderson Regional Medical Cente,MS,250081 | 250104
+640655993,1,Choctaw General Hospital,AL,011304
+640662976,1,North Mississippi Medical Center,MS,250004
+640663760,1,Baptist Mem Hospital Booneville,MS,250044
+640668465,1,Clay County Medical Corporation,MS,250067
+640682111,1,Baptist Mem Hospital Desoto,MS,250141
+640741047,1,Tishomingo Health Services,MS,250002
+640751410,1,Pontotoc Health Services,MS,251308
+640770155,1,Se Lackey Memorial Hospital,MS,251300
+640772726,1,Baptist Mem Hospital North Miss,MS,250034
+640819193,1,Webster Health Services,MS,250020
+640844470,1,Baptist Medical Center - Yazoo,MS,251313
+640881013,1,Ms Baptist Medical Center,MS,250102
+640889822,1,Methodist H/C Olive Branch Hospital,MS,250167
+640926753,1,Marion Regional Medical Center,AL,010044
+646010402,1,Winston Medical Center,MS,250027
+650232993,1,Homestead Hospital,FL,100125
+650543088,1,Coffee Regional Medical Center,GA,110089
+651219504,1,Adventist Bolingbrook Hospital,IL,140304
+651301877,5,Chilton Hospital | Hackettstown Medical Center | Morristown Medical Center | Newton Medical Center | Overlook Medical Center,NJ,310015 | 310017 | 310028 | 310051 | 310115
+680008034,1,Surprise Valley Health Care District,CA,051308
+680108919,1,Howard Memorial Hospita,CA,051310
+680127677,1,Mark Twain Medical Center,CA,051332
+680273974,2,Stanislaus Surgical | Sutter Surgical Hosp - North Valley,CA,050726 | 050766
+680395149,1,Adventist Health Clearlake,CA,051317
+680673354,1,Roane County Medical Center,TN,440031
+710230218,1,Arkansas Methodist Medical Center,AR,040039
+710236856,5,Baptist Health Med Ctr Arkadelphia | Baptist Health Medical Center - Hsc | Baptist Health Medical Center - Lr | Baptist Health Medical Center- Nlr | Bhmc-Heber Springs,AR,040036 | 040076 | 040114 | 041312 | 041321
+710236857,1,Arkansas Childrens Hospital,AR,043300
+710236870,1,Ashley County Medical Center,AR,041323
+710236913,1,St Vincent Hot Springs,AR,040026
+710236917,2,St Vincent Infirmary Medical Center | St Vincent North,AR,040007 | 040137
+710236932,1,Crittenden Regional Hospital,AR,040042
+710240352,1,Mercy Hospital Fort Smith,AR,040062
+710245507,1,St Vincent Morrilton,AR,041324
+710246565,1,Leo N Levi Memorial Hospital,AR,040132
+710249735,1,Conway Regional Medical Center  Inc,AR,040029
+710276839,1,Delta Memorial Hospital,AR,041326
+710290019,1,St Bernards Medical Center,AR,040020
+710294390,1,Mercy Medical Center,AR,040010
+710329353,1,Jefferson Regional Medical Center,AR,040071
+710403278,1,Johnson Regional Medical Center,AR,040002
+710407683,1,Ozark Health  Inc,AR,041313
+710410601,1,Comm Medical Center Of Calico Rock,AR,041306
+710411459,2,Stone County Medical Center | White River Medical Center,AR,040119 | 041310
+710557895,1,Mercy Hospital Waldron,AR,041305
+710561765,1,Baxter Regional Medical Center,AR,040027
+710644637,1,Howard Memorial Hospital,AR,041311
+710655753,1,Mercy Hospital Paris,AR,041300
+710664687,1,Washington Regional Medical Center,AR,040004
+710689680,1,Mercy Hospital Ozark,AR,041303
+710759299,1,Mercy Hospital Berryville,AR,041329
+710766341,1,Ouachita County Medical Center,AR,040050
+710769555,1,North Metro Medical Center,AR,040074
+710772737,2,Unity Health Harris Medical Center | White County Medical Center,AR,040014 | 040080
+710772959,1,Saline Memorial Hospital,AR,040084
+710787860,1,North Arkansas Regional Medical Ctr,AR,040017
+710797499,1,Bradley County Medical Center,AR,041327
+710835247,1,Crossridge Community Hospital,AR,041307
+711045290,2,Houston Medical Center | Perry Hospital,GA,110069 | 110153
+716044543,1,Chambers Memorial Hospital,AR,040011
+720400933,3,Willis Knighton Bossier Health Center | Willis Knighton South Hospital | Willis-Knighton Health Systems,LA,190111 | 190194 | 190236
+720408970,2,P&s Surgical Hospital | St Francis Medical Center,LA,190125 | 190246
+720408982,2,Columbia Highland Hospital | Highland Medical Center,LA,190041 | 190112
+720408984,2,Christus Coushatta Health Care Ctr | St Frances Cabrini Hospital,LA,190019 | 191312
+720411322,2,Lake Area Medical Center | St Patrick Hospital,LA,190027 | 190201
+720423603,1,Rapides Regional Medical Center,LA,190026
+720423635,3,Heart Hospital Of Lafayette | Our Lady Of Lourdes Rmc | Park Place Surgery Center,LA,190102 | 190255 | 190263
+720423651,3,Our Lady Of The Lake  Rmc | Southern Surgical Hospital | Surgical Specialty Center Baton Roug,LA,190064 | 190251 | 190270
+720423659,1,Touro Infirmary,LA,190046
+720467503,1,Childrens Hospital,LA,193300
+720491106,1,Beauregard Memorial Hospital  Inc,LA,190050
+720500565,1,Desoto Regional Health System,LA,190118
+720502505,9,Ochsner Baptist Medical Center Llc | Ochsner Bayou  Llc | Ochsner Clinic Foundation | Ochsner Med Ctr - Hancock | Ochsner Medical Center - Baton Rouge | Ochsner Medical Center - Kenner  Llc | Ochsner Medical Center -Northshore | Ochsner Medical Center-Westbank Llc | Ochsner St Mary,LA | MS,190014 | 190036 | 190135 | 190202 | 190204 | 190274 | 190275 | 191324 | 250162
+720535375,2,Lafayette General Medical Center | Lafayette General Surgical Hospital,LA,190002 | 190268
+720551963,1,Lake Charles Memorial Hospital,LA,190060
+720652905,1,Womans Hospital,LA,190128
+720995809,1,Union General Hospital  Inc,LA,191301
+721025017,2,Baton Rouge General | Baton Rouge General Medical Center Bluebonnet,LA,190065 | 190231
+721379812,1,Jefferson Davis Community Hospital Cah,MS,251326
+721470744,1,Our Lady Of The Lake Ascension,LA,190242
+721479692,1,Springhill Medical Center,LA,190088
+721495500,1,Our Lady Of The Lake Assumption Com,LA,191303
+721526400,1,Wamego Hospital Association,KS,171337
+726012041,1,Lady Of Sea Hospital Medicare,LA,191325
+726013916,1,Natchitoches Regional Medical Center,LA,190007
+730570773,2,Newman Memorial Hospital,OK,370007 | 371336
+730579285,1,Mercy Hospital Okc,OK,370013
+730579286,1,St John Medical Center,OK,370114
+730579295,1,Great Plains Regional Medical Center,OK,370019
+730580264,2,"The Childrens Center  Inc | The Childrens Center, Inc",OK,373302 | 373303
+730606129,1,Jane Phillips Medical Center,OK,370018
+730657693,3,Bone And Joint Hospital | Ssm Health St Anthony Hospital - Mid | St Anthony Hospital,OK,370037 | 370094 | 370105
+730662663,1,St John Sapulpa,OK,371312
+730700090,1,Saint Francis Hospital,OK,370091
+730790960,1,Purcell Municipal Hospital,OK,370158
+730977997,1,Adair County  Health Center,OK,370178
+731008550,2,Duncan Regional Hospital | Jefferson County Hospital,OK,370023 | 371311
+731023826,1,"Sayre Memorial Hospital, Inc",OK,370103
+731034824,2,Alliancehealth Deaconess | Integris Baptist Medical Center,OK,370028 | 370032
+731089149,1,Integris Southwest Medical Center,OK,370106
+731192765,1,Lakeside Womens Hospital,OK,370199
+731235996,1,Mary Hurley Hospital,OK,371319
+731279909,1,Okmulgee Memorial Hospital,OK,370057
+731430157,1,Craig General Hospital,OK,370065
+731440267,1,Nowata Health Center,OK,371305
+731444504,4,Bass Baptist Health Center | Integris Canadian Valley Hospital | Integris Grove  Hospital | Integris Miami Hospital,OK,370004 | 370016 | 370113 | 370211
+731500629,1,Mercy Hospital Ardmore,OK,370047
+731506316,1,Carnegie Tri-County Municipal Hospital,OK,371334
+731547175,1,Lawrence Memorial Hospital,AR,041309
+736087821,1,Latimer County General Hospital,OK,370072
+736617937,2,Mccurtain Memorial Hospital,OK,370048 | 371342
+741100555,1,Texas Childrens Hospital,TX,453304
+741109636,1,Ascension Providence,TX,450042
+741109643,11,Ascension Seton Bastrop | Ascension Seton Edgar B Davis | Ascension Seton Hays | Ascension Seton Highland Lakes | Ascension Seton Medical Center | Ascension Seton Northwest | Ascension Seton Smithville | Ascension Seton Southwest | Ascension Seton Williamson | Dell Childrens Medical Center | Dell Seton Medical Center At The Uni,TX,450056 | 450124 | 450143 | 450865 | 450867 | 451365 | 451371 | 453310 | 670041 | 670056 | 670143
+741109665,5,Childrens Hospital Of San Antonio | Christus Santa Rosa - San Marcos | Christus Santa Rosa Childrens Hospital | Christus Santa Rosa Hospital New Braunfels | Santa Rosa Healthcare,TX,450059 | 450237 | 450272 | 453305 | 453315
+741109836,7,Christus Spohn Alice | Christus Spohn Hospital Beeville | Christus Spohn Hospital Corpus Christi - Memorial | Christus Spohn Hospital Shoreline | Christus Spohn Hospital South | Christus Spohn Kleberg Memorial Hosp | South Texas Surgical Hospital,TX,450046 | 450082 | 450153 | 450163 | 450806 | 450828 | 670061
+741152597,9,Memorial Hermann  Hospital Sys | Memorial Hermann First Colony | Memorial Hermann Katy | Memorial Hermann Kingwood | Memorial Hermann Memorial City Medic | Memorial Hermann Northeast | Memorial Hermann Sugarland | Memorial Hermann Texas Medical Cntr | Memorial Hermann Tomball Hospital,TX,450068 | 450184 | 450610 | 450684 | 450847 | 450848 | 450860 | 670005 | 670095
+741161938,1,Chi St Lukes Health Baylor Med Ctr,TX,450193
+741161944,1,Hillcrest Baptist Medical Center,TX,450101
+741166904,2,Kings Daughters Hospital | Scott And White Memorial Hospital,TX,450008 | 450054
+741180155,1,The Methodist Hospital,TX,450358
+741282696,3,Chi St Joseph Health College Station Hospital | Grimes St Joseph Health Center | St Joseph Regional Health Center,TX,450011 | 450299 | 451322
+741287016,8,Methodist Ambulatory Surgical Hospit | Methodist Hospital | Methodist Hospital South | Methodist Specialty And Transplant Hospital | Methodist Stone Oak Hospital | Metropolitan Methodist Hospital | Northeast Methodist Hospital | Texsan Heart Hospital,TX,450165 | 450388 | 450631 | 450633 | 450733 | 450780 | 450878 | 670055
+741297210,1,Riverside General Hospital,TX,450446
+741303720,2,Baptist Beaumont Hospital | Memorial Hermann Baptist Orange Hospital,TX,450005 | 450346
+741356589,6,Heart Hospital Of Austin | North Austin Medical Center | Round Rock Medical Center | South Austin Medical Center | St Davids Georgetown Hospital | St Davids Medical Center,TX,450191 | 450431 | 450713 | 450718 | 450809 | 450824
+741385192,1,Brazosport Regional Health System,TX,450072
+741393060,1,Knapp Medical  Center,TX,450128
+741394418,1,Columbus Community Hospital,TX,450370
+741461220,2,Frio Regional Hospital,TX,450293 | 451391
+741471231,1,Falls Community Hospital And Clinic,TX,450348
+741545266,1,Colorado Fayette Medical Center,TX,450438
+741546619,1,Goodall Witcher Hospital,TX,450052
+741595711,1,Scott And White Hospital Taylor,TX,451374
+742044647,1,National Jewish Health,CO,060107
+742206635,1,Mission Regional Medical Center,TX,450176
+742225672,2,Adventhealth Central Texas | Adventhealth Rollins Brook,TX,450152 | 451323
+742323822,1,Yoakum Community Hospital,TX,451346
+742517055,1,Schoolcraft Memorial Hospital,MI,231303
+742519752,1,Scott & White Hospital Brenham,TX,450187
+742557820,1,Peterson Regional Medical Center,TX,450007
+742568941,6,"Medical Center Of Aurora, The | North Suburban Medical Center | Presbyterian/St Lukes Medical Center | Rose Medical Center | Sky Ridge Medical Center | Swedish Medical Center",CO,060014 | 060032 | 060034 | 060065 | 060100 | 060112
+742577746,1,Driscoll Childrens Hospital,TX,453301
+742759890,1,Burleson St Joseph Health Center,TX,451305
+742761145,1,Madison St Joseph Health Center,TX,451316
+742826278,1,Holton Community Hospital,KS,171319
+742842747,1,Russell Regional Hospital,KS,171350
+742849611,1,Anderson County Hospital,KS,171316
+742851819,1,Artesia General Hospital,NM,320030
+742941598,1,Val Verde Regional Medical Center,TX,450154
+743019849,1,St Marks Medical Center,TX,670004
+743107055,1,Ascension St Vincent Carmel,IN,150157
+743177454,2,Bayley Seton Hospital | Richmond University Medical Center,NY,330028 | 330381
+746083124,1,Hill Country Memorial Hospital,TX,450604
+750703337,1,Parmer County Community Hospital,TX,451300
+750711276,1,Crosbyton Clinic Hospital,TX,451345
+750755367,1,Chi St Lukes Health Memorial Lufkin,TX,450211
+750800628,2,Childrens Medical Center Of Dallas | Childrens Medical Center Of Plano,TX,453302 | 453316
+750800661,8,Methodist Charlton Medical Center | Methodist Dallas Medical Center | Methodist Hospital For Surgery | Methodist Mansfield Medical Center | Methodist Mckinney Hospital | Methodist Midlothian Medical Center | Methodist Richardson Medical Center | Methodist Southlake Medical Center,TX,450051 | 450537 | 450723 | 670023 | 670069 | 670073 | 670132 | 670300
+750800669,3,Baptist St Anthonys Hospital | Panhandle Surgical Hospital | Quail Creek Surgical Hospital,TX,450231 | 450802 | 450875
+750818167,1,Christus Mother Frances Hosp-Tyler,TX,450102
+750818178,1,Texas Scottish Rite Hospital For Chi,TX,453314
+750827446,2,Abilene Regional Medical Center | Hendrick Medical Center,TX,450229 | 450558
+750972805,2,Texas Health Arlington Memorial Hosp | Texas Health Heart & Vascular Hosp,TX,450064 | 670071
+750974351,2,Christus Good Shepherd Medical Center- Longview | Good Shepherd Medical Center,TX,450032 | 450037
+751008430,1,Baylor S&w All Saints Medical Center,TX,450137
+751037591,2,Baylor Medical Center At Garland | Baylor S&w Medical Center - Mckinney,TX,450280 | 670082
+751047527,2,Texas Health Dallas | Texas Institute  For Surgery At Pres,TX,450462 | 450889
+751438726,1,Texas Health H-E-B,TX,450639
+751748586,1,Tx Hlth Harris Methodist Azle,TX,450419
+751752253,1,Texas Health Harris Methodist Stephe,TX,450351
+751777119,1,Baylor Medical Center-Grapevine,TX,450563
+751837454,16,Baylor Emergency Medical Center | Baylor Heart And Vascular Hospital | Baylor Medical Center At Frisco | Baylor Medical Center At Trophy Club | Baylor Medical Center At Uptown | Baylor Orthopedic And Spine Hospital | Baylor Scott & White - White Rock La | Baylor Scott And White Mc At Sunnyva | Baylor Surgical Hospital At Fort Wor | Baylor Surgical Hospital Las Colinas | Baylor University Medical Ctr | Bemc Burleson | Heritage Park Surgical Hospital | North Central Surgical Hospital | Texas Spine And Joint Hospital,TX,450021 | 450422 | 450678 | 450851 | 450853 | 450864 | 450874 | 450880 | 450883 | 670049 | 670060 | 670062 | 670067 | 670076 | 670097 | 670107
+751844139,1,Baylor Sw Medical Center- Waxahachie,TX,450372
+751912147,1,United Regional Health Care System,TX,450010
+751976930,1,Christus Mfh - Jacksonville,TX,451319
+751977850,1,Texas Health Cleburne,TX,450148
+752051646,2,Cook Childrens Medical Center | Cook Childrens Northeast Hospital,TX,453300 | 670045
+752246348,1,Covenant Hospital Levelland,TX,450755
+752426010,1,Covenant Hospital Plainview,TX,450539
+752428911,1,Covenant Childrens Hospital,TX,453306
+752559845,1,Shannon Medical Center,TX,450571
+752586857,1,Baylor S&w Medical Center - Irving,TX,450079
+752663904,1,St Lukes Health Memorial San August,TX,451360
+752678857,1,Texas Health Southwest,TX,450779
+752702388,6,Presbyterian Hosp Flower Mound | Presbyterian Hospital Of Rockwall | Southlake Speciality Hospital | Usmd Hospital At Fort Worth | Usmd Hospital Of Arlington | Wilson N Jones Regional Medical Center,TX,450469 | 450872 | 450888 | 670044 | 670046 | 670068
+752770738,1,Texas Health Presbyterian Hospital P,TX,450771
+752771437,1,Texas Health Kaufman,TX,450292
+752771569,1,Christus Mfh Winnsboro,TX,451381
+752796815,2,Atlanta Hospital Authority | Christus St Michael,TX,450615 | 450801
+752890358,1,Texas Health Hospital Allen,TX,450840
+753052953,16,Alton Memorial Hospital | Barnes Jewish St Peters Hospital | Barnes Jewish West County Hospital | Barnes-Jewish Hospital | Christian Hospital Northeast | Christian Hospital Northwest | Memorial Hospital | Memorial Hospital East | Missouri Baptist Hospital Sullivan | Missouri Baptist Medical Center | Missouri Baptist Sullivan Hospital | Parkland Health Center - Farmington | Parkland Health Center - Weber Road | Parkland Hlth Ctr - Bonne Terre | Progress West Hospital | St Louis Childrens Hospital,IL | MO,140002 | 140185 | 140307 | 260032 | 260108 | 260115 | 260116 | 260159 | 260162 | 260163 | 260180 | 260191 | 260219 | 261315 | 261337 | 263301
+756001743,1,Tx Hlth Harris Methodist Hospital,TX,450135
+760436439,1,Chi St Lukes Health Mem Livingston,TX,450395
+760536232,1,St Lukes Patients Medical Center,TX,670031
+760536234,1,St Lukes The Woodlands Hospital,TX,450862
+760591590,3,Christus Hospital | Christus St Mary Hospital | Jasper Memorial Hospital,TX,450034 | 450096 | 450573
+760698013,1,Palacios Community Medical Center,TX,451332
+770003859,1,Lucile Packard Childrens Hospital,CA,053305
+770258013,1,Delano Regional Med Ctr,CA,050608
+770599553,1,Dickenson Community Hospital,VA,491303
+770634227,2,"Vhs Brownsville Hospital Company, Llc | Vhs Harlingen Hospital Company Llc",TX,450028 | 450033
+770637498,1,Mckenzie County Healthcare System,ND,351302
+800025964,1,Decatur County Hospital,KS,171352
+800202027,1,Savoy Medical Management Group  Inc,LA,190025
+800584319,6,Hampshire Memorial Hospital | Page Memorial Hospital | Shenandoah Memorial Hospital | War Memorial Hospital | Warren Memorial Hospital | Winchester Medical Center,VA | WV,490005 | 490033 | 491305 | 491307 | 511309 | 511311
+800618988,1,Lawrence County Memorial Hospital,IL,141344
+800764192,1,Orlando Health-Health Central Hospit,FL,100030
+800785570,2,Higgins General Hospital | Tanner Medical Center-Villa Rica,GA,110015 | 111320
+810221486,1,St Luke Community Hospital,MT,271325
+810224734,1,Beartooth Billings Clinic,MT,271326
+810226578,2,Northeast Montana Health Services | Northeast Montana Healthcare-Poplar,MT,271300 | 271341
+810231784,1,Billings Clinic,MT,270004
+810231785,1,Saint James Healthcare,MT,270017
+810231786,1,Frances Mahon Deaconess Hospital,MT,271316
+810231787,1,Northern Montana Hospital,MT,270032
+810231792,1,Holy Rosary Healthcare,MT,271347
+810231793,1,St Patrick Hospital,MT,270014
+810232121,2,Big Sky Medical Center,MT,270089 | 271389
+810232122,1,Benefis Hospitals  Inc,MT,270012
+810232124,1,St Vincent Healthcare,MT,270049
+810232406,1,Logan Health Conrad,MT,271324
+810233121,1,St Peters Hospital,MT,270003
+810233499,1,Sidney Health Center,MT,271344
+810236460,1,Madison Valley Medical Center,MT,271329
+810240726,1,Marcus Daly Memorial Hospital,MT,271340
+810241755,1,Cabinet Peaks Medical Center,MT,271320
+810243720,1,Sheridan Memorial Hospital,MT,271322
+810245848,1,Roundup Memorial Healthcare,MT,271346
+810247705,1,Community Medical Center Inc,MT,270023
+810247969,1,Logan Health Whitefish,MT,271336
+810255832,1,Mountainview Medical Center,MT,271306
+810264548,1,Dahl Memorial Healthcare Assoc,MT,271302
+810269223,1,Mccone County Health Center,MT,271305
+810286525,1,Stillwater Billings Clinic,MT,271330
+810291695,1,Big Sandy Medical Center,MT,271311
+810303913,1,Community Hospital Of Anaconda,MT,271335
+810373589,1,Roosevelt Medical Center,MT,271308
+810378200,1,Livingston Healthcare,MT,271317
+810384618,1,Big Horn Hospital,MT,271338
+810392231,1,Wheatland Memorial Healthcare,MT,271321
+810398400,1,Billings Clinic Broadwater,MT,271333
+810405434,1,Rosebud Community Hospital,MT,271327
+810420653,1,Healthcenter Northwest,MT,270087
+810421823,1,Mineral Community Hospital,MT,271331
+810463482,1,Providence St Joseph Medical Ctr,MT,271343
+810469886,1,Deer Lodge Medical Center,MT,271314
+810475376,1,Clark Fork Valley Hospital,MT,271323
+810515463,1,Logan Health Chester,MT,271334
+810530457,1,Logan Health  Cutbank,MT,271337
+810600548,1,River Hospital,NY,331309
+810817660,1,Arkansas Childrens Northwest,AR,043301
+810837031,1,Atlanta Medical Center,GA,110115
+810851756,1,North Fulton Regional Hospital,GA,110198
+810864789,1,Spalding Regional Hospital,GA,110031
+810875069,1,Sylvan Grove Hospital,GA,111319
+810893103,1,Tj Health Columbia,KY,180149
+810977948,6,Marshfield Medical Center | Marshfield Medical Center - River Re | Marshfield Medical Center Weston | Marshfield Medical Center-Eau Claire | Marshfield Medical Center-Ladysmith | Marshfield Medical Center-Minocqua,WI,520037 | 520202 | 520210 | 520212 | 520215 | 521328
+811312058,1,The Medical Center Of Albany,KY,180106
+811708177,1,Christus Mf - Sulphur Springs,TX,450236
+811723202,7,Ghs Greenville Memorial Hospital | Oconee Memorial Hospital | Ph Baptist Easley Hospital | Ph Greer Memorial Hospital | Ph Hillcrest Hospital | Ph Laurens County Hospital | Ph Patewood Hospital,SC,420009 | 420015 | 420033 | 420037 | 420038 | 420078 | 420102
+812240617,1,Adventist Health Tehachapi Valley,CA,051301
+812677745,1,Little River Memorial,AR,041320
+812772554,1,Mcleod Health Clarendon,SC,420109
+812817266,1,Adams County Regional Medical Center,OH,361326
+812946322,1,Ucf Lake Nona Hospital,FL,100350
+813021580,1,Fairbanks Memorial,AK,020012
+813040663,3,Baylor Scott & White - Buda | Baylor Scott & White Pflugerville | Bsw Medical Center - Austin,TX,670128 | 670131 | 670136
+813257997,1,Bmh - Calhoun,MS,251331
+813747248,1,Saint Francis Hospital Vinita,OK,370237
+814322087,1,Saint Francis Hospital Muskogee,OK,370025
+814653630,1,Yakima Regional Medical & Cardiac Ce,WA,500012
+814670687,1,Toppenish Community Hospital,WA,500037
+814791043,4,Queen Of The Valley Medical Center | Redwood Memorial Hospital | Santa Rosa Memorial Hospital | St Joseph Hospital - Eureka,CA,050006 | 050009 | 050174 | 051318
+815009488,11,Arizona General Hospital | California Hospital Medical Center | Chandler Regional Medical Center | French Hospital Medical Center | Glendale Memorial Hospital & Hlth Ct | Methodist Hospital Of Sacramento | Northridge Medical Center - Roscoe | Oasis Hospital | Sequoia Hospital | Woodland Healthcare,AZ | CA,030036 | 030131 | 030136 | 030139 | 050058 | 050116 | 050127 | 050149 | 050197 | 050232 | 050590
+815034179,1,Unitypoint Health-Marshalltown,IA,160001
+815056290,1,Sharon Hospital,CT,070004
+815174295,1,Iu Health Frankfort Hospital,IN,151316
+816016016,1,Glendive Medical Center Inc,MT,271332
+816016152,1,Phillips County Hospital,MT,271312
+816016920,1,Daniels Memorial Hospital,MT,271342
+820146328,1,Gritman Medical Center,ID,131327
+820161600,2,St Lukes Elmore Medical Center | St Lukes Regional Medical Center,ID,130006 | 131311
+820200895,1,St Alphonsus Regional Med Center,ID,130007
+820200896,1,St Alphonsus Medical Center - Namp,ID,130013
+820204264,1,St Joseph Regional Medical Center,ID,130003
+820207116,1,Bonner General Hospital,ID,131328
+820226453,1,St Marys Health,ID,131321
+820497771,1,Clearwater Valley Health,ID,131320
+820551704,3,Baylor S&w Medical Center - Plano | The Heart Hospital Baylor Denton | The Heart Hospital Baylor Plano,TX,450890 | 450893 | 670025
+820558836,1,Lisbon Area Health Services,ND,351311
+820844453,1,Upmc Lititz,PA,390068
+820880337,1,Upmc Carlisle,PA,390058
+820896436,1,Lancaster Regional Medical Center,PA,390061
+820906268,1,Merrick Medical Center,NE,281328
+820912090,1,Memorial Hospital,PA,390101
+821162805,1,St Lukes Nampa Medical Center,ID,130071
+821406555,10,Ahn Wexford Hospital | Alle-Kiski Medical Center | Allegheny General Hospital | Canonsburg General Hospital | Forbes Regional Hospital | Grove City Medical Center | Jefferson Regional Medical Center | Saint Vincent Hospital | Western Pennsylvania Hospital | Westfield Memorial Hospital,NY | PA,330166 | 390009 | 390032 | 390050 | 390090 | 390160 | 390265 | 390266 | 390267 | 390334
+821682066,1,Fishermens Hospital,FL,101312
+822567308,1,Adventhealth Dade City,FL,100211
+822577178,2,Highlands Regional Medical Center | Paintsville Arh Hospital,KY,180005 | 180078
+822666059,1,Uchealth Greeley Hospital,CO,060131
+822736786,1,Iu Health Jay Hospital,IN,151320
+822748395,1,Chi Memorial Hospital - Georgia,GA,110236
+822913146,1,Covenant Medical Center,TX,450040
+823300758,1,Cox Barton County Hospital,MO,261325
+823745228,1,Unc Rockingham Hospital,NC,340060
+823844150,1,Bmh-Crittenden,AR,040156
+823914925,1,Atrium Health Navicent Baldwin,GA,110150
+824052186,1,Centennial Medical Center,TX,450885
+824194264,1,Piedmont Walton Hospital,GA,110046
+824314522,1,St Lukes Des Peres Hospital,MO,260176
+824372339,1,Adventhealth Ocala,FL,100062
+824432109,1,Geisinger Stlukes,PA,390332
+824757260,1,Chelsea Hospital,MI,230259
+824971362,1,Salem Medical Center,NJ,310091
+825388429,1,Unity Medical Center,TN,440007
+825426152,2,Baptist Health Medical Center - Fs | Baptist Health Medical Center - Vb,AR,040018 | 040055
+826000422,1,Walter Knox Memorial Hospital,ID,131318
+830279242,1,Wyoming Medical Center,WY,530012
+830300467,1,Powell Valley Health Care,WY,531310
+830343789,1,Wrmc Hospital Operating Corporation,NC,340064
+830893719,1,Edgefield County Healthcare,SC,421304
+830976641,1,Adventhealth Ottawa,KS,170014
+831362276,1,Fremont Health,NE,280077
+831605004,3,Ochsner Lsu Health Monroe | Ochsner Lsu Health Shreveport | Olh-Shreveport-St Mary Medical Ctr,LA,190011 | 190098 | 190317
+831683025,1,North Texas Medical Center,TX,450090
+831869297,1,Texas Health Hospital Mansfield,TX,670309
+831954982,1,Texas Health Hospital Frisco,TX,670260
+832249459,1,Mosaic Medical Center - Maryville,MO,260050
+832351753,1,Adventist Health Tulare,CA,050784
+832457155,1,Franciscan Beacon Hospital,IN,150191
+832550272,1,St Vincents Medical Center,CT,070028
+833972614,1,Providence Cedars-Sinai Tarzana Medi,CA,050761
+834538290,1,Dardanelle Hospital,AR,041302
+834672945,1,Adventhealth Lake Wales,FL,100099
+836000182,1,Hot Springs County Memorial,WY,531304
+840166760,2,Chco - Colorado Springs | Childrens Hospital Colorado,CO,063301 | 063303
+840175870,1,Boulder Community Hospital,CO,060027
+840255530,2,Conejos County Hospital | San Luis Valley Reg Med Center,CO,060008 | 061308
+840398876,1,Yampa Valley Medical Center,CO,060049
+840405257,13,Centura Health-St Thomas More Hospital | Centura Mercy Hospital | Centura Penrose Hospital | Centura St Anthony Hospital | Centura St Anthony North Hospital | Centura St Anthony Summit Hospital | Centura St Elizabeth Hospital | Centura St Mary Corwin Hospital | Centura St Thomas More Hospital | Davis Hospital & Medical Center | Jordan Valley Medical Center | Orthocolorado Hospital | Salt Lake Regional Medical Center,CO | UT,060012 | 060013 | 060015 | 060016 | 060031 | 060044 | 060104 | 060118 | 060124 | 061344 | 460003 | 460041 | 460051
+840417134,1,Saint Joseph Hospital,CO,060028
+840425720,1,St Marys Hospital & Medical Center,CO,060023
+840438224,5,Centura Avista Adventist Hospital | Centura Castle Rock Adventist Hosp | Centura Littleton Adventist Hospital | Centura Parker Adventist Hospital | Centura Porter Adventist Hospital,CO,060064 | 060103 | 060113 | 060114 | 060125
+840446259,1,Valley View Hospital,CO,060075
+840447998,1,Family Health West Hospital,CO,061302
+840460697,1,Centura Longmont United Hospital,CO,060003
+840469270,1,Community Hospital,CO,060054
+840482695,1,Platte Valley Medical Center,CO,060004
+840563230,1,Vail Valley Medical Center,CO,060096
+840586742,1,Mt San Rafael Hospital,CO,061321
+840935136,1,Parkview Medical Center,CO,060020
+841103606,2,Good Samaritan Medical Ctr | Lutheran Medical Center,CO,060009 | 060116
+841262971,1,Poudre Valley Hospital,CO,060010
+841276376,1,Rio Grande Hospital,CO,061301
+841337350,1,Southwest Memorial Hospital,CO,061327
+841421665,1,St Lukes Wood River Medical Center,ID,131323
+841465990,2,Arkansas Valley Regional Medical Center | Arkansas Valley Regl Med Ctr,CO,060036 | 061336
+841715908,1,Hutchinson Health Care,MN,240187
+841793121,1,Adventhealth Heart Of Florida,FL,100137
+841949748,1,Pineville Community Health Center,KY,180154
+842046902,1,Thibodaux Regional Health System,LA,190004
+842516855,1,Cah 1 - Washington,NC,341314
+842569909,1,Medical Center Of Deltona,FL,100330
+842670875,1,Fort Washington Medical Center,MD,210060
+843134268,1,Massena Memorial Hospital,NY,330223
+843156881,1,Avera Granite Falls,MN,241343
+843178470,2,Sts Mary & Elizabeth Medical Center | Uofl Health-Louisville,KY,180037 | 180040
+843196350,1,Uofl Health-Shelbyville,KY,180016
+843362602,1,Allen County Regional Hospital,KS,171373
+843390470,1,East Jefferson General Hospital,LA,190146
+843480493,1,Wetzel County Hospital,WV,510072
+843654542,1,Huntsville Memorial,TX,450347
+843689003,1,Mayo Regional Hospital,ME,201309
+843730625,1,Mercy Specialty Hospital - Southeast,KS,170203
+843843850,1,Lvh- Coordinated Allentown,PA,390321
+844261122,1,Olivia  Hospital And Clinics,MN,241306
+844273963,1,Covenant Health Hobbs Hospital,NM,320065
+844475996,1,St Lukes Hospital - Easton Campus,PA,390162
+845074208,1,Bayfront Health St Petersburg,FL,100032
+845099016,1,Essentia Health Moose Lake,MN,241350
+845163224,1,Welia Health,MN,241367
+845174585,1,Adventist Health Mendocino Coast,CA,051325
+846002707,1,Montrose Memorial Hospital,CO,060006
+850105601,8,Dr Dan C Trigg | Espanola Hospital | Lincoln County Medical Center | Plains Regional Medical Ctr - Clovis | Presbyterian Hospital | Presbyterian Kaseman Hospital | Santa Fe Medical Center | Socorro General Hospital,NM,320011 | 320021 | 320022 | 320079 | 320090 | 321301 | 321302 | 321306
+850106941,1,St Vincent Hospital,NM,320002
+850127924,1,San Juan Regional Medical Center,NM,320005
+850138775,1,Gerald Champion Regional Medical Ctr,NM,320004
+850141285,2,Cibola General Hospital,NM,320037 | 321308
+850289839,2,Holy Cross Hospital,NM,320013 | 321310
+850313268,1,Rehoboth Mckinley Christian Hospital,NM,320038
+850442957,1,Union County Gen Hospital,NM,321304
+850512754,1,Magnolia Regional Health System  Inc,AR,040067
+850682363,1,Carle  Bromenn Medical Center,IL,140127
+850688306,1,Carle Eureka Hospital,IL,141309
+851226106,1,Geisinger Medical Center Muncy,PA,390337
+851296795,13,Childrens Specialized Hopsital | Clara Maass Medical Center | Community Medical Center | Cooperman Barnabas Medical Center | Jersey City Medical Center | Monmouth Medical Center | Monmouth Medical Center Southern Cam | Newark Beth Israel Medical Center | Robert Wood Johnson Hospital @ Hami | Robert Wood Johnson Hospital @ Rahw | Robert Wood Johnson Univ Hosp @ Som | Robert Wood Johnson University Hospi | Trinitas Hospital,NJ,310002 | 310009 | 310024 | 310027 | 310038 | 310041 | 310048 | 310074 | 310075 | 310076 | 310084 | 310110 | 313300
+851433123,1,Concord Hospital - Franklin,NH,301306
+851443782,1,Concord Hospital - Laconia,NH,300005
+851538878,1,Singing River Gulfport,MS,250123
+851608328,1,Hampden Medical Center,PA,390336
+851634852,1,Verdugo Hills Hospital,CA,050124
+851644866,2,Keck Hospital Of Usc | Usc Norris Cancer Hospital,CA,050660 | 050696
+851941193,1,Hendrick Medical Center Brownwood,TX,450587
+852276567,1,Lexington Medical Center,SC,420073
+852862205,1,Sistersville General Hospital,WV,511304
+853033915,1,Owensboro Health Twin Lakes Medical,KY,180070
+853994078,1,Mon Health Marion Neighborhood Hospi,WV,510093
+860096775,1,Wickenburg Community Hospital,AZ,031300
+860098923,2,Yavapai Regional Medical Center | Yavapai Regional Medical Center-East Campus,AZ,030012 | 030118
+860100882,1,Verde Valley Medical Center,AZ,030007
+860107344,1,Winslow Memorial Hospital,AZ,031311
+860110232,1,Flagstaff Medical Center,AZ,030023
+860137567,1,Tucson Medical Center,AZ,030006
+860171900,1,White Mountain Regional Hospital,AZ,031315
+860181654,6,Honorhealth Deer Valley Med Ctr | Honorhealth John C Lincoln Med Ctr | Honorhealth Scottsdale Osborn Med Ct | Honorhealth Scottsdale Shea Med Ctr | Honorhealth Scottsdale Thompson Peak | Honorhealth Sonoran Crossing Med Ctr,AZ,030014 | 030038 | 030087 | 030092 | 030123 | 030146
+860186064,1,Sierra Vista Regional Health Center Inc,AZ,030043
+860208451,1,Northern Cochise Community Hospital,AZ,031302
+860260959,2,La Paz Regional Hospital,AZ,030067 | 031317
+860320447,1,Summit Healthcare,AZ,030062
+860334996,1,Copper Queen Comm Hosp,AZ,031312
+860422559,1,Phoenix Childrens Hospital,AZ,033302
+860455920,2,Carondelet St  Marys Hospital | Carondelet St Josephs Hospital,AZ,030010 | 030011
+860575938,1,Holy Cross Hospital,AZ,031313
+860732836,1,Cobre Valley Reg Medical Center,AZ,031314
+860892673,1,Hacienda De Los Ninos,AZ,033301
+860983474,1,Southeast Arizona Medical Center,AZ,031303
+861248931,1,St Lukes Hospital-Carbon Campus,PA,390335
+861835149,1,Unity Health - Newport,AR,040163
+862327525,1,Logan Health Shelby,MT,271328
+862358048,1,Insights Hospital And Medical Center,IL,140158
+862614124,1,Deaconness Union County Hospital,KY,181306
+862701018,1,Henry County Health Center,IA,161356
+862728785,1,Calais Community Hospital,ME,201305
+863190906,1,Caribou Memorial Hospital,ID,131309
+866007596,1,Yuma Regional Medical Center,AZ,030013
+866007695,1,Benson Hospital,AZ,031301
+870276435,1,Uintah Basin Medical Center,UT,460019
+870419324,1,Central Valley Medical Center,UT,461304
+870543342,1,Moab Regional Hospital,UT,461302
+870741588,1,Simpson General Hospital Cah,MS,251317
+870963633,1,Piedmont Cartersville Medical Center,GA,110030
+870982886,1,Piedmont Eastside Medical Center,GA,110192
+871006981,1,Piedmont Macon Medical Center,GA,110164
+871031034,1,Piedmont Macon North Hospital,GA,110201
+871759588,1,Webster County Memorial Hospital,WV,511301
+871846814,1,Garrett County Memorial Hospital,MD,210017
+873486516,1,Kearney Regional Medical Center,NE,280134
+880065829,1,Boulder City Hospital,NV,291309
+880213754,1,Renown Regional Medical Center,NV,290001
+880256932,2,South Lyon Medical Center,NV,290002 | 291314
+880405927,1,Carson Valley Medical Center,NV,291306
+880502318,1,Sierra Surgery Hospital  Llc,NV,290051
+880502320,1,Carson Tahoe Regional Healthcare,NV,290019
+884142509,1,Red Bud Regional Hospital,IL,141348
+900054984,2,Cape Cod Hospital | Falmouth Hospital,MA,220012 | 220135
+900059117,14,Lake Hospital System | Rainbow Babies & Childrens Hospital | Uh Ahuja Medical Center | Uh Cleveland Medical Center | Uh Conneaut Medical Center | Uh Elyria Medical Center | Uh Geauga Medical Center | Uh Geneva Medical Center | Uh Parma Medical Center | Uh Portage Medical Center | Uh Regional Hospitals | Uh Samaritan Medical Center | Uh St John Medical Center | Uhhs Bedford Medical Center,OH,360002 | 360041 | 360075 | 360078 | 360098 | 360115 | 360123 | 360137 | 360145 | 360192 | 360359 | 361307 | 361308 | 363302
+900640432,5,Crystal Clinic Orthopaedic Center | Summa Barberton Hospital | Summa Health System | Summa Wadsworth-Rittman Hospital | Summa Western Reserve Hospital,OH,360019 | 360020 | 360150 | 360195 | 360351
+900656139,10,Brigham And Womens Hospital | Cooley Dickinson Hospital | Faulkner Hospital | Marthas Vineyard Hospital | Massachusetts Eye And Ear Infirmary | Massachusetts General Hospital | Nantucket Cottage Hospital | Newton Wellesley Hospital | North Shore Medical Center - Union Hospital | Wentworth Douglass Hospital,MA | NH,220015 | 220035 | 220071 | 220075 | 220101 | 220110 | 220119 | 220177 | 221300 | 300018
+900756744,6,Decatur Memorial Hospital | Jacksonville Memorial Hospital | Lincoln Memorial Hospital | Passavant Area Hospital | Springfield Memorial Hospital | Taylorville Memorial Hospital,IL,140058 | 140135 | 140148 | 141322 | 141339 | 141352
+900759236,4,Frick Hospital | Latrobe Area Hospital | Mercy Jeannette Hospital | Westmoreland Regional  Hospital,PA,390010 | 390145 | 390217 | 390219
+900779828,1,Atlanticare Regional Medical Center,NJ,310064
+900779996,2,Egleston Childrens Hospital At Emory | Scottish Rite Childrens Medical Ctr,GA,113300 | 113301
+900790361,5,Emory Decatur Hospital | Emory Hillandale Hospital | Emory Johns Creek Hospital | St Josephs Of Atlanta | Wesley Woods Center Of Emory Univers,GA,110076 | 110082 | 110203 | 110226 | 110230
+900909506,1,Clifton-Fine Hospital,NY,331307
+901000718,3,Riverside Doctors Hospital Williamsb | Riverside Regional Medical Center | Riverside Walter Reed,VA,490052 | 490130 | 490143
+910171250,1,Central Washington Hospital,WA,500016
+910349750,1,Lourdes Medical Center,WA,501337
+910433740,3,Swedish Issaquah | Swedish Medical Center | Swedish Medical Center Cherry Hill,WA,500025 | 500027 | 500152
+910511770,1,Kfh - Washington,WA,500052
+910545036,1,Tri-State Memorial Hospital,WA,501332
+910564491,5,Highline Medical Center | St Anthony Hospital | St Clare Hospital | St Francis Hospital | St Joseph Medical Center,WA,500011 | 500021 | 500108 | 500141 | 500151
+910564748,1,Seattle Childrens Hospital,WA,503300
+910565539,1,Virginia Mason Medical Center,WA,500005
+910565546,1,Harrison Medical Center,WA,500039
+910567263,1,Yakima Valley Memorial Hospital,WA,500036
+910568304,1,Grays Harbor Community Hospital,WA,500031
+910617726,1,Walla Walla General Hospital,WA,500049
+910637400,1,Uw Medicine/Northwest Hospital,WA,500001
+910652651,1,Overlake Hospital Medical Center,WA,500051
+910655392,1,Kadlec Regional Medical Center,WA,500058
+910715805,1,Enumclaw Regional Hospital Dba Seh,WA,501335
+910939479,10,Cottage Grove Community Hospital | Ketchikan Medical Center | Peace Harbor Hospital | Peace Island Medical Center | Peacehealth Southwest Medical Center | Sacred Heart Med Ctr - University | Shmc-Riverbend | St John Medical Center | St Joseph Medical Center | United General Medical Center,AK | OR | WA,021311 | 380033 | 380102 | 381301 | 381316 | 500030 | 500041 | 500050 | 501329 | 501340
+911286274,1,Astria Sunnyside Hospital,WA,501330
+911352172,9,Allenmore Hospital | Capital Medical Center | Deaconess Medical Center | Good Samaritan Hospital | Mary Bridge Childrens Hospital | Multicare Auburn Medical Center | Multicare Covington Medical Center | Tacoma General Allenmore Hospital | Valley Hospital & Medical Center,WA,500015 | 500042 | 500044 | 500079 | 500119 | 500129 | 500139 | 500154 | 503301
+911858433,2,Bellevue Medical Center | The Nebraska Medical Center,NE,280013 | 280132
+911935159,1,Fred Hutchinson Cancer Center,WA,500138
+911997979,8,Beaufort County Medical Center | Bertie Memorial Hospital | Chowan Hospital Inc | Duplin General Hospital | Halifax Regional Medical Center | Vidant Edgecombe Hospital | Vidant Pungo Hospital | Vidant Roanoke Chowan Hospital,NC,340038 | 340099 | 340107 | 340120 | 340151 | 341304 | 341310 | 341318
+912153073,20,Akron General Medical Center | Ccf Hospital - Weston | Ccf Mercy Medical Center | Cleveland Clinic Avon Hospital | Cleveland Clinic Childrens Hosp For | Cleveland Clinic Hospital | Edwin Shaw Rehab | Euclid Hospital | Fairview Hospital | Hillcrest Hospital | Huron Hospital | Indian River Memorial Hospital | Lakewood Hospital | Lodi Community Hospital | Lutheran Hospital | Martin Medical Center | Marymount Hospital | Medina Hospital | South Pointe Hospital | Union Hospital Association,FL | OH,100044 | 100105 | 100289 | 360010 | 360027 | 360070 | 360077 | 360082 | 360087 | 360091 | 360101 | 360143 | 360144 | 360180 | 360212 | 360230 | 360241 | 360364 | 361303 | 363304
+912154267,1,Memorial Hospital For Cancer And All,NY,330154
+912154436,1,Oconnor Hospital,CA,050153
+912154437,1,St Louise Regional Hospital,CA,050688
+912154438,1,St Vincent Medical Center,CA,050502
+912154439,1,St Francis Medical Center,CA,050104
+912154441,2,Seton Medical Center | Seton Medical Center Coastside,CA,050289 | 050613
+912155626,5,Harrington Memorial Hospital | Healthalliance-Clinton | Marlborough Hospital | Umass Memorial Medical Center | Ummhc~clinton Hospital,MA,220001 | 220019 | 220049 | 220058 | 220163
+920019395,1,Mat-Su Regional Med Ctr,AK,020006
+920037099,1,South Peninsula Hospital,AK,021313
+920041461,1,Maniilaq Health Center,AK,021310
+920077523,1,Central Peninsula General Hospital,AK,020024
+920573933,1,Crossroads Community Hospital,IL,140294
+920574426,1,Union County Hospital District,IL,141342
+926001607,1,Petersburg Medical Center,AK,021304
+930110095,1,Samaritan Albany General Hospital,OR,380022
+930223960,3,Ashland Community Hospital | Rogue Regional Medical Center | Three Rivers Medical Center,OR,380002 | 380005 | 380018
+930281321,1,Silverton Hospital,OR,380029
+930386793,1,Legacy Good Samaritan Hospital,OR,380017
+930386823,1,Legacy Emanuel Hospital & Health Ctr,OR,380007
+930386868,1,Mercy Medical Center,OR,380027
+930386936,1,Mid-Columbia Medical Center,OR,380001
+930391573,1,Good Samaritan Hospital Corvallis,OR,380014
+930391614,1,St Anthony Hospital,OR,381319
+930396847,1,Samaritan Lebanon Comm Hospital,OR,381323
+930415219,1,Santiam Memorial Hospital,OR,380056
+930425580,1,Good Shepherd Medical Center,OR,381325
+930429015,1,Adventist Medical Center-Portland,OR,380060
+930430029,2,Tuality Forest Grove Hospital | Tuality Healthcare,OR,380021 | 380068
+930505325,1,Grande Ronde Hospital,OR,381321
+930508781,1,Sky Lakes Medical Center,OR,380050
+930579722,1,Salem Hospital,OR,380051
+930583856,1,Columbia Memorial Hospital,OR,381320
+930591528,1,Legacy Mount Hood Medical Center,OR,380025
+930602940,4,St Charles Madras | St Charles Med Ctr - Prineville | St Charles Medical Center | St Charles Redmond,OR,380040 | 380047 | 381313 | 381324
+930618975,1,Legacy Meridian Park Hospital,OR,380089
+930622075,1,Tillamook Regional Medical Center,OR,381317
+931305493,1,North Lincoln Hospital,OR,381302
+931329784,1,Samaritan Pacific Comm Hospital,OR,381314
+940382330,1,Childrens Hosp & Res Cntr Oakland,CA,053301
+940382780,1,Chinese Hospital,CA,050407
+940535360,3,Adventist Health Hanford | Adventist Medical Center - Central Valley | Adventist Medical Center-Selma,CA,050121 | 050196 | 050470
+940562680,15,Alta Bates - Herrick Hospital | Alta Bates Medical Center | California Pacific Medical Center | California Pacific Medical Center - California Campus | California Pacific Medical Ctr-Davies Campus Hosp | Cpmc - Mission Bernal Campus | Eden Medical Center | Menlo Park Surgical Hospital | Mills Peninsula Medical Center | Novato Community Hospital | Summit Medical Center | Sutter Delta Medical Center | Sutter Lakeside Hospital | Sutter Maternity & Surgery Center | Sutter Santa Rosa Regional Hospital,CA,050007 | 050008 | 050043 | 050047 | 050055 | 050087 | 050131 | 050208 | 050291 | 050305 | 050488 | 050523 | 050714 | 050754 | 051329
+940760193,1,Community Hosp Monterey Peninsula,CA,050145
+941044474,2,Adventist Health Lodi Memorial | Lodi Memorial Hospital - West,CA,050336 | 050442
+941049467,1,Biggs-Gridley Memorial Hospital,CA,051311
+941101228,1,Adventist Health Feather River,CA,050225
+941105628,37,Kaiser Sunnyside Medical Center | Kaiser Westside Medical Center | Kfh - Antioch | Kfh - Baldwin Park | Kfh - Downey | Kfh - Fontana | Kfh - Fremont | Kfh - Fresno | Kfh - Los Angeles | Kfh - Manteca | Kfh - Moreno Valley | Kfh - Oakland | Kfh - Oc-Anaheim | Kfh - Panorama City | Kfh - Redwood City | Kfh - Riverside | Kfh - Roseville | Kfh - Sacramento | Kfh - San Diego | Kfh - San Francisco | Kfh - San Leandro | Kfh - San Rafael | Kfh - Santa Clara | Kfh - Santa Rosa | Kfh - South Bay | Kfh - South Sacramento | Kfh - South San Francisco | Kfh - Vacaville | Kfh - Vallejo | Kfh - Walnut Creek | Kfh - West Los Angeles | Kfh - Woodland Hills | Kfh- San Jose | Kfh-Hawaii | Kula Hospital | Lanai Community Hospital | Maui Memorial Medical Center,CA | HI | OR,050070 | 050071 | 050072 | 050073 | 050075 | 050076 | 050137 | 050138 | 050139 | 050140 | 050411 | 050425 | 050510 | 050512 | 050515 | 050541 | 050561 | 050604 | 050609 | 050674 | 050677 | 050686 | 050690 | 050710 | 050723 | 050748 | 050760 | 050765 | 050767 | 050772 | 050777 | 120002 | 120011 | 121305 | 121308 | 380091 | 380103
+941156265,1,Mills Health Center,CA,050302
+941156276,3,Clovis Community Medical Center | Community Regional Medical Center | Fresno Heart And Surgical Hospital,CA,050060 | 050492 | 050732
+941156295,1,Saint Francis Memorial Hospital,CA,050152
+941156621,10,Memorial Hospital - Los Banos | Memorial Hospital Modesto | Sutter Amador Hospital | Sutter Auburn Faith Hospital | Sutter Davis Hospital | Sutter Medical Center - Sacramento | Sutter Memorial Hospital | Sutter Roseville Medical Center | Sutter Solano Medical Center | Sutter Tracy Community Hospital,CA,050014 | 050101 | 050108 | 050109 | 050309 | 050313 | 050498 | 050528 | 050537 | 050557
+941196203,24,"Arizona Orthopedic Surgical Hospital | Diginty Health St Rose Dominican | Dominican Hospital | Marian Medical Center | Marian Regional Medical Center, Arroyo Grande | Mercy General Hospital | Mercy Gilbert Medical Center | Mercy Hospital | Mercy Hospital Of Folsom | Mercy Medical Center Merced | Mercy Medical Center Mt Shasta | Mercy Medical Center Redding | Mercy San Juan Medical Center | Saint Marys Regional Medical Center | St Bernardine Medical Center | St Elizabeth  Community Hospital | St Johns Hospital Camarillo | St Johns Regional Medical Center | St Josephs Hospital & Medical Ctr | St Mary Medical Center | St Marys Medical Center | St Rose Dominican - Delima | St Rose Dominican - San Martin | St Rose Dominican - Siena",AZ | CA | NV,030024 | 030112 | 030119 | 050016 | 050017 | 050042 | 050082 | 050107 | 050129 | 050191 | 050242 | 050280 | 050295 | 050414 | 050444 | 050457 | 050516 | 050616 | 051319 | 290009 | 290012 | 290045 | 290053 | 290058
+941201197,1,Dameron Hospital,CA,050122
+941279779,1,Adventist Health St Helena,CA,050013
+941294954,1,Valley Childrens Hospital,CA,053300
+941387866,2,Adventist Health And Rideout | Fremont Medical Center,CA,050133 | 050207
+941415069,1,Adventist Health Sonora,CA,050335
+941429628,1,Stanford Health Care Tri-Valley,CA,050283
+941437713,1,St Agnes Medical Center,CA,050093
+941439787,1,Sierra Nevada Memorial Hospital,CA,050150
+941450151,1,Marshall Hospital,CA,050254
+941458282,2,Northbay Hospital Group | Northbay Vacavalley Hospital,CA,050367 | 050680
+941461843,2,John Muir Medical Center - Concord | John Muir Medical Center - Wc,CA,050180 | 050496
+941502014,2,Mee Memorial Hospital,CA,050189 | 051336
+941603784,1,Enloe Medical Center,CA,050039
+941623075,1,Fairchild Medical Center,CA,051316
+941634554,1,Oroville Hospital,CA,050030
+941639901,1,Adventist Health Ukiah Valley,CA,050301
+941668344,1,St Rose Hospital,CA,050002
+942281314,1,Emanuel Medical Center,CA,050179
+942823538,1,Marinhealth Medical Center,CA,050360
+942854057,24,Alta View Hospital | American Fork Hospital | Bear River Valley Hospital | Cassia Regional Hospital | Cedar City Hospital | Delta Community Hospital | Fillmore Community Hospital | Garfield Memorial Hospital | Heber Valley Hospital | Intermountain Medical Center | Layton Hospital | Lds Hospital | Logan Regional Hospital | Mckay-Dee Hospital | Orem Community Hospital | Park City Hospital | Primary Childrens Hospital | Riverton Hospital | Sanpete Valley Hospital | Sevier Valley Hospital | Spanish Fork Hospital | St George Regional Hospital | The Orthopedic Specialty Hospital | Utah Valley Hospital,ID | UT,131326 | 460001 | 460004 | 460006 | 460007 | 460010 | 460015 | 460021 | 460023 | 460026 | 460033 | 460039 | 460043 | 460044 | 460049 | 460057 | 460058 | 460061 | 460062 | 461300 | 461301 | 461303 | 461307 | 463301
+942916102,1,Kingman Regional Medical Center,AZ,030055
+942948100,2,San Leandro Hospital,CA,050264 | 050773
+942988520,1,Sutter Coast Hospital,CA,050417
+943480131,1,West Jefferson Medical Center,LA,190039
+946050274,1,Barton Memorial Hospital,CA,050352
+946174066,1,Stanford Health Care,CA,050441
+950651579,1,Sharp Coronado Hospital,CA,050234
+951115230,1,Pomona Valley Hospital Med Ctr,CA,050231
+951183919,1,San Antonio Regional Hospital,CA,050099
+951643325,1,St Jude Medical Center Fullerton,CA,050168
+951643327,2,Hoag Memorial Hospital Presbyterian | Hoag Orthopedic Institute,CA,050224 | 050769
+951643336,1,Methodist Hospital Of So California,CA,050238
+951643347,1,Redlands Community Hospital,CA,050272
+951643359,1,St Joseph Hospital Of Orange,CA,050069
+951643360,2,Mission Hospital Reg Medical Center | South Coast Medical Center,CA,050193 | 050567
+951643373,1,Community Hospital Of San Bernardino,CA,050089
+951643989,1,Casa Colina Hospital And Centers For,CA,050782
+951644036,1,Huntington Hospital,CA,050438
+951644042,1,Torrance Memorial Medical Center,CA,050351
+951644600,1,Cedars-Sinai Medical Center,CA,050625
+951644629,1,Santa Barbara Cottage Hospital,CA,050396
+951652916,1,Motion Picture And Television Fund,CA,050552
+951656366,1,Pih Health Good Samaritan Hospital,CA,050471
+951683875,1,City Of Hope National Medical Ctr,CA,050146
+951683892,3,Cmh Of San Buenaventura | Ojai Valley Community Hospital,CA,050046 | 050394 | 051334
+951684082,1,Providence St Johns Health Center,CA,050290
+951684089,5,Scripps Green Hospital | Scripps Memorial Hospital - La Jolla | Scripps Memorial Hospital-Encinitas | Scripps Mercy Hospital | Scripps Mercy Hospital Chula Vista,CA,050077 | 050270 | 050324 | 050424 | 050503
+951690977,1,Childrens Hospital Los Angeles,CA,053302
+951691313,1,Rady Childrens Hospital - San Diego,CA,053303
+951802779,1,Bakersfield Memorial Hospital,CA,050036
+951816005,1,Beverly Hospital,CA,050350
+951816017,1,Adventist Health Glendale,CA,050239
+951903935,1,Pih Health Hospital - Downey,CA,050393
+951914489,1,St Mary Medical Center,CA,050300
+951934652,1,Pih Health Whittier Hospital,CA,050169
+951945832,1,Valley Presbyterian Hospital,CA,050126
+952082686,2,Ridgecrest Regional Hospital,CA,050448 | 051333
+952224265,1,Santa Ynez Valley Cottage Hospital,CA,051331
+952282647,1,Adventist Health White Memorial,CA,050103
+952294234,1,Adventist Health Bakersfield,CA,050455
+952321786,1,Childrens Hospital Of Orange Count,CA,053304
+952367304,1,Sharp Chula Vista Medical Center,CA,050222
+952413054,1,Emanate Health Foothill Presb Hosp,CA,050597
+952413596,1,Goleta Valley Cottage Hospital,CA,050357
+952475762,1,Victor Valley Community Hospital,CA,050517
+952477294,1,Doctors Hospital Of Riverside,CA,050102
+952821104,1,Henry Mayo Newhall Memorial Hospital,CA,050624
+953522679,1,Loma Linda University Medical Center,CA,050327
+953782169,2,Sharp Mary Birch Hospital For Women And Newborns-- | Sharp Memorial Hospital,CA,050100 | 050722
+954896822,1,Dewitt Hospital & Nursing Home  Inc,AR,041314
+956006469,2,Citrus Valley Medical Center-Qv Campus | Emanate Health Medical Center,CA,050369 | 050382
+956064971,1,Adventist Health Simi Valley,CA,050236
+956130458,1,Eisenhower Medical Center,CA,050573
+990073524,1,The Queens Medical Center,HI,120001
+990074139,1,Kuakini Medical Center,HI,120007
+990107330,1,Adventist Health Castle,HI,120006
+990251372,1,Molokai General Hospital,HI,121303
+990260423,1,North Hawaii Community Hospital,HI,120028
+990269825,1,Wahiawa General Hospital,HI,120004

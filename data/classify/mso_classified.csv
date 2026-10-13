@@ -1,0 +1,1280 @@
+text_id,category,manager_relationship,scope,manager_name,provides_named_executive,management_fee_mentioned,is_mso_affiliation,confidence,n_filings
+1,C_parent_shared_services,related_parent,organization_wide,Legacy Health,False,False,False,high,39
+2,F_uninformative,unclear,unclear,,False,False,False,high,28
+3,C_parent_shared_services,related_parent,organization_wide,"St. Luke's Health Network, Inc. / St. Luke's Hospital of Bethlehem, Pennsylvania",False,True,False,high,27
+4,C_parent_shared_services,related_parent,organization_wide,THOMAS JEFFERSON UNIVERSITY,False,True,False,high,26
+5,C_parent_shared_services,related_parent,governance_only,"Saint Francis Health System, Inc.",False,False,False,medium,23
+6,A_dedicated_MSO,unrelated_mso,organization_wide,"Cypress Healthcare Partners, LLC",True,False,True,high,20
+7,C_parent_shared_services,related_parent,specific_function,"St. Luke's Health Network, Inc.",True,False,False,high,12
+8,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Corporation (CHC),False,False,True,high,11
+9,D_peer_system_managed,unrelated_peer,organization_wide,"Mercy Hospital Medical Center of Des Moines, Iowa",True,False,False,high,10
+10,E_functional,related_parent,specific_function,Supporting Organization,False,False,False,high,10
+11,E_functional,unrelated_mso,specific_function,,False,False,False,high,10
+12,C_parent_shared_services,related_parent,organization_wide,"Baystate Administrative Services, Inc. (BAS)",False,False,False,high,9
+13,A_dedicated_MSO,unrelated_mso,executive_only,"Quorum Health Resource, LLC",True,False,True,high,9
+14,C_parent_shared_services,related_parent,organization_wide,"Gundersen Lutheran Health System, Inc.",True,False,False,high,9
+15,E_functional,individual_or_firm,specific_function,,False,False,False,high,9
+16,A_dedicated_MSO,unrelated_mso,organization_wide,Alecto,True,True,True,high,9
+17,C_parent_shared_services,related_parent,organization_wide,"ThedaCare, Inc.",False,False,False,high,8
+18,A_dedicated_MSO,unrelated_mso,organization_wide,"First Physician's Business Solutions, LLC (and affiliated First Physicians entities)",False,False,True,high,8
+19,F_uninformative,unclear,governance_only,,False,False,False,high,8
+20,C_parent_shared_services,related_parent,executive_only,"RUSH CARE, INC. (SISTER ORGANIZATION)",True,True,False,high,8
+21,D_peer_system_managed,unrelated_peer,organization_wide,UnityPoint Health - Waterloo (formerly Allen Health Systems),False,False,False,medium,8
+22,A_dedicated_MSO,unrelated_mso,organization_wide,Alliant Management Services,True,False,True,high,8
+23,C_parent_shared_services,related_parent,organization_wide,"ThedaCare, Inc.",False,False,False,high,8
+24,D_peer_system_managed,unrelated_peer,organization_wide,Ridgeview Medical Center,False,False,False,medium,8
+25,E_functional,individual_or_firm,specific_function,"Radius, Sodexo, Restorix, Neurocare, Charles James Associates, Avison Young, APG Rhode Island, LLC",False,False,False,high,8
+26,C_parent_shared_services,related_parent,organization_wide,The Cleveland Clinic Foundation,False,False,False,medium,8
+27,D_peer_system_managed,unrelated_peer,executive_only,CHI Health,True,True,False,medium,8
+28,C_parent_shared_services,related_parent,organization_wide,The Cleveland Clinic Foundation,False,False,False,medium,7
+29,C_parent_shared_services,related_parent,organization_wide,"Mayo Clinic, Mayo Foundation for Medical Education and Research and other related companies",False,False,False,high,7
+30,D_peer_system_managed,unrelated_peer,organization_wide,"St. Bernards Healthcare, Inc. (SBHC)",True,False,False,medium,7
+31,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,7
+32,D_peer_system_managed,unrelated_peer,organization_wide,Boone Hospital,True,False,False,high,7
+33,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,7
+34,C_parent_shared_services,related_parent,organization_wide,"ThedaCare, Inc.",False,False,False,high,7
+35,C_parent_shared_services,related_parent,organization_wide,"ThedaCare, Inc.",False,False,False,high,7
+36,C_parent_shared_services,related_parent,organization_wide,"Wayne Memorial Health System, Inc.",False,True,False,medium,7
+37,C_parent_shared_services,related_parent,organization_wide,"ThedaCare, Inc.",False,False,False,high,7
+38,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources (QHR),True,False,True,high,7
+39,C_parent_shared_services,related_parent,organization_wide,"ThedaCare, Inc.",False,False,False,high,7
+40,C_parent_shared_services,related_parent,organization_wide,Blessing Corporate Services,False,False,False,medium,7
+41,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,7
+42,C_parent_shared_services,related_parent,organization_wide,North Memorial Health Care,False,False,False,high,7
+43,C_parent_shared_services,related_parent,organization_wide,Baptist Memorial Health Care Corporation,False,False,False,high,7
+44,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,7
+45,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,7
+46,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,7
+47,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,7
+48,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,7
+49,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,7
+50,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,7
+51,C_parent_shared_services,related_parent,organization_wide,Baptist Memorial Health Care Corporation,False,False,False,high,7
+52,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,7
+53,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,7
+54,F_uninformative,unclear,unclear,,False,False,False,high,7
+55,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,7
+56,A_dedicated_MSO,unrelated_mso,organization_wide,"CYPRESS HEALTHCARE, LLC",False,False,True,medium,6
+57,C_parent_shared_services,related_parent,organization_wide,Care New England Health System (CNE); Sodexo Health Care (food & nutrition),False,True,False,high,6
+58,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Corporation (CHC),False,False,True,high,6
+59,C_parent_shared_services,related_parent,organization_wide,Care New England Health System (CNE),False,True,False,high,6
+60,A_dedicated_MSO,unrelated_mso,organization_wide,,True,True,True,medium,6
+61,C_parent_shared_services,related_parent,organization_wide,"ThedaCare, Inc.",False,False,False,high,6
+62,D_peer_system_managed,unrelated_peer,organization_wide,Regional West Medical Center,True,True,False,high,6
+63,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,6
+64,A_dedicated_MSO,individual_or_firm,organization_wide,"Cypress Healthcare, LLC (owned by hospital CEO Tony Pfaff - captive arrangement)",True,False,True,medium,6
+65,D_peer_system_managed,unrelated_peer,organization_wide,Children's Healthcare of Atlanta (CHOA),False,False,False,high,6
+66,A_dedicated_MSO,individual_or_firm,unclear,"EWM Consulting, Inc.",False,False,True,low,6
+67,D_peer_system_managed,unrelated_peer,organization_wide,"Trinity Health Systems, Inc.",True,False,False,medium,6
+68,B_exec_staffing,individual_or_firm,executive_only,"FTI, LLC",True,False,False,high,6
+69,D_peer_system_managed,unrelated_peer,organization_wide,Faith Regional Health Services,False,False,False,medium,5
+70,D_peer_system_managed,unrelated_peer,organization_wide,UnityPoint Health,True,False,False,high,5
+71,E_functional,individual_or_firm,specific_function,"Sodexho Management, Inc.",False,False,False,high,5
+72,D_peer_system_managed,unrelated_peer,organization_wide,"Shands Teaching Hospital and Clinics, Inc (Shands)",False,False,False,low,5
+73,E_functional,individual_or_firm,specific_function,OPTUM,False,False,False,high,5
+74,D_peer_system_managed,unrelated_peer,executive_only,Willis-Knighton,True,False,False,high,5
+75,A_dedicated_MSO,unrelated_mso,organization_wide,Alliant Management Services,False,False,True,high,5
+76,A_dedicated_MSO,unrelated_mso,organization_wide,"Smart-Health Home, LLC (previously leased to Jubilee Doctors Management)",False,False,True,medium,5
+77,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,5
+78,C_parent_shared_services,related_parent,organization_wide,UNC Health Care System (UNCHCS),False,False,False,medium,5
+79,C_parent_shared_services,related_parent,organization_wide,Wake Forest University Baptist Medical Center,False,False,False,high,5
+80,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,False,False,False,medium,5
+81,D_peer_system_managed,unrelated_peer,organization_wide,Forrest County General Hospital (FGH),False,False,False,high,5
+82,E_functional,individual_or_firm,specific_function,CATSKILL MOUNTAIN HOUSING,False,False,False,medium,5
+83,C_parent_shared_services,related_parent,governance_only,Rush System for Health (RSH),False,False,False,high,5
+84,C_parent_shared_services,related_parent,specific_function,"Baystate Administrative Services, Inc. (BAS)",False,False,False,high,5
+85,C_parent_shared_services,related_parent,organization_wide,Premier Health,False,False,False,high,5
+86,C_parent_shared_services,related_parent,organization_wide,Appalachian Regional Health Care System (ARHS),False,False,False,high,5
+87,C_parent_shared_services,related_parent,organization_wide,Confluence Health,False,False,False,high,5
+88,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC",False,False,True,high,5
+89,C_parent_shared_services,related_parent,organization_wide,"Baystate Administrative Services, Inc. (BAS)",False,False,False,high,5
+90,D_peer_system_managed,unrelated_peer,organization_wide,Hospital Corporation of America (HCA),True,True,False,medium,5
+91,C_parent_shared_services,related_parent,organization_wide,Confluence Health,False,False,False,high,5
+92,E_functional,individual_or_firm,specific_function,,False,False,False,high,5
+93,C_parent_shared_services,related_parent,organization_wide,Premier Health,False,False,False,high,5
+94,E_functional,individual_or_firm,specific_function,,False,False,False,high,5
+95,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health System,True,False,False,medium,5
+96,C_parent_shared_services,related_parent,organization_wide,THOMAS JEFFERSON UNIVERSITY,False,True,False,high,5
+97,D_peer_system_managed,unrelated_peer,organization_wide,St. Alexius Medical Center,True,False,False,high,5
+98,C_parent_shared_services,related_parent,organization_wide,Premier Health,False,False,False,medium,5
+99,C_parent_shared_services,related_parent,organization_wide,"Blessing Corporate Services, Inc.",False,False,False,high,4
+100,D_peer_system_managed,unrelated_peer,organization_wide,Forrest County General Hospital (FGH),False,False,False,high,4
+101,C_parent_shared_services,related_parent,organization_wide,"Gundersen Lutheran Health System, Inc.",True,False,False,high,4
+102,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,4
+103,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,4
+104,C_parent_shared_services,related_parent,organization_wide,"Benefis Health System, Inc. (BHS)",False,False,False,high,4
+105,D_peer_system_managed,unrelated_peer,executive_only,Carolinas Healthcare System (CHS),True,True,False,high,4
+106,C_parent_shared_services,related_parent,organization_wide,ST. LUKE'S UNIVERSITY HEALTH NETWORK,False,False,False,medium,4
+107,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,False,False,False,medium,4
+108,D_peer_system_managed,unrelated_peer,executive_only,Poudre Valley Medical Group,True,False,False,medium,4
+109,D_peer_system_managed,unrelated_peer,organization_wide,The Nebraska Medical Center (NMC),True,False,False,high,4
+110,E_functional,individual_or_firm,specific_function,Dietary Company,False,False,False,high,4
+111,C_parent_shared_services,related_parent,organization_wide,"St. Luke's Health Network, Inc.",False,True,False,high,4
+112,C_parent_shared_services,related_parent,governance_only,CHNW,False,False,False,high,4
+113,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management, Inc.",False,False,False,high,4
+114,D_peer_system_managed,unrelated_peer,organization_wide,MercyOne Medical Center - Des Moines,True,True,False,high,4
+115,C_parent_shared_services,related_parent,organization_wide,Appalachian Regional Health Care System (ARHS),False,False,False,high,4
+116,D_peer_system_managed,unrelated_peer,executive_only,Cabell-Huntington Hospital,True,True,False,high,4
+117,C_parent_shared_services,related_parent,governance_only,"Saint Francis Health System, Inc.",False,False,False,medium,4
+118,D_peer_system_managed,unrelated_peer,organization_wide,Park Nicollet Health Services (PNHS),True,False,False,high,4
+119,D_peer_system_managed,unrelated_peer,organization_wide,Adventist Healthcare,True,False,False,high,4
+120,A_dedicated_MSO,unrelated_mso,organization_wide,,True,True,True,medium,4
+121,A_dedicated_MSO,unrelated_mso,organization_wide,JAVA MEDICAL GROUP,False,False,True,medium,4
+122,B_exec_staffing,individual_or_firm,executive_only,"Bradley & Associates, P.C.",True,False,False,high,4
+123,C_parent_shared_services,related_parent,organization_wide,Blessing Corporate Services,False,False,False,medium,4
+124,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Corporation (CHC),False,False,True,high,4
+125,C_parent_shared_services,related_parent,organization_wide,"Atlanticare Health System, Inc.",False,False,False,high,4
+126,F_uninformative,unclear,unclear,,False,False,False,medium,4
+127,C_parent_shared_services,related_parent,organization_wide,"Gundersen Lutheran Administrative Services, Inc.",False,False,False,high,4
+128,C_parent_shared_services,related_parent,organization_wide,"Barnabas Health, Inc. (RWJBarnabas Health); Sodexo Incorporated (food & nutrition)",False,True,False,high,4
+129,C_parent_shared_services,related_parent,specific_function,Arnot Ogden Medical Center,False,False,False,medium,3
+130,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,3
+131,D_peer_system_managed,unrelated_peer,executive_only,The University of Colorado Hospital Authority,True,False,False,high,3
+132,B_exec_staffing,individual_or_firm,executive_only,Ranstad,True,True,False,high,3
+133,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,3
+134,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,3
+135,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,False,False,high,3
+136,C_parent_shared_services,related_parent,organization_wide,"Baystate Administrative Services, Inc. (BAS)",False,False,False,high,3
+137,D_peer_system_managed,unrelated_peer,organization_wide,Atrium Health,True,True,False,high,3
+138,C_parent_shared_services,related_parent,governance_only,Rush University System for Health (RSH),False,False,False,high,3
+139,E_functional,individual_or_firm,specific_function,DIVERSIFIED CLINICAL SERVICES,False,False,False,high,3
+140,C_parent_shared_services,related_parent,organization_wide,"Gundersen Lutheran Health System, Inc.",False,False,False,high,3
+141,C_parent_shared_services,related_parent,executive_only,"Mutual Consulting and Management Services, Inc.",False,False,False,high,3
+142,F_uninformative,unclear,unclear,,False,False,False,medium,3
+143,D_peer_system_managed,unrelated_peer,executive_only,Carolinas Healthcare System (CHS),True,True,False,high,3
+144,D_peer_system_managed,unrelated_peer,organization_wide,Orlando Health,True,False,False,medium,3
+145,C_parent_shared_services,related_parent,organization_wide,"Baystate Administrative Services, Inc. (BAS)",False,False,False,high,3
+146,C_parent_shared_services,related_parent,organization_wide,"Baystate Administrative Services, Inc. (BAS)",False,False,False,high,3
+147,D_peer_system_managed,unrelated_peer,organization_wide,Cumberland County Hospital System dba Cape Fear Valley Health System (CFVH),True,True,False,high,3
+148,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management, Inc. (affiliate of Prime Healthcare Foundation, Inc.)",True,False,False,high,3
+149,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management, Inc.",True,False,False,high,3
+150,C_parent_shared_services,related_parent,executive_only,"Deaconess Health System, Inc. / Deaconess Health Kentucky, Inc.",True,True,False,medium,3
+151,C_parent_shared_services,related_parent,organization_wide,Appalachian Regional Healthcare System (ARHS),False,False,False,high,3
+152,E_functional,unclear,unclear,,False,False,False,low,3
+153,C_parent_shared_services,related_parent,organization_wide,"Baystate Administrative Services, Inc. (BAS)",False,False,False,high,3
+154,E_functional,individual_or_firm,specific_function,,False,False,False,high,3
+155,E_functional,individual_or_firm,specific_function,"Sodexo Health Care; RehabCare Group, Inc.",False,False,False,high,3
+156,C_parent_shared_services,related_parent,governance_only,Rush System for Health (RSH),False,False,False,high,3
+157,D_peer_system_managed,unrelated_peer,organization_wide,UNC Health,False,True,False,high,3
+158,E_functional,individual_or_firm,specific_function,Sodexo Health Care,False,False,False,high,3
+159,C_parent_shared_services,related_parent,organization_wide,AnMed Health System,True,False,False,high,3
+160,F_uninformative,unclear,unclear,,False,False,False,medium,3
+161,C_parent_shared_services,related_parent,governance_only,CHNW,False,False,False,medium,3
+162,C_parent_shared_services,related_parent,governance_only,Community Health Network (CHNW),False,False,False,medium,3
+163,A_dedicated_MSO,unrelated_mso,organization_wide,Ovation Healthcare,True,False,True,high,3
+164,C_parent_shared_services,related_parent,specific_function,"St. Luke's Health Network, Inc.",True,False,False,high,3
+165,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc.",True,False,True,high,3
+166,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc. dba HealthTechS3",True,True,True,high,3
+167,D_peer_system_managed,unrelated_peer,organization_wide,UAB (University of Alabama System),False,False,False,medium,3
+168,D_peer_system_managed,unrelated_peer,organization_wide,Mercy Medical Center - Des Moines,True,True,False,high,3
+169,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,3
+170,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority dba Carolinas Healthcare System (CHS),True,True,False,high,3
+171,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,3
+172,A_dedicated_MSO,unrelated_mso,organization_wide,Kanopy Healthcare Partners,False,True,True,medium,3
+173,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority d/b/a Carolinas Healthcare System,False,False,False,high,3
+174,C_parent_shared_services,related_parent,organization_wide,Infirmary Health Systems (subsidiary of Mobile Infirmary Association),False,False,False,medium,3
+175,C_parent_shared_services,related_parent,governance_only,CHNW,False,False,False,high,3
+176,A_dedicated_MSO,unrelated_mso,organization_wide,,False,False,True,low,3
+177,C_parent_shared_services,related_parent,governance_only,"Community Health Network, Inc. (CHNW)",False,False,False,high,3
+178,D_peer_system_managed,unrelated_peer,organization_wide,BILLINGS CLINIC,False,False,False,medium,3
+179,C_parent_shared_services,related_parent,organization_wide,"MOUNTAIN HEALTH NETWORK, INC. (MHN)",False,False,False,high,3
+180,E_functional,unclear,unclear,,False,False,False,low,3
+181,C_parent_shared_services,related_parent,governance_only,CHNW,False,False,False,medium,3
+182,C_parent_shared_services,related_parent,organization_wide,Penn Highlands Healthcare,False,False,False,high,3
+183,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,False,False,False,medium,3
+184,D_peer_system_managed,unrelated_peer,executive_only,Claxton-Hepburn Medical Center,True,False,False,medium,3
+185,C_parent_shared_services,related_parent,governance_only,Rush System for Health (RSH),False,False,False,high,2
+186,C_parent_shared_services,related_parent,specific_function,"St. Luke's Health Network, Inc.",True,False,False,high,2
+187,A_dedicated_MSO,unrelated_mso,organization_wide,Razaghi Development Company dba Razaghi Healthcare LLC,True,True,True,high,2
+188,A_dedicated_MSO,unrelated_mso,organization_wide,"SALEM HOSPITAL MANAGEMENT, LLC",True,True,True,high,2
+189,E_functional,individual_or_firm,specific_function,Plymouth Regional Rehabilitation Services; Morrison Healthcare Management Specialist Inc.; Medical Reimbursement Specialists; Diversified Clinical Services,False,False,False,high,2
+190,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,2
+191,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,2
+192,D_peer_system_managed,unrelated_peer,organization_wide,St. Alexius Medical Center (CEO); Linton Hospital (CFO),True,True,False,high,2
+193,B_exec_staffing,individual_or_firm,executive_only,TATUM,True,True,False,high,2
+194,B_exec_staffing,individual_or_firm,executive_only,Tatum,True,True,False,high,2
+195,A_dedicated_MSO,individual_or_firm,organization_wide,"R & V Associates, Ltd.",False,True,True,medium,2
+196,E_functional,individual_or_firm,specific_function,The Roberts Group,False,False,False,high,2
+197,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,2
+198,C_parent_shared_services,related_parent,governance_only,Rush University Medical Center,False,False,False,high,2
+199,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC (QHR)",True,False,True,high,2
+200,C_parent_shared_services,related_parent,governance_only,CHNW,False,False,False,high,2
+201,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,2
+202,D_peer_system_managed,unrelated_peer,organization_wide,Regional Health (RH),True,False,False,medium,2
+203,C_parent_shared_services,unclear,organization_wide,Regional Health DBA Astria Health,False,False,False,low,2
+204,C_parent_shared_services,related_parent,organization_wide,"Advocate Health, Inc. (formerly Atrium Health, Inc.)",False,False,False,medium,2
+205,B_exec_staffing,individual_or_firm,executive_only,Warbird Consulting,True,True,False,high,2
+206,B_exec_staffing,individual_or_firm,executive_only,Warbird Consulting,True,True,False,high,2
+207,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,False,True,high,2
+208,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,2
+209,A_dedicated_MSO,unrelated_mso,organization_wide,Alliant,True,True,True,high,2
+210,D_peer_system_managed,unrelated_peer,organization_wide,Ridgeview Medical Center,False,False,False,medium,2
+211,D_peer_system_managed,unrelated_peer,organization_wide,Wake Forest University Baptist Medical Center (WFBMC),False,True,False,medium,2
+212,D_peer_system_managed,unrelated_peer,organization_wide,"Great River Health System, Inc.",True,False,False,medium,2
+213,C_parent_shared_services,related_parent,organization_wide,"BHS Management Services, Inc.",True,False,False,medium,2
+214,D_peer_system_managed,unrelated_peer,organization_wide,Pinnacle Health System,True,False,False,high,2
+215,D_peer_system_managed,unrelated_peer,organization_wide,Wake Forest University Baptist Medical Center (WFBMC),False,False,False,medium,2
+216,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc.",True,True,True,high,2
+217,C_parent_shared_services,related_parent,organization_wide,"Gundersen Lutheran Administrative Service, Inc.",False,False,False,high,2
+218,A_dedicated_MSO,unrelated_mso,organization_wide,Independent Healthcare Management II,False,True,True,medium,2
+219,C_parent_shared_services,related_parent,specific_function,"St. Luke's Health Network, Inc.",True,False,False,high,2
+220,C_parent_shared_services,related_parent,governance_only,Cape Fear Valley Health System,False,False,False,medium,2
+221,D_peer_system_managed,unrelated_peer,executive_only,Mary Hitchcock Memorial Hospital (MHMH),True,True,False,medium,2
+222,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority dba Carolinas Healthcare System (CHS),True,True,False,high,2
+223,D_peer_system_managed,unrelated_peer,specific_function,DARTMOUTH-HITCHCOCK MEDICAL CENTER,True,False,False,medium,2
+224,C_parent_shared_services,related_parent,governance_only,"Community Health Network, Inc. (CHNW)",False,False,False,high,2
+225,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,2
+226,F_uninformative,individual_or_firm,executive_only,Annemarie Czyz,True,False,False,medium,2
+227,B_exec_staffing,individual_or_firm,executive_only,Mark Murphy,True,False,False,high,2
+228,C_parent_shared_services,related_parent,organization_wide,"Baystate Administrative Services, Inc. (BAS)",False,False,False,high,2
+229,C_parent_shared_services,related_parent,governance_only,The Member,False,False,False,medium,2
+230,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,2
+231,A_dedicated_MSO,individual_or_firm,organization_wide,"R & V Associates (Ronald L. Violi, 50% partner - CEO-owned management firm)",True,True,True,medium,2
+232,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,2
+233,C_parent_shared_services,related_parent,organization_wide,Thomas Jefferson University (TJU)/Jefferson Health,False,True,False,high,2
+234,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,2
+235,E_functional,unclear,specific_function,Dartmouth-Hitchcock Medical Center,True,False,False,medium,2
+236,C_parent_shared_services,related_parent,governance_only,Rush University Medical Center,False,False,False,high,2
+237,B_exec_staffing,individual_or_firm,executive_only,"Witt/Kieffer, Inc.",True,True,False,high,2
+238,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Consulting (CHC),True,True,True,high,2
+239,E_functional,individual_or_firm,specific_function,"Intercontinental Hotels Corporation; Kessler Rehabilitation Services, Inc.; Regency Hospitals, LLC",False,False,False,medium,2
+240,D_peer_system_managed,unrelated_peer,executive_only,"Deaconess Hospital, Inc.",True,False,False,medium,2
+241,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,False,True,high,2
+242,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,2
+243,D_peer_system_managed,unrelated_peer,organization_wide,"Deaconess (formerly Quorum Health Resources, LLC)",False,True,False,medium,2
+244,E_functional,individual_or_firm,specific_function,"InterContinental Hotels Corporation; Kessler Rehabilitation Services, Inc.; Regency Hospitals, LLC",False,False,False,medium,2
+245,E_functional,individual_or_firm,specific_function,"Intercontinental Hotels Corporation; Kessler Rehabilitation Services, Inc.",False,True,False,high,2
+246,C_parent_shared_services,related_parent,organization_wide,"Mountain Health Network, Inc. (MHN)",False,False,False,high,2
+247,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC (QHR)",True,False,True,high,2
+248,A_dedicated_MSO,unrelated_mso,organization_wide,"Insight Management and Consulting Services, Inc. (IMCS)",True,True,True,high,2
+249,B_exec_staffing,individual_or_firm,executive_only,"Bradley & Associates, P.C.",True,False,False,high,2
+250,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC",False,False,True,high,2
+251,C_parent_shared_services,related_parent,organization_wide,"Benefis Health System, Inc. (BHS)",False,False,False,high,2
+252,C_parent_shared_services,related_parent,governance_only,"Cumberland County Hospital System, Inc.",False,False,False,medium,2
+253,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,2
+254,C_parent_shared_services,related_parent,organization_wide,"RWJBH Corporate Services, Inc.",False,True,False,medium,2
+255,B_exec_staffing,individual_or_firm,executive_only,"Bradley & Associates, P.C.",True,False,False,high,2
+256,C_parent_shared_services,related_parent,organization_wide,"Atrium Health, Inc.",False,False,False,medium,2
+257,C_parent_shared_services,related_parent,specific_function,"St. Luke's Health Network, Inc.",False,False,False,high,2
+258,B_exec_staffing,individual_or_firm,executive_only,"Witt/Kieffer, Inc.",True,True,False,high,2
+259,B_exec_staffing,individual_or_firm,executive_only,University of Arkansas for Medical Sciences (UAMS),True,True,False,medium,2
+260,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC",False,False,True,high,2
+261,C_parent_shared_services,related_parent,organization_wide,UNC Health Care System,False,False,False,medium,2
+262,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,2
+263,D_peer_system_managed,unrelated_peer,executive_only,MUSC,True,False,False,medium,2
+264,C_parent_shared_services,related_parent,governance_only,Community Health Network (CHNW),False,False,False,medium,2
+265,C_parent_shared_services,related_parent,governance_only,Community Health Network (CHNW),False,False,False,high,2
+266,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC",True,False,True,high,2
+267,B_exec_staffing,individual_or_firm,executive_only,WITT KIEFFER,True,True,False,high,2
+268,C_parent_shared_services,related_parent,organization_wide,Penn Highland Healthcare,False,False,False,high,2
+269,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC dba Ovation Healthcare",False,False,True,high,2
+270,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources (QHR),True,False,True,high,2
+271,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Consulting (CHC),False,False,True,high,2
+272,B_exec_staffing,individual_or_firm,executive_only,outside consulting company (unnamed),True,True,False,high,2
+273,D_peer_system_managed,unrelated_peer,executive_only,Kalispell Regional Healthcare System; Lutz Financial,True,True,False,medium,2
+274,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,2
+275,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management, Inc.",False,False,False,high,2
+276,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,2
+277,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,2
+278,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,2
+279,C_parent_shared_services,related_parent,organization_wide,Allina Health System,False,False,False,high,2
+280,C_parent_shared_services,related_parent,executive_only,"Mutual Consulting and Management Services, Inc.",False,False,False,medium,2
+281,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,2
+282,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,2
+283,C_parent_shared_services,related_parent,organization_wide,ADVENTIST HEALTH SYSTEM SUNBELT HEALTHCARE CORPORATION (AHSSHC),True,False,False,high,2
+284,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,2
+285,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,2
+286,E_functional,individual_or_firm,specific_function,"Sodexho Inc., Rehab Care Group Inc., Accelecare, Horizon Health, Trubridge CIO",False,False,False,high,2
+287,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,2
+288,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,2
+289,A_dedicated_MSO,unrelated_mso,organization_wide,Community Healthcare Management,True,True,True,high,2
+290,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation (sole member); Horizon Health Care,False,False,False,high,2
+291,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management II, Inc.",False,False,False,high,2
+292,C_parent_shared_services,related_parent,organization_wide,Allina Health System,False,False,False,high,2
+293,C_parent_shared_services,related_parent,organization_wide,Adventist Health System Sunbelt Healthcare Corporation (AHSSHC),True,False,False,high,2
+294,C_parent_shared_services,related_parent,organization_wide,"Astria Health (via AHM, Inc.)",True,False,False,medium,2
+295,A_dedicated_MSO,unrelated_mso,organization_wide,"Cypress Healthcare, LLC",True,False,True,medium,2
+296,E_functional,individual_or_firm,specific_function,University of Arkansas for Medical Sciences (UAMS),True,True,False,medium,2
+297,C_parent_shared_services,related_parent,organization_wide,ST. LUKE'S UNIVERSITY HEALTH NETWORK,False,False,False,medium,2
+298,D_peer_system_managed,unrelated_peer,organization_wide,UNC Health Care System (UNCHCS),True,False,False,high,2
+299,C_parent_shared_services,related_parent,organization_wide,WAKE FOREST UNIVERSITY BAPTIST MEDICAL CENTER (WFUBMC),False,False,False,high,2
+300,F_uninformative,unclear,governance_only,,False,False,False,medium,2
+301,F_uninformative,unclear,governance_only,,False,False,False,high,2
+302,B_exec_staffing,individual_or_firm,executive_only,"MedCentria, LLC",True,False,False,high,2
+303,F_uninformative,unclear,unclear,,False,False,False,low,2
+304,D_peer_system_managed,unrelated_peer,organization_wide,UNC HEALTH,False,True,False,medium,2
+305,A_dedicated_MSO,unclear,unclear,,False,False,True,low,2
+306,C_parent_shared_services,related_parent,organization_wide,Blessing Corporate Services,False,False,False,medium,2
+307,E_functional,individual_or_firm,specific_function,Dominick Feld Hyde,True,False,False,medium,2
+308,A_dedicated_MSO,unrelated_mso,executive_only,"Rural Health Group, Inc.",True,False,True,medium,2
+309,D_peer_system_managed,unrelated_peer,organization_wide,ATRIUM HEALTH,True,False,False,high,2
+310,B_exec_staffing,individual_or_firm,executive_only,The Mallia Group,True,False,False,high,2
+311,E_functional,individual_or_firm,specific_function,Drs. Seaman and Watson (outside employer),False,True,False,medium,2
+312,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, Inc (QHR)",True,True,True,high,2
+313,D_peer_system_managed,unrelated_peer,executive_only,Sanford Health System,True,False,False,high,2
+314,C_parent_shared_services,related_parent,organization_wide,Blessing Corporate Services,False,False,False,medium,2
+315,C_parent_shared_services,related_parent,organization_wide,"Wayne Memorial Health System, Inc.",False,True,False,medium,2
+316,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc (HTMS)",True,False,True,high,2
+317,B_exec_staffing,individual_or_firm,executive_only,University of Arkansas for Medical Sciences (UAMS),True,True,False,medium,2
+318,C_parent_shared_services,related_parent,organization_wide,"Mutual Consulting and Management Services, Inc.",False,False,False,high,2
+319,D_peer_system_managed,unrelated_peer,organization_wide,"Novant Health New Hanover Regional Medical Center, LLC",False,False,False,medium,2
+320,B_exec_staffing,individual_or_firm,executive_only,University of Arkansas for Medical Sciences (UAMS),True,True,False,medium,2
+321,B_exec_staffing,individual_or_firm,specific_function,"Neil Faux, SPC Advisors Inc.",True,False,False,medium,2
+322,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,2
+323,B_exec_staffing,individual_or_firm,executive_only,,True,False,False,medium,2
+324,D_peer_system_managed,unrelated_peer,organization_wide,Atrium Health (formerly Carolinas HealthCare System),True,True,False,high,2
+325,B_exec_staffing,individual_or_firm,executive_only,Spectrum Health Partners,True,True,False,high,2
+326,C_parent_shared_services,related_parent,organization_wide,"MOUNTAIN HEALTH NETWORK, INC. (MHN)",False,False,False,high,2
+327,C_parent_shared_services,related_parent,organization_wide,"Astria Health (via AHM, Inc.)",True,False,False,medium,2
+328,D_peer_system_managed,unrelated_peer,organization_wide,Great River Health System,True,False,False,medium,2
+329,D_peer_system_managed,unrelated_peer,organization_wide,Deaconess,False,False,False,medium,2
+330,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,False,False,high,2
+331,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,False,False,high,1
+332,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,False,False,high,1
+333,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Corporation (CHC),False,False,True,high,1
+334,E_functional,individual_or_firm,specific_function,Professional Management of Oregon LLC; CEP America; Douglas Medical Group; Stewart Parkway Medical Group; Umpqua Medical Group; Evergreen Family Medicine PC,False,False,False,high,1
+335,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+336,E_functional,individual_or_firm,specific_function,"Professional Management of Oregon, LLC; CEP America; Douglas Medical Group; Stewart Parkway Medical Group; Umpqua Medical Group; Evergreen Family Medicine, PC",False,False,False,high,1
+337,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,True,False,high,1
+338,E_functional,individual_or_firm,specific_function,"Intercontinental Hotels Corporation; Kessler Rehabilitation Services, Inc.; Regency Hospitals, LLC",False,False,False,medium,1
+339,A_dedicated_MSO,unrelated_mso,organization_wide,Cohesive Healthcare Management and Consulting,True,False,True,high,1
+340,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,True,False,high,1
+341,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,medium,1
+342,A_dedicated_MSO,unrelated_mso,organization_wide,Cohesive Healthcare Management and Consulting,True,False,True,high,1
+343,E_functional,individual_or_firm,specific_function,"Complete RX; X-Ray Associates of New Mexico; Alamogordo Surgery Ventures, LLC",False,False,False,high,1
+344,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,False,False,high,1
+345,D_peer_system_managed,unrelated_peer,organization_wide,SANFORD HEALTH NETWORK,True,False,False,high,1
+346,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,False,False,high,1
+347,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,False,False,high,1
+348,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,True,False,high,1
+349,E_functional,individual_or_firm,specific_function,CompleteRx; Diamond Healthcare,False,False,False,high,1
+350,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+351,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+352,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+353,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+354,D_peer_system_managed,unrelated_peer,organization_wide,"St. Luke's Health System, d/b/a UnityPoint Health",True,False,False,high,1
+355,B_exec_staffing,individual_or_firm,executive_only,Helms & Co.,True,False,False,high,1
+356,B_exec_staffing,individual_or_firm,executive_only,"Rural Health Group, Inc.",True,False,False,medium,1
+357,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,1
+358,D_peer_system_managed,unrelated_peer,organization_wide,Atrium Health (formerly Carolinas Healthcare System),True,True,False,high,1
+359,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+360,A_dedicated_MSO,unrelated_mso,organization_wide,"Ascentium Healthcare Resources, Inc.",False,True,True,medium,1
+361,D_peer_system_managed,unrelated_peer,organization_wide,Avera Queen of Peace Hospital,True,False,False,medium,1
+362,B_exec_staffing,individual_or_firm,executive_only,"Rural Health Group, Inc.",True,False,False,medium,1
+363,C_parent_shared_services,related_parent,executive_only,GREAT RIVER HEALTH SYSTEM,False,False,False,medium,1
+364,C_parent_shared_services,related_parent,organization_wide,"ThedaCare, Inc.",False,False,False,high,1
+365,C_parent_shared_services,related_parent,organization_wide,"Gundersen Lutheran Administrative Services, Inc.",False,True,False,high,1
+366,C_parent_shared_services,related_parent,organization_wide,"Gundersen Lutheran Administrative Services, Inc.",False,True,False,high,1
+367,A_dedicated_MSO,unrelated_mso,organization_wide,ALLIANT MANAGEMENT SERVICES,False,False,True,high,1
+368,B_exec_staffing,individual_or_firm,executive_only,"CMF Healthcare Consulting, LLC",True,False,False,high,1
+369,C_parent_shared_services,related_parent,organization_wide,"Gundersen Lutheran Health System, Inc.",False,False,False,high,1
+370,C_parent_shared_services,related_parent,organization_wide,"Gundersen Lutheran Health System, Inc.",True,False,False,high,1
+371,F_uninformative,unclear,governance_only,,False,False,False,high,1
+372,A_dedicated_MSO,unrelated_mso,organization_wide,Trinity Health Services,True,True,True,medium,1
+373,D_peer_system_managed,unrelated_peer,organization_wide,Atrium Health (formerly Carolinas Healthcare System),True,True,False,high,1
+374,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+375,D_peer_system_managed,unrelated_peer,organization_wide,Avera Queen of Peace Hospital,True,False,False,medium,1
+376,D_peer_system_managed,unrelated_peer,organization_wide,Cape Fear Valley Health System,False,False,False,medium,1
+377,D_peer_system_managed,unrelated_peer,organization_wide,Carolinas Healthcare System (CHS),True,True,False,high,1
+378,E_functional,individual_or_firm,specific_function,"Intercontinental Hotels Corporation; Kessler Rehabilitation Services, Inc.; Regency Hospitals, LLC",False,False,False,medium,1
+379,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+380,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+381,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+382,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+383,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+384,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+385,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+386,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+387,A_dedicated_MSO,unrelated_mso,executive_only,"Rural Health Group, Inc.",True,False,True,medium,1
+388,C_parent_shared_services,related_parent,governance_only,Community Health Network (CHNW),False,False,False,medium,1
+389,A_dedicated_MSO,unrelated_mso,organization_wide,"Insight Management and Consulting Services, Inc. (IMCS)",False,True,True,medium,1
+390,B_exec_staffing,individual_or_firm,executive_only,"FOXHIRE, LLC",True,True,False,high,1
+391,B_exec_staffing,individual_or_firm,executive_only,Hartz Search,True,True,False,high,1
+392,B_exec_staffing,individual_or_firm,executive_only,Hartz Search,True,True,False,high,1
+393,B_exec_staffing,individual_or_firm,executive_only,Tatum,True,True,False,high,1
+394,B_exec_staffing,individual_or_firm,executive_only,Berkley Research Group LLC (BRG),True,True,False,high,1
+395,C_parent_shared_services,related_parent,specific_function,Dartmouth-Hitchcock Medical Center,True,False,False,medium,1
+396,C_parent_shared_services,related_parent,executive_only,DARTMOUTH-HITCHCOCK MEDICAL CENTER,True,False,False,medium,1
+397,E_functional,unclear,specific_function,DARTMOUTH-HITCHCOCK MEDICAL CENTER,True,False,False,medium,1
+398,A_dedicated_MSO,unrelated_mso,executive_only,unnamed management company (CEO Kyle Kramer compensated by management company),True,False,True,medium,1
+399,A_dedicated_MSO,unrelated_mso,organization_wide,unnamed management company,True,False,True,medium,1
+400,B_exec_staffing,individual_or_firm,executive_only,Glazier Associates,False,False,False,high,1
+401,B_exec_staffing,individual_or_firm,executive_only,GLAZIER ASSOCIATES,False,False,False,high,1
+402,D_peer_system_managed,unrelated_peer,executive_only,"Deaconess Hospital, Inc.",True,False,False,high,1
+403,D_peer_system_managed,unrelated_peer,organization_wide,ST. ALEXIUS MEDICAL CENTER,True,False,False,high,1
+404,B_exec_staffing,individual_or_firm,executive_only,"B.E. Smith, LLC",True,True,False,high,1
+405,C_parent_shared_services,related_parent,organization_wide,Sanford Health Network,True,True,False,medium,1
+406,C_parent_shared_services,related_parent,organization_wide,Sanford Health Network,True,True,False,medium,1
+407,C_parent_shared_services,related_parent,organization_wide,Sanford Health Network,True,True,False,medium,1
+408,C_parent_shared_services,related_parent,organization_wide,Sanford Health Network,True,True,False,medium,1
+409,C_parent_shared_services,related_parent,organization_wide,Sanford Health Network,True,True,False,medium,1
+410,C_parent_shared_services,related_parent,organization_wide,SANFORD HEALTH NETWORK,True,True,False,medium,1
+411,C_parent_shared_services,related_parent,organization_wide,Sanford Health Network,True,True,False,medium,1
+412,C_parent_shared_services,related_parent,organization_wide,Infirmary Health Systems (subsidiary of Mobile Infirmary Association),False,False,False,medium,1
+413,C_parent_shared_services,related_parent,organization_wide,"MARSHALL HEALTH NETWORK, INC.",False,False,False,high,1
+414,C_parent_shared_services,related_parent,organization_wide,"Marshall Health Network, Inc.",False,False,False,high,1
+415,C_parent_shared_services,related_parent,organization_wide,"Marshall Health Network, Inc (MHN)",False,False,False,medium,1
+416,E_functional,individual_or_firm,specific_function,"Strategic Medical Ventures, LLC",False,False,False,medium,1
+417,B_exec_staffing,individual_or_firm,executive_only,Hartz Search,True,True,False,high,1
+418,B_exec_staffing,individual_or_firm,executive_only,"FOXHIRE, LLC",True,True,False,high,1
+419,A_dedicated_MSO,unrelated_mso,organization_wide,"Insight Management and Consulting Services, Inc. (IMCS)",True,True,True,high,1
+420,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+421,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+422,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+423,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+424,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+425,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+426,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+427,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+428,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+429,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+430,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+431,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+432,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+433,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+434,C_parent_shared_services,related_parent,executive_only,"Deaconess Hospital, Inc.",True,False,False,high,1
+435,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+436,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+437,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+438,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+439,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+440,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+441,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+442,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+443,C_parent_shared_services,related_parent,organization_wide,"Carilion Services, Inc.",True,False,False,high,1
+444,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority dba Atrium Health,False,False,False,high,1
+445,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority (dba Atrium Health),True,False,False,high,1
+446,A_dedicated_MSO,unrelated_mso,organization_wide,Preferred Management Corporation,True,False,True,high,1
+447,C_parent_shared_services,related_parent,organization_wide,"Great River Health System, Inc.",False,False,False,medium,1
+448,D_peer_system_managed,unrelated_peer,organization_wide,"Deaconess Regional Healthcare Network Illinois, LLC",True,True,False,high,1
+449,B_exec_staffing,individual_or_firm,executive_only,Tatum,True,True,False,high,1
+450,E_functional,individual_or_firm,specific_function,Dr. Watson (through her outside employer),False,True,False,medium,1
+451,C_parent_shared_services,related_parent,organization_wide,"Atrium Health, Inc. (now Advocate Health, Inc.)",False,False,False,medium,1
+452,C_parent_shared_services,related_parent,organization_wide,"Baptist Health South Florida, Inc.",True,True,False,high,1
+453,D_peer_system_managed,unrelated_peer,organization_wide,Atrium Health,False,True,False,high,1
+454,C_parent_shared_services,related_parent,organization_wide,Adventist Health System Sunbelt Healthcare Corporation (AHSSHC),True,True,False,high,1
+455,C_parent_shared_services,related_parent,organization_wide,Adventist Health System Sunbelt Healthcare Corporation (AHSSHC),True,False,False,high,1
+456,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Corporation (CHC),False,False,True,high,1
+457,B_exec_staffing,individual_or_firm,executive_only,Warbird Healthcare Advisors; Witt Kieffer,True,True,False,high,1
+458,D_peer_system_managed,unrelated_peer,executive_only,Willis-Knighton,True,False,False,high,1
+459,D_peer_system_managed,unrelated_peer,organization_wide,WVU Healthcare,True,True,False,high,1
+460,D_peer_system_managed,unrelated_peer,organization_wide,WVU Healthcare,True,True,False,high,1
+461,D_peer_system_managed,unrelated_peer,organization_wide,WVU Healthcare,True,True,False,high,1
+462,E_functional,individual_or_firm,specific_function,Dr. Dorsten (through outside employer),False,True,False,medium,1
+463,E_functional,individual_or_firm,specific_function,Drs. Bumb and Watson,False,True,False,medium,1
+464,C_parent_shared_services,related_parent,organization_wide,Wake Forest University Baptist Medical Center (WFUBMC),False,False,False,medium,1
+465,E_functional,individual_or_firm,specific_function,,False,False,False,medium,1
+466,B_exec_staffing,individual_or_firm,executive_only,Warbird Healthcare Advisors,True,True,False,high,1
+467,B_exec_staffing,individual_or_firm,executive_only,"Alvarez & Marsal (Michael Antoniades, Interim President)",True,False,False,high,1
+468,A_dedicated_MSO,unrelated_mso,organization_wide,Epic Management LP (EPIC),False,True,True,high,1
+469,B_exec_staffing,individual_or_firm,executive_only,"Healthcare RESQ, LLC",True,True,False,high,1
+470,B_exec_staffing,individual_or_firm,executive_only,"Healthcare RESQ, LLC",True,True,False,high,1
+471,B_exec_staffing,individual_or_firm,executive_only,"Manchester Group (Pitt Calkin, Interim CFO)",True,False,False,high,1
+472,E_functional,individual_or_firm,specific_function,"HR Vantage Point, LLC",False,True,False,high,1
+473,C_parent_shared_services,related_parent,organization_wide,ADVENTIST HEALTH SYSTEM SUNBELT HEALTHCARE CORPORATION (AHSSHC),True,False,False,high,1
+474,B_exec_staffing,individual_or_firm,executive_only,BE Smith,True,True,False,high,1
+475,B_exec_staffing,individual_or_firm,executive_only,BE Smith,True,True,False,high,1
+476,B_exec_staffing,individual_or_firm,executive_only,BE Smith,True,True,False,high,1
+477,C_parent_shared_services,related_parent,organization_wide,Wake Forest University Baptist Medical Center (WFUBMC),False,False,False,medium,1
+478,C_parent_shared_services,related_parent,organization_wide,Wake Forest University Baptist Medical Center (WFUBMC),False,False,False,high,1
+479,F_uninformative,unclear,governance_only,,False,False,False,high,1
+480,A_dedicated_MSO,unrelated_mso,organization_wide,,True,True,True,medium,1
+481,B_exec_staffing,individual_or_firm,executive_only,Hartz Search,True,True,False,high,1
+482,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority dba Atrium Health,True,True,False,high,1
+483,A_dedicated_MSO,unrelated_mso,organization_wide,Management Service Organization (unnamed),True,True,True,high,1
+484,C_parent_shared_services,related_parent,organization_wide,ADVENTIST HEALTH SYSTEM SUNBELT HEALTHCARE CORPORATION (AHSSHC),True,False,False,high,1
+485,C_parent_shared_services,related_parent,organization_wide,ADVENTIST HEALTH SYSTEM SUNBELT HEALTHCARE CORPORATION (AHSSHC),True,False,False,high,1
+486,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management II, Inc. (affiliate of Prime Healthcare Foundation, Inc.)",True,False,False,high,1
+487,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management, Inc.",False,False,False,high,1
+488,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management, Inc.",True,False,False,high,1
+489,C_parent_shared_services,related_parent,organization_wide,ANMED Health System,True,False,False,high,1
+490,C_parent_shared_services,related_parent,organization_wide,ANMED Health System,True,False,False,high,1
+491,C_parent_shared_services,related_parent,organization_wide,AnMed Health,True,False,False,high,1
+492,A_dedicated_MSO,unrelated_mso,organization_wide,,True,True,True,medium,1
+493,A_dedicated_MSO,unrelated_mso,organization_wide,,True,True,True,medium,1
+494,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority dba Carolinas HealthCare System (CHS),True,True,False,high,1
+495,A_dedicated_MSO,unrelated_mso,organization_wide,,True,True,True,medium,1
+496,A_dedicated_MSO,unrelated_mso,organization_wide,,True,True,True,medium,1
+497,A_dedicated_MSO,unrelated_mso,organization_wide,,True,True,True,medium,1
+498,A_dedicated_MSO,unrelated_mso,organization_wide,Management Service Organization (unnamed),True,True,True,medium,1
+499,C_parent_shared_services,related_parent,organization_wide,ADVENTIST HEALTH SYSTEM SUNBELT HEALTHCARE CORPORATION (AHSSHC),True,False,False,high,1
+500,A_dedicated_MSO,unrelated_mso,organization_wide,,True,True,True,high,1
+501,C_parent_shared_services,related_parent,organization_wide,Adventist Health System Sunbelt Healthcare Corporation (AHSSHC),False,False,False,high,1
+502,C_parent_shared_services,related_parent,organization_wide,Adventist Health System Sunbelt Healthcare Corporation (AHSSHC),True,False,False,high,1
+503,C_parent_shared_services,related_parent,organization_wide,Adventist Health System Sunbelt Healthcare Corporation (AHSSHC),False,False,False,high,1
+504,C_parent_shared_services,related_parent,organization_wide,Adventist Health System Sunbelt Healthcare Corporation (AHSSHC),False,False,False,high,1
+505,C_parent_shared_services,related_parent,organization_wide,Adventist Health System Sunbelt Healthcare Corporation (AHSSHC),True,False,False,high,1
+506,C_parent_shared_services,related_parent,organization_wide,Adventist Health System Sunbelt Healthcare Corporation (AHSSHC),True,False,False,high,1
+507,B_exec_staffing,individual_or_firm,executive_only,"Integrity Management Advisors, LLC (IMA) and FTI Consulting (FTI)",True,True,False,high,1
+508,B_exec_staffing,individual_or_firm,executive_only,"Integrity Management Advisors, LLC (IMA)",True,True,False,high,1
+509,B_exec_staffing,individual_or_firm,executive_only,"Integrity Management Advisors, LLC (IMA) - owned by Lawrence McManus",True,True,False,high,1
+510,B_exec_staffing,individual_or_firm,executive_only,B.E. Smith,True,False,False,high,1
+511,D_peer_system_managed,unrelated_peer,organization_wide,OHIO HEALTH CORPORATION,True,True,False,high,1
+512,D_peer_system_managed,unrelated_peer,organization_wide,OHIO HEALTH CORPORATION,True,True,False,high,1
+513,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources (QHR),True,True,True,high,1
+514,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources (QHR),True,True,True,high,1
+515,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,False,False,True,high,1
+516,F_uninformative,unclear,unclear,,False,False,False,medium,1
+517,F_uninformative,individual_or_firm,governance_only,"Lori Lapin Jones, Chapter 7 Trustee",False,False,False,medium,1
+518,F_uninformative,individual_or_firm,governance_only,Lori Lapin Jones (Chapter 11 Trustee),False,True,False,medium,1
+519,F_uninformative,individual_or_firm,governance_only,Lori Lapin Jones (Chapter 11 Trustee),False,True,False,medium,1
+520,B_exec_staffing,individual_or_firm,executive_only,CAH Solutions Group,True,True,False,high,1
+521,D_peer_system_managed,unrelated_peer,organization_wide,Cape Fear Valley Health System,False,False,False,high,1
+522,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,1
+523,E_functional,individual_or_firm,specific_function,"CompleteRx; Diamond Healthcare; X-Ray Associates of New Mexico; Alamogordo Surgical Ventures, LLC",False,False,False,high,1
+524,A_dedicated_MSO,unrelated_mso,organization_wide,Community Healthcare Management,True,True,True,high,1
+525,D_peer_system_managed,unrelated_peer,organization_wide,Deaconess Health System,True,True,False,high,1
+526,C_parent_shared_services,related_parent,organization_wide,Blessing Corporate Services,False,False,False,medium,1
+527,B_exec_staffing,individual_or_firm,executive_only,,True,True,False,high,1
+528,B_exec_staffing,individual_or_firm,executive_only,,True,True,False,high,1
+529,B_exec_staffing,individual_or_firm,executive_only,"HealthStar Partners LLC (Deb Mohesky, President, owner)",True,True,False,medium,1
+530,B_exec_staffing,individual_or_firm,executive_only,"MEDCENTRIA, LLC",True,False,False,high,1
+531,B_exec_staffing,individual_or_firm,executive_only,"CNY Business Advisors (Jason Lesch, owner)",True,True,False,high,1
+532,B_exec_staffing,individual_or_firm,executive_only,CNY Business Advisors (Jason Lesch),True,True,False,high,1
+533,B_exec_staffing,individual_or_firm,executive_only,CNY Business Advisors (Jason Lesch),True,True,False,high,1
+534,F_uninformative,unclear,governance_only,,False,False,False,high,1
+535,F_uninformative,unclear,governance_only,,False,False,False,medium,1
+536,F_uninformative,unclear,governance_only,,False,False,False,high,1
+537,D_peer_system_managed,unrelated_peer,executive_only,OHIO HEALTH CORPORATION,True,True,False,high,1
+538,C_parent_shared_services,related_parent,organization_wide,BJC,False,True,False,high,1
+539,C_parent_shared_services,related_parent,organization_wide,"BHS Management Services, Inc.",True,False,False,medium,1
+540,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,1
+541,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority d/b/a Carolinas Healthcare System (Atrium Health),False,False,False,high,1
+542,D_peer_system_managed,unrelated_peer,organization_wide,"CHI ST. VINCENT INFIRMARY MEDICAL CENTER, D/B/A CHI ST. VINCENT",True,True,False,high,1
+543,D_peer_system_managed,unrelated_peer,organization_wide,"CHI St. Vincent Infirmary Medical Center, d/b/a CHI St. Vincent",True,True,False,high,1
+544,D_peer_system_managed,unrelated_peer,organization_wide,Baptist Health,False,False,False,medium,1
+545,C_parent_shared_services,related_parent,organization_wide,Adventist Health System Sunbelt Healthcare Corporation (AHSSHC),True,False,False,high,1
+546,C_parent_shared_services,related_parent,organization_wide,Adventist Health System Sunbelt Healthcare Corporation (AHSSHC),True,False,False,high,1
+547,C_parent_shared_services,related_parent,organization_wide,Adventist Health System Sunbelt Healthcare Corporation (AHSSHC),True,False,False,high,1
+548,E_functional,individual_or_firm,specific_function,"CompleteRx; X-Ray Associates of New Mexico; Alamogordo Surgery Ventures, LLC",False,False,False,high,1
+549,E_functional,individual_or_firm,specific_function,"CompleteRx; X-Ray Associates of New Mexico; Alamogordo Surgery Ventures, LLC",False,False,False,high,1
+550,E_functional,individual_or_firm,specific_function,"CompleteRx; X-Ray Associates of New Mexico; Alamogordo Surgery Ventures, LLC",False,False,False,high,1
+551,B_exec_staffing,individual_or_firm,executive_only,Eide Bailey LLP,True,True,False,high,1
+552,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,1
+553,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,1
+554,C_parent_shared_services,related_parent,organization_wide,Baptist Memorial Health Care Corporation,False,False,False,high,1
+555,C_parent_shared_services,related_parent,specific_function,Baptist Memorial Health Care Corporation,False,False,False,high,1
+556,C_parent_shared_services,related_parent,organization_wide,"Baystate Administrative Services, Inc. (BAS)",False,False,False,high,1
+557,C_parent_shared_services,related_parent,organization_wide,"Baystate Administrative Services, Inc. (BAS)",False,False,False,high,1
+558,C_parent_shared_services,related_parent,organization_wide,"Baystate Administrative Services, Inc. (BAS)",False,False,False,high,1
+559,C_parent_shared_services,related_parent,organization_wide,"Baystate Administrative Services, Inc. (BAS)",False,False,False,high,1
+560,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,medium,1
+561,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+562,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+563,D_peer_system_managed,unrelated_peer,organization_wide,"DEACONESS REGIONAL HEALTHCARE NETWORK ILLINOIS, LLC",True,True,False,high,1
+564,B_exec_staffing,individual_or_firm,executive_only,Community Hospital Consulting (CHC),True,True,False,high,1
+565,C_parent_shared_services,related_parent,executive_only,"BHS Management Services, Inc.",True,False,False,medium,1
+566,B_exec_staffing,individual_or_firm,executive_only,HealthSource Partners (Terri Donovan),True,True,False,medium,1
+567,D_peer_system_managed,unrelated_peer,organization_wide,"Novant Health New Hanover Regional Medical Center, LLC",False,False,False,medium,1
+568,B_exec_staffing,individual_or_firm,executive_only,B.E. Smith LLC,True,True,False,high,1
+569,A_dedicated_MSO,individual_or_firm,organization_wide,ERH LLC,True,True,True,medium,1
+570,A_dedicated_MSO,unrelated_mso,organization_wide,"Blue Management Services, LLC d/b/a Alliant Management Services",True,True,True,high,1
+571,E_functional,individual_or_firm,specific_function,"Radius, Sodexo, Diversified Clinical Services, NeuroCare, Charles James Associates, Avison Young, APG Rhode Island LLC",False,False,False,high,1
+572,C_parent_shared_services,related_parent,organization_wide,"Great River Health System, Inc.",False,False,False,medium,1
+573,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+574,C_parent_shared_services,related_parent,organization_wide,"BHS Management Services, Inc. (BMS)",True,False,False,medium,1
+575,B_exec_staffing,individual_or_firm,specific_function,Gallagher Benefit Services,True,True,False,medium,1
+576,A_dedicated_MSO,unrelated_mso,organization_wide,"ER Hospital, LLC (ERH)",True,False,True,medium,1
+577,D_peer_system_managed,unrelated_peer,executive_only,Cabell-Huntington Hospital,True,True,False,high,1
+578,D_peer_system_managed,unrelated_peer,executive_only,Cabell-Huntington Hospital,True,True,False,high,1
+579,D_peer_system_managed,unrelated_peer,executive_only,Cabell-Huntington Hospital,True,True,False,high,1
+580,C_parent_shared_services,related_parent,organization_wide,"Mayo Clinic, Mayo Foundation for Medical Education and Research, Mayo Clinic Jacksonville and other related entities",False,False,False,high,1
+581,D_peer_system_managed,unrelated_peer,organization_wide,Children's Healthcare of Atlanta (CHOA),False,False,False,high,1
+582,D_peer_system_managed,unrelated_peer,organization_wide,"Novant Health New Hanover Regional Medical Center, LLC",False,False,False,medium,1
+583,A_dedicated_MSO,unrelated_mso,organization_wide,"Blue Management Services, LLC d/b/a Alliant Management Services",True,True,True,high,1
+584,D_peer_system_managed,unrelated_peer,executive_only,Methodist Healthcare System,True,False,False,high,1
+585,B_exec_staffing,individual_or_firm,executive_only,"Uprise Consulting Group, Inc. (Debbie Binczewski)",True,True,False,high,1
+586,B_exec_staffing,individual_or_firm,executive_only,Liisa Livingston,True,False,False,high,1
+587,B_exec_staffing,individual_or_firm,executive_only,Leaders For Today,True,True,False,high,1
+588,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc. DBA HealthTechS3",True,True,True,high,1
+589,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc. dba HealthTechS3",True,True,True,high,1
+590,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services (formerly Brim Healthcare, Inc.)",True,False,True,high,1
+591,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech S3,True,False,True,high,1
+592,C_parent_shared_services,related_parent,organization_wide,"MOUNTAIN HEALTH NETWORK, INC. (MHN)",False,False,False,high,1
+593,D_peer_system_managed,unrelated_peer,organization_wide,"Deaconess Regional Healthcare Network Illinois, LLC",False,False,False,medium,1
+594,D_peer_system_managed,unrelated_peer,organization_wide,"Deaconess Regional Healthcare Network Illinois, LLC",False,False,False,medium,1
+595,B_exec_staffing,individual_or_firm,executive_only,The Mallia Group,True,False,False,high,1
+596,A_dedicated_MSO,unrelated_mso,organization_wide,"Blue Management Services, LLC d/b/a Alliant Management Services",True,True,True,high,1
+597,A_dedicated_MSO,unrelated_mso,organization_wide,"Blue Management Services, LLC d/b/a Alliant Management Services",True,True,True,high,1
+598,A_dedicated_MSO,unrelated_mso,organization_wide,Health Management Services (HMS),True,True,True,medium,1
+599,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc. dba HealthTechS3",True,True,True,high,1
+600,A_dedicated_MSO,unrelated_mso,organization_wide,Health Management Services (HMS),True,False,True,medium,1
+601,A_dedicated_MSO,unrelated_mso,organization_wide,Health Management Services (HMS),True,False,True,medium,1
+602,A_dedicated_MSO,unrelated_mso,unclear,HealthTec,False,False,True,low,1
+603,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,False,True,high,1
+604,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,False,True,high,1
+605,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,False,True,high,1
+606,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,False,True,high,1
+607,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,False,True,high,1
+608,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,False,True,high,1
+609,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,False,True,high,1
+610,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,False,True,high,1
+611,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,False,True,high,1
+612,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc. dba HealthTechS3",True,True,True,high,1
+613,A_dedicated_MSO,unrelated_mso,organization_wide,"Blue Management Services, LLC d/b/a Alliant Management Services",True,True,True,high,1
+614,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,True,False,high,1
+615,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,True,False,high,1
+616,C_parent_shared_services,related_parent,organization_wide,Legacy Health,False,False,False,high,1
+617,D_peer_system_managed,unrelated_peer,organization_wide,Great River Health System Inc,False,False,False,medium,1
+618,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority dba Atrium Health,True,False,False,high,1
+619,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority d/b/a Carolinas Healthcare System (CHS),True,False,False,high,1
+620,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority dba Carolinas HealthCare System (CHS),True,False,False,high,1
+621,D_peer_system_managed,unrelated_peer,organization_wide,OHIO HEALTH CORPORATION,True,True,False,high,1
+622,D_peer_system_managed,unrelated_peer,organization_wide,"CHI ST. VINCENT INFIRMARY MEDICAL CENTER, D/B/A CHI ST. VINCENT",True,True,False,high,1
+623,D_peer_system_managed,unrelated_peer,organization_wide,"CHI ST. VINCENT INFIRMARY MEDICAL CENTER, D/B/A CHI ST. VINCENT",True,True,False,high,1
+624,D_peer_system_managed,unrelated_peer,organization_wide,"CHI ST. VINCENT INFIRMARY MEDICAL CENTER, D/B/A CHI ST. VINCENT",True,True,False,high,1
+625,D_peer_system_managed,unrelated_peer,organization_wide,CHI St. Vincent Infirmary Medical Center (d/b/a CHI St. Vincent),True,True,False,high,1
+626,C_parent_shared_services,related_parent,organization_wide,"MOUNTAIN HEALTH NETWORK, INC.",False,False,False,high,1
+627,B_exec_staffing,individual_or_firm,executive_only,"The Mallia Group (John Mallia, CPA)",True,False,False,high,1
+628,A_dedicated_MSO,unrelated_mso,organization_wide,"Toney Korf Partners, LLC (Steven Korf - CEO)",True,False,True,medium,1
+629,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,True,True,high,1
+630,D_peer_system_managed,unrelated_peer,organization_wide,CHI St. Alexius Health,True,True,False,medium,1
+631,B_exec_staffing,individual_or_firm,executive_only,HORNE LLP,True,True,False,high,1
+632,D_peer_system_managed,unrelated_peer,executive_only,Hospital Corporation of America (HCA) / HCA Midwest Health System,True,True,False,high,1
+633,A_dedicated_MSO,unrelated_mso,organization_wide,"Healthtech Management Services, Inc.",True,True,True,high,1
+634,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc.",True,False,True,high,1
+635,A_dedicated_MSO,unrelated_mso,organization_wide,"Healthtech Management Services, Inc.",True,True,True,high,1
+636,A_dedicated_MSO,unrelated_mso,organization_wide,"Healthtech Management Services, Inc.",True,True,True,high,1
+637,A_dedicated_MSO,unrelated_mso,organization_wide,"Healthtech Management Services, Inc.",True,True,True,high,1
+638,B_exec_staffing,individual_or_firm,executive_only,"B.E. Smith Interim Services, LLC",True,True,False,high,1
+639,B_exec_staffing,individual_or_firm,executive_only,Eide Bailly LLP,True,True,False,high,1
+640,D_peer_system_managed,unrelated_peer,organization_wide,Carolinas Healthcare System,True,True,False,high,1
+641,D_peer_system_managed,unrelated_peer,executive_only,Methodist Healthcare System,True,True,False,high,1
+642,B_exec_staffing,individual_or_firm,executive_only,Suellyn Ellerbe & Associates Inc.,True,True,False,high,1
+643,D_peer_system_managed,unrelated_peer,organization_wide,UPMC Pinnacle,True,False,False,high,1
+644,B_exec_staffing,individual_or_firm,executive_only,"Wadena Medical Center, Ltd.",True,False,False,medium,1
+645,B_exec_staffing,individual_or_firm,executive_only,"Wadena Medical Center, Ltd.",True,False,False,medium,1
+646,B_exec_staffing,individual_or_firm,executive_only,GREELEY INTERIM STAFFING LLC,True,True,False,high,1
+647,A_dedicated_MSO,unrelated_mso,organization_wide,"Michigan Rural Healthcare Preservation, Inc.",False,False,True,medium,1
+648,A_dedicated_MSO,unrelated_mso,organization_wide,"Toneykorf Partners, LLC",True,True,True,high,1
+649,D_peer_system_managed,unrelated_peer,organization_wide,UNC Health Care System (UNCHCS),True,False,False,high,1
+650,A_dedicated_MSO,unrelated_mso,organization_wide,"Cypress Healthcare, LLC",False,True,True,medium,1
+651,A_dedicated_MSO,unrelated_mso,organization_wide,"Cypress Healthcare, LLC",False,True,True,medium,1
+652,A_dedicated_MSO,unrelated_mso,organization_wide,"Cypress Healthcare, LLC",False,True,True,medium,1
+653,A_dedicated_MSO,unrelated_mso,organization_wide,"Cypress Healthcare, LLC",False,True,True,medium,1
+654,B_exec_staffing,individual_or_firm,executive_only,B.E. Smith,True,False,False,high,1
+655,C_parent_shared_services,related_parent,executive_only,SolutionHealth,True,True,False,high,1
+656,B_exec_staffing,unrelated_peer,executive_only,CHI St. Alexius Health,True,True,False,medium,1
+657,E_functional,individual_or_firm,specific_function,"Premier Health Consultants; Pittsburgh Critical Care Associates Inc; Quantum Plus, LLC; Texas Midwest Emergency Physicians, P.A.",False,False,False,high,1
+658,E_functional,individual_or_firm,specific_function,"Premier Health Consultants; Pittsburgh Critical Care Associates Inc; Quantum Plus, LLC & Texas Midwest Emergency Physicians, P.A.",False,True,False,high,1
+659,C_parent_shared_services,related_parent,executive_only,SolutionHealth,True,True,False,high,1
+660,B_exec_staffing,individual_or_firm,executive_only,"Martinville Dunn, LLC",True,True,False,high,1
+661,B_exec_staffing,individual_or_firm,executive_only,"Martinville Dunn, LLC and Ingold & Associates, LLC",True,True,False,high,1
+662,B_exec_staffing,individual_or_firm,executive_only,"Martinville, Dunn, LLC (Rooney's LLC); Ingold's LLC",True,True,False,high,1
+663,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,False,False,True,high,1
+664,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech S3,True,False,True,high,1
+665,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech S3,True,False,True,high,1
+666,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech S3,True,False,True,high,1
+667,C_parent_shared_services,related_parent,organization_wide,"Appalachian Regional Healthcare System, Inc.",False,False,False,medium,1
+668,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech S3,True,False,True,high,1
+669,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC",True,True,True,high,1
+670,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC",True,True,True,high,1
+671,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC",True,True,True,high,1
+672,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC",True,True,True,high,1
+673,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC",True,True,True,high,1
+674,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,1
+675,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,1
+676,D_peer_system_managed,unrelated_peer,organization_wide,"Northern Arizona Healthcare, Inc.",True,False,False,high,1
+677,D_peer_system_managed,unrelated_peer,organization_wide,"Northern Arizona Healthcare, Inc.",True,False,False,high,1
+678,D_peer_system_managed,unrelated_peer,organization_wide,"Northern Arizona Healthcare, Inc.",True,True,False,high,1
+679,D_peer_system_managed,unrelated_peer,organization_wide,"Northern Arizona Healthcare, Inc.",True,True,False,high,1
+680,D_peer_system_managed,unrelated_peer,organization_wide,DEACONESS,False,True,False,medium,1
+681,C_parent_shared_services,related_parent,organization_wide,Legacy Health,False,False,False,high,1
+682,C_parent_shared_services,related_parent,organization_wide,"MOUNTAIN HEALTH NETWORK, INC. (MHN)",False,False,False,high,1
+683,D_peer_system_managed,unrelated_peer,organization_wide,St. Luke's University Health Network,False,False,False,medium,1
+684,B_exec_staffing,individual_or_firm,executive_only,"Grant Thornton; ToneyKorf Partners, LLC",True,True,False,high,1
+685,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,True,False,high,1
+686,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources (QHR),True,True,True,high,1
+687,B_exec_staffing,individual_or_firm,executive_only,HealthSource Partners (via Terri Donovan),True,True,False,medium,1
+688,D_peer_system_managed,unrelated_peer,organization_wide,St. Alexius Medical Center,True,True,False,high,1
+689,B_exec_staffing,individual_or_firm,executive_only,B.E. Smith LLC,True,True,False,high,1
+690,B_exec_staffing,individual_or_firm,executive_only,Healthsource Partners (Terri Donovan),True,True,False,medium,1
+691,B_exec_staffing,individual_or_firm,executive_only,HealthSource Partners (Terri Donovan),True,True,False,medium,1
+692,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority dba Atrium Health,False,False,False,high,1
+693,D_peer_system_managed,unrelated_peer,organization_wide,OCHSNER CLINIC FOUNDATION,True,False,False,medium,1
+694,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+695,D_peer_system_managed,unrelated_peer,organization_wide,CHI St. Alexius Medical Center / CHI St. Alexius Health,True,False,False,high,1
+696,D_peer_system_managed,unrelated_peer,organization_wide,CHI St. Alexius Medical Center / CHI St. Alexius Health,False,False,False,high,1
+697,D_peer_system_managed,unrelated_peer,organization_wide,"CHI St. Alexius Health (Medical Center, Bismarck, ND)",True,False,False,medium,1
+698,D_peer_system_managed,unrelated_peer,organization_wide,CHI St. Alexius Medical Center / CHI St. Alexius Health,True,False,False,high,1
+699,D_peer_system_managed,unrelated_peer,organization_wide,CHI St. Alexius Medical Center / CHI St. Alexius Health,True,False,False,high,1
+700,D_peer_system_managed,unrelated_peer,organization_wide,St. Alexius Medical Center,True,True,False,high,1
+701,D_peer_system_managed,unrelated_peer,organization_wide,St. Alexius Medical Center,True,True,False,high,1
+702,B_exec_staffing,individual_or_firm,executive_only,Witt Keifer,True,False,False,high,1
+703,D_peer_system_managed,unrelated_peer,organization_wide,CHI St. Alexius Medical Center / CHI St. Alexius Health,False,False,False,high,1
+704,B_exec_staffing,individual_or_firm,executive_only,"Witt Keiffer, Inc.",True,True,False,high,1
+705,B_exec_staffing,individual_or_firm,executive_only,"Caduceus, Inc.",True,True,False,high,1
+706,D_peer_system_managed,unrelated_peer,executive_only,St. Luke's Health System,True,False,False,medium,1
+707,C_parent_shared_services,related_parent,organization_wide,"Northern New Hampshire Healthcare Management, LLC",True,True,False,medium,1
+708,D_peer_system_managed,unrelated_peer,organization_wide,Ochsner Clinic Foundation,True,True,False,medium,1
+709,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+710,D_peer_system_managed,unrelated_peer,organization_wide,Ochsner Clinic Foundation,True,True,False,high,1
+711,D_peer_system_managed,unrelated_peer,organization_wide,OCHSNER CLINIC FOUNDATION,True,True,False,medium,1
+712,C_parent_shared_services,related_parent,organization_wide,OLH Operational Management Company (disregarded entity of Ochsner Clinic Foundation),True,False,False,high,1
+713,C_parent_shared_services,related_parent,organization_wide,OLH Operational Management Company (disregarded entity of Ochsner Clinic Foundation),True,False,False,high,1
+714,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte Mecklenburg Hospital Authority d/b/a Carolinas Healthcare System (CHS),True,True,False,high,1
+715,B_exec_staffing,individual_or_firm,executive_only,B.E. Smith LLC,True,True,False,high,1
+716,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech S3,True,False,True,high,1
+717,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources (QHR),True,True,True,high,1
+718,E_functional,individual_or_firm,specific_function,"Lori Lapin Jones, Esq.",False,True,False,medium,1
+719,B_exec_staffing,individual_or_firm,specific_function,"Lori Lapin Jones, Esq.",False,True,False,medium,1
+720,C_parent_shared_services,related_parent,organization_wide,Legacy Health,False,False,False,high,1
+721,C_parent_shared_services,related_parent,organization_wide,Legacy Health,False,False,False,high,1
+722,C_parent_shared_services,related_parent,organization_wide,Legacy Health,False,False,False,high,1
+723,C_parent_shared_services,related_parent,organization_wide,Legacy Health,False,False,False,high,1
+724,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+725,D_peer_system_managed,unrelated_peer,executive_only,Unity Point Health,True,False,False,medium,1
+726,B_exec_staffing,individual_or_firm,executive_only,Lutz Financial,True,True,False,high,1
+727,B_exec_staffing,individual_or_firm,executive_only,Lutz Financial (CFO); Kalispell Regional Medical Center dba Logan Health Medical Center (Interim CEO),True,True,False,medium,1
+728,E_functional,individual_or_firm,specific_function,"Lori Lapin Jones, Esq.",False,True,False,medium,1
+729,F_uninformative,individual_or_firm,specific_function,"Lori Lapin Jones, Esq.",False,True,False,medium,1
+730,E_functional,individual_or_firm,specific_function,"Lori Lapin Jones, Esq.",False,True,False,medium,1
+731,B_exec_staffing,individual_or_firm,specific_function,"Lori Lapin Jones, Esq.",False,True,False,low,1
+732,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Service, Inc.",True,False,True,high,1
+733,E_functional,individual_or_firm,specific_function,"Lori Lapin Jones, Esq.",False,True,False,medium,1
+734,F_uninformative,individual_or_firm,unclear,"Lori Lapin Jones, Esq.",False,False,False,medium,1
+735,B_exec_staffing,individual_or_firm,executive_only,B.E. Smith LLC,True,True,False,high,1
+736,D_peer_system_managed,unrelated_peer,organization_wide,Linton Regional Medical Center (LRMC),True,True,False,high,1
+737,A_dedicated_MSO,unrelated_mso,organization_wide,"Cypress Healthcare, LLC",False,False,True,medium,1
+738,A_dedicated_MSO,unrelated_mso,organization_wide,"Cypress Healthcare, LLC",True,False,True,medium,1
+739,D_peer_system_managed,unrelated_peer,organization_wide,"Methodist Healthcare System of San Antonio, LTD., LLP",True,True,False,high,1
+740,D_peer_system_managed,unrelated_peer,organization_wide,"Methodist Healthcare System of San Antonio, Ltd., LLP",True,True,False,high,1
+741,D_peer_system_managed,unrelated_peer,organization_wide,"Methodist Healthcare System of San Antonio, Ltd., LLP",True,True,False,high,1
+742,D_peer_system_managed,unrelated_peer,organization_wide,"Methodist Healthcare System, Ltd., LLP",True,True,False,high,1
+743,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech S3,True,False,True,high,1
+744,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech S3,True,True,True,high,1
+745,C_parent_shared_services,related_parent,organization_wide,"Davis Health System, Inc.",False,False,False,medium,1
+746,D_peer_system_managed,unrelated_peer,organization_wide,Cumberland County Hospital System dba Cape Fear Valley Health System,True,True,False,high,1
+747,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte Mecklenburg Hospital Authority d/b/a Carolinas Healthcare System (CHS),True,False,False,high,1
+748,C_parent_shared_services,related_parent,organization_wide,Legacy Health,False,False,False,high,1
+749,A_dedicated_MSO,unrelated_mso,organization_wide,Central Ohio Orthopedic Management Company,True,True,True,high,1
+750,A_dedicated_MSO,unrelated_mso,organization_wide,Central Ohio Orthopedic Management Company,True,True,True,high,1
+751,A_dedicated_MSO,unrelated_mso,organization_wide,Central Ohio Orthopedic Management Company,True,True,True,high,1
+752,A_dedicated_MSO,unrelated_mso,organization_wide,Central Ohio Orthopedic Management Company,True,True,True,high,1
+753,A_dedicated_MSO,unrelated_mso,organization_wide,Central Ohio Orthopedic Management Company,True,True,True,high,1
+754,A_dedicated_MSO,unrelated_mso,organization_wide,Central Ohio Orthopedic Management Company,True,True,True,high,1
+755,A_dedicated_MSO,unrelated_mso,organization_wide,Central Ohio Orthopedic Management Company,True,True,True,high,1
+756,A_dedicated_MSO,unrelated_mso,organization_wide,Central Ohio Orthopedic Management Company,True,True,True,high,1
+757,C_parent_shared_services,related_parent,organization_wide,"Mountain Health Network, Inc",False,False,False,medium,1
+758,F_uninformative,unclear,unclear,,False,False,False,medium,1
+759,C_parent_shared_services,related_parent,organization_wide,Legacy Health,False,False,False,high,1
+760,C_parent_shared_services,related_parent,organization_wide,Legacy Health,False,False,False,high,1
+761,B_exec_staffing,individual_or_firm,executive_only,Health Management Services (HMS); later Griggs County Care Center (GCCC),True,True,False,high,1
+762,F_uninformative,unclear,unclear,,False,False,False,medium,1
+763,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,True,False,high,1
+764,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,True,False,high,1
+765,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,True,False,high,1
+766,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+767,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+768,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+769,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+770,D_peer_system_managed,unrelated_peer,executive_only,Monongalia Health System,True,False,False,high,1
+771,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,1
+772,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources (QHR),True,True,True,high,1
+773,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources (QHR),True,True,True,high,1
+774,B_exec_staffing,individual_or_firm,executive_only,WarBird Consulting Partners,True,False,False,high,1
+775,E_functional,individual_or_firm,specific_function,Morrison Healthcare; Crothall,False,False,False,high,1
+776,A_dedicated_MSO,unrelated_mso,executive_only,Quorum Health Services (QHR),True,True,True,high,1
+777,A_dedicated_MSO,unrelated_mso,executive_only,Community Hospital Consulting (CHC),True,True,True,high,1
+778,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Consulting (CHC),True,True,True,high,1
+779,F_uninformative,unclear,unclear,,False,False,False,medium,1
+780,A_dedicated_MSO,unrelated_mso,organization_wide,Preferred Management Corporation,True,True,True,high,1
+781,A_dedicated_MSO,unrelated_mso,organization_wide,Preferred Management Corporation,True,True,True,high,1
+782,A_dedicated_MSO,unrelated_mso,organization_wide,Preferred Management Corporation,True,True,True,high,1
+783,A_dedicated_MSO,unrelated_mso,organization_wide,Preferred Management Corporation,True,True,True,high,1
+784,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+785,A_dedicated_MSO,unrelated_mso,organization_wide,"Cypress Healthcare, LLC",False,True,True,medium,1
+786,B_exec_staffing,individual_or_firm,executive_only,BE Smith,True,True,False,high,1
+787,B_exec_staffing,individual_or_firm,executive_only,"Calculations, Inc.",True,True,False,high,1
+788,E_functional,individual_or_firm,specific_function,"Professional Management of Oregon, LLC; California Emergency Physicians; Douglas Medical Group; Umpqua Medical Group; Evergreen Family Medicine, PC",False,False,False,high,1
+789,E_functional,individual_or_firm,specific_function,"Professional Management of Oregon, LLC; California Emergency Physicians; Douglas Medical Group; Umpqua Medical Group; Evergreen Family Medicine, PC",False,False,False,high,1
+790,E_functional,individual_or_firm,specific_function,"Professional Management of Oregon, LLC; California Emergency Physicians; Douglas Medical Group; Umpqua Medical Group; Evergreen Family Medicine",False,False,False,high,1
+791,E_functional,individual_or_firm,specific_function,"Professional Management of Oregon, LLC; California Emergency Physicians; Douglas Medical Group; Umpqua Medical Group; Evergreen Family Medicine",False,False,False,high,1
+792,E_functional,individual_or_firm,specific_function,"Professional Management of Oregon, LLC; California Emergency Physicians; Douglas Medical Group; Umpqua Medical Group; Evergreen Family Medicine",False,False,False,high,1
+793,E_functional,individual_or_firm,specific_function,"Professional Management of Oregon, LLC; California Emergency Physicians; Douglas Medical Group; Umpqua Medical Group; Evergreen Family Medicine",False,False,False,high,1
+794,E_functional,individual_or_firm,specific_function,"Professional Management of Oregon, LLC; California Emergency Physicians; Douglas Medical Group; Umpqua Medical Group; Evergreen Family Medicine",False,False,False,high,1
+795,A_dedicated_MSO,unrelated_mso,organization_wide,MercyOne; Martinville Dunn,True,False,True,medium,1
+796,D_peer_system_managed,unrelated_peer,organization_wide,MercyOne,True,False,False,medium,1
+797,A_dedicated_MSO,unrelated_mso,organization_wide,"MercyOne, Martinville Dunn, and ToneyKorf Partners",True,False,True,medium,1
+798,B_exec_staffing,individual_or_firm,executive_only,"Calculations, Inc.",True,True,False,high,1
+799,B_exec_staffing,individual_or_firm,executive_only,"Calculations, Inc.",True,True,False,high,1
+800,B_exec_staffing,individual_or_firm,executive_only,"Calculations, Inc.",True,True,False,high,1
+801,B_exec_staffing,individual_or_firm,executive_only,"Calculations, Inc.",True,True,False,high,1
+802,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Consulting (CHC),True,True,True,high,1
+803,F_uninformative,unclear,unclear,,False,False,False,low,1
+804,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTechS3,True,True,True,high,1
+805,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+806,A_dedicated_MSO,unrelated_mso,organization_wide,Cohesive Healthcare Management and Consulting,True,False,True,high,1
+807,D_peer_system_managed,unrelated_peer,organization_wide,Park Nicollet Health Services,True,False,False,high,1
+808,B_exec_staffing,individual_or_firm,executive_only,HealthSource Partners,True,True,False,high,1
+809,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+810,A_dedicated_MSO,unrelated_mso,organization_wide,Community Health Consulting (CHC),True,True,True,high,1
+811,A_dedicated_MSO,unrelated_mso,organization_wide,Alecto,True,True,True,high,1
+812,A_dedicated_MSO,unrelated_mso,executive_only,"Rural Health Group, Inc.",True,False,True,medium,1
+813,D_peer_system_managed,unrelated_peer,organization_wide,,False,False,False,medium,1
+814,D_peer_system_managed,unrelated_peer,organization_wide,ADVENTIST HEALTHCARE,True,False,False,high,1
+815,D_peer_system_managed,unrelated_peer,organization_wide,Adventist Healthcare,True,False,False,high,1
+816,D_peer_system_managed,unrelated_peer,organization_wide,Park Nicollet Health Services (PNHS),True,False,False,high,1
+817,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,True,False,high,1
+818,D_peer_system_managed,unrelated_peer,organization_wide,Park Nicollet Health Services,True,False,False,high,1
+819,D_peer_system_managed,unrelated_peer,organization_wide,Park Nicollet Health Services,True,False,False,high,1
+820,D_peer_system_managed,unrelated_peer,organization_wide,Park Nicollet Health Services,True,False,False,high,1
+821,B_exec_staffing,individual_or_firm,executive_only,"Bonadio & Co., LLP",True,True,False,high,1
+822,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,True,False,high,1
+823,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,True,False,high,1
+824,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,True,False,high,1
+825,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,True,False,high,1
+826,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,True,False,high,1
+827,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+828,A_dedicated_MSO,unrelated_mso,organization_wide,"Integrity Healthcare, LLC (subsidiary of BlueMountain Capital Management, LLC)",True,False,True,high,1
+829,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+830,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+831,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+832,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+833,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+834,B_exec_staffing,individual_or_firm,executive_only,"HealthSource Partners (Terri Donovan, Interim VP of Finance)",True,True,False,high,1
+835,B_exec_staffing,individual_or_firm,executive_only,"Bonadio & Co., LLP",True,True,False,high,1
+836,D_peer_system_managed,unrelated_peer,executive_only,Cabell-Huntington Hospital,True,False,False,high,1
+837,B_exec_staffing,individual_or_firm,executive_only,HealthSource Partners (Terri Donovan),True,True,False,high,1
+838,C_parent_shared_services,related_parent,organization_wide,Premier Health,False,False,False,high,1
+839,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC (QHR)",True,False,True,high,1
+840,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,True,True,high,1
+841,A_dedicated_MSO,unrelated_mso,organization_wide,Community Health Corporation (CHC),True,False,True,high,1
+842,A_dedicated_MSO,unrelated_mso,organization_wide,Community Health Corporation (CHC),True,False,True,high,1
+843,A_dedicated_MSO,unrelated_mso,organization_wide,Community Health Corporation (CHC),True,False,True,high,1
+844,A_dedicated_MSO,unrelated_mso,organization_wide,Community Health Corporation (CHC),True,False,True,high,1
+845,A_dedicated_MSO,unrelated_mso,organization_wide,Community Health Corporation (CHC),True,False,True,high,1
+846,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,1
+847,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,1
+848,B_exec_staffing,individual_or_firm,executive_only,Provider Payment Consultants / The Rybar Group,True,True,False,high,1
+849,B_exec_staffing,individual_or_firm,executive_only,Leaders for Today,True,True,False,high,1
+850,B_exec_staffing,individual_or_firm,executive_only,"HEALTHSOURCE PARTNERS (Terri Donovan, Interim VP of Finance)",True,True,False,high,1
+851,B_exec_staffing,individual_or_firm,executive_only,Tatum,True,True,False,high,1
+852,B_exec_staffing,individual_or_firm,executive_only,"HealthSource Partners (Terri Donovan, Interim VP of Finance)",True,True,False,high,1
+853,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,True,True,high,1
+854,B_exec_staffing,individual_or_firm,executive_only,B.E. Smith,True,True,False,high,1
+855,B_exec_staffing,individual_or_firm,executive_only,IMA Consulting,True,True,False,high,1
+856,B_exec_staffing,individual_or_firm,executive_only,IMA Consulting,True,True,False,high,1
+857,C_parent_shared_services,related_parent,governance_only,Rush System for Health (RSH),False,False,False,high,1
+858,C_parent_shared_services,related_parent,organization_wide,ALLINA HEALTH SYSTEM,False,False,False,medium,1
+859,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC",False,False,True,high,1
+860,C_parent_shared_services,related_parent,organization_wide,ALLINA HEALTH SYSTEM,False,False,False,medium,1
+861,C_parent_shared_services,related_parent,organization_wide,Allina Health System,False,False,False,high,1
+862,C_parent_shared_services,related_parent,organization_wide,Allina Health System,False,False,False,high,1
+863,B_exec_staffing,individual_or_firm,executive_only,Chartis Clinical Quality Solutions (Chartis),True,True,False,high,1
+864,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+865,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+866,E_functional,individual_or_firm,specific_function,"H2O, LLC",False,False,False,high,1
+867,B_exec_staffing,individual_or_firm,executive_only,HealthSource Partners LLC (interim financial mgmt by Sean Fitzpatrick),True,True,False,high,1
+868,A_dedicated_MSO,unrelated_mso,executive_only,HEALTHTECH MANAGEMENT,True,True,True,high,1
+869,A_dedicated_MSO,unrelated_mso,executive_only,HEALTHTECH MANAGEMENT,True,True,True,high,1
+870,A_dedicated_MSO,unrelated_mso,executive_only,HEALTHTECH MANAGEMENT,True,True,True,high,1
+871,A_dedicated_MSO,unrelated_mso,executive_only,HEALTHTECH MANAGEMENT,True,True,True,high,1
+872,A_dedicated_MSO,unrelated_mso,executive_only,HEALTHTECH MANAGEMENT,True,True,True,high,1
+873,A_dedicated_MSO,unrelated_mso,organization_wide,"Salem Hospital Management, LLC",True,False,True,high,1
+874,A_dedicated_MSO,unrelated_mso,organization_wide,"Salem Hospital Management, LLC",True,False,True,high,1
+875,B_exec_staffing,individual_or_firm,specific_function,"Galileo Search, LLC",True,False,False,high,1
+876,C_parent_shared_services,related_parent,organization_wide,Thomas Jefferson University (TJU),False,True,False,high,1
+877,A_dedicated_MSO,unrelated_mso,executive_only,"Rural Health Group, Inc.",True,False,True,medium,1
+878,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Consulting (CHC),True,False,True,high,1
+879,B_exec_staffing,individual_or_firm,executive_only,HealthSource Partners LLC,True,True,False,high,1
+880,B_exec_staffing,individual_or_firm,executive_only,"HealthSource Partners LLC (Sean Fitzpatrick, interim financial management)",True,True,False,high,1
+881,E_functional,unrelated_mso,specific_function,,False,False,False,high,1
+882,B_exec_staffing,individual_or_firm,executive_only,"HealthSource Partners LLC (Sean Fitzpatrick, interim financial management)",True,True,False,high,1
+883,D_peer_system_managed,unrelated_peer,executive_only,Trinity Health Systems,True,False,False,medium,1
+884,D_peer_system_managed,unrelated_peer,organization_wide,Trinity Health Systems,True,False,False,high,1
+885,A_dedicated_MSO,unrelated_mso,organization_wide,Healthcare Financial Solutions (HFS) and Pipeline Healthcare Management,True,True,True,high,1
+886,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,1
+887,B_exec_staffing,individual_or_firm,executive_only,Lukas Fischer (contracted through CHI),True,False,False,medium,1
+888,E_functional,individual_or_firm,specific_function,Leidos,False,False,False,medium,1
+889,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Consulting (CHC),True,True,True,high,1
+890,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Consulting (CHC),True,False,True,high,1
+891,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Consulting (CHC),True,False,True,high,1
+892,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Consulting (CHC),True,False,True,high,1
+893,D_peer_system_managed,unrelated_peer,organization_wide,UNC HEALTH CARE SYSTEM,True,True,False,high,1
+894,C_parent_shared_services,related_parent,governance_only,"Saint Francis Health System, Inc.",False,False,False,medium,1
+895,C_parent_shared_services,related_parent,governance_only,"Saint Francis Health System, Inc.",False,False,False,medium,1
+896,C_parent_shared_services,related_parent,governance_only,"Saint Francis Health System, Inc.",False,False,False,medium,1
+897,A_dedicated_MSO,unrelated_mso,organization_wide,"BHC MSO, LLC",True,False,True,medium,1
+898,E_functional,unrelated_mso,specific_function,,False,False,False,high,1
+899,B_exec_staffing,individual_or_firm,executive_only,MCAA Consulting (Calvin Carey),True,False,False,high,1
+900,B_exec_staffing,individual_or_firm,executive_only,MCAA Consulting (Calvin Carey),True,False,False,high,1
+901,A_dedicated_MSO,unrelated_mso,executive_only,HealthTech Management Services,True,True,True,medium,1
+902,A_dedicated_MSO,unrelated_mso,organization_wide,"Integrity Healthcare, LLC (subsidiary of BlueMountain Capital Management, LLC)",True,False,True,high,1
+903,A_dedicated_MSO,unrelated_mso,organization_wide,"Integrity Healthcare, LLC (subsidiary of BlueMountain Capital Management, LLC)",True,False,True,high,1
+904,C_parent_shared_services,related_parent,specific_function,"St. Luke's Health Network, Inc.",True,False,False,high,1
+905,B_exec_staffing,individual_or_firm,executive_only,Warbird,True,True,False,high,1
+906,A_dedicated_MSO,unrelated_mso,organization_wide,Paladin Healthcare Management LLC,True,True,True,high,1
+907,A_dedicated_MSO,unrelated_mso,organization_wide,Razaghi Development Company dba Razaghi Healthcare LLC,True,False,True,high,1
+908,F_uninformative,individual_or_firm,executive_only,Annemarie Czyz,True,False,False,medium,1
+909,A_dedicated_MSO,unrelated_mso,organization_wide,FITCH HEALTHCARE,False,False,True,medium,1
+910,A_dedicated_MSO,unrelated_mso,organization_wide,"ToneyKorf Partners, LLC",True,True,True,high,1
+911,A_dedicated_MSO,unrelated_mso,organization_wide,"Toneykorf Partners, LLC",True,True,True,high,1
+912,A_dedicated_MSO,unrelated_mso,organization_wide,"Toneykorf Partners, LLC",True,True,True,high,1
+913,A_dedicated_MSO,unrelated_mso,organization_wide,"ToneyKorf Partners, LLC",True,True,True,high,1
+914,C_parent_shared_services,related_parent,organization_wide,Banner Health,False,True,False,medium,1
+915,C_parent_shared_services,related_parent,organization_wide,Banner Health,False,True,False,medium,1
+916,A_dedicated_MSO,unrelated_mso,organization_wide,Rural Health Redesign Center and Equalize,False,False,True,medium,1
+917,A_dedicated_MSO,unrelated_mso,organization_wide,Rural Health Redesign Center and Equalize,False,False,True,low,1
+918,B_exec_staffing,individual_or_firm,executive_only,Warbird,True,True,False,high,1
+919,B_exec_staffing,individual_or_firm,executive_only,BE Smith,True,True,False,high,1
+920,A_dedicated_MSO,unrelated_mso,organization_wide,"Integrity Healthcare, LLC (subsidiary of BlueMountain Capital Management, LLC)",True,False,True,high,1
+921,B_exec_staffing,individual_or_firm,executive_only,BE Smith,True,True,False,high,1
+922,B_exec_staffing,individual_or_firm,executive_only,Leaders for Today,True,True,False,high,1
+923,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC (QHR Health)",True,False,True,high,1
+924,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management II, Inc.",False,False,False,high,1
+925,A_dedicated_MSO,unrelated_mso,organization_wide,Cohesive Healthcare Management and Consulting,True,False,True,high,1
+926,C_parent_shared_services,related_parent,organization_wide,Astria Health (AH),True,False,False,high,1
+927,B_exec_staffing,individual_or_firm,executive_only,Leaders for Today,True,True,False,high,1
+928,C_parent_shared_services,related_parent,organization_wide,Legacy Health,False,False,False,high,1
+929,C_parent_shared_services,related_parent,organization_wide,Astria Health,True,False,False,high,1
+930,C_parent_shared_services,related_parent,organization_wide,Astria Health (AH),True,False,False,high,1
+931,C_parent_shared_services,related_parent,organization_wide,Astria Health,True,False,False,high,1
+932,D_peer_system_managed,unrelated_peer,executive_only,UCHealth,True,False,False,medium,1
+933,D_peer_system_managed,unrelated_peer,executive_only,UCHealth,True,False,False,high,1
+934,C_parent_shared_services,related_parent,organization_wide,Astria Health (AH),True,False,False,high,1
+935,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,True,False,high,1
+936,C_parent_shared_services,related_parent,organization_wide,Astria Health (AH),True,False,False,high,1
+937,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,True,False,high,1
+938,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTechS3,True,True,True,high,1
+939,D_peer_system_managed,unrelated_peer,organization_wide,Boone Hospital (Boone County Hospital),True,True,False,high,1
+940,A_dedicated_MSO,unrelated_mso,organization_wide,"American Advanced Management Group, Inc. (AAMG)",False,True,True,high,1
+941,B_exec_staffing,individual_or_firm,executive_only,,True,False,False,high,1
+942,D_peer_system_managed,unrelated_peer,organization_wide,Boone Hospital,True,True,False,high,1
+943,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,False,False,high,1
+944,C_parent_shared_services,related_parent,organization_wide,Astria Health (AH),True,False,False,high,1
+945,C_parent_shared_services,related_parent,organization_wide,Astria Health (AH),True,False,False,high,1
+946,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTechS3,True,True,True,high,1
+947,C_parent_shared_services,related_parent,organization_wide,"Benefis Health System, Inc. (BHS)",True,False,False,high,1
+948,C_parent_shared_services,related_parent,organization_wide,Astria Health,True,False,False,high,1
+949,D_peer_system_managed,unrelated_peer,executive_only,UCHealth,True,False,False,medium,1
+950,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,True,False,high,1
+951,D_peer_system_managed,unrelated_peer,executive_only,UCHealth,True,False,False,medium,1
+952,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,False,False,high,1
+953,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTechS3,True,True,True,high,1
+954,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,1
+955,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+956,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,True,False,high,1
+957,D_peer_system_managed,unrelated_peer,executive_only,UCHealth,True,False,False,medium,1
+958,C_parent_shared_services,related_parent,organization_wide,"Benefis Health System, Inc. (BHS)",True,False,False,high,1
+959,C_parent_shared_services,related_parent,organization_wide,Astria Health (AH),True,False,False,high,1
+960,C_parent_shared_services,related_parent,organization_wide,"Benefis Health System, Inc. (BHS)",True,False,False,high,1
+961,C_parent_shared_services,related_parent,organization_wide,"Benefis Health System, Inc. (BHS)",True,False,False,high,1
+962,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTechS3,True,True,True,high,1
+963,C_parent_shared_services,related_parent,organization_wide,"Benefis Health System, Inc. (BHS)",True,False,False,high,1
+964,C_parent_shared_services,related_parent,organization_wide,"St. Luke's Health Network, Inc. / St. Luke's Hospital of Bethlehem, Pennsylvania",False,True,False,high,1
+965,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,True,False,high,1
+966,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTechS3,True,True,True,high,1
+967,C_parent_shared_services,related_parent,specific_function,"St. Luke's Health Network, Inc.",True,False,False,medium,1
+968,A_dedicated_MSO,unrelated_mso,executive_only,"Rural Health Group, Inc.",True,False,True,medium,1
+969,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc.",True,False,True,high,1
+970,A_dedicated_MSO,unrelated_mso,organization_wide,"American Advanced Management Group, Inc. (AAMG)",False,True,True,high,1
+971,C_parent_shared_services,related_parent,organization_wide,"Benefis Health System, Inc. (BHS)",True,False,False,high,1
+972,A_dedicated_MSO,unrelated_mso,executive_only,"Rural Health Group, Inc.",True,False,True,medium,1
+973,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health (through July 31, 2018); Great River Health System (from August 1, 2018)",True,False,True,medium,1
+974,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc.",True,True,True,high,1
+975,D_peer_system_managed,unrelated_peer,executive_only,Billings Clinic,True,True,False,high,1
+976,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc.",True,True,True,high,1
+977,D_peer_system_managed,unrelated_peer,executive_only,UCHEALTH,True,False,False,medium,1
+978,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc.",True,True,True,high,1
+979,D_peer_system_managed,unrelated_peer,executive_only,Regional West Medical Center,True,True,False,high,1
+980,D_peer_system_managed,unrelated_peer,executive_only,UCHealth,True,False,False,medium,1
+981,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTechS3,True,True,True,high,1
+982,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,1
+983,D_peer_system_managed,unrelated_peer,executive_only,UCHealth,True,False,False,high,1
+984,C_parent_shared_services,related_parent,organization_wide,Astria Health (AH),True,False,False,high,1
+985,C_parent_shared_services,related_parent,organization_wide,"Benefis Health System, Inc. (BHS)",True,False,False,high,1
+986,B_exec_staffing,individual_or_firm,executive_only,HealthSource Partners,True,True,False,high,1
+987,D_peer_system_managed,unrelated_peer,organization_wide,UAB,False,False,False,medium,1
+988,D_peer_system_managed,unclear,executive_only,Trinity Health Services,True,True,False,medium,1
+989,D_peer_system_managed,unrelated_peer,executive_only,Kalispell Regional Healthcare System,True,True,False,high,1
+990,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,1
+991,D_peer_system_managed,unrelated_peer,organization_wide,Sisters of Charity of Leavenworth/St. Francis Health Center,True,False,False,medium,1
+992,C_parent_shared_services,related_parent,organization_wide,PREMIER HEALTH,False,False,False,high,1
+993,B_exec_staffing,individual_or_firm,executive_only,"B.E. Smith, Inc.",True,True,False,high,1
+994,B_exec_staffing,individual_or_firm,executive_only,"B.E. Smith, Inc.",True,True,False,high,1
+995,B_exec_staffing,individual_or_firm,executive_only,HealthSource Partners,True,True,False,high,1
+996,D_peer_system_managed,unrelated_peer,executive_only,Kalispell Regional Healthcare System,True,True,False,high,1
+997,B_exec_staffing,individual_or_firm,executive_only,HealthSource Partners,True,True,False,high,1
+998,A_dedicated_MSO,individual_or_firm,organization_wide,R & V Associates (CEO Ronald L. Violi is 50% partner - captive arrangement),True,True,True,medium,1
+999,B_exec_staffing,individual_or_firm,executive_only,REVINT SOLUTIONS,True,True,False,high,1
+1000,B_exec_staffing,individual_or_firm,executive_only,Leaders for Today,True,True,False,high,1
+1001,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,True,False,medium,1
+1002,D_peer_system_managed,unrelated_peer,organization_wide,Sanford Health Network,True,True,False,medium,1
+1003,A_dedicated_MSO,individual_or_firm,organization_wide,"R & V Associates (Ronald L. Violi, CEO, 50% partner - captive arrangement)",True,False,True,medium,1
+1004,D_peer_system_managed,unrelated_peer,executive_only,Kalispell Regional Healthcare System,True,True,False,high,1
+1005,B_exec_staffing,individual_or_firm,executive_only,The Rybar Group (RGI) - Ron Rybar,True,False,False,high,1
+1006,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,True,True,high,1
+1007,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,True,True,high,1
+1008,B_exec_staffing,individual_or_firm,executive_only,The Rybar Group,True,True,False,high,1
+1009,B_exec_staffing,individual_or_firm,executive_only,Manchester Group; Resources Global Professionals,True,False,False,high,1
+1010,B_exec_staffing,individual_or_firm,executive_only,"Summit Talent Group, LLC",True,False,False,high,1
+1011,A_dedicated_MSO,unrelated_mso,organization_wide,Community Health Corporation (CHC),True,False,True,high,1
+1012,A_dedicated_MSO,unrelated_mso,organization_wide,Community Health Corporation (CHC),True,False,True,high,1
+1013,F_uninformative,unclear,unclear,,False,False,False,medium,1
+1014,C_parent_shared_services,related_parent,organization_wide,PREMIER HEALTH,False,False,False,high,1
+1015,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,True,True,high,1
+1016,C_parent_shared_services,related_parent,organization_wide,Premier Health,False,False,False,high,1
+1017,C_parent_shared_services,related_parent,organization_wide,"Benefis Health System, Inc. (BHS)",True,False,False,high,1
+1018,C_parent_shared_services,related_parent,organization_wide,Astria Health (AH),True,False,False,high,1
+1019,C_parent_shared_services,related_parent,organization_wide,"Benefis Health System, Inc. (BHS)",True,False,False,high,1
+1020,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc.",True,True,True,high,1
+1021,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc.",True,True,True,high,1
+1022,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc.",True,False,True,high,1
+1023,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC (QHR Health); Meadowlark Advisors, LLC",True,False,True,high,1
+1024,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,1
+1025,A_dedicated_MSO,unrelated_mso,organization_wide,Community Health Consulting (CHC),True,True,True,high,1
+1026,B_exec_staffing,individual_or_firm,governance_only,Shuttleworth & Ingersoll,True,False,False,medium,1
+1027,B_exec_staffing,individual_or_firm,specific_function,Stefani DiClemente,False,False,False,medium,1
+1028,A_dedicated_MSO,unrelated_mso,organization_wide,Community Health Consulting (CHC),True,True,True,high,1
+1029,C_parent_shared_services,related_parent,governance_only,RUSH University Medical Center,False,False,False,high,1
+1030,A_dedicated_MSO,unrelated_mso,organization_wide,Community Health Consulting (CHC),True,True,True,high,1
+1031,C_parent_shared_services,related_parent,organization_wide,Premier Health,False,False,False,high,1
+1032,C_parent_shared_services,related_parent,organization_wide,Premier Health,False,False,False,high,1
+1033,C_parent_shared_services,related_parent,organization_wide,Premier Health,False,False,False,high,1
+1034,A_dedicated_MSO,unrelated_mso,organization_wide,Community Health Consulting (CHC),True,True,True,high,1
+1035,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,True,True,high,1
+1036,A_dedicated_MSO,unrelated_mso,organization_wide,Community Health Consulting (CHC),True,True,True,high,1
+1037,C_parent_shared_services,related_parent,governance_only,Rush University Medical Center,False,False,False,high,1
+1038,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,False,False,True,high,1
+1039,A_dedicated_MSO,unrelated_mso,executive_only,"Rural Health Group, Inc.",True,False,True,medium,1
+1040,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,True,True,high,1
+1041,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTech Management Services,True,True,True,high,1
+1042,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Consulting (CHC),True,False,True,high,1
+1043,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Consulting (CHC),True,False,True,high,1
+1044,B_exec_staffing,individual_or_firm,executive_only,James Moylan (DBA James Moylan Consulting),True,True,False,high,1
+1045,D_peer_system_managed,unrelated_peer,organization_wide,Novant Health,True,False,False,high,1
+1046,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+1047,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+1048,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+1049,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+1050,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+1051,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+1052,A_dedicated_MSO,individual_or_firm,organization_wide,"Cypress Healthcare, LLC (owned by CEO Tony Pfaff - captive arrangement)",True,True,True,medium,1
+1053,A_dedicated_MSO,individual_or_firm,organization_wide,"Cypress Healthcare, LLC (owned by hospital CEO Tony Pfaff - captive arrangement)",True,True,True,medium,1
+1054,A_dedicated_MSO,individual_or_firm,organization_wide,"Cypress Healthcare, LLC (owned by Tony Pfaff, President of the hospital - captive/owner-operated)",True,True,True,medium,1
+1055,A_dedicated_MSO,unrelated_mso,organization_wide,"Cypress Healthcare, LLC",True,True,True,high,1
+1056,A_dedicated_MSO,unrelated_mso,organization_wide,"Cypress Healthcare, LLC",True,True,True,high,1
+1057,A_dedicated_MSO,unrelated_mso,organization_wide,"Cypress Healthcare, LLC",True,True,True,high,1
+1058,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,False,True,high,1
+1059,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+1060,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,1
+1061,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,1
+1062,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,1
+1063,A_dedicated_MSO,unrelated_mso,organization_wide,Alliant Management Services (AMS),True,False,True,high,1
+1064,A_dedicated_MSO,unrelated_mso,organization_wide,Alliant Management Services (AMS),True,False,True,high,1
+1065,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+1066,C_parent_shared_services,related_parent,organization_wide,Sanford Health Network,True,True,False,medium,1
+1067,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,False,True,high,1
+1068,B_exec_staffing,individual_or_firm,executive_only,"C2XSEVEN, LLC",True,False,False,high,1
+1069,A_dedicated_MSO,unrelated_mso,organization_wide,"People's Choice Hospital (PCH); previously Newlight Healthcare, LLC",True,True,True,high,1
+1070,D_peer_system_managed,unrelated_peer,organization_wide,Methodist Health Systems,True,False,False,medium,1
+1071,D_peer_system_managed,unrelated_peer,organization_wide,METHODIST HEALTH SYSTEMS,True,False,False,medium,1
+1072,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+1073,A_dedicated_MSO,unrelated_mso,organization_wide,"Blue Management Services, LLC d/b/a Alliant Management Services",False,False,True,high,1
+1074,C_parent_shared_services,related_parent,organization_wide,"Wayne Memorial Health System, Inc.",False,False,False,medium,1
+1075,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources (QHR),True,False,True,high,1
+1076,B_exec_staffing,individual_or_firm,executive_only,University of Arkansas for Medical Sciences (UAMS),True,True,False,medium,1
+1077,B_exec_staffing,individual_or_firm,executive_only,University of Arkansas for Medical Sciences (UAMS),True,True,False,medium,1
+1078,E_functional,related_parent,specific_function,"Nordic Consulting Partners, Inc.",False,False,False,high,1
+1079,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc.",True,False,True,high,1
+1080,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1081,B_exec_staffing,individual_or_firm,executive_only,American Consultants,True,True,False,high,1
+1082,B_exec_staffing,individual_or_firm,executive_only,American Consultants,True,True,False,high,1
+1083,B_exec_staffing,individual_or_firm,executive_only,American Consultants,True,True,False,high,1
+1084,B_exec_staffing,individual_or_firm,executive_only,,True,False,False,high,1
+1085,B_exec_staffing,individual_or_firm,executive_only,,True,True,False,high,1
+1086,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Consulting (CHC),False,True,True,high,1
+1087,A_dedicated_MSO,unrelated_mso,organization_wide,Community Hospital Consulting (CHC),False,True,True,high,1
+1088,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources (QHR),True,False,True,high,1
+1089,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC (QHR)",True,False,True,high,1
+1090,B_exec_staffing,individual_or_firm,executive_only,The Advisory Board,True,True,False,medium,1
+1091,D_peer_system_managed,unrelated_peer,organization_wide,CHI St. Vincent Infirmary Medical Center (CHI St. Vincent),True,True,False,high,1
+1092,D_peer_system_managed,unrelated_peer,organization_wide,CHI St. Vincent Infirmary Medical Center (d/b/a CHI St. Vincent),True,True,False,high,1
+1093,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC",True,False,True,high,1
+1094,D_peer_system_managed,unrelated_peer,organization_wide,St. Luke's Hospital,False,True,False,medium,1
+1095,D_peer_system_managed,unrelated_peer,organization_wide,St. Luke's Hospital,False,True,False,medium,1
+1096,D_peer_system_managed,unrelated_peer,organization_wide,St. Luke's Hospital,False,True,False,medium,1
+1097,D_peer_system_managed,unrelated_peer,organization_wide,St. Luke's Hospital,False,True,False,medium,1
+1098,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1099,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1100,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC (QHR)",True,False,True,high,1
+1101,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, LLC (QHR); later WVU Medicine",True,False,True,high,1
+1102,D_peer_system_managed,unrelated_peer,organization_wide,Methodist Health Systems,True,False,False,medium,1
+1103,D_peer_system_managed,unrelated_peer,organization_wide,METHODIST HEALTH SYSTEMS,True,False,False,medium,1
+1104,D_peer_system_managed,unrelated_peer,organization_wide,IASIS Glenwood Regional Medical Center,True,True,False,medium,1
+1105,B_exec_staffing,individual_or_firm,executive_only,Fundamental Financial Group,True,True,False,high,1
+1106,D_peer_system_managed,unrelated_peer,organization_wide,ADVENTIST HEALTH SYSTEM/WEST,False,False,False,high,1
+1107,D_peer_system_managed,unrelated_peer,organization_wide,ADVENTIST HEALTH SYSTEM/WEST,False,False,False,high,1
+1108,D_peer_system_managed,unrelated_peer,organization_wide,ADVENTIST HEALTH SYSTEM/WEST,False,False,False,high,1
+1109,D_peer_system_managed,unrelated_peer,organization_wide,ADVENTIST HEALTH SYSTEM/WEST,False,False,False,high,1
+1110,D_peer_system_managed,unrelated_peer,organization_wide,ADVENTIST HEALTH SYSTEM/WEST,False,False,False,high,1
+1111,B_exec_staffing,individual_or_firm,executive_only,Leaders for Today,True,True,False,high,1
+1112,B_exec_staffing,individual_or_firm,executive_only,Leaders for Today,True,True,False,high,1
+1113,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+1114,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,True,False,high,1
+1115,A_dedicated_MSO,unrelated_mso,organization_wide,Fundamental Financial Group,True,True,True,medium,1
+1116,A_dedicated_MSO,unrelated_mso,organization_wide,Fundamental Financial Group,True,True,True,medium,1
+1117,A_dedicated_MSO,unrelated_mso,organization_wide,Fundamental Financial Group,True,True,True,medium,1
+1118,A_dedicated_MSO,unrelated_mso,organization_wide,Cohesive Healthcare Management and Consulting,True,False,True,high,1
+1119,D_peer_system_managed,unrelated_peer,organization_wide,IASIS Glenwood Regional Medical Center,True,True,False,medium,1
+1120,B_exec_staffing,individual_or_firm,executive_only,Fundamental Financial Group,True,True,False,medium,1
+1121,A_dedicated_MSO,unrelated_mso,organization_wide,Fundamental Financial Group,True,True,True,medium,1
+1122,A_dedicated_MSO,unrelated_mso,organization_wide,Fundamental Financial Group,True,True,True,high,1
+1123,A_dedicated_MSO,unrelated_mso,organization_wide,Fundamental Financial Group,True,True,True,medium,1
+1124,A_dedicated_MSO,unrelated_mso,executive_only,,True,False,True,medium,1
+1125,A_dedicated_MSO,unrelated_mso,organization_wide,HealthTechS3,True,True,True,high,1
+1126,B_exec_staffing,individual_or_firm,executive_only,"Deloitte Transactions and Business Analytics, LLP",True,False,False,high,1
+1127,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources (QHR),True,False,True,high,1
+1128,A_dedicated_MSO,unrelated_mso,executive_only,,True,True,True,medium,1
+1129,A_dedicated_MSO,unrelated_mso,executive_only,Quorum Health Resources (QHR),True,True,True,high,1
+1130,B_exec_staffing,individual_or_firm,executive_only,Outcomes Inc / Transition Management Services,True,True,False,medium,1
+1131,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources (QHR),True,True,True,high,1
+1132,E_functional,individual_or_firm,specific_function,SODEXO,False,False,False,high,1
+1133,E_functional,individual_or_firm,specific_function,Morrison Management,False,False,False,high,1
+1134,B_exec_staffing,individual_or_firm,executive_only,Fundamental Financial Group,True,True,False,medium,1
+1135,A_dedicated_MSO,unrelated_mso,organization_wide,ERH LLC,True,False,True,medium,1
+1136,A_dedicated_MSO,unrelated_mso,organization_wide,"QHR (formerly Quorum Health Resources, Inc.)",True,True,True,high,1
+1137,A_dedicated_MSO,unrelated_mso,organization_wide,"QHR (formerly Quorum Health Resources, Inc.)",True,True,True,high,1
+1138,A_dedicated_MSO,unrelated_mso,organization_wide,"QHR (formerly Quorum Health Resources, Inc.)",True,True,True,high,1
+1139,A_dedicated_MSO,unrelated_mso,organization_wide,"QHR (formerly Quorum Health Resources, Inc.)",True,True,True,high,1
+1140,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources (QHR),True,False,True,high,1
+1141,E_functional,unclear,unclear,,False,False,False,low,1
+1142,B_exec_staffing,individual_or_firm,executive_only,"C2XSEVEN, LLC",True,False,False,high,1
+1143,D_peer_system_managed,unrelated_peer,organization_wide,Methodist Healthcare System,True,False,False,high,1
+1144,D_peer_system_managed,unrelated_peer,executive_only,Methodist Healthcare System,True,False,False,high,1
+1145,D_peer_system_managed,unrelated_peer,executive_only,Methodist Healthcare System,True,True,False,high,1
+1146,D_peer_system_managed,unrelated_peer,executive_only,Methodist Healthcare System,True,True,False,high,1
+1147,A_dedicated_MSO,unrelated_mso,specific_function,HCA Management Services,False,False,True,medium,1
+1148,B_exec_staffing,individual_or_firm,executive_only,"C2XSEVEN, LLC",True,True,False,medium,1
+1149,A_dedicated_MSO,unrelated_mso,organization_wide,Preferred Management Corporation,True,True,True,high,1
+1150,A_dedicated_MSO,unrelated_mso,organization_wide,PREFERRED MANAGEMENT CORPORATION,True,True,True,high,1
+1151,A_dedicated_MSO,unrelated_mso,organization_wide,Preferred Management Corporation,True,True,True,high,1
+1152,A_dedicated_MSO,unrelated_mso,organization_wide,Preferred Management Corporation,True,True,True,high,1
+1153,A_dedicated_MSO,unrelated_mso,organization_wide,"Healthcare Integrity, LLC (until June 2020); Community Hospital Consulting (CHC) interim CEO thereafter",True,True,True,high,1
+1154,A_dedicated_MSO,individual_or_firm,organization_wide,"Healthcare Integrity, LLC",True,True,True,medium,1
+1155,B_exec_staffing,individual_or_firm,specific_function,GFA Health Consulting,True,False,False,high,1
+1156,B_exec_staffing,individual_or_firm,executive_only,GFA HEALTH CONSULTING,True,False,False,medium,1
+1157,A_dedicated_MSO,unrelated_mso,organization_wide,GFA Health Consulting,True,False,True,medium,1
+1158,A_dedicated_MSO,unrelated_mso,executive_only,,True,False,True,medium,1
+1159,D_peer_system_managed,unrelated_peer,executive_only,Methodist Healthcare System,True,False,False,high,1
+1160,D_peer_system_managed,unrelated_peer,organization_wide,Methodist Healthcare System,True,False,False,high,1
+1161,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,1
+1162,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,1
+1163,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,False,False,True,high,1
+1164,B_exec_staffing,individual_or_firm,executive_only,HealthTech Management,True,True,False,medium,1
+1165,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,False,True,high,1
+1166,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,False,True,high,1
+1167,E_functional,individual_or_firm,specific_function,Plymouth Regional Rehabilitation Services,False,False,False,high,1
+1168,E_functional,individual_or_firm,specific_function,Plymouth Regional Rehabilitation Services; Morrison Healthcare Management Specialist Inc; Diversified Clinical Services,False,False,False,high,1
+1169,E_functional,individual_or_firm,specific_function,The Roberts Group,False,False,False,high,1
+1170,B_exec_staffing,individual_or_firm,executive_only,Warbird Consulting,True,False,False,high,1
+1171,B_exec_staffing,individual_or_firm,executive_only,Tatum,True,True,False,high,1
+1172,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,1
+1173,E_functional,related_parent,specific_function,Advantus Health Partners (AHP),False,False,False,high,1
+1174,D_peer_system_managed,unrelated_peer,executive_only,The University of Colorado Hospital Authority,True,False,False,medium,1
+1175,C_parent_shared_services,related_parent,governance_only,"Community Health Network, Inc. (CHNW)",False,False,False,high,1
+1176,D_peer_system_managed,unrelated_peer,organization_wide,UNC Health Care System,True,True,False,high,1
+1177,D_peer_system_managed,unrelated_peer,executive_only,MUSC,True,True,False,medium,1
+1178,D_peer_system_managed,unrelated_peer,executive_only,Claxton-Hepburn Medical Center,True,False,False,medium,1
+1179,D_peer_system_managed,unrelated_peer,organization_wide,Deaconess Health System,True,True,False,high,1
+1180,D_peer_system_managed,unrelated_peer,organization_wide,"Methodist Healthcare System of San Antonio, Ltd., LLP",True,True,False,high,1
+1181,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, Inc (QHR)",True,True,True,high,1
+1182,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, Inc (QHR)",True,True,True,high,1
+1183,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, Inc (QHR)",True,True,True,high,1
+1184,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, Inc (QHR)",True,True,True,high,1
+1185,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, Inc (QHR)",True,True,True,high,1
+1186,A_dedicated_MSO,unrelated_mso,organization_wide,Rural Health Management Company LLC,True,False,True,medium,1
+1187,A_dedicated_MSO,unrelated_mso,organization_wide,Alliant,True,True,True,high,1
+1188,D_peer_system_managed,unrelated_peer,organization_wide,Wake Forest University Baptist Medical Center (WFBMC),True,True,False,medium,1
+1189,D_peer_system_managed,unrelated_peer,organization_wide,Wake Forest University Baptist Medical Center (WFBMC),True,True,False,medium,1
+1190,D_peer_system_managed,unrelated_peer,organization_wide,Wake Forest University Baptist Medical Center (WFBMC),False,True,False,medium,1
+1191,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority dba Carolinas Healthcare System (CHS),True,False,False,high,1
+1192,C_parent_shared_services,related_parent,organization_wide,UNC Health Care System (UNC Health Lenoir),True,True,False,medium,1
+1193,B_exec_staffing,individual_or_firm,executive_only,Ranstad (Randstad),True,True,False,high,1
+1194,A_dedicated_MSO,unrelated_mso,organization_wide,,True,False,True,medium,1
+1195,E_functional,individual_or_firm,specific_function,Jeffrey Bushong Consulting,False,True,False,high,1
+1196,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+1197,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+1198,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+1199,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+1200,D_peer_system_managed,unrelated_peer,organization_wide,Billings Clinic,True,False,False,high,1
+1201,B_exec_staffing,individual_or_firm,unclear,William Casey,False,False,False,low,1
+1202,D_peer_system_managed,unrelated_peer,organization_wide,Deaconess Health System,True,True,False,high,1
+1203,D_peer_system_managed,unrelated_peer,organization_wide,Deaconess Health System,True,True,False,high,1
+1204,B_exec_staffing,individual_or_firm,executive_only,"HealthSource Partners LLC (Sean Fitzpatrick, interim financial management)",True,True,False,high,1
+1205,D_peer_system_managed,unrelated_peer,organization_wide,UNC Health Care System,True,True,False,high,1
+1206,C_parent_shared_services,related_parent,specific_function,"St. Luke's Health Network, Inc.",False,False,False,high,1
+1207,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority (dba Atrium Health),True,False,False,high,1
+1208,C_parent_shared_services,related_parent,specific_function,"St. Luke's Health Network, Inc.",True,False,False,high,1
+1209,C_parent_shared_services,related_parent,specific_function,"ST. LUKES HEALTH NETWORK, INC.",False,False,False,high,1
+1210,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management II, Inc.",False,False,False,high,1
+1211,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management II, Inc.",False,False,False,high,1
+1212,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management II, Inc.",False,False,False,high,1
+1213,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management, Inc. (affiliate of Prime Healthcare Foundation, Inc.)",True,False,False,high,1
+1214,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management, Inc. (affiliate of Prime Healthcare Foundation, Inc.)",True,False,False,high,1
+1215,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management, Inc.",True,False,False,high,1
+1216,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management, Inc.",True,False,False,high,1
+1217,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management, Inc. (affiliate of Prime Healthcare Foundation, Inc.)",True,False,False,high,1
+1218,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management, Inc. (affiliate of Prime Healthcare Foundation, Inc.)",True,False,False,high,1
+1219,C_parent_shared_services,related_parent,organization_wide,"Prime Healthcare Management, Inc.",True,False,False,high,1
+1220,D_peer_system_managed,unrelated_peer,organization_wide,Wake Forest University Baptist Medical Center (WFBMC),False,True,False,medium,1
+1221,D_peer_system_managed,unrelated_peer,organization_wide,"Methodist Healthcare System of San Antonio, Ltd., LLP",True,True,False,high,1
+1222,A_dedicated_MSO,unrelated_mso,organization_wide,Alliant Management Services,False,False,True,high,1
+1223,A_dedicated_MSO,unrelated_mso,organization_wide,CAH Solutions Group (CSG),True,False,True,high,1
+1224,F_uninformative,unclear,governance_only,,False,False,False,high,1
+1225,C_parent_shared_services,related_parent,organization_wide,CHI,True,False,False,medium,1
+1226,A_dedicated_MSO,unrelated_mso,organization_wide,"QHR (formerly Quorum Health Resources, Inc.)",True,True,True,high,1
+1227,C_parent_shared_services,related_parent,organization_wide,CHI,True,False,False,medium,1
+1228,E_functional,individual_or_firm,specific_function,Bruce Norton,False,True,False,high,1
+1229,E_functional,individual_or_firm,specific_function,Bruce Norton,False,True,False,high,1
+1230,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,1
+1231,A_dedicated_MSO,unrelated_mso,organization_wide,Quorum Health Resources,True,True,True,high,1
+1232,E_functional,individual_or_firm,specific_function,,False,True,False,high,1
+1233,E_functional,individual_or_firm,specific_function,,False,True,False,high,1
+1234,E_functional,individual_or_firm,specific_function,,False,True,False,high,1
+1235,D_peer_system_managed,unrelated_peer,executive_only,Regional West Medical Center,True,False,False,medium,1
+1236,B_exec_staffing,individual_or_firm,executive_only,"Calculations, Inc.",True,True,False,high,1
+1237,D_peer_system_managed,unrelated_peer,organization_wide,"Via Christi Health, Inc.",True,True,False,high,1
+1238,A_dedicated_MSO,unrelated_mso,organization_wide,"Ovation Healthcare (formerly Quorum Health Resources, Inc.)",True,True,True,high,1
+1239,A_dedicated_MSO,unrelated_mso,organization_wide,"Ovation Healthcare (formerly Quorum Health Resources, Inc.)",True,True,True,high,1
+1240,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1241,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,True,False,high,1
+1242,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,True,False,high,1
+1243,A_dedicated_MSO,unrelated_mso,organization_wide,"HealthTech Management Services, Inc",True,False,True,high,1
+1244,D_peer_system_managed,unrelated_peer,organization_wide,St. Luke's Hospital,False,True,False,medium,1
+1245,D_peer_system_managed,unrelated_peer,organization_wide,ST. LUKE'S HOSPITAL,False,True,False,medium,1
+1246,D_peer_system_managed,unrelated_peer,organization_wide,ST. LUKE'S HOSPITAL,False,True,False,medium,1
+1247,D_peer_system_managed,unrelated_peer,organization_wide,ST. LUKE'S HOSPITAL,False,True,False,medium,1
+1248,D_peer_system_managed,unrelated_peer,organization_wide,St. Luke's Hospital,False,True,False,medium,1
+1249,B_exec_staffing,individual_or_firm,executive_only,The Advisory Board,True,True,False,medium,1
+1250,D_peer_system_managed,unrelated_peer,organization_wide,Charlotte-Mecklenburg Hospital Authority dba Atrium Health (formerly Carolinas HealthCare System),True,True,False,high,1
+1251,C_parent_shared_services,related_parent,governance_only,System Board of Directors,False,False,False,low,1
+1252,F_uninformative,unclear,governance_only,,False,False,False,high,1
+1253,C_parent_shared_services,related_parent,governance_only,"Saint Francis Health System, Inc.",False,False,False,medium,1
+1254,C_parent_shared_services,unclear,organization_wide,Astria Health,False,False,False,low,1
+1255,D_peer_system_managed,unrelated_peer,organization_wide,"Via Christi Health, Inc.",True,True,False,high,1
+1256,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1257,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1258,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1259,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,True,False,high,1
+1260,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1261,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1262,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1263,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1264,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1265,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1266,D_peer_system_managed,unrelated_peer,organization_wide,Salina Regional Health Center (SRHC),True,False,False,high,1
+1267,A_dedicated_MSO,unrelated_mso,organization_wide,"Quorum Health Resources, Inc (QHR)",True,True,True,high,1
+1268,A_dedicated_MSO,unrelated_mso,organization_wide,"QHR (formerly Quorum Health Resources, Inc.)",True,True,True,high,1
+1269,E_functional,individual_or_firm,specific_function,UMass Memorial Shields Pharmacy,False,False,False,high,1
+1270,C_parent_shared_services,related_parent,organization_wide,Wake Forest University Baptist Medical Center,False,False,False,high,1
+1271,A_dedicated_MSO,unrelated_mso,executive_only,"Rural Health Group, Inc.",True,False,True,medium,1
+1272,B_exec_staffing,individual_or_firm,executive_only,Strategic Healthcare Partners (SHP),True,True,False,high,1
+1273,B_exec_staffing,individual_or_firm,executive_only,Strategic Healthcare Partners (SHP),True,True,False,high,1
+1274,D_peer_system_managed,unrelated_peer,organization_wide,The Cleveland Clinic,False,False,False,medium,1
+1275,A_dedicated_MSO,unrelated_mso,organization_wide,Ovation Healthcare,True,True,True,high,1
+1276,A_dedicated_MSO,unrelated_mso,organization_wide,Ovation Healthcare,True,True,True,high,1
+1277,A_dedicated_MSO,unrelated_mso,organization_wide,Ovation Healthcare,True,True,True,high,1
+1278,C_parent_shared_services,related_parent,governance_only,"Saint Francis Health System, Inc.",False,False,False,medium,1
+1279,B_exec_staffing,individual_or_firm,executive_only,"ToneyKorf Partners, LLC",True,False,False,medium,1

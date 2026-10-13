@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.Rhistory
+anthropic_key.txt
+
+# Raw IRS XML batch. Not used by the pipeline scripts.
+data/reference/

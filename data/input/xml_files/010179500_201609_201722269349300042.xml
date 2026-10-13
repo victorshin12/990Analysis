@@ -1,0 +1,2350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2015v3.0" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2017-08-14T10:24:13-04:00</ReturnTs>
+    <TaxPeriodEndDt>2016-09-30</TaxPeriodEndDt>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>010179500</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SOUTHERN MAINE HEALTH CARE</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SOUT</BusinessNameControlTxt>
+      <PhoneNum>2072837000</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 626</AddressLine1Txt>
+        <CityNm>BIDDEFORD</CityNm>
+        <StateAbbreviationCd>ME</StateAbbreviationCd>
+        <ZIPCd>04005</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>RICHARD OLSEN</PersonNm>
+      <PersonTitleTxt>SENIOR VP &amp; CFO</PersonTitleTxt>
+      <PhoneNum>2072837000</PhoneNum>
+      <SignatureDt>2017-08-10</SignatureDt>
+    </BusinessOfficerGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2021-01-29 14:40:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="12">
+    <IRS990 documentId="RetDoc6" referenceDocumentId="RetDoc13">
+      <PrincipalOfficerNm>MCGEACHEY EDWARD J</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 626</AddressLine1Txt>
+        <CityNm>BIDDEFORD</CityNm>
+        <StateAbbreviationCd>ME</StateAbbreviationCd>
+        <ZIPCd>040050626</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>266757616</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>false</GroupReturnForAffiliatesInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>WWW.SMHC.ORG</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1899</FormationYr>
+      <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>SOUTHERN MAINE HEALTH CARE EXISTS TO IMPROVE THE HEALTH AND HEALTH CARE OF THE COMMUNITIES WE SERVE.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>16</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>9</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>2420</TotalEmployeeCnt>
+      <TotalVolunteersCnt>242</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>157182</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>-122757</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>3974555</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>2842469</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>245298608</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>255353822</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>2447535</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>2308422</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>5168593</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>5880509</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>256889291</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>266385222</CYTotalRevenueAmt>
+      <CYGrantsAndSimilarPaidAmt>0</CYGrantsAndSimilarPaidAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>113971837</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>114954768</CYSalariesCompEmpBnftPaidAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>151880</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>148882331</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>155302815</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>262854168</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>270257583</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>-5964877</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>-3872361</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>264543529</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>264674996</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>127005331</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>127335816</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>137538198</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>137339180</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <MissionDesc>SOUTHERN MAINE HEALTH CARE EXISTS TO IMPROVE THE HEALTH AND HEALTH CARE OF THE COMMUNITIES WE SERVE.</MissionDesc>
+      <SignificantNewProgramSrvcInd>false</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>false</SignificantChangeInd>
+      <ExpenseAmt>149795237</ExpenseAmt>
+      <RevenueAmt>195490276</RevenueAmt>
+      <Desc>SOUTHERN MAINE HEALTH CARE OPERATES TWO HOSPITAL FACILITES WITH A TOTAL OF 208 BEDS, WHICH STRIVES TO MEET THE HEALTH CARE NEEDS OF IDIVIDUALS AND FAMILIES THROUGHOUT YORK COUNTY. SMHC OFFERS A BROAD RANGE OF MEDICAL, SURGICAL, DIAGNOSTIC, CLINICAL AND REHABILITATION SERVICES, WELLNESS EDUCATION, SUPPORT GROUPS AND OTHER COMMUNITY OUTREACH PROGRAMS. SMHC HAD 52,360 EMERGENCY ROOM VISITS, 116,723 RADIOLOGICAL PROCEDURES, AND 7,551 SURGICAL CASES. THIS INCLUDES PATIENTS WHO ARE UNDERINSURED OR THOSE WITHOUT INSURANCE. IN ADDITION TO THE CHARITABLE CARE SERVICES, WE ARE CONTINUALLY ABSORBING ALL THE COSTS ASSOCIATED WITH PROVIDING THE COMMUNITY WITH A VARIETY OF SPECIAL COMPLIMENTARY EDUCATIONAL AND INFORMATIONAL SERVICES. (CONTINUED ON SCHEDULE O) (CONTINUATION) SMHC PROUDLY SPONSORS COMMUNITY ORGANIZATIONS, SCHOOL GROUPS, CIVIC ORGANIZATIONS AND SPECIAL EVENTS (LIKE THE LOCAL BASEBALL TEAM). SMHC SPONSORS TWO TO FOUR FREE EDUCATION EVENTS EACH MONTH OF THE YEAR ALONG WITH DOZENS OF SUPPORT GROUPS. SMHC ALSO ROUTINELY PARTICIPATES IN HEALTH FAIRS AND BUSINESS EVENTS, PERFORMING BLOOD PRESSURE CHECKS, CHOLESTEROL SCREENINGS AND CPR TRAINING. SMHC'S SENIOR ADVOCATE PROVIDES FREE ADVICE AND SERVICES TO ELDERLY MEMBERS OF THE COMMUNITY. SERVICES INCLUDE HELP WITH INSURANCE AND MEDICAL ISSUES, AS WELL AS PERSONAL ISSUES INCLUDING TAX INFORMATION, FINANCES AND HOME NEEDS.</Desc>
+      <ProgSrvcAccomActy2Grp>
+        <ExpenseAmt>58849316</ExpenseAmt>
+        <RevenueAmt>58242743</RevenueAmt>
+        <Desc>SMHC PHYSICIAN SERVICES CONSISTS OF MANY PHYSICIANS WITH MULTI-SPECIALTY SERVICES IN DIFFERENT LOCATIONS THROUGHOUT YORK COUNTY. THESE PHYSICIANS COMPLIMENT THE HOSPITAL IN MAINTAINING ITS MISSION TO SERVE AS A LEADER IN IMPROVING THE HEALTH AND WELL-BEING OF OUR COMMUNITY BY SERVING THE POPULOUS. THESE SPECIALTIES INCLUDE (BUT ARE NOT LIMITED TO) CARDIOLOGY, EAR, NOSE AND THROAT, FAMILY PRACTICES, WOMEN'S HEALTH, INTERNAL MEDICINE, PEDIATRICS, ORTHOPEDIC AND GENERAL SURGERY. SMHC PHYSICIAN SERVICES HAD 273,969 OFFICE VISITS AND 35,412 WALK-IN CARE VISITS.</Desc>
+      </ProgSrvcAccomActy2Grp>
+      <ProgSrvcAccomActy3Grp>
+        <ExpenseAmt>6478046</ExpenseAmt>
+        <RevenueAmt>7623177</RevenueAmt>
+        <Desc>SMHC ELDERCARE SERVICES PROVIDE LONG-TERM CARE, MEDICAL SERVICES, AND DAYCARE TO OUR SENIOR CITIZENS. ELDERCARE HAD A TOTAL OF 37,758 PATIENT DAYS. WE CONTINUE TO GROW AND ADAPT TO THE NEEDS OF OUR COMMUNITY WITH THESE SERVICES. SMHC ELDERCARE PRIDES THEMSELVES BY CREATING A HOME-LIKE, COMFORTABLE ENVIRONMENT FOR THE RESIDENTS AND STAFF. THE NEWTON CENTER FOR REHABILITATION AND NURSING CARE PROMOTES HIGH QUALITY CARE; WITH DEDICATED STAFF, FAMILY EDUCATION AND INVOLVEMENT MAKE THIS PROGRAM SPECIAL.</Desc>
+      </ProgSrvcAccomActy3Grp>
+      <ProgSrvcAccomActyOtherGrp>
+        <Desc>OTHER PROGRAM SERVICES INCLUDE: PHYSICIAN PRACTICES, SURGICAL SERVICES, IMAGING SERVICES, CARDIOPULMONARY SERVICES, LABOR AND DELIVERY SERVICES, LABORATORY, EMERGENCY SERVICES AND REHAB SERVICES.</Desc>
+      </ProgSrvcAccomActyOtherGrp>
+      <TotalProgramServiceExpensesAmt>215122599</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="RetDoc15">true</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd referenceDocumentId="RetDoc1">true</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd referenceDocumentId="RetDoc7">false</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd referenceDocumentId="RetDoc7">true</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd referenceDocumentId="RetDoc7">false</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="RetDoc8">false</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="RetDoc8">false</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="RetDoc8">false</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="RetDoc8">false</CreditCounselingInd>
+      <TempOrPermanentEndowmentsInd referenceDocumentId="RetDoc8">true</TempOrPermanentEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="RetDoc8">true</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="RetDoc8">true</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="RetDoc8">false</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="RetDoc8">true</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="RetDoc8">true</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="RetDoc8">true</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="RetDoc8">false</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="RetDoc8">true</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <ForeignActivitiesInd referenceDocumentId="RetDoc9">true</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd referenceDocumentId="RetDoc9">false</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd referenceDocumentId="RetDoc9">false</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>false</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd>false</FundraisingActivitiesInd>
+      <GamingActivitiesInd>false</GamingActivitiesInd>
+      <OperateHospitalInd referenceDocumentId="RetDoc14">true</OperateHospitalInd>
+      <AuditedFinancialStmtAttInd referenceDocumentId="RetDoc2">true</AuditedFinancialStmtAttInd>
+      <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd referenceDocumentId="RetDoc10">true</ScheduleJRequiredInd>
+      <TaxExemptBondsInd referenceDocumentId="RetDoc11">true</TaxExemptBondsInd>
+      <InvestTaxExemptBondsInd>false</InvestTaxExemptBondsInd>
+      <EscrowAccountInd>false</EscrowAccountInd>
+      <OnBehalfOfIssuerInd>false</OnBehalfOfIssuerInd>
+      <EngagedInExcessBenefitTransInd referenceDocumentId="RetDoc12">false</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd referenceDocumentId="RetDoc12">false</PYExcessBenefitTransInd>
+      <LoanOutstandingInd referenceDocumentId="RetDoc12">false</LoanOutstandingInd>
+      <GrantToRelatedPersonInd referenceDocumentId="RetDoc12">false</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd referenceDocumentId="RetDoc12">false</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd referenceDocumentId="RetDoc12">true</BusinessRlnWithFamMemInd>
+      <BusinessRlnWithOfficerEntInd referenceDocumentId="RetDoc12">true</BusinessRlnWithOfficerEntInd>
+      <DeductibleNonCashContriInd>false</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>false</DeductibleArtContributionInd>
+      <TerminateOperationsInd>false</TerminateOperationsInd>
+      <PartialLiquidationInd>false</PartialLiquidationInd>
+      <DisregardedEntityInd referenceDocumentId="RetDoc16">false</DisregardedEntityInd>
+      <RelatedEntityInd referenceDocumentId="RetDoc16">true</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>true</RelatedOrganizationCtrlEntInd>
+      <TransactionWithControlEntInd referenceDocumentId="RetDoc16">true</TransactionWithControlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd referenceDocumentId="RetDoc16">false</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd referenceDocumentId="RetDoc16">false</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>true</ScheduleORequiredInd>
+      <IRPDocumentCnt>90</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <BackupWthldComplianceInd>true</BackupWthldComplianceInd>
+      <EmployeeCnt>2420</EmployeeCnt>
+      <EmploymentTaxReturnsFiledInd>true</EmploymentTaxReturnsFiledInd>
+      <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+      <Form990TFiledInd>true</Form990TFiledInd>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>false</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>false</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>false</QuidProQuoContributionsInd>
+      <Form8282PropertyDisposedOfInd>false</Form8282PropertyDisposedOfInd>
+      <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+      <IndoorTanningServicesInd>false</IndoorTanningServicesInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>16</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>9</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>false</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>false</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>false</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>false</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>true</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>true</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>true</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>true</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>true</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>false</OfficerMailingAddressInd>
+      <LocalChaptersInd>false</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>true</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>true</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>true</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>true</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>true</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>true</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>true</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>true</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>false</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>ME</StatesWhereCopyOfReturnIsFldCd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <PersonNm>RICHARD OLSEN</PersonNm>
+        <PhoneNum>2072837898</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>1 MEDICAL CENTER DRIVE</AddressLine1Txt>
+          <CityNm>BIDDEFORD</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>040050626</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>THOMPSON JOHN DO</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>50.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>800883</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>25846</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>GOUDREAU FRANK MD</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>50.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>654749</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>25466</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CARROLL MICHAEL MD</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>50.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>468568</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>25563</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MANNING PETER MD</PersonNm>
+        <TitleTxt>PHYSICIAN</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>1.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>411941</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>12178</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>O'HARE MARY MD</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>50.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>325124</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>10803</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>QUINN-SKILLINGS GINA MD</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>5.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>45.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>49051</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>241861</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>28239</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>BURGESS DONALD MD</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>50.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>238050</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>24820</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>BAUMAN ROBERT P</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>GAINES BERNARD</PersonNm>
+        <TitleTxt>CHAIRPERSON</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>PAIGE BRADFORD C</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>QUENTIN ROBERT C</PersonNm>
+        <TitleTxt>TREASURER</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>PERKINS MERILEE</PersonNm>
+        <TitleTxt>SECRETARY</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>HISSONG GEORGE JR</PersonNm>
+        <TitleTxt>VICE-CHAIRPE</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MICKERIZ MARK</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>REINKEN ROB</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>BUCK STEVEN</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MCGEACHEY EDWARD J</PersonNm>
+        <TitleTxt>PRESIDENT</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>1.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>590131</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>28351</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>APRILE PATRICIA</PersonNm>
+        <TitleTxt>SENIOR VP/CO</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>1.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>356025</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>26935</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>BELAIR NORMAN</PersonNm>
+        <TitleTxt>EVP/CFO</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>1.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>335835</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>26263</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>ALBAUM MICHAEL MD</PersonNm>
+        <TitleTxt>SENIOR VP/CM</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>50.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>334278</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>28475</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>LYON DONALD MD</PersonNm>
+        <TitleTxt>PHYSICIAN</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>288352</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>HADIARISSUSAN</PersonNm>
+        <TitleTxt>SR. VP &amp; CPO</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>1.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>269164</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>16584</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CAMIREPATRICIA RN</PersonNm>
+        <TitleTxt>SR. VP CLINI</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>1.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>260700</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>22867</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>FOURNIER MARC M</PersonNm>
+        <TitleTxt>VP, SUPPORT</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>211014</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>18363</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>KEEGAN STEVE</PersonNm>
+        <TitleTxt>VP ANCILLARY</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>204816</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>14281</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>5798681</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>241861</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>335034</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>59</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>false</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>true</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>false</CompensationFromOtherSrcsInd>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <PersonNm>HEALTHCARE EXCELLENCE INST</PersonNm>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>21045 N 9TH PLACE SUITE 205</AddressLine1Txt>
+            <CityNm>PHOENIX</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85024</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>BILLING SVCS</ServicesDesc>
+        <CompensationAmt>986886</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <PersonNm>SPECTRUM MEDICAL GROUP PA</PersonNm>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>324 GANNETT DRIVE SUITE 200</AddressLine1Txt>
+            <CityNm>PORTLAND</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04106</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>MED DIRECTOR</ServicesDesc>
+        <CompensationAmt>581967</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <PersonNm>NATIONWIDE ANESTHESIA SERVICES</PersonNm>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 490968</AddressLine1Txt>
+            <CityNm>LAWRENCEVILLE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30049</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>ANESTHESIA SVCS</ServicesDesc>
+        <CompensationAmt>433859</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <PersonNm>EXECUTIVE HEALTH RESOURCES INC</PersonNm>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>3797 MOMENTUM PLACE</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>606895337</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>MED REC REVIEW</ServicesDesc>
+        <CompensationAmt>334228</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <BusinessName>
+            <BusinessNameLine1Txt>MAINE COAST ANESTHESIA ASSOCIATES</BusinessNameLine1Txt>
+          </BusinessName>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 446</AddressLine1Txt>
+            <CityNm>WELLS</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04090</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>ANESTHESIA SVCS</ServicesDesc>
+        <CompensationAmt>200215</CompensationAmt>
+      </ContractorCompensationGrp>
+      <CntrctRcvdGreaterThan100KCnt>9</CntrctRcvdGreaterThan100KCnt>
+      <RelatedOrganizationsAmt>144249</RelatedOrganizationsAmt>
+      <GovernmentGrantsAmt>813971</GovernmentGrantsAmt>
+      <AllOtherContributionsAmt>1884249</AllOtherContributionsAmt>
+      <TotalContributionsAmt>2842469</TotalContributionsAmt>
+      <ProgramServiceRevenueGrp>
+        <Desc>PATIENT SERVICES</Desc>
+        <BusinessCd>623000</BusinessCd>
+        <TotalRevenueColumnAmt>255186057</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>255186057</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>PATIENT SERVICES</Desc>
+        <BusinessCd>621500</BusinessCd>
+        <TotalRevenueColumnAmt>167765</TotalRevenueColumnAmt>
+        <UnrelatedBusinessRevenueAmt>167765</UnrelatedBusinessRevenueAmt>
+      </ProgramServiceRevenueGrp>
+      <TotalProgramServiceRevenueAmt>255353822</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>2132531</TotalRevenueColumnAmt>
+        <UnrelatedBusinessRevenueAmt>-10583</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>2143114</ExclusionAmt>
+      </InvestmentIncomeGrp>
+      <GrossRentsGrp>
+        <RealAmt>256776</RealAmt>
+      </GrossRentsGrp>
+      <LessRentalExpensesGrp>
+        <RealAmt>370515</RealAmt>
+      </LessRentalExpensesGrp>
+      <RentalIncomeOrLossGrp>
+        <RealAmt>-113739</RealAmt>
+      </RentalIncomeOrLossGrp>
+      <NetRentalIncomeOrLossGrp>
+        <TotalRevenueColumnAmt>-113739</TotalRevenueColumnAmt>
+        <ExclusionAmt>-113739</ExclusionAmt>
+      </NetRentalIncomeOrLossGrp>
+      <GrossAmountSalesAssetsGrp>
+        <OtherAmt>177770</OtherAmt>
+      </GrossAmountSalesAssetsGrp>
+      <LessCostOthBasisSalesExpnssGrp>
+        <OtherAmt>1879</OtherAmt>
+      </LessCostOthBasisSalesExpnssGrp>
+      <GainOrLossGrp>
+        <OtherAmt>175891</OtherAmt>
+      </GainOrLossGrp>
+      <NetGainOrLossInvestmentsGrp>
+        <TotalRevenueColumnAmt>175891</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>175891</RelatedOrExemptFuncIncomeAmt>
+      </NetGainOrLossInvestmentsGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>OTHER MEDICAL SERVICES</Desc>
+        <BusinessCd>621990</BusinessCd>
+        <TotalRevenueColumnAmt>2366437</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>2366437</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>OTHER</Desc>
+        <BusinessCd>722514</BusinessCd>
+        <TotalRevenueColumnAmt>1228170</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>1228170</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>PHARMACY</Desc>
+        <BusinessCd>446110</BusinessCd>
+        <TotalRevenueColumnAmt>809687</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>809687</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <MiscellaneousRevenueGrp>
+        <TotalRevenueColumnAmt>1589954</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>1589954</RelatedOrExemptFuncIncomeAmt>
+      </MiscellaneousRevenueGrp>
+      <OtherRevenueTotalAmt>5994248</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>266385222</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>261356196</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>157182</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>2029375</ExclusionAmt>
+      </TotalRevenueGrp>
+      <InfoInScheduleOPartIXInd>X</InfoInScheduleOPartIXInd>
+      <CompCurrentOfcrDirectorsGrp>
+        <TotalAmt>1258648</TotalAmt>
+        <ProgramServicesAmt>906227</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>352421</ManagementAndGeneralAmt>
+      </CompCurrentOfcrDirectorsGrp>
+      <OtherSalariesAndWagesGrp>
+        <TotalAmt>89604937</TotalAmt>
+        <ProgramServicesAmt>80687738</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>8843406</ManagementAndGeneralAmt>
+        <FundraisingAmt>73793</FundraisingAmt>
+      </OtherSalariesAndWagesGrp>
+      <PensionPlanContributionsGrp>
+        <TotalAmt>1770087</TotalAmt>
+        <ProgramServicesAmt>1569364</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>199288</ManagementAndGeneralAmt>
+        <FundraisingAmt>1435</FundraisingAmt>
+      </PensionPlanContributionsGrp>
+      <OtherEmployeeBenefitsGrp>
+        <TotalAmt>15795471</TotalAmt>
+        <ProgramServicesAmt>14063363</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1717349</ManagementAndGeneralAmt>
+        <FundraisingAmt>14759</FundraisingAmt>
+      </OtherEmployeeBenefitsGrp>
+      <PayrollTaxesGrp>
+        <TotalAmt>6525625</TotalAmt>
+        <ProgramServicesAmt>5812836</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>707144</ManagementAndGeneralAmt>
+        <FundraisingAmt>5645</FundraisingAmt>
+      </PayrollTaxesGrp>
+      <FeesForServicesLegalGrp>
+        <TotalAmt>69308</TotalAmt>
+        <ManagementAndGeneralAmt>69308</ManagementAndGeneralAmt>
+      </FeesForServicesLegalGrp>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>92402</TotalAmt>
+        <ManagementAndGeneralAmt>92402</ManagementAndGeneralAmt>
+      </FeesForServicesAccountingGrp>
+      <FeesForServicesOtherGrp>
+        <TotalAmt>33335784</TotalAmt>
+        <ProgramServicesAmt>22362589</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>10963854</ManagementAndGeneralAmt>
+        <FundraisingAmt>9341</FundraisingAmt>
+      </FeesForServicesOtherGrp>
+      <AdvertisingGrp>
+        <TotalAmt>435578</TotalAmt>
+        <ProgramServicesAmt>2577</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>414923</ManagementAndGeneralAmt>
+        <FundraisingAmt>18078</FundraisingAmt>
+      </AdvertisingGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>3536217</TotalAmt>
+        <ProgramServicesAmt>954053</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>2576450</ManagementAndGeneralAmt>
+        <FundraisingAmt>5714</FundraisingAmt>
+      </OfficeExpensesGrp>
+      <OccupancyGrp>
+        <TotalAmt>6951782</TotalAmt>
+        <ProgramServicesAmt>4670992</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>2280016</ManagementAndGeneralAmt>
+        <FundraisingAmt>774</FundraisingAmt>
+      </OccupancyGrp>
+      <TravelGrp>
+        <TotalAmt>267934</TotalAmt>
+        <ProgramServicesAmt>146259</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>121675</ManagementAndGeneralAmt>
+      </TravelGrp>
+      <InterestGrp>
+        <TotalAmt>2559314</TotalAmt>
+        <ProgramServicesAmt>57264</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>2502050</ManagementAndGeneralAmt>
+      </InterestGrp>
+      <DepreciationDepletionGrp>
+        <TotalAmt>11827021</TotalAmt>
+        <ProgramServicesAmt>486130</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>11340891</ManagementAndGeneralAmt>
+      </DepreciationDepletionGrp>
+      <InsuranceGrp>
+        <TotalAmt>1515193</TotalAmt>
+        <ProgramServicesAmt>234982</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1280211</ManagementAndGeneralAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>PHYSICIAN FEES</Desc>
+        <TotalAmt>47976349</TotalAmt>
+        <ProgramServicesAmt>47280700</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>695649</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>MEDICAL SUPPLIES</Desc>
+        <TotalAmt>29242146</TotalAmt>
+        <ProgramServicesAmt>28940263</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>294848</ManagementAndGeneralAmt>
+        <FundraisingAmt>7035</FundraisingAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>INTEGRATED SERVICES</Desc>
+        <TotalAmt>8700896</TotalAmt>
+        <ProgramServicesAmt>427482</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>8273414</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>PROVIDER TAX</Desc>
+        <TotalAmt>5989824</TotalAmt>
+        <ProgramServicesAmt>5989824</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <AllOtherExpensesGrp>
+        <TotalAmt>2803067</TotalAmt>
+        <ProgramServicesAmt>529956</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>2257805</ManagementAndGeneralAmt>
+        <FundraisingAmt>15306</FundraisingAmt>
+      </AllOtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>270257583</TotalAmt>
+        <ProgramServicesAmt>215122599</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>54983104</ManagementAndGeneralAmt>
+        <FundraisingAmt>151880</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>11732</BOYAmt>
+        <EOYAmt>11682</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <SavingsAndTempCashInvstGrp>
+        <BOYAmt>1917607</BOYAmt>
+        <EOYAmt>4716670</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <AccountsReceivableGrp>
+        <BOYAmt>39502187</BOYAmt>
+        <EOYAmt>36582509</EOYAmt>
+      </AccountsReceivableGrp>
+      <InventoriesForSaleOrUseGrp>
+        <BOYAmt>4069680</BOYAmt>
+        <EOYAmt>3969761</EOYAmt>
+      </InventoriesForSaleOrUseGrp>
+      <PrepaidExpensesDefrdChargesGrp>
+        <BOYAmt>1917968</BOYAmt>
+        <EOYAmt>2189107</EOYAmt>
+      </PrepaidExpensesDefrdChargesGrp>
+      <LandBldgEquipCostOrOtherBssAmt>281204501</LandBldgEquipCostOrOtherBssAmt>
+      <LandBldgEquipAccumDeprecAmt>185815732</LandBldgEquipAccumDeprecAmt>
+      <LandBldgEquipBasisNetGrp>
+        <BOYAmt>99024846</BOYAmt>
+        <EOYAmt>95388769</EOYAmt>
+      </LandBldgEquipBasisNetGrp>
+      <InvestmentsPubTradedSecGrp>
+        <BOYAmt>52484450</BOYAmt>
+        <EOYAmt>48237965</EOYAmt>
+      </InvestmentsPubTradedSecGrp>
+      <InvestmentsOtherSecuritiesGrp>
+        <BOYAmt>27748866</BOYAmt>
+        <EOYAmt>27855139</EOYAmt>
+      </InvestmentsOtherSecuritiesGrp>
+      <OtherAssetsTotalGrp>
+        <BOYAmt>37866193</BOYAmt>
+        <EOYAmt>45723394</EOYAmt>
+      </OtherAssetsTotalGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>264543529</BOYAmt>
+        <EOYAmt>264674996</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <BOYAmt>21127162</BOYAmt>
+        <EOYAmt>16965701</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <DeferredRevenueGrp>
+        <BOYAmt>208740</BOYAmt>
+        <EOYAmt>166052</EOYAmt>
+      </DeferredRevenueGrp>
+      <TaxExemptBondLiabilitiesGrp>
+        <BOYAmt>34460745</BOYAmt>
+        <EOYAmt>31924194</EOYAmt>
+      </TaxExemptBondLiabilitiesGrp>
+      <MortgNotesPyblScrdInvstPropGrp>
+        <BOYAmt>8256401</BOYAmt>
+        <EOYAmt>7344511</EOYAmt>
+      </MortgNotesPyblScrdInvstPropGrp>
+      <OtherLiabilitiesGrp>
+        <BOYAmt>62952283</BOYAmt>
+        <EOYAmt>70935358</EOYAmt>
+      </OtherLiabilitiesGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>127005331</BOYAmt>
+        <EOYAmt>127335816</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+      <UnrestrictedNetAssetsGrp>
+        <BOYAmt>123284036</BOYAmt>
+        <EOYAmt>122547714</EOYAmt>
+      </UnrestrictedNetAssetsGrp>
+      <TemporarilyRstrNetAssetsGrp>
+        <BOYAmt>2075869</BOYAmt>
+        <EOYAmt>2284471</EOYAmt>
+      </TemporarilyRstrNetAssetsGrp>
+      <PermanentlyRstrNetAssetsGrp>
+        <BOYAmt>12178293</BOYAmt>
+        <EOYAmt>12506995</EOYAmt>
+      </PermanentlyRstrNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>137538198</BOYAmt>
+        <EOYAmt>137339180</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>264543529</BOYAmt>
+        <EOYAmt>264674996</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <InfoInScheduleOPartXIInd>X</InfoInScheduleOPartXIInd>
+      <ReconcilationRevenueExpnssAmt>-3872361</ReconcilationRevenueExpnssAmt>
+      <NetUnrlzdGainsLossesInvstAmt>4107641</NetUnrlzdGainsLossesInvstAmt>
+      <OtherChangesInNetAssetsAmt>-434298</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>false</AccountantCompileOrReviewInd>
+      <FSAuditedInd>true</FSAuditedInd>
+      <FSAuditedBasisGrp>
+        <ConsolidatedBasisFinclStmtInd>X</ConsolidatedBasisFinclStmtInd>
+      </FSAuditedBasisGrp>
+      <AuditCommitteeInd>true</AuditCommitteeInd>
+      <FederalGrantAuditRequiredInd>false</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc15">
+      <HospitalInd>X</HospitalInd>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleC documentId="RetDoc7">
+      <VolunteersInd>false</VolunteersInd>
+      <PaidStaffOrManagementInd>false</PaidStaffOrManagementInd>
+      <MediaAdvertisementsInd>false</MediaAdvertisementsInd>
+      <MailingsMembersInd>false</MailingsMembersInd>
+      <PublicationsOrBroadcastInd>false</PublicationsOrBroadcastInd>
+      <GrantsOtherOrganizationsInd>false</GrantsOtherOrganizationsInd>
+      <DirectContactLegislatorsInd>false</DirectContactLegislatorsInd>
+      <RalliesDemonstrationsInd>false</RalliesDemonstrationsInd>
+      <OtherActivitiesInd>true</OtherActivitiesInd>
+      <OtherActivitiesAmt>27532</OtherActivitiesAmt>
+      <TotalLobbyingExpendituresAmt>27532</TotalLobbyingExpendituresAmt>
+      <NotDescribedSection501c3Ind>false</NotDescribedSection501c3Ind>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE C, PART II-B, LINE 1</FormAndLineReferenceDesc>
+        <ExplanationTxt>SMHC IS A MEMBER OF THE MAINE HOSPITAL ASSOCIATION (MHA), THE AMERICAN HOSPITAL ASSOCIATION (AHA) AND THE MAINE HEALTH CARE ASSOCIATION (MHCA). 18.00% OR 14,427 OF THE DUES PAID TO MHA, 22.12% OR 10,267 OF THE DUES PAID TO AHA AND 36.04% OR 2,838 OF THE DUES PAID TO MHCA ARE AVAILABLE FOR LOBBYING.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="RetDoc8">
+      <CYEndwmtFundGrp>
+        <BeginningYearBalanceAmt>71825362</BeginningYearBalanceAmt>
+        <ContributionsAmt>89421</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>5294858</InvestmentEarningsOrLossesAmt>
+        <OtherExpendituresAmt>-10000388</OtherExpendituresAmt>
+        <EndYearBalanceAmt>67209253</EndYearBalanceAmt>
+      </CYEndwmtFundGrp>
+      <CYMinus1YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>75050388</BeginningYearBalanceAmt>
+        <ContributionsAmt>9587</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>-3234613</InvestmentEarningsOrLossesAmt>
+        <EndYearBalanceAmt>71825362</EndYearBalanceAmt>
+      </CYMinus1YrEndwmtFundGrp>
+      <CYMinus2YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>45515244</BeginningYearBalanceAmt>
+        <ContributionsAmt>35609041</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>-6073897</InvestmentEarningsOrLossesAmt>
+        <EndYearBalanceAmt>75050388</EndYearBalanceAmt>
+      </CYMinus2YrEndwmtFundGrp>
+      <CYMinus3YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>23440924</BeginningYearBalanceAmt>
+        <ContributionsAmt>19406274</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>2668046</InvestmentEarningsOrLossesAmt>
+        <EndYearBalanceAmt>45515244</EndYearBalanceAmt>
+      </CYMinus3YrEndwmtFundGrp>
+      <CYMinus4YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>19464355</BeginningYearBalanceAmt>
+        <ContributionsAmt>11991</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>3964578</InvestmentEarningsOrLossesAmt>
+        <EndYearBalanceAmt>23440924</EndYearBalanceAmt>
+      </CYMinus4YrEndwmtFundGrp>
+      <BoardDesignatedBalanceEOYPct>0.97090</BoardDesignatedBalanceEOYPct>
+      <PrmnntEndowmentBalanceEOYPct>0.02910</PrmnntEndowmentBalanceEOYPct>
+      <EndowmentsHeldUnrelatedOrgInd>false</EndowmentsHeldUnrelatedOrgInd>
+      <EndowmentsHeldRelatedOrgInd>false</EndowmentsHeldRelatedOrgInd>
+      <LandGrp>
+        <OtherCostOrOtherBasisAmt>4251503</OtherCostOrOtherBasisAmt>
+        <BookValueAmt>4251503</BookValueAmt>
+      </LandGrp>
+      <BuildingsGrp>
+        <OtherCostOrOtherBasisAmt>154601237</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>91249138</DepreciationAmt>
+        <BookValueAmt>63352099</BookValueAmt>
+      </BuildingsGrp>
+      <LeaseholdImprovementsGrp>
+        <OtherCostOrOtherBasisAmt>7640235</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>3553081</DepreciationAmt>
+        <BookValueAmt>4087154</BookValueAmt>
+      </LeaseholdImprovementsGrp>
+      <EquipmentGrp>
+        <OtherCostOrOtherBasisAmt>105678611</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>86115672</DepreciationAmt>
+        <BookValueAmt>19562939</BookValueAmt>
+      </EquipmentGrp>
+      <OtherLandBuildingsGrp>
+        <OtherCostOrOtherBasisAmt>9032915</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>4897841</DepreciationAmt>
+        <BookValueAmt>4135074</BookValueAmt>
+      </OtherLandBuildingsGrp>
+      <TotalBookValueLandBuildingsAmt>95388769</TotalBookValueLandBuildingsAmt>
+      <OtherSecuritiesGrp>
+        <Desc>ALTERNATIVE INVESTMENTS</Desc>
+        <BookValueAmt>26398765</BookValueAmt>
+        <MethodValuationCd>F</MethodValuationCd>
+      </OtherSecuritiesGrp>
+      <OtherSecuritiesGrp>
+        <Desc>INVESTMENT IN REAL PROPERTY</Desc>
+        <BookValueAmt>1456374</BookValueAmt>
+        <MethodValuationCd>F</MethodValuationCd>
+      </OtherSecuritiesGrp>
+      <TotalBookValueSecuritiesAmt>27855139</TotalBookValueSecuritiesAmt>
+      <OtherAssetsOrgGrp>
+        <Desc>PPD SHARED HEALTH RECORD SYSTEM COST</Desc>
+        <BookValueAmt>29934489</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <OtherAssetsOrgGrp>
+        <Desc>BENEFICIAL INTEREST PERPETUAL TRUST</Desc>
+        <BookValueAmt>10606757</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <OtherAssetsOrgGrp>
+        <Desc>INVESTMENT IN CCCYC</Desc>
+        <BookValueAmt>2167629</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <OtherAssetsOrgGrp>
+        <Desc>OTHER RECEIVABLES</Desc>
+        <BookValueAmt>1009309</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <OtherAssetsOrgGrp>
+        <Desc>DUE FROM RELATED PARTIES</Desc>
+        <BookValueAmt>852342</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <OtherAssetsOrgGrp>
+        <Desc>CSV OF LIFE INSURANCE</Desc>
+        <BookValueAmt>851677</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <OtherAssetsOrgGrp>
+        <Desc>INVESTMENT IN MH ACO</Desc>
+        <BookValueAmt>301191</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <OtherAssetsOrgGrp>
+        <Desc>JOINT VENTURE - PINE TREE INSURANCE</Desc>
+      </OtherAssetsOrgGrp>
+      <TotalBookValueOtherAssetsAmt>45723394</TotalBookValueOtherAssetsAmt>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>DUE TO AFFILIATES</Desc>
+        <Amt>48915178</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>LINE OF CREDIT</Desc>
+        <Amt>10000000</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>CAPITAL LEASE OBLIGATION</Desc>
+        <Amt>8913416</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>ESTIMATED 3RD PARTY PAYOR SETTLEMENT</Desc>
+        <Amt>2690831</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>NOTE PAYABLE - THE MEDICAL GROUP</Desc>
+        <Amt>415933</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>BIDDEFORD FREE CLINIC</Desc>
+      </OtherLiabilitiesOrgGrp>
+      <TotalLiabilityAmt>70935358</TotalLiabilityAmt>
+      <FootnoteTextInd>X</FootnoteTextInd>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE D, PAGE 3, PART X</FormAndLineReferenceDesc>
+        <ExplanationTxt>SMHC AND THE CANCER CENTER ARE EXEMPT FROM INCOME TAXES UNDER SECTION 501 (C)(3) OF THE INTERNAL REVENUE CODE. SMHC PHYSICIAN SERVICES IS A TAXABLE ENTITY, AND SMHC HAS LIMITED LIABILITY CORPORATION SUBSIDIARIES, WHICH ARE TREATED AS DISREGARDED ENTITIES BY THE INTERNAL REVENUE SERVICE.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleD>
+    <IRS990ScheduleF documentId="RetDoc9">
+      <GrantRecordsMaintainedInd>false</GrantRecordsMaintainedInd>
+      <AccountActivitiesOutsideUSGrp>
+        <RegionTxt>CENTRAL AMERICA AND THE CARIBBEAN</RegionTxt>
+        <TypeOfActivitiesConductedTxt>INVESTMENTS</TypeOfActivitiesConductedTxt>
+        <RegionTotalExpendituresAmt>17554689</RegionTotalExpendituresAmt>
+      </AccountActivitiesOutsideUSGrp>
+      <SubtotalSpentAmt>17554689</SubtotalSpentAmt>
+      <TotalSpentAmt>17554689</TotalSpentAmt>
+      <TransferToForeignCorpInd>false</TransferToForeignCorpInd>
+      <InterestInForeignTrustInd>false</InterestInForeignTrustInd>
+      <ForeignCorpOwnershipInd>false</ForeignCorpOwnershipInd>
+      <PassiveForeignInvestmestCoInd>false</PassiveForeignInvestmestCoInd>
+      <ForeignPartnershipInd>false</ForeignPartnershipInd>
+      <BoycottCountriesInd>false</BoycottCountriesInd>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE F, PAGE 1, PART I, LINE 3</FormAndLineReferenceDesc>
+        <ExplanationTxt>CENTRAL AMERICA AND THE CARIBBEAN 0 17,554,689</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleF>
+    <IRS990ScheduleH documentId="RetDoc14">
+      <FinancialAssistancePolicyInd>true</FinancialAssistancePolicyInd>
+      <WrittenPolicyInd>true</WrittenPolicyInd>
+      <FPGReferenceFreeCareInd>true</FPGReferenceFreeCareInd>
+      <FreeCareOthPercentageGrp>
+        <OtherInd>X</OtherInd>
+        <FreeCareOtherPct>1.750000000000</FreeCareOtherPct>
+      </FreeCareOthPercentageGrp>
+      <FPGReferenceDiscountedCareInd>true</FPGReferenceDiscountedCareInd>
+      <DiscountedCareOthPercentageGrp>
+        <OtherInd>X</OtherInd>
+        <DiscountedCareOtherPct>2.250000000000</DiscountedCareOtherPct>
+      </DiscountedCareOthPercentageGrp>
+      <FreeCareMedicallyIndigentInd>true</FreeCareMedicallyIndigentInd>
+      <FinancialAssistanceBudgetInd>true</FinancialAssistanceBudgetInd>
+      <ExpensesExceedBudgetInd>false</ExpensesExceedBudgetInd>
+      <AnnualCommunityBnftReportInd>true</AnnualCommunityBnftReportInd>
+      <ReportPublicallyAvailableInd>true</ReportPublicallyAvailableInd>
+      <FinancialAssistanceAtCostTyp>
+        <TotalCommunityBenefitExpnsAmt>7074133</TotalCommunityBenefitExpnsAmt>
+        <NetCommunityBenefitExpnsAmt>7074133</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.02680</TotalExpensePct>
+      </FinancialAssistanceAtCostTyp>
+      <UnreimbursedMedicaidGrp>
+        <TotalCommunityBenefitExpnsAmt>35167705</TotalCommunityBenefitExpnsAmt>
+        <DirectOffsettingRevenueAmt>23257511</DirectOffsettingRevenueAmt>
+        <NetCommunityBenefitExpnsAmt>11910194</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.04500</TotalExpensePct>
+      </UnreimbursedMedicaidGrp>
+      <TotalFinancialAssistanceTyp>
+        <TotalCommunityBenefitExpnsAmt>42241838</TotalCommunityBenefitExpnsAmt>
+        <DirectOffsettingRevenueAmt>23257511</DirectOffsettingRevenueAmt>
+        <NetCommunityBenefitExpnsAmt>18984327</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.07180</TotalExpensePct>
+      </TotalFinancialAssistanceTyp>
+      <CommunityHealthServicesGrp>
+        <TotalCommunityBenefitExpnsAmt>1580583</TotalCommunityBenefitExpnsAmt>
+        <NetCommunityBenefitExpnsAmt>1580583</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.00600</TotalExpensePct>
+      </CommunityHealthServicesGrp>
+      <HealthProfessionsEducationGrp>
+        <TotalCommunityBenefitExpnsAmt>596835</TotalCommunityBenefitExpnsAmt>
+        <NetCommunityBenefitExpnsAmt>596835</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.00230</TotalExpensePct>
+      </HealthProfessionsEducationGrp>
+      <SubsidizedHealthServicesGrp>
+        <TotalCommunityBenefitExpnsAmt>6886285</TotalCommunityBenefitExpnsAmt>
+        <DirectOffsettingRevenueAmt>3619264</DirectOffsettingRevenueAmt>
+        <NetCommunityBenefitExpnsAmt>3267021</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.01230</TotalExpensePct>
+      </SubsidizedHealthServicesGrp>
+      <CashAndInKindContributionsGrp>
+        <TotalCommunityBenefitExpnsAmt>183191</TotalCommunityBenefitExpnsAmt>
+        <NetCommunityBenefitExpnsAmt>183191</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.00070</TotalExpensePct>
+      </CashAndInKindContributionsGrp>
+      <TotalOtherBenefitsGrp>
+        <TotalCommunityBenefitExpnsAmt>9246894</TotalCommunityBenefitExpnsAmt>
+        <DirectOffsettingRevenueAmt>3619264</DirectOffsettingRevenueAmt>
+        <NetCommunityBenefitExpnsAmt>5627630</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.02130</TotalExpensePct>
+      </TotalOtherBenefitsGrp>
+      <TotalCommunityBenefitsGrp>
+        <TotalCommunityBenefitExpnsAmt>51488732</TotalCommunityBenefitExpnsAmt>
+        <DirectOffsettingRevenueAmt>26876775</DirectOffsettingRevenueAmt>
+        <NetCommunityBenefitExpnsAmt>24611957</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.09310</TotalExpensePct>
+      </TotalCommunityBenefitsGrp>
+      <EconomicDevelopmentGrp>
+        <TotalCommunityBenefitExpnsAmt>1000</TotalCommunityBenefitExpnsAmt>
+        <NetCommunityBenefitExpnsAmt>1000</NetCommunityBenefitExpnsAmt>
+      </EconomicDevelopmentGrp>
+      <CommunitySupportGrp>
+        <TotalCommunityBenefitExpnsAmt>33000</TotalCommunityBenefitExpnsAmt>
+        <NetCommunityBenefitExpnsAmt>33000</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.00010</TotalExpensePct>
+      </CommunitySupportGrp>
+      <EnvironmentalImprovementsGrp>
+        <TotalCommunityBenefitExpnsAmt>400</TotalCommunityBenefitExpnsAmt>
+        <NetCommunityBenefitExpnsAmt>400</NetCommunityBenefitExpnsAmt>
+      </EnvironmentalImprovementsGrp>
+      <TotalCommuntityBuildingActyGrp>
+        <TotalCommunityBenefitExpnsAmt>34400</TotalCommunityBenefitExpnsAmt>
+        <NetCommunityBenefitExpnsAmt>34400</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.00010</TotalExpensePct>
+      </TotalCommuntityBuildingActyGrp>
+      <BadDebtExpenseReportedInd>false</BadDebtExpenseReportedInd>
+      <BadDebtExpenseAmt>8449793</BadDebtExpenseAmt>
+      <ReimbursedByMedicareAmt>94795586</ReimbursedByMedicareAmt>
+      <CostOfCareReimbursedByMedcrAmt>115944662</CostOfCareReimbursedByMedcrAmt>
+      <MedicareSurplusOrShortfallAmt>-21149076</MedicareSurplusOrShortfallAmt>
+      <CostingMethodologyUsedGrp>
+        <CostToChargeRatioInd>X</CostToChargeRatioInd>
+      </CostingMethodologyUsedGrp>
+      <WrittenDebtCollectionPolicyInd>true</WrittenDebtCollectionPolicyInd>
+      <FinancialAssistancePrvsnInd>true</FinancialAssistancePrvsnInd>
+      <HospitalFacilitiesCnt>2</HospitalFacilitiesCnt>
+      <HospitalFacilitiesGrp>
+        <FacilityNum>1</FacilityNum>
+        <BusinessName>
+          <BusinessNameLine1Txt>SOUTHERN MAINE HEALTH CARE</BusinessNameLine1Txt>
+          <BusinessNameLine2Txt>BIDDEFORD CAMPUS</BusinessNameLine2Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>ONE MEDICAL CENTER DRIVE</AddressLine1Txt>
+          <CityNm>BIDDEFORD</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04005</ZIPCd>
+        </USAddress>
+        <WebsiteAddressTxt>WWW.SMHC.ORG</WebsiteAddressTxt>
+        <StateLicenseNum>38427</StateLicenseNum>
+        <LicensedHospitalInd>X</LicensedHospitalInd>
+        <GeneralMedicalAndSurgicalInd>X</GeneralMedicalAndSurgicalInd>
+        <EmergencyRoom24HrsInd>X</EmergencyRoom24HrsInd>
+        <FacilityReportingGroupCd>A</FacilityReportingGroupCd>
+      </HospitalFacilitiesGrp>
+      <HospitalFacilitiesGrp>
+        <FacilityNum>2</FacilityNum>
+        <BusinessName>
+          <BusinessNameLine1Txt>SOUTHERN MAINE HEALTH CARE</BusinessNameLine1Txt>
+          <BusinessNameLine2Txt>SANFORD CAMPUS</BusinessNameLine2Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>25 JUNE STREET</AddressLine1Txt>
+          <CityNm>SANFORD</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04073</ZIPCd>
+        </USAddress>
+        <WebsiteAddressTxt>WWW.SMHC.ORG</WebsiteAddressTxt>
+        <StateLicenseNum>38427</StateLicenseNum>
+        <LicensedHospitalInd>X</LicensedHospitalInd>
+        <GeneralMedicalAndSurgicalInd>X</GeneralMedicalAndSurgicalInd>
+        <EmergencyRoom24HrsInd>X</EmergencyRoom24HrsInd>
+        <FacilityReportingGroupCd>A</FacilityReportingGroupCd>
+      </HospitalFacilitiesGrp>
+      <HospitalFcltyPoliciesPrctcGrp>
+        <HospitalFacilityName>
+          <BusinessNameLine1Txt>A</BusinessNameLine1Txt>
+        </HospitalFacilityName>
+        <FacilityNum>12</FacilityNum>
+        <FirstLicensedCYOrPYInd>false</FirstLicensedCYOrPYInd>
+        <TaxExemptHospitalCYOrPYInd>false</TaxExemptHospitalCYOrPYInd>
+        <CHNAConductedInd>true</CHNAConductedInd>
+        <CommunityDefinitionInd>X</CommunityDefinitionInd>
+        <CommunityDemographicsInd>X</CommunityDemographicsInd>
+        <ExistingResourcesInd>X</ExistingResourcesInd>
+        <HowDataObtainedInd>X</HowDataObtainedInd>
+        <CommunityHealthNeedsInd>X</CommunityHealthNeedsInd>
+        <CommunityHlthNeedsIdProcessInd>X</CommunityHlthNeedsIdProcessInd>
+        <ConsultingProcessInd>X</ConsultingProcessInd>
+        <InformationGapsInd>X</InformationGapsInd>
+        <OtherInd>X</OtherInd>
+        <CHNAConductedYr>16</CHNAConductedYr>
+        <TakeIntoAccountOthersInputInd>true</TakeIntoAccountOthersInputInd>
+        <CHNAConductedWithOtherFcltsInd>true</CHNAConductedWithOtherFcltsInd>
+        <CHNAConductedWithNonFcltsInd>false</CHNAConductedWithNonFcltsInd>
+        <CHNAReportWidelyAvailableInd>true</CHNAReportWidelyAvailableInd>
+        <RptAvailableOnOwnWebsiteInd>X</RptAvailableOnOwnWebsiteInd>
+        <OwnWebsiteURLTxt>SEE PART V, SECTION C</OwnWebsiteURLTxt>
+        <PaperCopyPublicInspectionInd>X</PaperCopyPublicInspectionInd>
+        <ImplementationStrategyAdoptInd>true</ImplementationStrategyAdoptInd>
+        <ImplementationStrategyAdptYr>16</ImplementationStrategyAdptYr>
+        <StrategyPostedWebsiteInd>true</StrategyPostedWebsiteInd>
+        <StrategyWebsiteURLTxt>SEE PART V, SECTION C</StrategyWebsiteURLTxt>
+        <OrganizationIncurExciseTaxInd>false</OrganizationIncurExciseTaxInd>
+        <EligCriteriaExplainedInd>true</EligCriteriaExplainedInd>
+        <FPGFamilyIncmLmtFreeDscntInd>X</FPGFamilyIncmLmtFreeDscntInd>
+        <FPGFamilyIncmLmtFreeCarePct>175.000000000000</FPGFamilyIncmLmtFreeCarePct>
+        <FPGFamilyIncmLmtDscntCarePct>225.000000000000</FPGFamilyIncmLmtDscntCarePct>
+        <MedicalIndigencyCriteriaInd>X</MedicalIndigencyCriteriaInd>
+        <InsuranceStatusCriteriaInd>X</InsuranceStatusCriteriaInd>
+        <ResidencyCriteriaInd>X</ResidencyCriteriaInd>
+        <OtherCriteriaInd>X</OtherCriteriaInd>
+        <ExplainedBasisInd>true</ExplainedBasisInd>
+        <AppFinancialAsstExplnInd>true</AppFinancialAsstExplnInd>
+        <DescribedInfoInd>X</DescribedInfoInd>
+        <DescribedSuprtDocInd>X</DescribedSuprtDocInd>
+        <ProvidedHospitalContactInd>X</ProvidedHospitalContactInd>
+        <ProvidedNonprofitContactInd>X</ProvidedNonprofitContactInd>
+        <IncludesPublicityMeasuresInd>true</IncludesPublicityMeasuresInd>
+        <FAPAvailableOnWebsiteInd>X</FAPAvailableOnWebsiteInd>
+        <FAPAvailableOnWebsiteURLTxt>SEE PART V SECTION C</FAPAvailableOnWebsiteURLTxt>
+        <FAPAppAvailableOnWebsiteInd>X</FAPAppAvailableOnWebsiteInd>
+        <FAPAppAvailableOnWebsiteURLTxt>SEE PART V SECTION C</FAPAppAvailableOnWebsiteURLTxt>
+        <FAPSummaryOnWebsiteInd>X</FAPSummaryOnWebsiteInd>
+        <FAPSummaryOnWebsiteURLTxt>SEE PART V SECTION C</FAPSummaryOnWebsiteURLTxt>
+        <FAPAvlblOnRequestNoChargeInd>X</FAPAvlblOnRequestNoChargeInd>
+        <FAPAppAvlblOnRequestNoChrgInd>X</FAPAppAvlblOnRequestNoChrgInd>
+        <FAPSumAvlblOnRequestNoChrgInd>X</FAPSumAvlblOnRequestNoChrgInd>
+        <FAPNoticeDisplayedInd>X</FAPNoticeDisplayedInd>
+        <FAPActionsOnNonpaymentInd>true</FAPActionsOnNonpaymentInd>
+        <PermitNoActionsInd>X</PermitNoActionsInd>
+        <CollectionActivitiesInd>true</CollectionActivitiesInd>
+        <FAPNotifiedUponAdmissionInd>X</FAPNotifiedUponAdmissionInd>
+        <FAPNotifiedBeforeDischargeInd>X</FAPNotifiedBeforeDischargeInd>
+        <FAPNotifiedAllPatientsInd>X</FAPNotifiedAllPatientsInd>
+        <DocumentedEligDeterminationInd>X</DocumentedEligDeterminationInd>
+        <NondisEmergencyCarePolicyInd>true</NondisEmergencyCarePolicyInd>
+        <OtherMethodUsedInd>X</OtherMethodUsedInd>
+        <AmountsGenerallyBilledInd>false</AmountsGenerallyBilledInd>
+        <GrossChargesInd>false</GrossChargesInd>
+      </HospitalFcltyPoliciesPrctcGrp>
+      <SupplementalInformationGrp>
+        <FormAndLineReferenceDesc>GROUP A, FACILITY 1, SOUTHERN MAINE HEALTH CARE - PART V, LINE 3J</FormAndLineReferenceDesc>
+        <ExplanationTxt>ALSO INCLUDED IN THE CHNA WAS A PRIORITIZED LIST OF HEALTH NEEDS IDENTIFIED, AS WELL AS THE IMPLEMENTATION PLANS RELATED TO THOSE NEEDS.</ExplanationTxt>
+      </SupplementalInformationGrp>
+      <SupplementalInformationGrp>
+        <FormAndLineReferenceDesc>GROUP A, FACILITY 1, SOUTHERN MAINE HEALTH CARE - PART V, LINE 5</FormAndLineReferenceDesc>
+        <ExplanationTxt>LOCAL COMMUNITY INPUT AND ENGAGEMENT WAS AN INTEGRAL PART OF THE CHNA PROCESS AND THIS INCLUDED COMMUNITY FORUMS, FOCUS GROUPS, ELECTRONIC SURVEYS AND GROUP PRESENTATIONS. THESE GROUPS WERE COMPRISED OF LOCAL COMMUNITY MEMBERS, HEALTHCARE PROVIDERS, DISPARATE POPULATIONS AND THOSE WITH KNOWLEDGE OF PUBLIC HEALTH. THE LOCAL ADVISORY GROUP CONSISTED OF GROUPS FROM SOUTHERN MAINE HEALTH CARE, YORK HOSPITAL, COMMUNITY HEALTH COALITIONS, UNITED WAY, YORK COUNTY COMMUNITY COLLEGE, LOCAL FQHC, ROTARY CLUB, VISITING NURSES, UNIVERSITY OF NEW ENGLAND AND THE DISTRICT PUBLIC HEALTH LIAISON.</ExplanationTxt>
+      </SupplementalInformationGrp>
+      <SupplementalInformationGrp>
+        <FormAndLineReferenceDesc>GROUP A, FACILITY 1, SOUTHERN MAINE HEALTH CARE - PART V, LINE 6A</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE CHNA WAS CONDUCTED THROUGH A PARTNERSHIP BETWEEN MAINEHEALTH, EASTERN MAINE HEALTHCARE SYSTEMS, AND MAINE GENERAL HEALTH.</ExplanationTxt>
+      </SupplementalInformationGrp>
+      <SupplementalInformationGrp>
+        <FormAndLineReferenceDesc>GROUP A, FACILITY 1, SOUTHERN MAINE HEALTH CARE - PART V, LINE 7D</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE CHNA, WHICH INCLUDES THE IMPLEMENTATION PLAN, IS AVAILABLE AT THE FOLLOWING WEBSITE: HTTPS://MAINEHEALTH.ORG/SOUTHERN-MAINE-HEALTH-CARE/HEALTHY-COMMUNITIES</ExplanationTxt>
+      </SupplementalInformationGrp>
+      <SupplementalInformationGrp>
+        <FormAndLineReferenceDesc>GROUP A, FACILITY 1, SOUTHERN MAINE HEALTH CARE - PART V, LINE 11</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION HAS COMPLETED ITS WORK ON ADDRESSING THE SIGNIFICANT NEEDS IDENTIFIED IN ITS 2013-2015 CHNA AND IMPLEMENTATION PLAN. PLEASE SEE THE ATTACHED 2013-2015 IMPLEMENTATION PLAN UPDATE FOR DETAILS OF THE ACTIVITIES UNDERTAKEN BY THE ORGANIZATION TO MEET THE IDENTIFIED NEEDS OF ITS COMMUNITY. FOR THE 2016-2018 CHNA, THE ORGANIZATION HAS IDENTIFIED PRIORITIES AND DEVELOPED STRATEGIES TO ADDRESS THE SIGNIFICANT NEEDS IDENTIFIED IN ITS MOST RECENTLY CONDUCTED CHNA AND PROVIDED REASONS IF IDENTIFIED NEEDS ARE NOT BEING ADDRESSED. SEE HTTPS://MAINEHEALTH.ORG/SOUTHERN-MAINE-HEALTH- CARE/HEALTHY-COMMUNITIES FOR DETAILS.</ExplanationTxt>
+      </SupplementalInformationGrp>
+      <SupplementalInformationGrp>
+        <FormAndLineReferenceDesc>GROUP A, FACILITY 1, SOUTHERN MAINE HEALTH CARE - PART V, LINE 13H</FormAndLineReferenceDesc>
+        <ExplanationTxt>UPON RECEIPT OF AN APPLICATION, SOUTHERN MAINE HEALTH CARE SHALL MAKE A DETERMINATION THAT AN INDIVIDUAL SEEKING FREE CARE QUALIFIES FOR SUCH CARE IF SERVICES RENDERED WERE MEDICALLY NECESSARY.</ExplanationTxt>
+      </SupplementalInformationGrp>
+      <SupplementalInformationGrp>
+        <FormAndLineReferenceDesc>GROUP A, FACILITY 1, SOUTHERN MAINE HEALTH CARE - PART V, LINE 16I</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE FAP IS AVAILABLE ON THE FOLLOWING WEBSITE: HTTPS://MAINEHEALTH.ORG/PATIENTS-VISITORS/BILLING-INSURANCE/FINANCIAL- ASSISTANCE/FREE-CARE THE FAP APPLICATION FORM IS AVAILABLE ON THE FOLLOWING WEBSITE: HTTPS://MAINEHEALTH.ORG/PATIENTS-VISITORS/BILLING-INSURANCE/FINANCIAL- ASSISTANCE/FREE-MEDICAL-CARE-APPLICATION THE PLAIN LANGUAGE SUMMARY IS AVAILABLE ON THE FOLLOWING WEBSITE: HTTPS://MAINEHEALTH.ORG/PATIENTS-VISITORS/BILLING-INSURANCE/FINANCIAL- ASSISTANCE/FREE-CARE</ExplanationTxt>
+      </SupplementalInformationGrp>
+      <SupplementalInformationGrp>
+        <FormAndLineReferenceDesc>GROUP A, FACILITY 1, SOUTHERN MAINE HEALTH CARE - PART V, LINE 22D</FormAndLineReferenceDesc>
+        <ExplanationTxt>SOUTHERN MAINE HEALTH CARE (SMHC) USES A 25% DISCOUNT ON FAP-ELIGIBLE INDIVIDUALS WHO HAVE NO OTHER INSURANCE COVERAGE. HOWEVER, SHOULD AN INDIVIDUAL ALSO HAVE HEALTH INSURANCE, THE DISCOUNT ALREADY PROVIDED TO THE INSURER IS TAKEN INTO ACCOUNT SO AS NOT TO EXCEED THE AS 25% DISCOUNT.</ExplanationTxt>
+      </SupplementalInformationGrp>
+      <FacilityNum>13</FacilityNum>
+      <OthHlthCareFcltsNotHospitalGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SMHC PHYS SVCS &amp; ANC FACILITY</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>9 HEALTHCARE DRIVE</AddressLine1Txt>
+            <CityNm>BIDDEFORD</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04005</ZIPCd>
+          </USAddress>
+          <FacilityTxt>PHYSICIAN OFFICES AND DIAGNOSTIC SERVICE</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SMHC PHYS SVCS &amp; REHAB THERAPY</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>45 BARRA ROAD</AddressLine1Txt>
+            <CityNm>BIDDEFORD</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04005</ZIPCd>
+          </USAddress>
+          <FacilityTxt>INT MED, ORTH SURG, NEUROLOGY, &amp; REHAB</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SMHC PHYS SVCS - INFECTIOUS DISEASE</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>2 MEDICAL CENTER DRIVE</AddressLine1Txt>
+            <CityNm>BIDDEFORD</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04005</ZIPCd>
+          </USAddress>
+          <FacilityTxt>INFECTIOUS DISEASE PHYSICIAN SERVICES</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SMHC PHYS SVCS - ANC FACILITY</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>2 LIVEWELL DRIVE</AddressLine1Txt>
+            <CityNm>KENNEBUNK</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04043</ZIPCd>
+          </USAddress>
+          <FacilityTxt>PHYS OFFICES, ANC SVCS, MINOR PROCEDURES</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SMHC PHYS SVCS - INTERNAL MEDICINE</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>72 MAIN STREET</AddressLine1Txt>
+            <CityNm>KENNEBUNK</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04043</ZIPCd>
+          </USAddress>
+          <FacilityTxt>INTERNAL MEDICINE PHYSICIAN SERVICES</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SMHC PHYS SVCS - PEDIATRICS</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>3 SHAPE DRIVE</AddressLine1Txt>
+            <CityNm>KENNEBUNK</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04043</ZIPCd>
+          </USAddress>
+          <FacilityTxt>PEDIATRIC PHYSICIAN SERVICES</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SMHC PHYS SVCS</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>13 INDUSTRIAL PARK ROAD</AddressLine1Txt>
+            <CityNm>SACO</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04072</ZIPCd>
+          </USAddress>
+          <FacilityTxt>FAMILY MEDICINE PHYSICIAN SERVICES</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SMHC PHYS SVCS - INTERNAL MEDICINE</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>1 GRANNY SMITH ROAD</AddressLine1Txt>
+            <CityNm>OLD ORCHARD BEACH</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04064</ZIPCd>
+          </USAddress>
+          <FacilityTxt>INTERNAL MEDICINE PHYSICIAN SERVICES</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SMHC PHYS SVCS &amp; WALK IN CARE FAC</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>655 MAIN STREET</AddressLine1Txt>
+            <CityNm>SACO</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04072</ZIPCd>
+          </USAddress>
+          <FacilityTxt>PEDIATRICS &amp; OSTEOPATHIC MANIPULATION</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SMHC PHYS SVCS ANC SVCS WALK-IN</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>10 GOODALL DRIVE</AddressLine1Txt>
+            <CityNm>EAST WATERBORO</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04030</ZIPCd>
+          </USAddress>
+          <FacilityTxt>FAMILY MED PHYS SVCS, ANC SVCS, WALK-IN</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SMHC PHYS SVCS GOODALL MED OFF BLD</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>25 A JUNE STREET</AddressLine1Txt>
+            <CityNm>SANFORD</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04073</ZIPCd>
+          </USAddress>
+          <FacilityTxt>PHYS. SVCS, ANC. SVCS &amp; MINOR PROCEDURES</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SMHC NEWTON CENTER</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>35 JULY STREET</AddressLine1Txt>
+            <CityNm>SANFORD</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04073</ZIPCd>
+          </USAddress>
+          <FacilityTxt>NURSING HOME</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SMHC WELLNESS CENTER</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>13 JULY STREET</AddressLine1Txt>
+            <CityNm>SANFORD</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04073</ZIPCd>
+          </USAddress>
+          <FacilityTxt>REHAB THERAPY &amp; OCCUPATIONAL MEDICINE</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+      </OthHlthCareFcltsNotHospitalGrp>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART I, LINE 7G - SUBSIDIZED HEALTH SERVICES EXPLANATION</FormAndLineReferenceDesc>
+        <ExplanationTxt>3,267,021 OF NET COMMUNITY BENEFIT RELATED TO SUBSIDIZED HEALTH SERVICES IS INCLUDED IN PART I, LINE 7G. THIS AMOUNT INCLUDES: MENTAL HEALTH SERVICES - 1,861,687, AND ONCOLOGY SERVICES - 1,405,334.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART I, LINE 7, COLUMN (F) - EXCLUSIONS FROM PERCENT OF TOTAL EXPENSE</FormAndLineReferenceDesc>
+        <ExplanationTxt>STATE OF MAINE PROVIDER TAXES OF OF 5,989,824 WAS REMOVED FROM TOTAL EXPENSES WHEN CALCULATING THE PERCENT OF TOTAL EXPENSES IN COLUMN (F).</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART I, LINE 7 - COSTING METHODOLOGY EXPLANATION</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE COSTING METHODOLOGY FOR THE AMOUNTS REPORTED IN PART I, LINE 7 OF THE SCHEDULE H IS BASED ON A RATIO OF PATIENT CARE COST TO CHARGES. THIS COST TO CHARGE RATIO WAS DERIVED FROM WORKSHEET 2, RATIO OF PATIENT CARE COST-TO-CHARGES PROVIDED IN THE INSTRUCTIONS FOR SCHEDULE H.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART II - COMMUNITY BUILDING ACTIVITIES</FormAndLineReferenceDesc>
+        <ExplanationTxt>SOUTHERN MAINE HEALTH CARE SUPPORTS AND ASSISTS WITH THE LOCAL EMERGENCY PREPAREDNESS TRAINING ON AN ANNUAL BASIS, AND PROVIDES SUPPORT TO LOCAL COMMUNITY ORGANIZATIONS AND TO LOCAL COMMUNITY ECONOMIC DEVELOPMENT.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART III, LINE 2 - BAD DEBT EXPENSE METHODOLOGY</FormAndLineReferenceDesc>
+        <ExplanationTxt>SOUTHERN MAINE HEALTH CARE DOES NOT HAVE A SPECIFIC FOOTNOTE IN THE FINANCIAL STATEMENTS THAT DESCRIBES "BAD DEBT EXPENSE". SOUTHERN MAINE HEALTH CARE REPORTS ACCOUNTS RECEIVABLE FOR SERVICES RENDERED NET OF ALLOWANCES FOR CONTRACTUAL ADJUSTMENTS, THIRD PARTY REIMBURSING AGENCIES, FREE CARE AND BAD DEBTS. A BAD DEBT ALLOWANCE IS ESTABLISHED FOR ACCOUNTS THE HOSPITAL BELIEVES WILL BECOME UNCOLLECTIBLE. THE ALLOWANCE IS ESTABLISHED BY EXAMINING HISTORICAL DATA, AGING TRENDS OF ACCOUNTS RECEIVABLE BALANCES AND ECONOMIC TRENDS. THE OFFSET TO THE ALLOWANCE ACCOUNT IS TO BAD DEBT EXPENSE ON THE STATEMENT OF OPERATIONS. RECOVERIES ON ACCOUNTS PREVIOUSLY WRITTEN OFF ARE ACCOUNTED FOR ON A CASH BASIS AND ARE APPLIED DIRECTLY TO THE PROVISION FOR BAD DEBTS ON THE STATEMENT OF OPERATIONS. ACCOUNTS WRITTEN OFF OR RECOVERED FROM BAD DEBTS DURING THE YEAR ARE CHARGED AGAINST THE ALLOWANCE ACCOUNT ON THE BALANCE SHEET. BAD DEBT EXPENSE REPRESENTS HEALTHCARE SERVICES SOUTHERN MAINE HEALTH CARE HAS PROVIDED WITHOUT COMPENSATION. AS A TAX-EXEMPT HOSPITAL, SOUTHERN MAINE HEALTH CARE PROVIDES NECESSARY PATIENT CARE REGARDLESS OF THE PATIENT'S ABILITY TO PAY FOR THE SERVICES. A PORTION OF SOUTHERN MAINE HEALTH CARE'S BAD DEBT EXPENSE IS ATTRIBUTABLE TO PATIENTS ELIGIBLE FOR FINANCIAL ASSISTANCE THAT, FOR A VARIETY OF REASONS, DO NOT COMPLETE THE FINANCIAL ASSISTANCE APPLICATION PROCESS. SOUTHERN MAINE HEALTH CARE CANNOT DETERMINE THE AMOUNT OF BAD DEBT EXPENSE THAT COULD BE REASONABLY ATTRIBUTABLE TO PATIENTS WHO LIKELY WOULD QUALIFY FOR FINANCIAL ASSISTANCE UNDER THE SOUTHERN MAINE HEALTH CARE'S FREE CARE POLICY. IN ADDITION, BAD DEBT EXPENSE ALSO INCLUDES AMOUNTS FOR SERVICES PROVIDED TO INDIVIDUALS EXPERIENCING DIFFICULT PERSONAL OR ECONOMIC CIRCUMSTANCES RELATED TO A PORTION OF OUR COMMUNITY BASED PATIENT POPULATION. THEIR MEDICAL BILLS OFTEN PLACE THESE INDIVIDUALS IN UNTENABLE POSITIONS WHERE THEY ARE NOT ABLE TO HANDLE THEIR PERSONAL DEBT AND THEN THEIR NEW MEDICAL DEBT. HOWEVER, BECAUSE OF THEIR INCOME LEVEL, THEY DO NOT QUALIFY FOR FREE CARE. BY PROVIDING NECESSARY HEALTHCARE SERVICES TO THOSE INDIVIDUALS EITHER WHO FAIL TO APPLY FOR FINANCIAL ASSISTANCE OR WHO ARE EXPERIENCING DIFFICULT PERSONAL OR ECONOMIC CIRCUMSTANCES, SOUTHERN MAINE HEALTH CARE BELIEVES THAT BAD DEBT EXPENSE SHOULD BE INCLUDED AS A COMMUNITY BENEFIT.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>BAD DEBT EXPENSE FOOTNOTE TO FINANCIAL STATEMENTS</FormAndLineReferenceDesc>
+        <ExplanationTxt>PLEASE SEE EXPLANATION FOR FOOTNOTE UNDER PART III, LINE 2 - BAD DEBT EXPENSE METHODOLOGY.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART III, LINE 8 - MEDICARE EXPLANATION</FormAndLineReferenceDesc>
+        <ExplanationTxt>MEDICARE ALLOWABLE COSTS WERE CALCULATED USING A COST TO CHARGE RATIO. SOUTHERN MAINE HEALTH CARE BELIEVES THAT THE MEDICARE SHORTFALL SHOULD BE INCLUDED AS A COMMUNITY BENEFIT BECAUSE SOUTHERN MAINE HEALTH CARE HAS A CLEAR MISSION COMMITMENT TO SERVING ELDERLY PATIENTS AND ADULTS WITH DISABILITIES THROUGH THE PROVISION OF SPECIFIC SUBSIDIZED PROGRAMS DEVELOPED TO HELP IMPROVE THE HEALTH STATUS OF THESE PATIENTS. IF THESE CRITICAL SUBSIDIZED PROGRAMS WERE NOT PROVIDED BY SOUTHERN MAINE HEALTH CARE, THEY WOULD BECOME THE OBLIGATION OF THE FEDERAL GOVERNMENT.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART III, LINE 9B - COLLECTION PRACTICES EXPLANATION</FormAndLineReferenceDesc>
+        <ExplanationTxt>PATIENTS WHO QUALIFY FOR CHARITY CARE OR FINANCIAL ASSISTANCE HAVE THEIR ACCOUNT BALANCE ADJUSTED ACCORDINGLY ONCE CHARITY CARE OR FINANCIAL ASSISTANCE HAS BEEN APPROVED. FOR PATIENTS THAT DO NOT QUALIFY FOR 100% FINANCIAL ASSISTANCE, THE APPROPRIATE DISCOUNT PERCENTAGE IS APPLIED AND THE REMAINING BALANCE IS BILLED TO THE APPROPRIATE PARTY. MONTHLY PAYMENT ARRANGEMENTS CAN BE ESTABLISHED BY THE RESPONSIBLE PARTY BY CONTACTING THE PATIENT BILLING DEPARTMENT.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART VI, LINE 2 - NEEDS ASSESSMENT</FormAndLineReferenceDesc>
+        <ExplanationTxt>SMHC'S BOARD IS MADE UP OF A DIVERSE SET OF COMMUNITY MEMBERS. THE BOARD REQUIRES A THOROUGH COMMUNITY NEEDS ASSESSMENT ON BEHALF OF THE ORGANIZATION, AND DIRECTS THE ORGANIZATION TO ANALYZE AND RESPOND TO THE CURRENT NEEDS ASSESSMENT. MAINEHEALTH ALSO PARTICIPATES IN VARIOUS INITIATIVES TO HELP SUPPORT AND PROVIDE UPDATES TO COMMUNITY NEEDS ASSESSMENT PLANNING. SOME OF THESE INITIATIVES INCLUDE: - CLINICAL STRATEGIC PLANNING - FINANCIAL STRATEGIC PLANNING - FACILITY PLANNING - MANPOWER PLANNING - PHYSICIAN RECRUITMENT STRATEGIC PLANNING - EMERGENCY PREPAREDNESS PLANNING ALONG WITH THE INTERNAL ASSESSMENTS, MOST MEMBER ORGANIZATIONS ALSO REVIEW AND ACT ON MANY OF THE RECOMMENDATIONS PROVIDED BY EXTERNAL GROUPS SUCH AS THE MAINE CENTER FOR DISEASE CONTROL AND PREVENTION AND THE "STATE HEALTH PLAN" CREATED BY THE ADVISORY COMMITTEE FOR HEALTH SYSTEMS DEVELOPMENT.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART VI, LINE 3 - PATIENT EDUCATION OF ELIGIBILITY FOR ASSISTANCE</FormAndLineReferenceDesc>
+        <ExplanationTxt>FINANCIAL ASSISTANCE INFORMATION IS PROVIDED IN THE ADMITTING, OUTPATIENT, AND EMERGENCY REGISTRATION LOCATIONS IN THE FOLLOWING MANNER: -POSTINGS INCLUDING FREE CARE, MONTHLY PAYMENT PLAN AND EXPANDED FREE CARE PROGRAM -HANDOUTS -INTERVIEWS WITH SMHC'S PATIENT FINANCIAL COUNSELOR SMHC'S WEBSITE INCLUDES THE FOLLOWING PATIENT INFORMATION: - BILLING INFORMATION - PAYMENT OPTIONS - FINANCIAL ASSISTANCE INFORMATION - CONTACT US AND BILLING "FAQ'S" COMMUNICATION BETWEEN SMHC'S PATIENT REGISTRATION AND PATIENT BILLING STAFF IS A KEY COMPONENT IN IDENTIFYING PAYMENT PROGRAMS TO THOSE IN NEED. EMPLOYEES DOCUMENT INTERVIEWS WITH PATIENTS AND FORWARD ALL PERTINENT INFORMATION BETWEEN DEPARTMENTS IN AN EFFORT TO ASSIST THOSE IN NEED. INPATIENTS WHO ARE UNINSURED, UNDER INSURED OR ANY PATIENTS WHO MAY HAVE DIFFICULTY PAYING THEIR HOSPITAL BILLS ARE VISITED BY A FINANCIAL COUNSELOR TO DISCUSS FINANCIAL ASSISTANCE PROGRAMS AND ASSIST WITH APPLICATIONS. THESE PATIENTS ARE ALSO ASSISTED WITH MAINECARE APPLICATIONS IF APPROPRIATE. PRIMARY LANGUAGE, DEAF AND HARD OF HEARING AND INTERPRETER NEEDS ARE ASSESSED EARLY ON IN THE PATIENT CARE PROCESS AND APPROPRIATE SERVICES ARE PROVIDED AS NEEDED. IF A PATIENT DOES NOT RESPOND OR MISSES THE INFORMATION DISCUSSED ABOVE, THEN THE PATIENT BILLING STAFF WILL ASSIST THE PATIENT WITH THE PROCESS AFTER THE INITIAL BILL HAS BEEN SENT OUT. THE INTENT IS TO HAVE INFORMATION AVAILABLE BY SEVERAL MEANS OF ACCESS SO THAT THE PATIENT IS FULLY INFORMED AND CAN TAKE ADVANTAGE OF THE FINANCIAL ASSISTANCE PROGRAM.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART VI, LINE 4 - COMMUNITY INFORMATION</FormAndLineReferenceDesc>
+        <ExplanationTxt>SOUTHERN MAINE HEALTH CARE (SMHC) IS A FULLY INTEGRATED HEALTHCARE SYSTEM PROVIDING PRIMARY CARE AND SPECIALTY PHYSICIAN SERVICES WITHIN BIDDEFORD, KENNEBUNK, SANFORD, WATERBORO, OLD ORCHARD BEACH, AND SACO, MAINE. ALL OF THESE COMMUNITIES ARE LOCATED IN NORTHERN AND WESTERN YORK COUNTY. SMHC INCLUDES TWO FULL SERVICE ACUTE CARE HOSPITALS EACH LOCATED IN BIDDEFORD AND SANFORD AND MAINTAINS YORK COUNTY'S ONLY INPATIENT MENTAL HEALTH UNIT, ONLY MENTAL HEALTH CRISIS UNIT, AND ONLY INPATIENT PEDIATRIC UNIT ON THE BIDDEFORD CAMPUS. ALL SERVICES ARE PROVIDED WITHOUT REGARD FOR THE PATIENT'S ABILITY TO PAY. A JOINT VENTURE WITH MAINE MEDICAL CENTER, THE CANCER CARE CENTER OF YORK COUNTY IS LOCATED IN SANFORD, MAINE. IN ADDITION TO GENERAL HEALTHCARE SERVICES, SOUTHERN MAINE HEALTH CARE SUPPORTS THE COMMUNITY WITH VARIOUS INITIATIVES. OTHER PROGRAMS PROVIDED BY SOUTHERN MAINE HEALTH CARE INCLUDE: SUBSIDIZED HEALTH SERVICES, COMMUNITY EDUCATION SERVICES, HEALTH CARE SUPPORT SERVICES AND COMMUNITY BUILDING ACTIVITIES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART VI, LINE 5 - PROMOTION OF COMMUNITY HEALTH</FormAndLineReferenceDesc>
+        <ExplanationTxt>AS A FULLY INTEGRATED TAX-EXEMPT HEALTHCARE SYSTEM, SOUTHERN MAINE HEALTH CARE (SMHC) HAS PROVIDED OPEN ACCESS TO ALL PATIENTS. IN THE FALL OF 2008, SMHC PURCHASED A LARGE MULTIDISCIPLINARY PRIVATE PHYSICIAN PRACTIVE LOCATED IN ITS SERVICE AREA AS A MEANS OF ASSURING THAT ACCESS. IN FISCAL YEAR 2016 THE MEDICAID POPULATION SERVED BY THOSE PHYSICIANS REPRESENTED APPROXIMATELY 19% OF THE PRACTICE - AN INCREASE FROM 8% IN THE LATE 2008. IN ADDITION, THE SELF-PAY POPULATION REPRESENTED 3.7% OF THE PRACTICE. PRIOR TO THE PURCHASE, THIS AMOUNT WAS LESS THAN 1% OF THE PRACTICE. THESE PHYSICIAN PRACTICES PROVIDE PRIMARY CARE SERVICES (INTERNAL MEDICINE, FAMILY PRACTICE &amp; PEDIATRICS) AS WELL AS GENERAL SURGERY, CARDIOLOGY, ORTHOPEDIC SURGERY, NEUROLOGY, GASTROENTEROLOGY, PULMONARY SERVICES, INFECTIOUS DISEASE, ONCOLOGY AND OSTEOPATHIC MANIPULATIVE SERVICES. AS MENTIONED BEFORE, AS A RESULT OF SMHC'S RUNNING THESE PRACTICES, ACCESS HAS BEEN EXPANDED TO THE AT-RISK POPULATION (MEDICAID AND SELF-PAY POPULATION) SO THAT THEY ARE PROVIDED CONTINUITY OF CARE IN A PHYSICIAN PRACTICE.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART VI, LINE 6 - AFFILIATED HEALTH CARE SYSTEM</FormAndLineReferenceDesc>
+        <ExplanationTxt>MAINEHEALTH IS A NOT-FOR-PROFIT FAMILY OF LEADING HIGH-QUALITY PROVIDERS AND OTHER HEALTHCARE ORGANIZATIONS WORKING TOGETHER SO THEIR COMMUNITIES ARE THE HEALTHIEST IN AMERICA. RANKED AMONG THE NATION'S TOP 100 INTEGRATED HEALTHCARE DELIVERY NETWORKS, MAINEHEALTH IS GOVERNED BY A BOARD OF TRUSTEES CONSISTING OF COMMUNITY AND BUSINESS LEADERS FROM ITS SOUTHERN, CENTRAL AND WESTERN REGIONAL SERVICE AREAS. THE COLLABORATION OF MAINEHEALTH MEMBERS MAKES IT POSSIBLE TO OFFER AN EXTENSIVE RANGE OF CLINICAL INTEGRATION AND COMMUNITY HEALTH PROGRAMS, MANY AIMED AT IMPROVING ACCESS TO PREVENTATIVE AND PRIMARY CARE SERVICES. MAINEHEALTH INCLUDES THE FOLLOWING MEMBER ORGANIZATIONS: LINCOLNHEALTH GROUP, MAINE MEDICAL CENTER, MAINE BEHAVIORAL HEALTHCARE, COASTAL HEALTHCARE ALLIANCE, SOUTHERN MAINE HEALTH CARE, WESTERN MAINE HEALTHCARE, MAINEHEALTH CARE AT HOME, FRANKLIN COMMUNITY HEALTH NETWORK, THE MEMORIAL HOSPITAL AT NORTH CONWAY, N.H., MAINE PHYSICIAN HOSPITAL ORGANIZATION, NORDX, SYNERNET, MAINEHEALTH ACCOUNTABLE CARE ORGANIZATION, MAINEHEALTH CARDIOLOGY, AND GERIATRIC RESOURCE NETWORK. AFFILIATES OF MAINEHEALTH INCLUDE: MAINEGENERAL MEDICAL CENTER, MID COAST HOSPITAL, NEW ENGLAND REHABILITATION HOSPITAL AND ST. MARY'S REGIONAL HOSPITAL.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART VI, LINE 7 - STATE FILING OF COMMUNITY BENEFIT REPORT</FormAndLineReferenceDesc>
+        <ExplanationTxt>MAINE</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>ADDITIONAL INFORMATION</FormAndLineReferenceDesc>
+        <ExplanationTxt>PART I, LINE 3B SOUTHERN MAINE HEALTH CARE USES FEDERAL POVERTY GUIDELINES (FPG) FOR PROVIDING DISCOUNTED CARE TO LOW INCOME INDIVIDUALS. THE FAMILY INCOME LIMIT FOR ELIGIBILITY FOR DISCOUNTED CARE IS 175% - 225%.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleH>
+    <IRS990ScheduleJ documentId="RetDoc10">
+      <SeverancePaymentInd>false</SeverancePaymentInd>
+      <SupplementalNonqualRtrPlanInd>false</SupplementalNonqualRtrPlanInd>
+      <EquityBasedCompArrngmInd>false</EquityBasedCompArrngmInd>
+      <CompBasedOnRevenueOfFlngOrgInd>false</CompBasedOnRevenueOfFlngOrgInd>
+      <CompBsdOnRevRelatedOrgsInd>false</CompBsdOnRevRelatedOrgsInd>
+      <CompBsdNetEarnsFlngOrgInd>false</CompBsdNetEarnsFlngOrgInd>
+      <CompBsdNetEarnsRltdOrgsInd>false</CompBsdNetEarnsRltdOrgsInd>
+      <AnyNonFixedPaymentsInd>false</AnyNonFixedPaymentsInd>
+      <InitialContractExceptionInd>false</InitialContractExceptionInd>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>THOMPSON JOHN DO</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <BaseCompensationFilingOrgAmt>797319</BaseCompensationFilingOrgAmt>
+        <OtherCompensationFilingOrgAmt>3564</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>10600</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>15246</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>826729</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>GOUDREAU FRANK MD</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <BaseCompensationFilingOrgAmt>653699</BaseCompensationFilingOrgAmt>
+        <OtherCompensationFilingOrgAmt>1050</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>10600</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>14866</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>680215</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>CARROLL MICHAEL MD</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <BaseCompensationFilingOrgAmt>467326</BaseCompensationFilingOrgAmt>
+        <OtherCompensationFilingOrgAmt>1242</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>10600</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>14963</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>494131</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>MANNING PETER MD</PersonNm>
+        <TitleTxt>PHYSICIAN</TitleTxt>
+        <BaseCompensationFilingOrgAmt>411153</BaseCompensationFilingOrgAmt>
+        <OtherCompensationFilingOrgAmt>788</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>10600</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>1578</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>424119</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>O'HARE MARY MD</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <BaseCompensationFilingOrgAmt>323049</BaseCompensationFilingOrgAmt>
+        <OtherCompensationFilingOrgAmt>2075</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>9340</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>1463</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>335927</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>QUINN-SKILLINGS GINA MD</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <BaseCompensationFilingOrgAmt>49051</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>241051</CompensationBasedOnRltdOrgsAmt>
+        <OtherCompensationRltdOrgsAmt>810</OtherCompensationRltdOrgsAmt>
+        <DeferredCompRltdOrgsAmt>12672</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsRltdOrgsAmt>15567</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>49051</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>270100</TotalCompensationRltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>BURGESS DONALD MD</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <BaseCompensationFilingOrgAmt>237227</BaseCompensationFilingOrgAmt>
+        <OtherCompensationFilingOrgAmt>823</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>9126</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>15694</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>262870</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>MCGEACHEY EDWARD J</PersonNm>
+        <TitleTxt>PRESIDENT</TitleTxt>
+        <BaseCompensationFilingOrgAmt>452404</BaseCompensationFilingOrgAmt>
+        <BonusFilingOrganizationAmount>57375</BonusFilingOrganizationAmount>
+        <OtherCompensationFilingOrgAmt>80352</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>9275</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>19076</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>618482</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>APRILE PATRICIA</PersonNm>
+        <TitleTxt>SENIOR VP/COO</TitleTxt>
+        <BaseCompensationFilingOrgAmt>309752</BaseCompensationFilingOrgAmt>
+        <BonusFilingOrganizationAmount>21700</BonusFilingOrganizationAmount>
+        <OtherCompensationFilingOrgAmt>24573</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>9275</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>17660</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>382960</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>BELAIR NORMAN</PersonNm>
+        <TitleTxt>EVP/CFO</TitleTxt>
+        <BaseCompensationFilingOrgAmt>276665</BaseCompensationFilingOrgAmt>
+        <BonusFilingOrganizationAmount>19908</BonusFilingOrganizationAmount>
+        <OtherCompensationFilingOrgAmt>39262</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>9275</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>16988</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>362098</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>ALBAUM MICHAEL MD</PersonNm>
+        <TitleTxt>SENIOR VP/CMO</TitleTxt>
+        <BaseCompensationFilingOrgAmt>312650</BaseCompensationFilingOrgAmt>
+        <BonusFilingOrganizationAmount>20236</BonusFilingOrganizationAmount>
+        <OtherCompensationFilingOrgAmt>1392</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>10600</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>17875</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>362753</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>LYON DONALD MD</PersonNm>
+        <TitleTxt>PHYSICIAN</TitleTxt>
+        <BaseCompensationFilingOrgAmt>288352</BaseCompensationFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>288352</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>HADIARISSUSAN</PersonNm>
+        <TitleTxt>SR. VP &amp; CPO</TitleTxt>
+        <BaseCompensationFilingOrgAmt>222723</BaseCompensationFilingOrgAmt>
+        <BonusFilingOrganizationAmount>17062</BonusFilingOrganizationAmount>
+        <OtherCompensationFilingOrgAmt>29379</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>9275</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>7309</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>285748</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>CAMIREPATRICIA RN</PersonNm>
+        <TitleTxt>SR. VP CLINICAL SVCS</TitleTxt>
+        <BaseCompensationFilingOrgAmt>214209</BaseCompensationFilingOrgAmt>
+        <BonusFilingOrganizationAmount>14276</BonusFilingOrganizationAmount>
+        <OtherCompensationFilingOrgAmt>32215</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>8993</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>13874</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>283567</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>FOURNIER MARC M</PersonNm>
+        <TitleTxt>VP, SUPPORT SERVICES</TitleTxt>
+        <BaseCompensationFilingOrgAmt>175402</BaseCompensationFilingOrgAmt>
+        <BonusFilingOrganizationAmount>12427</BonusFilingOrganizationAmount>
+        <OtherCompensationFilingOrgAmt>23185</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>6574</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>11789</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>229377</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>KEEGAN STEVE</PersonNm>
+        <TitleTxt>VP ANCILLARY SVCS</TitleTxt>
+        <BaseCompensationFilingOrgAmt>170641</BaseCompensationFilingOrgAmt>
+        <BonusFilingOrganizationAmount>12639</BonusFilingOrganizationAmount>
+        <OtherCompensationFilingOrgAmt>21536</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>7231</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>7050</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>219097</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE J, PAGE 1, PART I, LINE 3</FormAndLineReferenceDesc>
+        <ExplanationTxt>TOP MANAGEMENT OFFICIALS ARE COMPENSATED BY THIS OR OTHER RELATED ORGANIZATIONS. THESE ORGANIZATIONS USED ONE OR MORE OF THE METHODS SHOWN AT PART I, LINE 3 TO ESTABLISH THE COMPENSATION OF TOP MANAGEMENT. FOR ADDITIONAL INFORMATION SEE SCHEDULE O - FORM 990, PART VI, LINE 15A - COMPENSATION FOR TOP OFFICIAL.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleK documentId="RetDoc11">
+      <TaxExemptBondsIssuesGrp>
+        <BondReferenceCd>A</BondReferenceCd>
+        <IssuerName>
+          <BusinessNameLine1Txt>MHHEFA-SERIES 2010B AND 2010C ISSUE</BusinessNameLine1Txt>
+        </IssuerName>
+        <BondIssuerEIN>010314384</BondIssuerEIN>
+        <CUSIPNum>560427JA5</CUSIPNum>
+        <BondIssuedDt>2010-06-24</BondIssuedDt>
+        <IssuePriceAmt>6447296</IssuePriceAmt>
+        <PurposeDesc>REFINANCE BONDS</PurposeDesc>
+        <DefeasedInd>false</DefeasedInd>
+        <OnBehalfOfIssuerInd>false</OnBehalfOfIssuerInd>
+        <PoolFinancingInd>false</PoolFinancingInd>
+      </TaxExemptBondsIssuesGrp>
+      <TaxExemptBondsIssuesGrp>
+        <BondReferenceCd>B</BondReferenceCd>
+        <IssuerName>
+          <BusinessNameLine1Txt>FAME - TD BANK</BusinessNameLine1Txt>
+        </IssuerName>
+        <BondIssuerEIN>010392006</BondIssuerEIN>
+        <BondIssuedDt>2013-07-25</BondIssuedDt>
+        <IssuePriceAmt>13806882</IssuePriceAmt>
+        <PurposeDesc>CAPITAL EQUIPMENT AND NEW MEDICAL OFFICE BUILDING</PurposeDesc>
+        <DefeasedInd>false</DefeasedInd>
+        <OnBehalfOfIssuerInd>false</OnBehalfOfIssuerInd>
+        <PoolFinancingInd>false</PoolFinancingInd>
+      </TaxExemptBondsIssuesGrp>
+      <TaxExemptBondsIssuesGrp>
+        <BondReferenceCd>C</BondReferenceCd>
+        <IssuerName>
+          <BusinessNameLine1Txt>MHHEFA - 2007A SERIES</BusinessNameLine1Txt>
+        </IssuerName>
+        <BondIssuerEIN>010314384</BondIssuerEIN>
+        <CUSIPNum>560425H37</CUSIPNum>
+        <BondIssuedDt>2007-07-18</BondIssuedDt>
+        <IssuePriceAmt>5108908</IssuePriceAmt>
+        <PurposeDesc>REFI MHHEFA BD 1996A</PurposeDesc>
+        <DefeasedInd>false</DefeasedInd>
+        <OnBehalfOfIssuerInd>false</OnBehalfOfIssuerInd>
+        <PoolFinancingInd>false</PoolFinancingInd>
+      </TaxExemptBondsIssuesGrp>
+      <TaxExemptBondsIssuesGrp>
+        <BondReferenceCd>D</BondReferenceCd>
+        <IssuerName>
+          <BusinessNameLine1Txt>MHHEFA - SERIES 2016A</BusinessNameLine1Txt>
+        </IssuerName>
+        <BondIssuerEIN>010314384</BondIssuerEIN>
+        <CUSIPNum>56042REN8</CUSIPNum>
+        <BondIssuedDt>2016-06-28</BondIssuedDt>
+        <IssuePriceAmt>14287321</IssuePriceAmt>
+        <PurposeDesc>REFINANCE BONDS, RENOVATIONS, &amp; EQUIPMENT</PurposeDesc>
+        <DefeasedInd>false</DefeasedInd>
+        <OnBehalfOfIssuerInd>false</OnBehalfOfIssuerInd>
+        <PoolFinancingInd>false</PoolFinancingInd>
+      </TaxExemptBondsIssuesGrp>
+      <TaxExemptBondsProceedsGrp>
+        <BondReferenceCd>A</BondReferenceCd>
+        <RetiredAmt>6255000</RetiredAmt>
+        <TotalProceedsAmt>7580622</TotalProceedsAmt>
+        <InReserveFundAmt>1073888</InReserveFundAmt>
+        <RefundingEscrowAmt>6446910</RefundingEscrowAmt>
+        <IssuanceCostsFromProceedsAmt>58540</IssuanceCostsFromProceedsAmt>
+        <OtherSpentProceedsAmt>1284</OtherSpentProceedsAmt>
+        <SubstantialCompletionYr>2010</SubstantialCompletionYr>
+        <CurrentRefundingInd>true</CurrentRefundingInd>
+        <AdvanceRefundingInd>false</AdvanceRefundingInd>
+        <FinalAllocationMadeInd>true</FinalAllocationMadeInd>
+        <AdequateBooksAndRecMaintInd>true</AdequateBooksAndRecMaintInd>
+      </TaxExemptBondsProceedsGrp>
+      <TaxExemptBondsProceedsGrp>
+        <BondReferenceCd>B</BondReferenceCd>
+        <TotalProceedsAmt>13806882</TotalProceedsAmt>
+        <IssuanceCostsFromProceedsAmt>133798</IssuanceCostsFromProceedsAmt>
+        <CapitalExpendituresAmt>13673084</CapitalExpendituresAmt>
+        <SubstantialCompletionYr>2014</SubstantialCompletionYr>
+        <CurrentRefundingInd>false</CurrentRefundingInd>
+        <AdvanceRefundingInd>false</AdvanceRefundingInd>
+        <FinalAllocationMadeInd>true</FinalAllocationMadeInd>
+        <AdequateBooksAndRecMaintInd>true</AdequateBooksAndRecMaintInd>
+      </TaxExemptBondsProceedsGrp>
+      <TaxExemptBondsProceedsGrp>
+        <BondReferenceCd>C</BondReferenceCd>
+        <RetiredAmt>2226042</RetiredAmt>
+        <TotalProceedsAmt>5108908</TotalProceedsAmt>
+        <InReserveFundAmt>451093</InReserveFundAmt>
+        <IssuanceCostsFromProceedsAmt>56115</IssuanceCostsFromProceedsAmt>
+        <CapitalExpendituresAmt>2335658</CapitalExpendituresAmt>
+        <SubstantialCompletionYr>2009</SubstantialCompletionYr>
+        <CurrentRefundingInd>false</CurrentRefundingInd>
+        <AdvanceRefundingInd>true</AdvanceRefundingInd>
+        <FinalAllocationMadeInd>true</FinalAllocationMadeInd>
+        <AdequateBooksAndRecMaintInd>true</AdequateBooksAndRecMaintInd>
+      </TaxExemptBondsProceedsGrp>
+      <TaxExemptBondsProceedsGrp>
+        <BondReferenceCd>D</BondReferenceCd>
+        <RetiredAmt>12345000</RetiredAmt>
+        <TotalProceedsAmt>14287321</TotalProceedsAmt>
+        <InReserveFundAmt>1549200</InReserveFundAmt>
+        <RefundingEscrowAmt>12647304</RefundingEscrowAmt>
+        <IssuanceCostsFromProceedsAmt>90817</IssuanceCostsFromProceedsAmt>
+        <SubstantialCompletionYr>2016</SubstantialCompletionYr>
+        <CurrentRefundingInd>true</CurrentRefundingInd>
+        <AdvanceRefundingInd>false</AdvanceRefundingInd>
+        <FinalAllocationMadeInd>true</FinalAllocationMadeInd>
+        <AdequateBooksAndRecMaintInd>true</AdequateBooksAndRecMaintInd>
+      </TaxExemptBondsProceedsGrp>
+      <TaxExemptBondsPrivateBusUseGrp>
+        <BondReferenceCd>A</BondReferenceCd>
+        <OwningBondFinancedPropertyInd>false</OwningBondFinancedPropertyInd>
+        <AnyLeaseArrangementsInd>false</AnyLeaseArrangementsInd>
+        <MgmtContractBondFincdPropInd>false</MgmtContractBondFincdPropInd>
+        <AnyResearchAgreementsInd>false</AnyResearchAgreementsInd>
+        <BondIssMeetPrvtSecPymtTestInd>true</BondIssMeetPrvtSecPymtTestInd>
+        <ChangeInUseBondFinancedPropInd>false</ChangeInUseBondFinancedPropInd>
+        <ProcsNonqualifiedBondRemdtdInd>false</ProcsNonqualifiedBondRemdtdInd>
+      </TaxExemptBondsPrivateBusUseGrp>
+      <TaxExemptBondsPrivateBusUseGrp>
+        <BondReferenceCd>B</BondReferenceCd>
+        <OwningBondFinancedPropertyInd>false</OwningBondFinancedPropertyInd>
+        <AnyLeaseArrangementsInd>false</AnyLeaseArrangementsInd>
+        <MgmtContractBondFincdPropInd>false</MgmtContractBondFincdPropInd>
+        <AnyResearchAgreementsInd>false</AnyResearchAgreementsInd>
+        <BondIssMeetPrvtSecPymtTestInd>true</BondIssMeetPrvtSecPymtTestInd>
+        <ChangeInUseBondFinancedPropInd>false</ChangeInUseBondFinancedPropInd>
+        <ProcsNonqualifiedBondRemdtdInd>false</ProcsNonqualifiedBondRemdtdInd>
+      </TaxExemptBondsPrivateBusUseGrp>
+      <TaxExemptBondsPrivateBusUseGrp>
+        <BondReferenceCd>C</BondReferenceCd>
+        <OwningBondFinancedPropertyInd>false</OwningBondFinancedPropertyInd>
+        <AnyLeaseArrangementsInd>false</AnyLeaseArrangementsInd>
+        <MgmtContractBondFincdPropInd>false</MgmtContractBondFincdPropInd>
+        <AnyResearchAgreementsInd>false</AnyResearchAgreementsInd>
+        <BondIssMeetPrvtSecPymtTestInd>true</BondIssMeetPrvtSecPymtTestInd>
+        <ChangeInUseBondFinancedPropInd>false</ChangeInUseBondFinancedPropInd>
+        <ProcsNonqualifiedBondRemdtdInd>false</ProcsNonqualifiedBondRemdtdInd>
+      </TaxExemptBondsPrivateBusUseGrp>
+      <TaxExemptBondsPrivateBusUseGrp>
+        <BondReferenceCd>D</BondReferenceCd>
+        <OwningBondFinancedPropertyInd>false</OwningBondFinancedPropertyInd>
+        <AnyLeaseArrangementsInd>false</AnyLeaseArrangementsInd>
+        <MgmtContractBondFincdPropInd>false</MgmtContractBondFincdPropInd>
+        <AnyResearchAgreementsInd>false</AnyResearchAgreementsInd>
+        <BondIssMeetPrvtSecPymtTestInd>true</BondIssMeetPrvtSecPymtTestInd>
+        <ChangeInUseBondFinancedPropInd>false</ChangeInUseBondFinancedPropInd>
+        <ProcsNonqualifiedBondRemdtdInd>false</ProcsNonqualifiedBondRemdtdInd>
+      </TaxExemptBondsPrivateBusUseGrp>
+      <TaxExemptBondsArbitrageGrp>
+        <BondReferenceCd>A</BondReferenceCd>
+        <Form8038TFiledInd>false</Form8038TFiledInd>
+        <RebateNotDueYetInd>false</RebateNotDueYetInd>
+        <ExceptionToRebateInd>false</ExceptionToRebateInd>
+        <NoRebateDueInd>false</NoRebateDueInd>
+        <VariableRateIssueInd>false</VariableRateIssueInd>
+        <HedgeIdentifiedInBksAndRecInd>false</HedgeIdentifiedInBksAndRecInd>
+        <GrossProceedsInvestedInGICInd>false</GrossProceedsInvestedInGICInd>
+        <GrossProceedsInvestedInd>false</GrossProceedsInvestedInd>
+        <WrittenProcToMonitorReqsInd>false</WrittenProcToMonitorReqsInd>
+      </TaxExemptBondsArbitrageGrp>
+      <TaxExemptBondsArbitrageGrp>
+        <BondReferenceCd>B</BondReferenceCd>
+        <Form8038TFiledInd>false</Form8038TFiledInd>
+        <RebateNotDueYetInd>false</RebateNotDueYetInd>
+        <ExceptionToRebateInd>false</ExceptionToRebateInd>
+        <NoRebateDueInd>false</NoRebateDueInd>
+        <VariableRateIssueInd>false</VariableRateIssueInd>
+        <HedgeIdentifiedInBksAndRecInd>false</HedgeIdentifiedInBksAndRecInd>
+        <GrossProceedsInvestedInGICInd>false</GrossProceedsInvestedInGICInd>
+        <GrossProceedsInvestedInd>false</GrossProceedsInvestedInd>
+        <WrittenProcToMonitorReqsInd>false</WrittenProcToMonitorReqsInd>
+      </TaxExemptBondsArbitrageGrp>
+      <TaxExemptBondsArbitrageGrp>
+        <BondReferenceCd>C</BondReferenceCd>
+        <Form8038TFiledInd>false</Form8038TFiledInd>
+        <RebateNotDueYetInd>false</RebateNotDueYetInd>
+        <ExceptionToRebateInd>false</ExceptionToRebateInd>
+        <NoRebateDueInd>false</NoRebateDueInd>
+        <VariableRateIssueInd>false</VariableRateIssueInd>
+        <HedgeIdentifiedInBksAndRecInd>false</HedgeIdentifiedInBksAndRecInd>
+        <GrossProceedsInvestedInGICInd>false</GrossProceedsInvestedInGICInd>
+        <GrossProceedsInvestedInd>false</GrossProceedsInvestedInd>
+        <WrittenProcToMonitorReqsInd>false</WrittenProcToMonitorReqsInd>
+      </TaxExemptBondsArbitrageGrp>
+      <TaxExemptBondsArbitrageGrp>
+        <BondReferenceCd>D</BondReferenceCd>
+        <Form8038TFiledInd>false</Form8038TFiledInd>
+        <RebateNotDueYetInd>false</RebateNotDueYetInd>
+        <ExceptionToRebateInd>false</ExceptionToRebateInd>
+        <NoRebateDueInd>false</NoRebateDueInd>
+        <VariableRateIssueInd>false</VariableRateIssueInd>
+        <HedgeIdentifiedInBksAndRecInd>false</HedgeIdentifiedInBksAndRecInd>
+        <GrossProceedsInvestedInGICInd>false</GrossProceedsInvestedInGICInd>
+        <GrossProceedsInvestedInd>false</GrossProceedsInvestedInd>
+        <WrittenProcToMonitorReqsInd>false</WrittenProcToMonitorReqsInd>
+      </TaxExemptBondsArbitrageGrp>
+      <ProceduresCorrectiveActionGrp>
+        <BondReferenceCd>A</BondReferenceCd>
+        <ProceduresCorrectiveActionInd>false</ProceduresCorrectiveActionInd>
+      </ProceduresCorrectiveActionGrp>
+      <ProceduresCorrectiveActionGrp>
+        <BondReferenceCd>B</BondReferenceCd>
+        <ProceduresCorrectiveActionInd>false</ProceduresCorrectiveActionInd>
+      </ProceduresCorrectiveActionGrp>
+      <ProceduresCorrectiveActionGrp>
+        <BondReferenceCd>C</BondReferenceCd>
+        <ProceduresCorrectiveActionInd>false</ProceduresCorrectiveActionInd>
+      </ProceduresCorrectiveActionGrp>
+      <ProceduresCorrectiveActionGrp>
+        <BondReferenceCd>D</BondReferenceCd>
+        <ProceduresCorrectiveActionInd>false</ProceduresCorrectiveActionInd>
+      </ProceduresCorrectiveActionGrp>
+    </IRS990ScheduleK>
+    <IRS990ScheduleL documentId="RetDoc12">
+      <BusTrInvolveInterestedPrsnGrp>
+        <NameOfInterested>
+          <PersonNm>SANFORD INSTITUTE FOR SAVINGS</PersonNm>
+        </NameOfInterested>
+        <RelationshipDescriptionTxt>SEE BELOW</RelationshipDescriptionTxt>
+        <TransactionAmt>1761883</TransactionAmt>
+        <TransactionDesc>HOLDS DEPOSITS/LOANS</TransactionDesc>
+        <SharingOfRevenuesInd>false</SharingOfRevenuesInd>
+      </BusTrInvolveInterestedPrsnGrp>
+      <BusTrInvolveInterestedPrsnGrp>
+        <NameOfInterested>
+          <PersonNm>LINDSEY BELAIR</PersonNm>
+        </NameOfInterested>
+        <RelationshipDescriptionTxt>FAMILY MEMBER</RelationshipDescriptionTxt>
+        <TransactionAmt>49258</TransactionAmt>
+        <TransactionDesc>EMPLOYMENT</TransactionDesc>
+        <SharingOfRevenuesInd>false</SharingOfRevenuesInd>
+      </BusTrInvolveInterestedPrsnGrp>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE L, PART V</FormAndLineReferenceDesc>
+        <ExplanationTxt>SCHEDULE L, PART IV, BUSINESS TRANSACTIONS INVOLVING INTERESTED PERSONS: LINE 1: MARK MIKERIZ IS AN SMHC BOARD MEMBER AND THE PRESIDENT OF SANFORD INSTITUTE FOR SAVINGS AT WHICH SMHC HOLDS DEPOSIT ACCOUNTS AND FOUR SECURED LOANS WITH AN OUSTANDING BALANCE OF 1,761,883 AT 9/30/2016. LINE 2: LINDSEY BELAIR IS THE DAUGHTER OF NORMAN BELAIR, CFO OF SMHC, WHO IS EMPLOYED BY SMHC AS A RN.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="RetDoc13">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 2, PART III, LINE 4A</FormAndLineReferenceDesc>
+        <ExplanationTxt>(CONTINUATION) SMHC PROUDLY SPONSORS COMMUNITY ORGANIZATIONS, SCHOOL GROUPS, CIVIC ORGANIZATIONS AND SPECIAL EVENTS (LIKE THE LOCAL BASEBALL TEAM). SMHC SPONSORS TWO TO FOUR FREE EDUCATION EVENTS EACH MONTH OF THE YEAR ALONG WITH DOZENS OF SUPPORT GROUPS. SMHC ALSO ROUTINELY PARTICIPATES IN HEALTH FAIRS AND BUSINESS EVENTS, PERFORMING BLOOD PRESSURE CHECKS, CHOLESTEROL SCREENINGS AND CPR TRAINING. SMHC'S SENIOR ADVOCATE PROVIDES FREE ADVICE AND SERVICES TO ELDERLY MEMBERS OF THE COMMUNITY. SERVICES INCLUDE HELP WITH INSURANCE AND MEDICAL ISSUES, AS WELL AS PERSONAL ISSUES INCLUDING TAX INFORMATION, FINANCES AND HOME NEEDS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 2, PART III, LINE 4D</FormAndLineReferenceDesc>
+        <ExplanationTxt>OTHER PROGRAM SERVICES INCLUDE: PHYSICIAN PRACTICES, SURGICAL SERVICES, IMAGING SERVICES, CARDIOPULMONARY SERVICES, LABOR AND DELIVERY SERVICES, LABORATORY, EMERGENCY SERVICES AND REHAB SERVICES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 6, PART VI, LINE 6</FormAndLineReferenceDesc>
+        <ExplanationTxt>MAINEHEALTH, EIN 01-0431680, IS THE SOLE MEMBER OF SOUTHERN MAINE HEALTH CARE (SMHC).</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 6, PART VI, LINE 7A</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE SOLE MEMBER OF THE ORGANIZATION HAS THE RESPONSIBILITY FOR THE ELECTION OF THE MEMBERS OF THE GOVERNING BODY.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 6, PART VI, LINE 7B</FormAndLineReferenceDesc>
+        <ExplanationTxt>THERE ARE DECISIONS BY THE GOVERNING BODY THAT REQUIRE APPROVAL BY THE MEMBER. THESE DO INCLUDE: 1. THE REMOVAL OF A DIRECTOR FROM THE BOARD; 2. THE APPROVAL OF THE SALE, LEASE OR DISPOSITION OF ALL, OR SUBSTANTIALLY ALL, OF THE ASSETS AND PROPERTY OF THE CORPORATION; 3. THE DISSOLUTION OF THE CORPORATION OF ITS MERGER WITH OR CONSOLIDATION WITH ANOTHER CORPORATION; 4. ANY OTHER MATTER WHICH, BY A MAJORITY VOTE OF THE GOVERNING BODY, THE GOVERNING BODY DETERMINES SHOULD BE SUBMITTED TO THE MEMBER.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 6, PART VI, LINE 11B</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE FORM 990 WAS MADE AVAILABLE TO THE OVERALL BOARD OF DIRECTORS. THE CFO ALSO REVIEWED THE FORM 990 IN DETAIL BEFORE SIGNING THE RETURN.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 6, PART VI, LINE 12C</FormAndLineReferenceDesc>
+        <ExplanationTxt>AS INDICATED IN 12B, SMHC REQUIRES CURRENT AND FORMER OFFICERS, DIRECTORS, TRUSTEES, AND KEY EMPLOYEES TO COMPLETE AN ANNUAL QUESTIONNAIRE CONCERNING ANY POTENTIAL CONFLICTS OF INTERESTS. THE ORGANIZATION REVIEWS THE RESPONSES TO THESE DOCUMENTS AND ADDRESSES ANY ISSUES IMMEDIATELY. IN ADDITION, WE HAVE ADDED ANOTHER QUESTIONNAIRE THAT SPECIFICALLY ADDRESSES THE CONCERNS REGARDING TRANSACTIONS INVOLVING CURRENT OR FORMER OFFICERS, DIRECTORS, TRUSTEES, AND KEY EMPLOYEES AND CERTAIN PARTIES THAT ARE RELATED TO THESE INDIVIDUALS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 6, PART VI, LINE 15A</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE PROCESS FOLLOWED FOR DETERMINING COMPENSATION OF THE CEO AND OTHER KEY ADMINISTRATIVE EMPLOYEES OF THE ORGANIZATION IS A FORMAL PROCESS PERFORMED ANNUALLY BY THE EXECUTIVE COMMITTEE OF THE BOARD OF DIRECTORS. A RELATED ORGANIZATION USES AN OUTSIDE FIRM, SULLIVAN COTTER, TO PERFORM AN INDEPENDENT BENCHMARK ANALYSIS FOR THE CEO OF SMHC, ALONG WITH OTHER EXECUTIVES IN THE MAINEHEALTH SYSTEM. THE FIRM MEETS WITH THE EXECUTIVE COMMITTEE TO REVIEW EACH EXECUTIVE'S BENCHMARK REPORT. THE COMMITTEE THEN DELIBERATES ON MAINEHEALTH'S WRITTEN SALARY AND INCENTIVE PLAN PHILOSOPHY BEFORE MAKING A FINAL DECISION. ALL DECISIONS AND MEETINGS ARE CAPTURED IN MINUTES AND THERE ARE APPROPRIATE APPROVALS AT ALL LEVELS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 6, PART VI, LINE 15B</FormAndLineReferenceDesc>
+        <ExplanationTxt>SEE EXPLANATION ABOVE UNDER FORM 990, PART VI, LINE 15A - COMPENSATION FOR TOP OFFICIAL.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 6, PART VI, LINE 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>DOCUMENTS THAT ARE REQUIRED TO BE OPEN FOR PUBLIC INSPECTION ARE MADE AVAILABLE UPON REQUEST.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART IX, LINE 11G</FormAndLineReferenceDesc>
+        <ExplanationTxt>CONSULTING AND CONTRACT LABOR 22,362,589 10,963,854 9,341</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART XI, LINE 9</FormAndLineReferenceDesc>
+        <ExplanationTxt>CHANGE IN FAIR VALUE OF PERPETUAL TRUST 328,702 EQUITY TRANSFER TO AFFILIATES -763,000 TOTAL -434,298</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc16">
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>MAINEHEALTH</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>110 FREE STREET</AddressLine1Txt>
+          <CityNm>PORTLAND</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04101</ZIPCd>
+        </USAddress>
+        <EIN>010431680</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>11C</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>NA</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>MANOR AT PHILLIPSTOWN PLACE INC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>25 JUNE STREET</AddressLine1Txt>
+          <CityNm>SANFORD</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04073</ZIPCd>
+        </USAddress>
+        <EIN>010473857</EIN>
+        <PrimaryActivitiesTxt>ELDER CARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>9</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0179500</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>WALDO COUNTY HEALTHCARE INC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 287</AddressLine1Txt>
+          <CityNm>BELFAST</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04915</ZIPCd>
+        </USAddress>
+        <EIN>222864961</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>11B</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0431680</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>MAINE MEDICAL CENTER</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>22 BRAMHALL STREET</AddressLine1Txt>
+          <CityNm>PORTLAND</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04102</ZIPCd>
+        </USAddress>
+        <EIN>010238552</EIN>
+        <PrimaryActivitiesTxt>HOSPITAL</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>3</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0431680</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>MAINE BEHAVIORAL HEALTHCARE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>78 ATLANTIC PLACE</AddressLine1Txt>
+          <CityNm>SOUTH PORTLAND</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04106</ZIPCd>
+        </USAddress>
+        <EIN>010524834</EIN>
+        <PrimaryActivitiesTxt>HOSPITAL</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>3</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0431680</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>LINCOLNHEALTH GROUP</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>6 ST ADNREWS LANE</AddressLine1Txt>
+          <CityNm>BOOTHBAY HARBOR</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04538</ZIPCd>
+        </USAddress>
+        <EIN>261475629</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>11B</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0431680</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>WESTERN MAINE HEALTH CARE CORP</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>181 MAIN STREET</AddressLine1Txt>
+          <CityNm>NORWAY</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04268</ZIPCd>
+        </USAddress>
+        <EIN>010411788</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>11B</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0431680</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>GERIATRIC RESOURCE NETWORK</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>110 FREE STREET</AddressLine1Txt>
+          <CityNm>PORTLAND</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04101</ZIPCd>
+        </USAddress>
+        <EIN>010542842</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>7</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0431680</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>MAINEHEALTH CARE AT HOME</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>15 INDUSTRIAL PARK</AddressLine1Txt>
+          <CityNm>SACO</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04072</ZIPCd>
+        </USAddress>
+        <EIN>222571902</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>9</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0431680</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>NORDX</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>301A US ROUTE ONE</AddressLine1Txt>
+          <CityNm>SCARBOROUGH</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04074</ZIPCd>
+        </USAddress>
+        <EIN>010511356</EIN>
+        <PrimaryActivitiesTxt>LABORATORY</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>9</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0431680</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>COASTAL HEALTHCARE ALLIANCE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>4 WHITE STREET</AddressLine1Txt>
+          <CityNm>ROCKLAND</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04841</ZIPCd>
+        </USAddress>
+        <EIN>222494475</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>11B</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0431680</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>MAINEHEALTH CARDIOLOGY</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>110 FREE STREET</AddressLine1Txt>
+          <CityNm>PORTLAND</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04101</ZIPCd>
+        </USAddress>
+        <EIN>452525629</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>9</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0431680</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>THE MEMORIAL HOSPITAL</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>3073 WHITE MOUNTAIN HIGHWAY</AddressLine1Txt>
+          <CityNm>NORTH CONWAY</CityNm>
+          <StateAbbreviationCd>NH</StateAbbreviationCd>
+          <ZIPCd>03860</ZIPCd>
+        </USAddress>
+        <EIN>020222156</EIN>
+        <PrimaryActivitiesTxt>HOSPITAL</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NH</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>3</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0431680</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>CANCER CARE CENTER OF YORK COUNTY</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>22 BRAMHALL STREET</AddressLine1Txt>
+          <CityNm>PORTLAND</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04102</ZIPCd>
+        </USAddress>
+        <EIN>201600381</EIN>
+        <PrimaryActivitiesTxt>MED SVCS</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>3</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0179500</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>true</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>FRANKLIN COMMUNITY HEALTH NETWORK</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>111 FRANKLIN HEALTH COMMONS</AddressLine1Txt>
+          <CityNm>FARMINGTON</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04938</ZIPCd>
+        </USAddress>
+        <EIN>223209406</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501C3</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>11B</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0431680</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>false</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedOrgTxblPartnershipGrp>
+        <RelatedOrganizationName>
+          <BusinessNameLine1Txt>MAINEHEALTH ACCOUNTABLE CARE ORG</BusinessNameLine1Txt>
+        </RelatedOrganizationName>
+        <USAddress>
+          <AddressLine1Txt>110 FREE STREET</AddressLine1Txt>
+          <CityNm>PORTLAND</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04101</ZIPCd>
+        </USAddress>
+        <EIN>452929273</EIN>
+        <PrimaryActivitiesTxt>ACO</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0238552</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <PredominantIncomeTypeTxt>RELATED</PredominantIncomeTypeTxt>
+        <ShareOfTotalIncomeAmt>138684</ShareOfTotalIncomeAmt>
+        <ShareOfEOYAssetsAmt>830308</ShareOfEOYAssetsAmt>
+        <DisproportionateAllocationsInd>false</DisproportionateAllocationsInd>
+        <GeneralOrManagingPartnerInd>false</GeneralOrManagingPartnerInd>
+        <OwnershipPct>0.10400</OwnershipPct>
+      </IdRelatedOrgTxblPartnershipGrp>
+      <IdRelatedOrgTxblPartnershipGrp>
+        <RelatedOrganizationName>
+          <BusinessNameLine1Txt>GSM REALTY LLC</BusinessNameLine1Txt>
+        </RelatedOrganizationName>
+        <USAddress>
+          <AddressLine1Txt>22 BRAMHALL STREET</AddressLine1Txt>
+          <CityNm>PORTLAND</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04102</ZIPCd>
+        </USAddress>
+        <EIN>204582952</EIN>
+        <PrimaryActivitiesTxt>REAL EST.</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0179500</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <PredominantIncomeTypeTxt>RELATED</PredominantIncomeTypeTxt>
+        <ShareOfTotalIncomeAmt>-6223</ShareOfTotalIncomeAmt>
+        <ShareOfEOYAssetsAmt>803488</ShareOfEOYAssetsAmt>
+        <DisproportionateAllocationsInd>false</DisproportionateAllocationsInd>
+        <GeneralOrManagingPartnerInd>false</GeneralOrManagingPartnerInd>
+        <OwnershipPct>0.66670</OwnershipPct>
+      </IdRelatedOrgTxblPartnershipGrp>
+      <IdRelatedOrgTxblCorpTrGrp>
+        <RelatedOrganizationName>
+          <BusinessNameLine1Txt>SMHC PHYSICIAN SERVICES</BusinessNameLine1Txt>
+        </RelatedOrganizationName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 626</AddressLine1Txt>
+          <CityNm>BIDDEFORD</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>040050626</ZIPCd>
+        </USAddress>
+        <EIN>263345134</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <DirectControllingNACd>N/A</DirectControllingNACd>
+        <ControlledOrganizationInd>true</ControlledOrganizationInd>
+      </IdRelatedOrgTxblCorpTrGrp>
+      <IdRelatedOrgTxblCorpTrGrp>
+        <RelatedOrganizationName>
+          <BusinessNameLine1Txt>JUNE STREET PHARMACY</BusinessNameLine1Txt>
+        </RelatedOrganizationName>
+        <USAddress>
+          <AddressLine1Txt>25 JUNE STREET</AddressLine1Txt>
+          <CityNm>SANFORD</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04073</ZIPCd>
+        </USAddress>
+        <EIN>020765952</EIN>
+        <PrimaryActivitiesTxt>PHARMACY</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>01-0179500</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <EntityTypeTxt>C CORP</EntityTypeTxt>
+        <OwnershipPct>1.00000</OwnershipPct>
+        <ControlledOrganizationInd>true</ControlledOrganizationInd>
+      </IdRelatedOrgTxblCorpTrGrp>
+      <ReceiptOfIntAnntsRntsRyltsInd>false</ReceiptOfIntAnntsRntsRyltsInd>
+      <GiftGrntOrCapContriToOthOrgInd>false</GiftGrntOrCapContriToOthOrgInd>
+      <GiftGrntCapContriFromOthOrgInd>false</GiftGrntCapContriFromOthOrgInd>
+      <LoansOrGuaranteesToOtherOrgInd>false</LoansOrGuaranteesToOtherOrgInd>
+      <LoansOrGuaranteesFromOthOrgInd>true</LoansOrGuaranteesFromOthOrgInd>
+      <DivRelatedOrganizationInd>false</DivRelatedOrganizationInd>
+      <AssetSaleToOtherOrgInd>false</AssetSaleToOtherOrgInd>
+      <AssetPurchaseFromOtherOrgInd>false</AssetPurchaseFromOtherOrgInd>
+      <AssetExchangeInd>false</AssetExchangeInd>
+      <RentalOfFacilitiesToOthOrgInd>false</RentalOfFacilitiesToOthOrgInd>
+      <RentalOfFcltsFromOthOrgInd>false</RentalOfFcltsFromOthOrgInd>
+      <PerformOfServicesForOthOrgInd>false</PerformOfServicesForOthOrgInd>
+      <PerformOfServicesByOtherOrgInd>false</PerformOfServicesByOtherOrgInd>
+      <SharingOfFacilitiesInd>false</SharingOfFacilitiesInd>
+      <PaidEmployeesSharingInd>false</PaidEmployeesSharingInd>
+      <ReimbursementPaidToOtherOrgInd>true</ReimbursementPaidToOtherOrgInd>
+      <ReimbursementPaidByOtherOrgInd>false</ReimbursementPaidByOtherOrgInd>
+      <TransferToOtherOrgInd>false</TransferToOtherOrgInd>
+      <TransferFromOtherOrgInd>false</TransferFromOtherOrgInd>
+      <TransactionsRelatedOrgGrp>
+        <OtherOrganizationName>
+          <BusinessNameLine1Txt>SMHC PHYSICIAN SERVICES</BusinessNameLine1Txt>
+        </OtherOrganizationName>
+        <TransactionTypeTxt>P</TransactionTypeTxt>
+        <InvolvedAmt>44859906</InvolvedAmt>
+        <MethodOfAmountDeterminationTxt>COSTS INCURRED</MethodOfAmountDeterminationTxt>
+      </TransactionsRelatedOrgGrp>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

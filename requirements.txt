@@ -1,0 +1,5 @@
+# Python dependencies for the MSO pipeline.
+# Install with:  pip install -r requirements.txt
+pandas==2.2.3
+lxml==6.1.0
+anthropic>=0.40        # only needed for classify_mso.py (the LLM classification step)
