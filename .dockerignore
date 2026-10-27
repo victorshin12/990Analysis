@@ -1,0 +1,25 @@
+.venv/
+.git/
+__pycache__/
+**/__pycache__/
+*.pyc
+.DS_Store
+.Rhistory
+anthropic_key.txt
+docs/
+pipeline/
+extractors/
+make_trend_charts.py
+README.md
+
+# Large / unused for the web UI
+data/reference/
+data/input/xml_files/
+data/input/irs_zips/
+data/acquire/
+data/panel/
+data/extract/delegation_results_sample.csv
+data/extract/governance_management_measures.html
+data/classify/mso_classified_og.csv
+data/classify/mso_classified_pilot.csv
+data/classify/mso_filings_classified.csv

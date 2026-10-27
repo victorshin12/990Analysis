@@ -78,6 +78,32 @@ Governance & Management Measures is one row per filing: Part VI lines 1a, 1b, 2,
 
 ------------------------------------------------------------------------
 
+## Local explorer UI
+
+Browse `delegation_results.csv` and `governance_management_measures.csv` with search, filters, pagination, and CSV download of the current result set. The Delegation tab also redraws the trend charts from `make_trend_charts.py` against whatever rows match the filter (using the same MSO taxonomy join).
+
+```bash
+pip install -r requirements.txt   # needs flask
+.venv/bin/python -m web           # http://127.0.0.1:5050
+```
+
+No database is required — the app loads the CSVs into memory once at startup (~20k rows each is fine).
+
+### Deploy on Render (free)
+
+`render.yaml` defines a free Python web service. After pushing to GitHub:
+
+1. Open <https://dashboard.render.com/select-repo?type=blueprint>
+2. Connect the `990Analysis` repo and apply the Blueprint
+3. Render builds with `pip install -r requirements.txt` and starts:
+   `gunicorn -b 0.0.0.0:$PORT -w 1 --timeout 120 web.app:app`
+
+Free instances sleep after idle time; the first request after sleep can take ~30–60s.
+
+`make_trend_charts.py` still writes static PNGs offline; the UI charts reuse the same aggregation logic against the live filter.
+
+------------------------------------------------------------------------
+
 ## The classification step (`classify_mso.py`)
 
 This is the one step that calls an LLM (Claude, via the Anthropic API).

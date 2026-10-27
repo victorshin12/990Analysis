@@ -3,3 +3,6 @@
 pandas==2.2.3
 lxml==6.1.0
 anthropic>=0.40        # only needed for classify_mso.py (the LLM classification step)
+flask>=3.0             # only needed for the local explorer UI (python -m web)
+gunicorn>=22.0         # production server for hosted deploy
+matplotlib>=3.8        # only needed for make_trend_charts.py (static PNGs)

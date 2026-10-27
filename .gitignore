@@ -1,5 +1,6 @@
 .venv/
 __pycache__/
+**/__pycache__/
 *.pyc
 .DS_Store
 .Rhistory
@@ -7,3 +8,9 @@ anthropic_key.txt
 
 # Raw IRS XML batch. Not used by the pipeline scripts.
 data/reference/
+
+# Full XML corpus is too large for git; sample files can live locally.
+data/input/xml_files/
+data/input/irs_zips/
+data/extract/delegation_results_sample.csv
+

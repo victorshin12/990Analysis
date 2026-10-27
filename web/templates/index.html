@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>990 Analysis Explorer</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.min.js" defer></script>
+  <script src="{{ url_for('static', filename='app.js') }}" defer></script>
+</head>
+<body>
+  <header class="top">
+    <div>
+      <h1>990 Analysis Explorer</h1>
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-dataset="delegation" role="tab" aria-selected="true">Delegation</button>
+    <button class="tab" data-dataset="governance" role="tab" aria-selected="false">Governance</button>
+  </nav>
+
+  <section class="controls" id="controls">
+    <div class="control-row">
+      <label class="grow">
+        <span>Search</span>
+        <input id="q" type="search" placeholder="EIN, hospital, state, text… (type 2015 for tax year)">
+      </label>
+      <label>
+        <span>Tax year from</span>
+        <select id="year_min"></select>
+      </label>
+      <label>
+        <span>Tax year to</span>
+        <select id="year_max"></select>
+      </label>
+      <label id="state_wrap">
+        <span>State</span>
+        <select id="state"></select>
+      </label>
+      <label id="indicator_wrap">
+        <span>Line 3</span>
+        <select id="delegation_indicator">
+          <option value="">Any</option>
+          <option value="Yes">Yes</option>
+          <option value="No">No</option>
+        </select>
+      </label>
+    </div>
+    <div class="control-row actions">
+      <button type="button" id="apply" class="primary">Apply filters</button>
+      <button type="button" id="reset" class="ghost">Reset</button>
+      <a id="download" class="button" href="#">Download CSV</a>
+      <span id="match_count" class="meta"></span>
+    </div>
+  </section>
+
+  <section id="charts_panel" class="charts">
+    <div class="charts-head">
+      <h2>Delegation trends (current filter)</h2>
+    </div>
+    <div class="chart-grid">
+      <figure>
+        <figcaption>How common is delegation, and to whom?</figcaption>
+        <canvas id="chart_rates"></canvas>
+      </figure>
+      <figure>
+        <figcaption>Dedicated MSO starts vs ends</figcaption>
+        <canvas id="chart_events"></canvas>
+      </figure>
+      <figure>
+        <figcaption>Top states (dedicated MSO hospital count)</figcaption>
+        <canvas id="chart_states"></canvas>
+      </figure>
+      <figure>
+        <figcaption>Managers over time (dedicated MSO)</figcaption>
+        <canvas id="chart_managers"></canvas>
+      </figure>
+    </div>
+  </section>
+
+  <section class="table-panel">
+    <div class="table-head">
+      <h2 id="table_title">Results</h2>
+      <div class="pager">
+        <label>
+          Rows
+          <select id="page_size">
+            <option>25</option>
+            <option selected>50</option>
+            <option>100</option>
+            <option>200</option>
+          </select>
+        </label>
+        <button type="button" id="prev" class="ghost">Prev</button>
+        <span id="page_label" class="meta"></span>
+        <button type="button" id="next" class="ghost">Next</button>
+      </div>
+    </div>
+    <div class="table-wrap">
+      <table id="results">
+        <thead></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+</body>
+</html>
