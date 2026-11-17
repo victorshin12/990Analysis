@@ -1,0 +1,766 @@
+{
+  "sheets": [
+    {
+      "name": "Data Dictionary",
+      "columns": [
+        "CSV field",
+        "Display name",
+        "Category",
+        "Definition",
+        "Values / format",
+        "Populated rows",
+        "Completeness %",
+        "Suggested website use",
+        "Notes / source"
+      ],
+      "rows": [
+        {
+          "CSV field": "ein",
+          "Display name": "Employer Identification Number",
+          "Category": "Identifier",
+          "Definition": "IRS organization identifier; preserve leading zeros",
+          "Values / format": "Text; 9 digits",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Search / join",
+          "Notes / source": "Use as filing-organization key; not a unique hospital identifier"
+        },
+        {
+          "CSV field": "tax_period",
+          "Display name": "Tax period end",
+          "Category": "Identifier",
+          "Definition": "End of the reporting period in YYYYMM format",
+          "Values / format": "YYYYMM",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Year / filing detail",
+          "Notes / source": "Tax period and tax year may differ"
+        },
+        {
+          "CSV field": "object_id",
+          "Display name": "IRS filing object ID",
+          "Category": "Source metadata",
+          "Definition": "Identifier for the underlying XML filing",
+          "Values / format": "Text",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Source traceability",
+          "Notes / source": "Can distinguish multiple returns for an EIN and tax year"
+        },
+        {
+          "CSV field": "xml_file",
+          "Display name": "Source XML filename",
+          "Category": "Source metadata",
+          "Definition": "Filename of the source IRS XML return",
+          "Values / format": "Text",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Source traceability",
+          "Notes / source": "Not a direct link unless source storage is configured"
+        },
+        {
+          "CSV field": "organization_name",
+          "Display name": "Organization name",
+          "Category": "Identifier",
+          "Definition": "Name reported in the filing",
+          "Values / format": "Text",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Organization search",
+          "Notes / source": "Names may vary over time"
+        },
+        {
+          "CSV field": "tax_year",
+          "Display name": "Tax year",
+          "Category": "Identifier",
+          "Definition": "Tax year assigned to the return",
+          "Values / format": "YYYY",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Year filter / trend",
+          "Notes / source": "Not necessarily calendar year of submission"
+        },
+        {
+          "CSV field": "extract_status",
+          "Display name": "Extraction status",
+          "Category": "Quality",
+          "Definition": "Status assigned during extraction",
+          "Values / format": "Text",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Quality check",
+          "Notes / source": "Status values are pipeline-specific"
+        },
+        {
+          "CSV field": "line_1a_voting_members",
+          "Display name": "Voting board members",
+          "Category": "Board composition",
+          "Definition": "Number of voting members of the governing body at year end",
+          "Values / format": "Nonnegative integer",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Board size / ratio",
+          "Notes / source": "Form 990 Part VI 1a"
+        },
+        {
+          "CSV field": "line_1b_independent_members",
+          "Display name": "Independent voting board members",
+          "Category": "Board composition",
+          "Definition": "Number of independent voting members of the governing body at year end",
+          "Values / format": "Nonnegative integer",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Board independence ratio",
+          "Notes / source": "Form 990 Part VI 1b; should not exceed 1a"
+        },
+        {
+          "CSV field": "line_2_family_or_business_relationship",
+          "Display name": "Leadership family/business relationships",
+          "Category": "Governance structure",
+          "Definition": "Whether officers, directors, trustees, or key employees had specified family or business relationships",
+          "Values / format": "Yes / No",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Governance comparison",
+          "Notes / source": "Form 990 Part VI 2; see IRS definitions"
+        },
+        {
+          "CSV field": "line_3_management_delegation",
+          "Display name": "Management duties delegated",
+          "Category": "Management",
+          "Definition": "Whether management duties were delegated to a management company or other person",
+          "Values / format": "Yes / No",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Annual trend / comparison",
+          "Notes / source": "Form 990 Part VI 3; not proof of consolidation"
+        },
+        {
+          "CSV field": "line_4_governing_document_changes",
+          "Display name": "Significant governing-document changes",
+          "Category": "Governance structure",
+          "Definition": "Whether significant changes were made to governing documents",
+          "Values / format": "Yes / No",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Organization timeline",
+          "Notes / source": "Form 990 Part VI 4; details may be in Schedule O"
+        },
+        {
+          "CSV field": "line_5_asset_diversion",
+          "Display name": "Significant diversion of assets",
+          "Category": "Governance structure",
+          "Definition": "Whether organization became aware of a significant diversion of assets",
+          "Values / format": "Yes / No",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Governance indicator",
+          "Notes / source": "Form 990 Part VI 5; interpret with Schedule O"
+        },
+        {
+          "CSV field": "line_8a_minutes_governing_body",
+          "Display name": "Governing-body actions documented",
+          "Category": "Board procedures",
+          "Definition": "Whether governing-body meetings and written actions were contemporaneously documented",
+          "Values / format": "Yes / No",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Policy overview",
+          "Notes / source": "Form 990 Part VI 8a"
+        },
+        {
+          "CSV field": "line_8b_minutes_committees",
+          "Display name": "Committee actions documented",
+          "Category": "Board procedures",
+          "Definition": "Whether meetings and actions of relevant committees were documented",
+          "Values / format": "Yes / No / blank",
+          "Populated rows": 19234,
+          "Completeness %": 99.9,
+          "Suggested website use": "Policy overview",
+          "Notes / source": "Form 990 Part VI 8b; No may apply when there are no committees"
+        },
+        {
+          "CSV field": "line_10a_local_chapters",
+          "Display name": "Local chapters or affiliates",
+          "Category": "Organization structure",
+          "Definition": "Whether organization had local chapters, branches, or affiliates",
+          "Values / format": "Yes / No",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Structure overview",
+          "Notes / source": "Form 990 Part VI 10a; not necessarily a hospital system"
+        },
+        {
+          "CSV field": "line_10b_policies_reference_chapters",
+          "Display name": "Chapter oversight policies",
+          "Category": "Organization structure",
+          "Definition": "Whether organization had written policies/procedures governing chapters or affiliates",
+          "Values / format": "Yes / No / blank",
+          "Populated rows": 1138,
+          "Completeness %": 5.9,
+          "Suggested website use": "Conditional governance measure",
+          "Notes / source": "Form 990 Part VI 10b; relevant if 10a = Yes"
+        },
+        {
+          "CSV field": "line_11a_form_990_provided_to_board",
+          "Display name": "Form 990 provided to board",
+          "Category": "Transparency",
+          "Definition": "Whether a complete copy of Form 990 was provided to all governing-body members before filing",
+          "Values / format": "Yes / No",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Governance practice",
+          "Notes / source": "Form 990 Part VI 11a"
+        },
+        {
+          "CSV field": "line_12a_conflict_of_interest_policy",
+          "Display name": "Conflict-of-interest policy",
+          "Category": "Governance policies",
+          "Definition": "Whether organization had a written conflict-of-interest policy",
+          "Values / format": "Yes / No",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Policy overview",
+          "Notes / source": "Form 990 Part VI 12a"
+        },
+        {
+          "CSV field": "line_12b_annual_disclosure",
+          "Display name": "Annual conflict disclosures",
+          "Category": "Governance policies",
+          "Definition": "Whether covered persons annually disclosed interests that could give rise to conflicts",
+          "Values / format": "Yes / No / blank",
+          "Populated rows": 19136,
+          "Completeness %": 99.4,
+          "Suggested website use": "Conditional governance measure",
+          "Notes / source": "Form 990 Part VI 12b; conditional on 12a"
+        },
+        {
+          "CSV field": "line_12c_coi_monitoring",
+          "Display name": "Conflict-of-interest monitoring",
+          "Category": "Governance policies",
+          "Definition": "Whether organization regularly and consistently monitored and enforced compliance with policy",
+          "Values / format": "Yes / No / blank",
+          "Populated rows": 19136,
+          "Completeness %": 99.4,
+          "Suggested website use": "Conditional governance measure",
+          "Notes / source": "Form 990 Part VI 12c; conditional on 12a"
+        },
+        {
+          "CSV field": "line_13_whistleblower_policy",
+          "Display name": "Whistleblower policy",
+          "Category": "Governance policies",
+          "Definition": "Whether organization had a written whistleblower policy",
+          "Values / format": "Yes / No",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Policy overview",
+          "Notes / source": "Form 990 Part VI 13"
+        },
+        {
+          "CSV field": "line_14_document_retention_policy",
+          "Display name": "Document retention policy",
+          "Category": "Governance policies",
+          "Definition": "Whether organization had a written document retention/destruction policy",
+          "Values / format": "Yes / No",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Policy overview",
+          "Notes / source": "Form 990 Part VI 14"
+        },
+        {
+          "CSV field": "line_15a_compensation_process_ceo",
+          "Display name": "Top-management compensation process",
+          "Category": "Compensation governance",
+          "Definition": "Whether the compensation-setting process for CEO, executive director, or top management official met specified review elements",
+          "Values / format": "Yes / No / blank",
+          "Populated rows": 19242,
+          "Completeness %": 100,
+          "Suggested website use": "Compensation governance",
+          "Notes / source": "Form 990 Part VI 15a; consult IRS instructions"
+        },
+        {
+          "CSV field": "line_15b_compensation_process_other",
+          "Display name": "Other officer compensation process",
+          "Category": "Compensation governance",
+          "Definition": "Whether the process for other officers/key employees met specified review elements",
+          "Values / format": "Yes / No / blank",
+          "Populated rows": 19239,
+          "Completeness %": 99.9,
+          "Suggested website use": "Compensation governance",
+          "Notes / source": "Form 990 Part VI 15b"
+        },
+        {
+          "CSV field": "line_16a_investment_in_joint_venture",
+          "Display name": "Certain joint-venture investments",
+          "Category": "Organizational arrangements",
+          "Definition": "Whether organization invested in, contributed assets to, or participated in a joint venture or similar arrangement with a taxable entity",
+          "Values / format": "Yes / No",
+          "Populated rows": 19249,
+          "Completeness %": 100,
+          "Suggested website use": "Annual trend / comparison",
+          "Notes / source": "Form 990 Part VI 16a; not all joint ventures"
+        },
+        {
+          "CSV field": "line_16b_joint_venture_written_policy",
+          "Display name": "Joint-venture safeguards policy",
+          "Category": "Organizational arrangements",
+          "Definition": "Whether organization followed written policy/procedure to evaluate participation and safeguard exempt status",
+          "Values / format": "Yes / No / blank",
+          "Populated rows": 6886,
+          "Completeness %": 35.8,
+          "Suggested website use": "Conditional governance measure",
+          "Notes / source": "Form 990 Part VI 16b; applicable if 16a = Yes"
+        },
+        {
+          "CSV field": "line_11b_form_990_review_text",
+          "Display name": "Form 990 review process description",
+          "Category": "Narrative",
+          "Definition": "Free-text description of process used to review Form 990",
+          "Values / format": "Text / blank",
+          "Populated rows": 17580,
+          "Completeness %": 91.3,
+          "Suggested website use": "Organization detail",
+          "Notes / source": "Form 990 Part VI 11b; may contain lengthy narrative"
+        }
+      ]
+    },
+    {
+      "name": "Derived Measures",
+      "columns": [
+        "Suggested field",
+        "Display name",
+        "Calculation",
+        "Output",
+        "Rules / caveats",
+        "Website use"
+      ],
+      "rows": [
+        {
+          "Suggested field": "board_independence_pct",
+          "Display name": "Board independence (%)",
+          "Calculation": "100 × line_1b_independent_members / line_1a_voting_members",
+          "Output": "0–100%",
+          "Rules / caveats": "Valid if 1a > 0 and 0 ≤ 1b ≤ 1a; otherwise missing",
+          "Website use": "Organization detail; annual group means"
+        },
+        {
+          "Suggested field": "delegation_yes_rate",
+          "Display name": "Management delegation reporting rate",
+          "Calculation": "100 × count(line_3_management_delegation = Yes) / count(valid Yes or No)",
+          "Output": "0–100%",
+          "Rules / caveats": "Calculate separately for each tax year; show denominator",
+          "Website use": "Annual trend"
+        },
+        {
+          "Suggested field": "joint_venture_yes_rate",
+          "Display name": "Joint-venture reporting rate",
+          "Calculation": "100 × count(line_16a_investment_in_joint_venture = Yes) / count(valid Yes or No)",
+          "Output": "0–100%",
+          "Rules / caveats": "Applies to the specific Form 990 VI.16a question",
+          "Website use": "Annual trend"
+        },
+        {
+          "Suggested field": "board_independence_by_delegation",
+          "Display name": "Board independence by delegation",
+          "Calculation": "Mean board_independence_pct grouped by tax_year and line_3_management_delegation",
+          "Output": "0–100%",
+          "Rules / caveats": "Exclude invalid ratios; disclose group sizes; descriptive only",
+          "Website use": "Comparison chart"
+        },
+        {
+          "Suggested field": "organization_governance_history",
+          "Display name": "Organization governance history",
+          "Calculation": "Group filings by EIN and tax_year; display reported Yes/No and board-independence values",
+          "Output": "Timeline",
+          "Rules / caveats": "Preserve missing separately from No; resolve duplicate filings consistently",
+          "Website use": "Organization timeline"
+        }
+      ]
+    },
+    {
+      "name": "How to Use",
+      "columns": [
+        "Step",
+        "Action",
+        "Instructions",
+        "Relevant section"
+      ],
+      "rows": [
+        {
+          "Step": "1",
+          "Action": "Find an organization",
+          "Instructions": "Use the organization name or EIN in the explorer. EIN is more stable when names change.",
+          "Relevant section": "Organization name, EIN"
+        },
+        {
+          "Step": "2",
+          "Action": "Choose a tax year",
+          "Instructions": "Filter by tax_year; check tax_period when matching a particular return.",
+          "Relevant section": "Tax year, tax period"
+        },
+        {
+          "Step": "3",
+          "Action": "Read an individual field",
+          "Instructions": "Use the plain-English display name, definition and Form 990 line reference.",
+          "Relevant section": "Data Dictionary"
+        },
+        {
+          "Step": "4",
+          "Action": "Compare reporting rates",
+          "Instructions": "Read annual Yes percentages as shares of valid Yes/No filings, not shares of all hospitals.",
+          "Relevant section": "Annual trends"
+        },
+        {
+          "Step": "5",
+          "Action": "Interpret board independence",
+          "Instructions": "Independent voting members divided by all voting members; missing/invalid denominators are excluded.",
+          "Relevant section": "Board composition"
+        },
+        {
+          "Step": "6",
+          "Action": "Review conditional questions",
+          "Instructions": "10b follows 10a; 12b/12c follow 12a; 16b follows 16a. Blank is not No.",
+          "Relevant section": "Conditional fields"
+        },
+        {
+          "Step": "7",
+          "Action": "Review one organization over time",
+          "Instructions": "Compare the same EIN across years; do not treat absent years as No.",
+          "Relevant section": "Governance timeline"
+        },
+        {
+          "Step": "8",
+          "Action": "Check source and limitations",
+          "Instructions": "Use XML filename/object ID for traceability; a filing EIN may represent multiple facilities.",
+          "Relevant section": "Source metadata"
+        },
+        {
+          "Step": "9",
+          "Action": "Avoid unsupported conclusions",
+          "Instructions": "Delegation, joint ventures and governance changes do not independently establish consolidation.",
+          "Relevant section": "Interpretation"
+        }
+      ]
+    },
+    {
+      "name": "Website and Sources",
+      "columns": [
+        "Item",
+        "Value / link",
+        "Notes"
+      ],
+      "rows": [
+        {
+          "Item": "Existing site URL",
+          "Value / link": "https://form990-explorer.onrender.com/",
+          "Notes": "Provided by project team; live site could not be independently inspected in this environment"
+        },
+        {
+          "Item": "Verified source",
+          "Value / link": "governance_management_measures.csv",
+          "Notes": "19,249 CSV rows; 28 columns"
+        },
+        {
+          "Item": "Previous prototype",
+          "Value / link": "governance_dashboard.html",
+          "Notes": "Locally available prototype: annual comparison, group comparison, organization timeline; not verified as deployed"
+        },
+        {
+          "Item": "Proposed page section",
+          "Value / link": "Governance Data Dictionary",
+          "Notes": "Searchable definitions, categories, Form 990 line references, missingness and use cases"
+        },
+        {
+          "Item": "Suggested placement",
+          "Value / link": "Next to governance charts and organization lookup",
+          "Notes": "Label as a proposal pending confirmation of the actual website navigation"
+        },
+        {
+          "Item": "Data unit",
+          "Value / link": "EIN × tax-year filing",
+          "Notes": "Check duplicate and amended filings before publishing yearly records"
+        },
+        {
+          "Item": "Missingness",
+          "Value / link": "Blank ≠ No",
+          "Notes": "Conditional fields have different eligible populations"
+        },
+        {
+          "Item": "Reference",
+          "Value / link": "IRS Form 990 Part VI",
+          "Notes": "https://www.irs.gov/instructions/i990"
+        }
+      ]
+    },
+    {
+      "name": "Definitions and Methods",
+      "columns": [
+        "Topic",
+        "How defined",
+        "Operational definition",
+        "Interpretation / caution",
+        "Basis"
+      ],
+      "rows": [
+        {
+          "Topic": "Purpose and scope",
+          "How defined": "What the dataset describes",
+          "Operational definition": "Governance and management responses reported by nonprofit filing organizations on IRS Form 990.",
+          "Interpretation / caution": "Do not describe the CSV as a verified list of hospital acquisitions, CHOW events, or individual hospital facilities.",
+          "Basis": "Source: uploaded governance_management_measures.csv and IRS Form 990 Part VI."
+        },
+        {
+          "Topic": "Unit of observation",
+          "How defined": "One row in original CSV",
+          "Operational definition": "A source extract associated with an EIN, tax_year and filing metadata.",
+          "Interpretation / caution": "The same EIN may appear in multiple tax years and potentially in more than one filing within a year.",
+          "Basis": "CSV contains 19,249 source rows; this is not a count of unique hospitals."
+        },
+        {
+          "Topic": "Organization identity",
+          "How defined": "EIN",
+          "Operational definition": "Treat EIN as a text identifier for the filing organization; preserve leading zeroes.",
+          "Interpretation / caution": "Use EIN for longitudinal grouping; names can change and one EIN can cover multiple facilities.",
+          "Basis": "CSV field ein."
+        },
+        {
+          "Topic": "Time definition",
+          "How defined": "tax_year and tax_period",
+          "Operational definition": "tax_year is the tax year labeled in the extract; tax_period is the reported period end in YYYYMM.",
+          "Interpretation / caution": "Do not assume tax_year equals calendar filing date; show both when referencing a specific return.",
+          "Basis": "CSV fields tax_year, tax_period."
+        },
+        {
+          "Topic": "Filing provenance",
+          "How defined": "object_id and xml_file",
+          "Operational definition": "Object ID and XML filename trace an extracted record to a source filing.",
+          "Interpretation / caution": "These fields do not by themselves prove a particular filing was the final or amended version.",
+          "Basis": "CSV fields object_id, xml_file."
+        },
+        {
+          "Topic": "Extraction quality",
+          "How defined": "extract_status",
+          "Operational definition": "Status recorded by the source extraction workflow.",
+          "Interpretation / caution": "The CSV shows status values, but their full pipeline definitions were not provided; do not invent what each status guarantees.",
+          "Basis": "CSV field extract_status."
+        },
+        {
+          "Topic": "Yes/No fields",
+          "How defined": "Reported answers",
+          "Operational definition": "Retain the source response as reported; valid binary comparisons count only explicit Yes and No.",
+          "Interpretation / caution": "Missing, blank, or unrecognized values are not equivalent to No.",
+          "Basis": "Applies to Form 990 Part VI response columns."
+        },
+        {
+          "Topic": "Conditional fields",
+          "How defined": "Eligibility for question",
+          "Operational definition": "Interpret 10b after 10a; 12b/12c after 12a; 16b after 16a.",
+          "Interpretation / caution": "A blank may be structurally inapplicable; denominator should reflect eligible valid responses.",
+          "Basis": "Form 990 Part VI lines 10, 12, 16."
+        },
+        {
+          "Topic": "Board size",
+          "How defined": "Voting board members",
+          "Operational definition": "line_1a_voting_members is the count of voting members reported for the governing body.",
+          "Interpretation / caution": "Do not equate board size with number of hospitals or employees.",
+          "Basis": "Form 990 Part VI line 1a."
+        },
+        {
+          "Topic": "Board independence",
+          "How defined": "Independent board members",
+          "Operational definition": "line_1b_independent_members is the reported number of independent voting members.",
+          "Interpretation / caution": "Independent is an IRS-defined status; not a direct measure of governance quality.",
+          "Basis": "Form 990 Part VI line 1b."
+        },
+        {
+          "Topic": "Delegation",
+          "How defined": "Management delegation",
+          "Operational definition": "line_3_management_delegation indicates whether management duties were delegated as asked in Part VI line 3.",
+          "Interpretation / caution": "Yes does not establish outsourcing of every management function, acquisition, or system consolidation.",
+          "Basis": "Form 990 Part VI line 3."
+        },
+        {
+          "Topic": "Joint ventures",
+          "How defined": "Certain joint-venture arrangements",
+          "Operational definition": "line_16a_investment_in_joint_venture reports the specific activity involving taxable entities asked about in line 16a.",
+          "Interpretation / caution": "Does not capture every partnership, affiliation, or merger.",
+          "Basis": "Form 990 Part VI line 16a."
+        },
+        {
+          "Topic": "Governing changes",
+          "How defined": "Governing-document changes",
+          "Operational definition": "line_4_governing_document_changes flags reported significant changes to governing documents.",
+          "Interpretation / caution": "A Yes answer does not explain the reason or identify a consolidation; check narrative and filing detail.",
+          "Basis": "Form 990 Part VI line 4."
+        },
+        {
+          "Topic": "Narrative",
+          "How defined": "Form 990 review process",
+          "Operational definition": "line_11b_form_990_review_text contains extracted free-text information about Form 990 review.",
+          "Interpretation / caution": "Narrative is not directly comparable to a binary Yes/No field without separate text coding.",
+          "Basis": "CSV field line_11b_form_990_review_text."
+        },
+        {
+          "Topic": "Deduplication for charts",
+          "How defined": "One EIN–tax_year",
+          "Operational definition": "Earlier prototype charts sorted by EIN, tax_year, tax_period and object_id, retaining the last row per EIN–tax_year.",
+          "Interpretation / caution": "This is a reproducible visualization rule, not confirmation that the retained filing is the authoritative amended return. Audit before publication.",
+          "Basis": "Earlier governance graphic generation scripts."
+        },
+        {
+          "Topic": "Coverage",
+          "How defined": "Year range for current graphics",
+          "Operational definition": "Current visualization work restricts to tax_year 2015–2024.",
+          "Interpretation / caution": "The dictionary describes the full CSV, while the website graphics may use a filtered subset. State which population is used.",
+          "Basis": "Earlier prototype chart settings."
+        },
+        {
+          "Topic": "External matching",
+          "How defined": "CHOW / POS linkage",
+          "Operational definition": "An EIN may be useful as a starting point for linking organization-level Form 990 records to external data.",
+          "Interpretation / caution": "Do not assume a direct one-to-one EIN-to-facility or EIN-to-CHOW match. Require validated crosswalks.",
+          "Basis": "Proposed future use; not a field or match validated in this CSV."
+        }
+      ]
+    },
+    {
+      "name": "Worked Examples",
+      "columns": [
+        "Measure",
+        "Example input",
+        "Calculation / display",
+        "How to interpret",
+        "What not to conclude"
+      ],
+      "rows": [
+        {
+          "Measure": "Board independence (%)",
+          "Example input": "line_1a_voting_members = 10; line_1b_independent_members = 8",
+          "Calculation / display": "100 × 8 ÷ 10 = 80%",
+          "How to interpret": "A reported 80% of voting members were independent.",
+          "What not to conclude": "Do not infer that governance quality is 80%; invalid if total voting members is zero or independence exceeds total."
+        },
+        {
+          "Measure": "Management delegation rate",
+          "Example input": "Of 200 valid Yes/No filings, 30 report Yes",
+          "Calculation / display": "100 × 30 ÷ 200 = 15%",
+          "How to interpret": "15% of valid filings reported management delegation.",
+          "What not to conclude": "Illustrative calculation only; not a result from this dataset. Report sample size and year."
+        },
+        {
+          "Measure": "Joint-venture reporting rate",
+          "Example input": "Of 150 valid Yes/No filings, 45 report Yes",
+          "Calculation / display": "100 × 45 ÷ 150 = 30%",
+          "How to interpret": "30% reported the specific joint-venture activity covered by Part VI 16a.",
+          "What not to conclude": "Illustrative calculation only; not all joint ventures or consolidations."
+        },
+        {
+          "Measure": "Compare board independence by delegation",
+          "Example input": "Calculate independence for each valid filer, then average within delegation Yes and No groups",
+          "Calculation / display": "Mean(100 × 1b/1a) separately for each group and tax year",
+          "How to interpret": "Shows a descriptive difference in average reported board independence.",
+          "What not to conclude": "Do not claim management delegation caused the difference; repeated EINs and group mix matter."
+        },
+        {
+          "Measure": "Organization timeline",
+          "Example input": "EIN reports Yes in 2018, No in 2019, and has no usable response in 2020",
+          "Calculation / display": "Display Yes / No / Missing as distinct categories",
+          "How to interpret": "A visitor can identify years in which responses differed.",
+          "What not to conclude": "Missing is not No; a reported change is not proof of an ownership change."
+        },
+        {
+          "Measure": "Conditional joint-venture policy",
+          "Example input": "16a = No; 16b is blank",
+          "Calculation / display": "Treat 16b as not applicable / no usable conditional response, not No",
+          "How to interpret": "The follow-up policy question is conditional on the preceding question.",
+          "What not to conclude": "Check applicable IRS instructions and preserve response status."
+        },
+        {
+          "Measure": "Multiple filings for one EIN and year",
+          "Example input": "Two rows share EIN and tax_year, but have different object_id values",
+          "Calculation / display": "Flag for review; apply a documented selection rule for displays",
+          "How to interpret": "Avoid double counting organization-years in annual trend graphs.",
+          "What not to conclude": "Do not assume latest object_id automatically represents the final amended filing."
+        },
+        {
+          "Measure": "Source interpretation",
+          "Example input": "line_4_governing_document_changes = Yes",
+          "Calculation / display": "Read as a reported significant governing-document change",
+          "How to interpret": "A user may investigate the underlying Form 990 for more detail.",
+          "What not to conclude": "Do not label this a CHOW or consolidation event."
+        }
+      ]
+    },
+    {
+      "name": "Website User Guide",
+      "columns": [
+        "User goal",
+        "How to use the data",
+        "What to show",
+        "Key warning"
+      ],
+      "rows": [
+        {
+          "User goal": "Visitor: identify a field",
+          "How to use the data": "Open the Data Dictionary tab or proposed searchable dictionary; search “delegation” or “line_3”.",
+          "What to show": "Read display name, Part VI line, accepted values, and caution.",
+          "Key warning": "Field interpretation is grounded in what Form 990 asks."
+        },
+        {
+          "User goal": "Visitor: find an organization",
+          "How to use the data": "Search by organization name or EIN where the website provides organization search.",
+          "What to show": "Confirm EIN, tax year and tax period before comparing.",
+          "Key warning": "Name search alone may confuse similarly named organizations."
+        },
+        {
+          "User goal": "Visitor: compare years",
+          "How to use the data": "Use tax_year as the trend axis and a consistent denominator.",
+          "What to show": "Display numerator, valid-response denominator, and percent for each year.",
+          "Key warning": "Changes in the filing population can alter trends."
+        },
+        {
+          "User goal": "Visitor: compare groups",
+          "How to use the data": "For board independence, group by management-delegation Yes/No and compute valid annual means.",
+          "What to show": "Display sample size for each group and year.",
+          "Key warning": "This is descriptive, not an adjusted association or causal effect."
+        },
+        {
+          "User goal": "Visitor: inspect an EIN",
+          "How to use the data": "Use a timeline of Yes / No / Missing responses for one EIN.",
+          "What to show": "Use filing metadata to locate original records for verification.",
+          "Key warning": "An EIN is not necessarily an individual hospital."
+        },
+        {
+          "User goal": "Visitor: evaluate data quality",
+          "How to use the data": "Check populated rows and completeness on Data Dictionary tab.",
+          "What to show": "For conditional fields, evaluate eligible response counts, not overall blank rate alone.",
+          "Key warning": "Missingness can reflect inapplicability or extraction limitations."
+        },
+        {
+          "User goal": "Team: implement website",
+          "How to use the data": "Suggested navigation: Governance → Data Dictionary; add search by plain-English name, technical field and IRS line.",
+          "What to show": "Link definitions directly from graph labels and organization-detail panels.",
+          "Key warning": "This is a recommendation; live website features have not been independently confirmed."
+        },
+        {
+          "User goal": "Team: add chart tooltips",
+          "How to use the data": "Include variable definition, Yes/No meaning, year, numerator, denominator and source IRS line.",
+          "What to show": "Explain that data reflect self-reported filing answers.",
+          "Key warning": "Do not present governance flags as CHOW events."
+        },
+        {
+          "User goal": "Team: compare with CHOW/POS",
+          "How to use the data": "Treat Form 990 as EIN-level organization data; CHOW and POS may use facility/provider identifiers.",
+          "What to show": "Only merge after a verified EIN-to-provider crosswalk and compatible time alignment.",
+          "Key warning": "Do not join solely on similar organization names."
+        },
+        {
+          "User goal": "Team: cite sources",
+          "How to use the data": "Show CSV dataset name, tax-year coverage and Form 990 Part VI line in a source note.",
+          "What to show": "Where feasible, include links to original filing and IRS instructions.",
+          "Key warning": "Do not assert that every website record has a direct IRS link until verified."
+        }
+      ]
+    }
+  ]
+}

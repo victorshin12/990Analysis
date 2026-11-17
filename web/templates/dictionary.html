@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Data Dictionary — 990 Analysis Explorer</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="{{ url_for('static', filename='dictionary.js') }}" defer></script>
+</head>
+<body class="page-dictionary">
+  <header class="top">
+    <div class="top-row">
+      <div>
+        <p class="eyebrow"><a href="/">990 Analysis Explorer</a></p>
+        <h1>Data Dictionary</h1>
+        <p class="sub">Field definitions, derived measures, methods, and how to use the extracts on this site.</p>
+      </div>
+      <nav class="site-links" aria-label="Site">
+        <a href="/">Explorer</a>
+        <a href="/dictionary" aria-current="page">Data Dictionary</a>
+        <a href="/about">About / Contributing</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="page-panel dictionary-page">
+    <div class="dictionary-layout">
+      <nav id="dictionary_sheets" class="dictionary-sheets" aria-label="Dictionary sections"></nav>
+      <div class="dictionary-main">
+        <div id="dictionary_toolbar" class="dictionary-toolbar hidden"></div>
+        <div id="dictionary_body" class="dictionary-body">
+          <p class="meta">Loading…</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>

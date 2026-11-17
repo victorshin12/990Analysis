@@ -10,14 +10,23 @@
 </head>
 <body>
   <header class="top">
-    <div>
-      <h1>990 Analysis Explorer</h1>
+    <div class="top-row">
+      <div>
+        <h1>990 Analysis Explorer</h1>
+      </div>
+      <nav class="site-links" aria-label="Site">
+        <a href="/" aria-current="page">Explorer</a>
+        <a href="/dictionary">Data Dictionary</a>
+        <a href="/about">About / Contributing</a>
+      </nav>
     </div>
   </header>
 
-  <nav class="tabs" role="tablist">
-    <button class="tab active" data-dataset="delegation" role="tab" aria-selected="true">Delegation</button>
-    <button class="tab" data-dataset="governance" role="tab" aria-selected="false">Governance</button>
+  <nav class="tabs-bar">
+    <div class="tabs" role="tablist">
+      <button class="tab active" data-dataset="delegation" role="tab" aria-selected="true">Delegation</button>
+      <button class="tab" data-dataset="governance" role="tab" aria-selected="false">Governance</button>
+    </div>
   </nav>
 
   <section class="controls" id="controls">
@@ -50,12 +59,24 @@
     <div class="control-row actions">
       <button type="button" id="apply" class="primary">Apply filters</button>
       <button type="button" id="reset" class="ghost">Reset</button>
-      <a id="download" class="button" href="#">Download CSV</a>
+      <button type="button" id="download" class="button">Download CSV</button>
       <span id="match_count" class="meta"></span>
     </div>
   </section>
 
-  <section id="charts_panel" class="charts">
+  <div id="download_modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="download_modal_title">
+    <div class="modal-card">
+      <h3 id="download_modal_title">Download CSV</h3>
+      <p class="meta">Downloads use the current filters on this tab.</p>
+      <div class="modal-actions">
+        <button type="button" id="download_tab" class="primary">This tab only</button>
+        <button type="button" id="download_agg" class="button">Aggregated (delegation + governance)</button>
+        <button type="button" id="download_cancel" class="ghost">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <section id="charts_panel_delegation" class="charts">
     <div class="charts-head">
       <h2>Delegation trends (current filter)</h2>
     </div>
@@ -76,6 +97,35 @@
         <figcaption>Managers over time (dedicated MSO)</figcaption>
         <canvas id="chart_managers"></canvas>
       </figure>
+    </div>
+  </section>
+
+  <section id="charts_panel_governance" class="charts hidden">
+    <div class="charts-head">
+      <h2>Governance trends (current filter)</h2>
+    </div>
+    <div class="chart-grid">
+      <figure>
+        <figcaption>Management delegation &amp; joint ventures (% Yes)</figcaption>
+        <canvas id="chart_gov_rates"></canvas>
+      </figure>
+      <figure>
+        <figcaption>Board independence by Line 3 (axis 60–90%)</figcaption>
+        <canvas id="chart_gov_independence"></canvas>
+      </figure>
+    </div>
+    <div class="org-history">
+      <div class="org-history-head">
+        <h3>Organization governance history</h3>
+        <p class="meta">Search a filer in the current filter (orgs with ≥2 years).</p>
+      </div>
+      <label class="org-search grow">
+        <span>Organization or EIN</span>
+        <input id="org_search" type="search" placeholder="Start typing a name or EIN" autocomplete="off">
+      </label>
+      <div id="org_results" class="org-results hidden"></div>
+      <p id="org_selection" class="meta">Select an organization to view its history.</p>
+      <div id="org_timeline" class="timeline"></div>
     </div>
   </section>
 

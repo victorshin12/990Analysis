@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About / Contributing — 990 Analysis Explorer</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body class="page-about">
+  <header class="top">
+    <div class="top-row">
+      <div>
+        <p class="eyebrow"><a href="/">990 Analysis Explorer</a></p>
+        <h1>About / Contributing</h1>
+        <p class="sub">Project README: purpose, technical notes, and how to contribute.</p>
+      </div>
+      <nav class="site-links" aria-label="Site">
+        <a href="/">Explorer</a>
+        <a href="/dictionary">Data Dictionary</a>
+        <a href="/about" aria-current="page">About / Contributing</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="page-panel about-page">
+    <div class="readme-body">
+      {{ readme_html | safe }}
+    </div>
+  </section>
+</body>
+</html>

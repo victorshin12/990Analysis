@@ -151,6 +151,21 @@ def to_csv_bytes(df: pd.DataFrame) -> bytes:
     return buf.getvalue().encode("utf-8")
 
 
+OTHER_DATASET = {"delegation": "governance", "governance": "delegation"}
+
+
+def aggregate_frame(key: str, filtered: pd.DataFrame) -> pd.DataFrame:
+    """Left-join the other extract onto the filtered tab rows by object_id."""
+    other_key = OTHER_DATASET.get(key)
+    if other_key is None or filtered.empty or "object_id" not in filtered.columns:
+        return filtered
+    other = get_frame(other_key)
+    # Keep only columns unique to the other extract (plus join key).
+    drop = [c for c in other.columns if c in filtered.columns and c != "object_id"]
+    other_slim = other.drop(columns=drop, errors="ignore")
+    return filtered.merge(other_slim, on="object_id", how="left")
+
+
 def filter_options(key: str) -> dict:
     df = get_frame(key)
     years = sorted(

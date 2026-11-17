@@ -1,152 +1,165 @@
-# Making a panel of nonprofit management delegation measures 
+# 990 Analysis Explorer
 
-This project identifies which U.S. nonprofit hospitals **delegate management** by mining IRS Form 990 filings.
+IRS Form 990 hospital extracts, a research pipeline that builds them, and a small web app for browsing the CSVs.
 
-It runs in two stages: **(1) detect** management service organization (MSO) affiliations from IRS Form 990 XML, then **(2) build** a longitudinal hospital-year panel of the delegation measures (`build_panel.py`).
+Live site (Render): https://form990-explorer.onrender.com
 
-The primary data source is the public IRS bulk distribution of e-filed Form 990 XML.
+---
 
-------------------------------------------------------------------------
+## Technical
 
-## Quick start
+### Repo layout
 
-``` bash
-# 1. Install dependencies (Python 3.10+)
+```
+web/              Flask explorer (UI + API)
+extractors/       One module per Form 990 measure group → CSV under data/extract/
+pipeline/         Acquire XMLs, classify narratives, build the hospital-year panel
+data/
+  input/          Hospital universe + XML filings (xml_files/ is local / large)
+  acquire/        EIN list, IRS index matches, download log
+  extract/        Extractor outputs the website reads
+  classify/       Distinct texts + labels (used by charts / panel)
+  panel/          Final hospital × year panel
+paths.py          Shared paths into data/
+render.yaml       Render free-tier web service
+requirements.txt  Python deps
+```
+
+`paths.py` is the single place that points code at `data/`. The website and extractors both use it.
+
+### Website
+
+#### What it is
+
+A Flask app that loads extract CSVs into memory, serves a tabbed browser UI, and exposes JSON APIs for filtering, pagination, CSV download, and chart series. There is no database.
+
+Typical flow:
+
+1. Browser loads `web/templates/index.html` (+ `web/static/`)
+2. Front end calls `/api/...` with the current filters
+3. `web/data_store.py` filters the in-memory DataFrame and returns a page of rows (or a full CSV download)
+4. Optional chart endpoints aggregate the **filtered** rows and return JSON; the front end draws charts with Chart.js
+
+#### Key files
+
+| Path | Role |
+|------|------|
+| `web/app.py` | Flask routes (`/`, `/api/query/...`, `/api/download/...`, `/api/charts/...`) |
+| `web/data_store.py` | Which CSVs are loaded, search/filter rules, pagination |
+| `web/charts.py` | Server-side aggregates for chart endpoints |
+| `web/templates/index.html` | Page shell, tabs, controls, chart canvases |
+| `web/static/app.js` | Tabs, filters, table, chart wiring |
+| `web/static/style.css` | Layout / styling |
+
+When you add a dataset tab, a filter, or a visual, you usually touch `data_store.py` (data + filters), optionally `charts.py` + an API route, then the template/JS. Charts and filters will change over time; this split should stay the same.
+
+#### Run locally
+
+```bash
+# from repo root
+python3 -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-# 2. Run the pipeline in order (see "Pipeline" below).
-python pipeline/make_ein_list.py
-python pipeline/find_xml.py
-python pipeline/download_xml.py          # long-running: downloads ~tens of GB of IRS ZIPs
+python -m web                      # http://127.0.0.1:5050
+```
+
+The app binds `HOST` / `PORT` from the environment (defaults `0.0.0.0` and `5050`). It expects the extract CSVs under `data/extract/` (and classify files if you use chart endpoints that join labels).
+
+#### Refreshing data the site shows
+
+Regenerate extracts, then restart the local server (or redeploy):
+
+```bash
 python -m extractors delegation
-python pipeline/make_text_distinct.py
-python pipeline/classify_mso.py          # needs an Anthropic API key — see below
-python pipeline/map_to_panel.py
-python pipeline/make_geo_xwalk.py
-python pipeline/build_panel.py
-
+python -m extractors governance
 ```
 
-You do **not** need to re-run everything: the intermediate CSVs under `data/`, the final labeled dataset (`data/classify/mso_filings_classified.csv`), and the built hospital-year panel (`data/panel/hosp_year_panel.csv`) are all included. The only steps that need the large XML corpus are `pipeline/download_xml.py` and `python -m extractors delegation`.
+The site reads whatever is currently in those CSVs; it does not re-parse XML itself.
+
+### Hosting (Render)
+
+The app is a free Render **web service** defined in `render.yaml`.
+
+- **Build:** `pip install -r requirements.txt`
+- **Start:** `gunicorn -b 0.0.0.0:$PORT -w 1 --timeout 120 web.app:app`
+- **Repo:** GitHub `victorshin12/990Analysis` (private), auto-deploy on push to `main`
+- **URL:** https://form990-explorer.onrender.com
+- **Dashboard:** https://dashboard.render.com/web/srv-dbgh9omc6qcc73bukmq0
+
+Free instances sleep when idle; the first request after sleep can take ~30–60 seconds. For self-hosting, feel free to clone this project and host on a separate Render account.
+
+#### Shipping a UI change
+
+1. Edit under `web/` (and CSVs under `data/` if needed)
+2. Commit and push to `main`
+3. Render rebuilds and redeploys
+
+Do not commit the full `data/input/xml_files/` corpus (gitignored; too large). The live site only needs the extract/classify CSVs that are already in the repo.
+
+### Pipeline (high level)
+
+Data moves in one direction: acquire → extract → classify → panel. Scripts live in `pipeline/` and `extractors/`; run them from the repo root.
 
 ```
-pipeline/          stage scripts (acquire, classify, panel)
-extractors/        one module per measure group
-data/input/        hospital list and Form 990 XML
-data/acquire/      EIN list, IRS index matches, download log
-data/extract/      extractor outputs (one CSV per measure group)
-data/classify/     MSO text labels
-data/panel/        hospital crosswalk and hospital-year panel
-data/reference/    raw IRS XML batch, not used by the scripts
-docs/              syllabus and slides
+CBI hospitals → EINs → IRS XML matches → download XMLs
+        → extractors (Part VI fields / Schedule O text)
+        → optional text de-dupe + LLM classify
+        → hospital-year panel
 ```
 
-------------------------------------------------------------------------
+| Stage | Where | Output area |
+|-------|--------|-------------|
+| Identity & download | `pipeline/make_ein_list.py`, `find_xml.py`, `download_xml.py` | `data/acquire/`, `data/input/` |
+| Measure extraction | `python -m extractors <group>` | `data/extract/` |
+| Narrative labels | `make_text_distinct.py`, `classify_mso.py`, `map_to_panel.py` | `data/classify/` |
+| Panel | `make_geo_xwalk.py`, `build_panel.py` | `data/panel/` |
 
-## Pipeline
+Extractors are registered in `extractors/__init__.py`. Add a new measure group as its own module with `KEY`, `GROUP`, and `main()`, then register it. That keeps the website’s CSV inputs independent of one another.
 
-Scripts live in `pipeline/` and `extractors/`. Data lives under `data/`. Run the scripts from the repo root, in this order:
+`classify_mso.py` is the only step that needs an Anthropic API key (`ANTHROPIC_API_KEY` or gitignored `anthropic_key.txt`). Intermediate and final CSVs are already in `data/` for most workflows; you only need the large XML download to re-run extraction from scratch.
 
-| \# | Script | Reads | Writes |
-|----|----|----|----|
-| 1 | `pipeline/make_ein_list.py` | `data/input/cbi_hospitals.json` | `data/acquire/ein_list_all.csv` |
-| 2 | `pipeline/find_xml.py` | `data/acquire/ein_list_all.csv` | `data/acquire/xml_matches.csv` |
-| 3 | `pipeline/download_xml.py` | `data/acquire/xml_matches.csv` | `data/input/xml_files/*.xml`, `data/input/irs_zips/`, `data/acquire/xml_download_log.csv` |
-| 4 | `python -m extractors delegation` | `data/input/xml_files/`, `data/acquire/xml_download_log.csv` | `data/extract/delegation_results.csv` |
-| 5 | `pipeline/make_text_distinct.py` | `data/extract/delegation_results.csv` | `data/classify/mso_text_distinct.csv` |
-| 6 | `pipeline/classify_mso.py` | `data/classify/mso_text_distinct.csv` | `data/classify/mso_classified.csv` |
-| 7 | `pipeline/map_to_panel.py` | `data/classify/mso_classified.csv`, `data/extract/delegation_results.csv` | `data/classify/mso_filings_classified.csv` |
-| 8 | `pipeline/make_geo_xwalk.py` | `data/input/cbi_hospitals.json` | `data/panel/cbi_geo_xwalk.csv` |
-| 9 | `pipeline/build_panel.py` | delegation results, classified filings, geo crosswalk | `data/panel/hosp_year_panel.csv` |
+### Notes
 
-What the pipeline does, in plain terms: - **1–2** turn a list of hospitals into a list of specific IRS filings (with the `object_id` needed to locate each one). - **3** downloads and extracts the actual 990 XML documents. - **4** reads the structured **Part VI, Section A, Line 3** field ("Did the organization delegate management duties to a management company or other person?") and, for every "Yes", pulls the matching **Schedule O** explanation text. - **5–7** de-duplicate that text, classify each distinct explanation into the MSO taxonomy (below), and join the labels back onto the filing panel. - **8–9** build the hospital-level geography crosswalk and expand the EIN-level filings into a hospital (Medicare CCN) × tax-year panel, `hosp_year_panel.csv`, on a balanced grid over the full CBI hospital universe, 2014–2025. Each row carries a `filing_observed` flag: `False` means no e-filed 990 is available for that hospital-year (paper filer, not yet filed, or outside IRS bulk XML coverage) — *not* that the hospital had no MSO.
+- Python 3.10+ recommended.
+- No DB, Redis, or build step beyond `pip install` — the UI is server-rendered HTML + static JS.
+- Offline static PNGs can still be produced with `make_trend_charts.py`; the hosted UI prefers live JSON + Chart.js from the current filter.
 
-> **Coverage note.** The IRS hosts bulk XML only for index years ≥ 2017, so ~4% of indexed 990s are unavailable from this source, and the most recent tax years (2024–2025) are thin because of filing lags.
+---
 
-------------------------------------------------------------------------
+## Qualitative
 
-## Extractors
+### Scope and approach
 
-Extraction is a registry of independent measure groups in `extractors/`. Each one reads `data/input/xml_files/*.xml` and writes its own CSV under `data/extract/`. `pipeline/extract_delegation.py` still runs the delegation group.
+- Select Form 990 governance measures for descriptive website graphics.
+- Use Part VI fields and Schedule O narratives; see `Data Dictionary .xlsx` for definitions.
+- Keep earlier MSO narrative classifications separate from Part VI responses.
+
+### Measure selection and preparation
+
+- Use delegation (VI.3), joint ventures (VI.16a), board composition (VI.1a–1b), and governing-document changes (VI.4).
+- Restrict proposal charts to 2015–2024; retain one filing per EIN–year.
+- Treat records as filing organizations; distinguish missing responses from `No`.
+
+### Graphics methodology
+
+- **Trend overlay:** Plot annual `Yes` rates for delegation and joint ventures.
+- **Board comparison:** Plot annual mean board independence by delegation `Yes`/`No`.
+- **Organization timeline:** Show VI.3, VI.4, and VI.16a responses by EIN and year (`Yes`/`No`/missing).
+
+### Website use and interpretation
+
+- Follow the existing Flask/Chart.js pattern described above: load extracts in `web/data_store.py`, calculate filtered chart series in `web/charts.py`, expose them through `web/app.py`, and render them in the template/JS.
+- Display each graphic's Form 990 source, tax years, valid-response denominator, and missing-data treatment; allow organization-level lookup by EIN where supported.
+- Use the **Data Dictionary** to explain fields and calculations. Check the original filing before interpreting an individual organization's change.
+- These are **descriptive reporting measures**: joint ventures, delegation, and governing-document changes do not independently establish hospital acquisitions, consolidation, or governance effectiveness.
+
+### Reproduce proposal graphics
 
 ```bash
-python -m extractors governance    # Governance & Management Measures
-python -m extractors delegation    # Part VI Line 3
+python -m pip install pandas numpy matplotlib python-pptx
+python build_vip_useful_graphics.py
 ```
 
-Governance & Management Measures is one row per filing: Part VI lines 1a, 1b, 2, 3, 4, 5, 8a, 8b, 10a, 10b, 11a, 12a–c, 13, 14, 15a, 15b, 16a, and 16b, plus the Schedule O text for line 11b. Lines 10b and 16b are blank when the form did not ask them.
-
-------------------------------------------------------------------------
-
-## Local explorer UI
-
-Browse `delegation_results.csv` and `governance_management_measures.csv` with search, filters, pagination, and CSV download of the current result set. The Delegation tab also redraws the trend charts from `make_trend_charts.py` against whatever rows match the filter (using the same MSO taxonomy join).
-
-```bash
-pip install -r requirements.txt   # needs flask
-.venv/bin/python -m web           # http://127.0.0.1:5050
-```
-
-No database is required — the app loads the CSVs into memory once at startup (~20k rows each is fine).
-
-### Deploy on Render (free)
-
-`render.yaml` defines a free Python web service. After pushing to GitHub:
-
-1. Open <https://dashboard.render.com/select-repo?type=blueprint>
-2. Connect the `990Analysis` repo and apply the Blueprint
-3. Render builds with `pip install -r requirements.txt` and starts:
-   `gunicorn -b 0.0.0.0:$PORT -w 1 --timeout 120 web.app:app`
-
-Free instances sleep after idle time; the first request after sleep can take ~30–60s.
-
-`make_trend_charts.py` still writes static PNGs offline; the UI charts reuse the same aggregation logic against the live filter.
-
-------------------------------------------------------------------------
-
-## The classification step (`classify_mso.py`)
-
-This is the one step that calls an LLM (Claude, via the Anthropic API).
-
-**Each collaborator needs their own Anthropic API key** (a Claude Pro/Max subscription does **not** cover API usage — the API is billed separately, pay-as-you-go; the full run costs only a few dollars). Get a key at <https://console.anthropic.com> → API Keys, then either:
-
-- set an environment variable: `export ANTHROPIC_API_KEY='sk-ant-...'`, **or**
-- put the key (just the `sk-ant-...` string) in `anthropic_key.txt` in the repo root. (Useful when running in IDLE, which does not inherit shell environment variables. `anthropic_key.txt` is git-ignored — never commit it.)
-
-The script is resumable (rerun to continue) and writes one labeled row per distinct text to `mso_classified.csv`.
-
-> **Reproducibility note.** LLM labels are not perfectly deterministic, so the **canonical labeled dataset is the included `mso_classified.csv`** — treat it as the dataset of record (model: `claude-opus-4-8`). `classify_mso.py` documents *how* it was produced and lets you re-classify if the taxonomy changes; it is not meant for each collaborator to regenerate their own copy.
-
-------------------------------------------------------------------------
-
-## MSO taxonomy
-
-Every "Yes" Schedule O explanation is coded into one `category`:
-
-| category | meaning | MSO? |
-|----|----|----|
-| `A_dedicated_MSO` | An **unrelated, third-party** management-services firm manages the hospital (e.g. Quorum Health Resources / Ovation, Community Hospital Corporation, Alliant, HealthTech). | **Yes (target)** |
-| `D_peer_system_managed` | Managed by **another, unrelated hospital/health system** (a peer provider, not a dedicated MSO and not the org's own parent). | tracked separately |
-| `C_parent_shared_services` | Services from the org's **own parent / sole member / related entity** (internal shared services). | No |
-| `B_exec_staffing` | A firm/individual supplies only **one or two named executives** (often interim). | No |
-| `E_functional` | Only a **specific function** is outsourced (pharmacy, food, ER, IT, investments…). | No |
-| `F_uninformative` | No usable management information. | n/a |
-
-Plus orthogonal fields: `manager_relationship`, `scope`, `manager_name`, `provides_named_executive`, `management_fee_mentioned`, `confidence`.
-
-**`is_mso_affiliation`** is a *derived* flag = `category == "A_dedicated_MSO"`. The panel's `is_mso` / `is_peer_managed` columns follow the same convention. To fold in peer-system management, edit `MSO_CATEGORIES` at the top of `map_to_panel.py` and the category constants in `build_panel.py` together.
-
-### Headline results
-
-- **117 hospitals (EINs)** have a dedicated-MSO affiliation (`A`) in at least one year, across **497 filing-years**.
-- **99 hospitals** are peer-system managed (`D`).
-- Validation: `mso_classified_pilot.csv` is a 50-text hand-labeled set; the automated labels agreed with it on **94%** of cases (and **100%** on the binary is-it-an-MSO question).
-- Reliability: an independent second classification pass (`mso_classified_og.csv`) agreed with the canonical labels on **87%** of distinct texts overall and **95.8%** on the MSO target (`A`). Disagreements concentrate on the inherently fuzzy parent-vs-peer (`C`/`D`) and MSO-vs-staffing (`A`/`B`) boundaries — i.e. the headline MSO finding is robust; the gray areas are the conceptual ones.
-
-------------------------------------------------------------------------
-
-## Data source & provenance
-
-- Hospital crosswalk / geography: Community Benefit Insight (`communitybenefitinsight.org`).
-- Form 990 XML: IRS bulk e-file (`apps.irs.gov/pub/epostcard/990/xml/`).
-- Classification: Anthropic Claude (`claude-opus-4-8`).
+- Run alongside `governance_management_measures.csv`; the script exports three PNG figures and a proposal PowerPoint.
+- This script is separate from the repository's production pipeline and does **not** deploy graphics to Render.

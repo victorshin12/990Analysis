@@ -14,9 +14,14 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from paths import CLASSIFY, INPUT
+from paths import CLASSIFY, EXTRACT, INPUT
 
 YEARS = list(range(2015, 2025))
+GOV_FLAGS = [
+    "line_3_management_delegation",
+    "line_16a_investment_in_joint_venture",
+    "line_4_governing_document_changes",
+]
 
 
 def _norm_text(t: str) -> str:
@@ -260,5 +265,143 @@ def chart_payload(filtered_delegation: pd.DataFrame) -> dict:
                 "Rates are % of observed hospital-years in the current filter, "
                 "2015–2024, using the same taxonomy join as make_trend_charts.py."
             ),
+        },
+    }
+
+
+def _gov_clean(filtered: pd.DataFrame) -> pd.DataFrame:
+    """Same cleaning as governance graphics pipeline: 2015–2024, one filing per EIN×year."""
+    d = filtered.fillna("").copy()
+    if d.empty:
+        return d
+    d["tax_year"] = pd.to_numeric(d.tax_year, errors="coerce")
+    d = d[d.tax_year.between(YEARS[0], YEARS[-1])].copy()
+    if d.empty:
+        return d
+    d["tax_period"] = d.get("tax_period", "").astype(str)
+    d["object_id"] = d.get("object_id", "").astype(str)
+    d = (
+        d.sort_values(["ein", "tax_year", "tax_period", "object_id"])
+        .drop_duplicates(["ein", "tax_year"], keep="last")
+        .copy()
+    )
+    d["ein"] = d.ein.astype("string").str.replace(r"\.0$", "", regex=True).str.zfill(9)
+    for col in GOV_FLAGS:
+        if col not in d.columns:
+            d[col] = ""
+        d[col + "_flag"] = (
+            d[col].astype("string").str.strip().str.lower().map({"yes": 1, "no": 0})
+        )
+    a = pd.to_numeric(d.get("line_1a_voting_members"), errors="coerce")
+    b = pd.to_numeric(d.get("line_1b_independent_members"), errors="coerce")
+    d["board_independence"] = (100 * b / a).where((a > 0) & (b >= 0) & (b <= a)).round(2)
+    return d
+
+
+def _gov_full_names(orgs: list[dict]) -> list[dict]:
+    """Prefer longer IRS-index taxpayer names from delegation_results when available."""
+    path = EXTRACT / "delegation_results.csv"
+    if not path.exists() or not orgs:
+        return orgs
+    n = pd.read_csv(path, dtype=str).fillna("")
+    if "taxpayer_name" not in n.columns:
+        return orgs
+    n = n[n.taxpayer_name != ""]
+    n["yr"] = pd.to_numeric(n.tax_year, errors="coerce")
+    latest = n.sort_values(["ein", "yr"]).groupby("ein").taxpayer_name.last()
+    norm = lambda s: re.sub(r"[^a-z0-9]", "", s.lower())
+    for o in orgs:
+        full = latest.get(o["ein"])
+        if full and norm(full) != norm(o["name"]) and norm(full).startswith(norm(o["name"])):
+            o["name"] = full
+    orgs.sort(key=lambda x: (x["name"].lower(), x["ein"]))
+    return orgs
+
+
+def governance_chart_payload(filtered_governance: pd.DataFrame) -> dict:
+    """Three graphics from the governance graphics pipeline, on the filtered rows."""
+    years = YEARS
+    d = _gov_clean(filtered_governance)
+
+    empty = {
+        "years": years,
+        "n_filings": [0] * len(years),
+        "delegation_rate": [None] * len(years),
+        "jointventure_rate": [None] * len(years),
+        "independence_yes": [None] * len(years),
+        "independence_no": [None] * len(years),
+        "independence_yes_n": [0] * len(years),
+        "independence_no_n": [0] * len(years),
+        "organizations": [],
+        "default_ein": "",
+        "meta": {"filtered_rows": int(len(filtered_governance)), "filings": 0, "organization_count": 0},
+    }
+    if d.empty:
+        return empty
+
+    n_filings, del_rate, jv_rate = [], [], []
+    indep_yes, indep_no, indep_yes_n, indep_no_n = [], [], [], []
+    for y in years:
+        g = d[d.tax_year == y]
+        n_filings.append(int(len(g)))
+        for col, bucket in [
+            ("line_3_management_delegation_flag", del_rate),
+            ("line_16a_investment_in_joint_venture_flag", jv_rate),
+        ]:
+            v = g[col].dropna()
+            bucket.append(round(100 * float(v.mean()), 2) if len(v) else None)
+        for flag, means, counts in [
+            (1, indep_yes, indep_yes_n),
+            (0, indep_no, indep_no_n),
+        ]:
+            z = g.loc[g.line_3_management_delegation_flag == flag, "board_independence"].dropna()
+            means.append(round(float(z.mean()), 2) if len(z) else None)
+            counts.append(int(len(z)))
+
+    orgs = []
+    for ein, g in d.groupby("ein", sort=False):
+        if len(g) < 2:
+            continue
+        name = g.organization_name.dropna().astype(str)
+        if name.empty:
+            continue
+        records = []
+        for _, r in g.sort_values("tax_year").iterrows():
+            def flag_val(col):
+                x = r[col + "_flag"]
+                return None if pd.isna(x) else int(x)
+
+            records.append(
+                {
+                    "year": int(r.tax_year),
+                    "delegation": flag_val("line_3_management_delegation"),
+                    "jointventure": flag_val("line_16a_investment_in_joint_venture"),
+                    "documents": flag_val("line_4_governing_document_changes"),
+                    "independence": None
+                    if pd.isna(r.board_independence)
+                    else float(r.board_independence),
+                }
+            )
+        orgs.append({"ein": str(ein), "name": name.iloc[-1], "records": records})
+    orgs.sort(key=lambda x: (x["name"].lower(), x["ein"]))
+    orgs = _gov_full_names(orgs)
+
+    default = next((o for o in orgs if len(o["records"]) >= 9), orgs[0] if orgs else None)
+
+    return {
+        "years": years,
+        "n_filings": n_filings,
+        "delegation_rate": del_rate,
+        "jointventure_rate": jv_rate,
+        "independence_yes": indep_yes,
+        "independence_no": indep_no,
+        "independence_yes_n": indep_yes_n,
+        "independence_no_n": indep_no_n,
+        "organizations": orgs,
+        "default_ein": default["ein"] if default else "",
+        "meta": {
+            "filtered_rows": int(len(filtered_governance)),
+            "filings": int(len(d)),
+            "organization_count": int(len(orgs)),
         },
     }

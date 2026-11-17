@@ -4,6 +4,8 @@
     page: 1,
     meta: null,
     charts: {},
+    govOrgs: [],
+    selectedEin: "",
   };
 
   const $ = (id) => document.getElementById(id);
@@ -65,7 +67,8 @@
     const isDel = state.dataset === "delegation";
     $("state_wrap").classList.toggle("hidden", !isDel);
     $("indicator_wrap").classList.toggle("hidden", !isDel);
-    $("charts_panel").classList.toggle("hidden", !isDel);
+    $("charts_panel_delegation").classList.toggle("hidden", !isDel);
+    $("charts_panel_governance").classList.toggle("hidden", isDel);
 
     if (isDel) {
       fillSelect($("state"), state.meta.options.states || []);
@@ -73,12 +76,26 @@
     $("table_title").textContent = state.meta.label;
   }
 
-  function syncDownloadLink() {
+  function downloadParams(mode) {
     const params = currentParams();
     params.delete("page");
     params.delete("page_size");
-    $("download").href = `/api/download/${state.dataset}?${params.toString()}`;
-    $("download").download = `${state.dataset}_filtered.csv`;
+    params.set("mode", mode);
+    return params;
+  }
+
+  function startDownload(mode) {
+    const params = downloadParams(mode);
+    window.location.href = `/api/download/${state.dataset}?${params.toString()}`;
+    closeDownloadModal();
+  }
+
+  function openDownloadModal() {
+    $("download_modal").classList.remove("hidden");
+  }
+
+  function closeDownloadModal() {
+    $("download_modal").classList.add("hidden");
   }
 
   function cellClass(v) {
@@ -131,7 +148,6 @@
     $("page_label").textContent = `Page ${payload.page} / ${payload.pages}`;
     $("prev").disabled = payload.page <= 1;
     $("next").disabled = payload.page >= payload.pages;
-    syncDownloadLink();
   }
 
   function upsertChart(key, canvasId, config) {
@@ -224,12 +240,175 @@
     });
   }
 
+  function renderOrgTimeline(org) {
+    if (!org) {
+      $("org_selection").textContent = "No organizations with ≥2 years in this filter.";
+      $("org_timeline").innerHTML = "";
+      return;
+    }
+    state.selectedEin = org.ein;
+    $("org_search").value = org.name;
+    $("org_results").classList.add("hidden");
+    $("org_selection").textContent = `${org.name} · EIN ${org.ein}`;
+
+    const years = Array.from({ length: 10 }, (_, i) => 2015 + i);
+    const byYear = Object.fromEntries(org.records.map((r) => [r.year, r]));
+    const rows = [
+      ["delegation", "Management delegation"],
+      ["jointventure", "Joint-venture investment"],
+      ["documents", "Governing docs changed"],
+      ["independence", "Board independence"],
+    ];
+
+    let html = '<div class="tlgrid"><div class="rowlabel">Measure</div>';
+    html += years.map((y) => `<div class="yr">${y}</div>`).join("");
+    for (const [key, label] of rows) {
+      html += `<div class="rowlabel">${label}</div>`;
+      for (const yr of years) {
+        const r = byYear[yr];
+        const v = r ? r[key] : null;
+        let cls = "missing";
+        let display = "—";
+        if (v !== null && v !== undefined) {
+          if (key === "independence") {
+            cls = "num";
+            display = `${Number(v).toFixed(1)}%`;
+          } else {
+            cls = v ? "yes" : "no";
+            display = v ? "Yes" : "No";
+          }
+        }
+        html += `<div class="${cls}" title="${yr}: ${label} — ${display}">${display}</div>`;
+      }
+    }
+    html += '</div><div class="tllegend">Gold: Yes · Teal: No · Gray: missing · Blue: board independence %</div>';
+    $("org_timeline").innerHTML = html;
+  }
+
+  function bindOrgSearch() {
+    const box = $("org_search");
+    const res = $("org_results");
+    let timer = null;
+    box.addEventListener("input", () => {
+      clearTimeout(timer);
+      timer = setTimeout(() => {
+        const q = box.value.trim().toLowerCase();
+        if (q.length < 2) {
+          res.classList.add("hidden");
+          return;
+        }
+        const hits = state.govOrgs
+          .filter((o) => o.name.toLowerCase().includes(q) || o.ein.includes(q))
+          .slice(0, 12);
+        res.innerHTML = "";
+        if (!hits.length) {
+          res.textContent = "No matching organizations in this filter";
+          res.classList.remove("hidden");
+          return;
+        }
+        for (const o of hits) {
+          const btn = document.createElement("button");
+          btn.type = "button";
+          btn.textContent = `${o.name} · EIN ${o.ein}`;
+          btn.addEventListener("click", () => renderOrgTimeline(o));
+          res.appendChild(btn);
+        }
+        res.classList.remove("hidden");
+      }, 120);
+    });
+  }
+
+  async function loadGovernanceCharts(params) {
+    const res = await fetch(`/api/charts/governance?${params.toString()}`);
+    const data = await res.json();
+    state.govOrgs = data.organizations || [];
+
+    const yearLabels = data.years.map((y, i) => `${y}\nn=${data.n_filings[i]}`);
+
+    upsertChart("gov_rates", "chart_gov_rates", {
+      type: "line",
+      data: {
+        labels: yearLabels,
+        datasets: [
+          {
+            label: "Management delegation (VI.3)",
+            data: data.delegation_rate,
+            borderColor: COLORS.primary,
+            tension: 0.2,
+          },
+          {
+            label: "Joint-venture investment (VI.16a)",
+            data: data.jointventure_rate,
+            borderColor: COLORS.teal,
+            tension: 0.2,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: { legend: { position: "bottom", labels: { boxWidth: 12 } } },
+        scales: {
+          y: {
+            title: { display: true, text: "% of filings answering Yes" },
+            min: 0,
+            max: 50,
+          },
+        },
+      },
+    });
+
+    upsertChart("gov_independence", "chart_gov_independence", {
+      type: "line",
+      data: {
+        labels: data.years.map(
+          (y, i) => `${y}\nY n=${data.independence_yes_n[i]} · N n=${data.independence_no_n[i]}`
+        ),
+        datasets: [
+          {
+            label: "Delegation = Yes",
+            data: data.independence_yes,
+            borderColor: COLORS.primary,
+            tension: 0.2,
+          },
+          {
+            label: "Delegation = No",
+            data: data.independence_no,
+            borderColor: COLORS.gold,
+            tension: 0.2,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: { legend: { position: "bottom", labels: { boxWidth: 12 } } },
+        scales: {
+          y: {
+            title: { display: true, text: "Mean board independence %" },
+            min: 60,
+            max: 90,
+          },
+        },
+      },
+    });
+
+    const preferred =
+      state.govOrgs.find((o) => o.ein === state.selectedEin) ||
+      state.govOrgs.find((o) => o.ein === data.default_ein) ||
+      state.govOrgs[0];
+    renderOrgTimeline(preferred);
+  }
+
   async function loadCharts() {
-    if (state.dataset !== "delegation") return;
     const params = currentParams();
     params.delete("page");
     params.delete("page_size");
-    await loadDelegationCharts(params);
+    if (state.dataset === "delegation") {
+      await loadDelegationCharts(params);
+    } else if (state.dataset === "governance") {
+      await loadGovernanceCharts(params);
+    }
   }
 
   async function query() {
@@ -289,5 +468,14 @@
     }
   });
 
+  $("download").addEventListener("click", openDownloadModal);
+  $("download_tab").addEventListener("click", () => startDownload("tab"));
+  $("download_agg").addEventListener("click", () => startDownload("aggregated"));
+  $("download_cancel").addEventListener("click", closeDownloadModal);
+  $("download_modal").addEventListener("click", (e) => {
+    if (e.target === $("download_modal")) closeDownloadModal();
+  });
+
+  bindOrgSearch();
   switchTab("delegation");
 })();
